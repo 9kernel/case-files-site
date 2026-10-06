@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ana-cardoso",
+    "name": "Ana Cardoso",
+    "role": "Coordenadora do comitê",
+    "aliases": ["Ana"],
+    "summary": "Servidora pública que coordenava o comitê executivo do projeto Aurora entre 2023 e 2024."
+  },
+  {
+    "id": "bruno-lima",
+    "name": "Bruno Lima",
+    "role": "Empresário",
+    "aliases": ["Bruno"],
+    "summary": "Empresário do setor de construção civil; participou das tratativas do projeto Aurora."
+  },
+  {
+    "id": "carla-souza",
+    "name": "Carla Souza",
+    "role": "Assessora técnica",
+    "aliases": ["Carla"],
+    "summary": "Assessora técnica do comitê; encaminhava relatórios, laudos e documentos oficiais."
+  },
+  {
+    "id": "diego-martins",
+    "name": "Diego Martins",
+    "role": "Prestador de serviços",
+    "aliases": ["Diego"],
+    "summary": "Prestador de serviços de transporte citado nas tratativas logísticas do projeto."
+  }
+]

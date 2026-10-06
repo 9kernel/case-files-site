@@ -1,0 +1,40 @@
+[
+  {
+    "id": "grupo-comite-executivo",
+    "title": "Grupo: Comitê Executivo — Projeto Aurora",
+    "participants_ids": [
+      "ana-cardoso",
+      "carla-souza",
+      "bruno-lima",
+      "diego-martins"
+    ],
+    "message_count": 26,
+    "last_message_at": "2024-03-15T18:02:00-03:00",
+    "featured": true,
+    "note": "Conversas do grupo que trataram de cronograma, laudo do bloco B e da vistoria que antecedeu o aditivo nº 07/2024.",
+    "source": {
+      "document": "Inquérito Policial 2024/0123",
+      "url": "https://example.org/autos/ip-2024-0123.pdf",
+      "pages": "fl. 120–133"
+    },
+    "last_message_preview": "Sem comentários adicionais por mim. Encerro minha parte. ✅"
+  },
+  {
+    "id": "ana-bruno-direto",
+    "title": "Ana Cardoso ↔ Bruno Lima",
+    "participants_ids": [
+      "bruno-lima",
+      "ana-cardoso"
+    ],
+    "message_count": 23,
+    "last_message_at": "2024-03-19T09:12:00-03:00",
+    "featured": false,
+    "note": "Tratativa direta sobre o quadro comparativo de frentes e a confirmação do aditivo nº 07/2024.",
+    "source": {
+      "document": "Inquérito Policial 2024/0123",
+      "url": "https://example.org/autos/ip-2024-0123.pdf",
+      "pages": "fl. 181–192"
+    },
+    "last_message_preview": "Ótimo. Até lá. 👋"
+  }
+]

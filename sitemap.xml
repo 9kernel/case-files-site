@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Substituir os locators pelo domínio final do GitHub Pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://usuario.github.io/case-files-site/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>

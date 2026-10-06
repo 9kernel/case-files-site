@@ -1,0 +1,92 @@
+/* theme.css — custom properties + tipografia (tema WhatsApp) */
+:root {
+  /* Paleta WhatsApp */
+  --wa-teal: #075E54;
+  --wa-teal-dark: #054D44;
+  --wa-teal-light: #128C7E;
+  --wa-teal-lighter: #25D366;
+  --wa-chat-bg: #ECE5DD;
+  --wa-bubble-out: #DCF8C6;
+  --wa-bubble-in: #FFFFFF;
+
+  /* Token pedido pela especificação (uso decorativo: bordas, acentos) */
+  --wa-timestamp: #8FA895;
+  /* Tinta de texto usada em horários/metadados — mais escura para contraste AA */
+  --wa-timestamp-ink: #54656F;
+
+  /* Neutros */
+  --ink: #111B21;
+  --ink-2: #3B4A54;
+  --ink-3: #54656F;
+  --ink-muted: #667781;
+  --panel: #FFFFFF;
+  --panel-alt: #F0F2F5;
+  --line: #D9DBD4;
+  --danger: #D32F2F;
+  --mark-bg: #F3E28A;
+  --tick-read: #53BDEB; /* duplo check azul = "lida" no WhatsApp */
+
+  /* Estruturais */
+  --radius: 8px;
+  --radius-sm: 6px;
+  --shadow-bubble: 0 1px 0.5px rgba(11, 20, 26, 0.13);
+  --shadow-pop: 0 6px 18px rgba(11, 20, 26, 0.18);
+  --topbar-h: 56px;
+  --sidebar-w: 360px;
+
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
+}
+
+html { font-size: 16px; }
+
+body {
+  font-family: var(--font);
+  color: var(--ink);
+  background: var(--panel-alt);
+}
+
+h1, h2, h3 { font-weight: 600; }
+
+a { text-decoration: none; }
+
+:focus-visible {
+  outline: 2px solid var(--wa-teal-light);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: absolute;
+  left: 8px;
+  top: -48px;
+  z-index: 100;
+  background: var(--wa-teal);
+  color: #fff;
+  padding: 8px 14px;
+  border-radius: 0 0 var(--radius-sm) var(--radius-sm);
+  transition: top 120ms ease;
+}
+
+.skip-link:focus { top: 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

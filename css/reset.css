@@ -1,0 +1,47 @@
+/* reset.css — reset mínimo e moderno */
+*, *::before, *::after { box-sizing: border-box; }
+
+* { margin: 0; }
+
+html, body { height: 100%; }
+
+body {
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+img, picture, video, canvas, svg, audio {
+  display: block;
+  max-width: 100%;
+}
+
+img, video { height: auto; }
+
+input, button, textarea, select {
+  font: inherit;
+  color: inherit;
+}
+
+button {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+a { color: inherit; }
+
+ul, ol { list-style: none; padding: 0; }
+
+h1, h2, h3, h4 { font-size: inherit; font-weight: inherit; }
+
+dialog {
+  padding: 0;
+  border: 0;
+  margin: auto; /* o reset *{margin:0} cancelaria a centralização nativa */
+}
+
+dialog::backdrop {
+  background: rgba(11, 20, 26, 0.45);
+}

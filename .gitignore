@@ -1,0 +1,10 @@
+# Fixture de estresse (gerada por scripts/generate-fixture.mjs) — teste local apenas
+data/threads/fixture-*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Sistema / editor
+.DS_Store
+Thumbs.db

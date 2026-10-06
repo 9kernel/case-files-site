@@ -1,0 +1,24 @@
+# sources.yaml — fontes monitoradas pelo agente catalogador (etapa 1 do pipeline).
+#
+# O agente verifica periodicamente estas URLs; quando um documento novo ou
+# atualizado aparece, dispara a EXTRAÇÃO (scripts/ingest.py) e abre PR com
+# as mensagens em pending-review.
+#
+# Mantenha atualizado: toda linha de /data deve rastrear até uma entrada aqui.
+
+fontes:
+  - id: ip-2024-0123
+    descricao: Inquérito Policial 2024/0123 — anexos de conversas (demonstração)
+    url: https://example.org/autos/ip-2024-0123.pdf
+    tipo: inquerito          # inquerito | decisao | transcricao | reportagem
+    paginas_relevantes: "120–340"
+    ultima_verificacao: 2026-10-06
+    # notas: >
+    #   Páginas 120–133 = grupo do comitê; 181–192 = conversa direta.
+
+  # - id: sentenca-0001
+  #   descricao: Sentença da Vara X — anexo de prints
+  #   url: https://example.org/decisoes/sentenca-0001.pdf
+  #   tipo: decisao
+  #   paginas_relevantes: "45–60"
+  #   ultima_verificacao: 2026-10-06

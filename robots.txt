@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Substituir pelo domínio final do GitHub Pages
+Sitemap: https://usuario.github.io/case-files-site/sitemap.xml
