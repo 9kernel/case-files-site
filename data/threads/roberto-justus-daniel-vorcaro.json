@@ -1,0 +1,115 @@
+{
+  "id": "roberto-justus-daniel-vorcaro",
+  "title": "Roberto Justus",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "roberto-justus"
+  ],
+  "source": {
+    "document": "Terra / Poder360 — “Mensagens extraídas do celular de Vorcaro mostram cobranças de Roberto Justus por aporte” (02/10/2026)",
+    "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html",
+    "pages": "Reportagem da Terra com base no Poder360, sobre extração da PF de 18/11/2025. Trata da relação de Vorcaro com a SteelCorp (aportes de ~R$ 80 milhões e R$ 143 milhões em notas comerciais). Horários não divulgados; usamos 12:00 como aproximação. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2024-12-21T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "Em 40 anos como empresário, nunca tive tantas dificuldades em falar ou ter retorno como tenho com você",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2025-08-06T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "Você sumiu de novo como sempre. Ainda não foi resolvida a capitalização",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2025-08-06T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "Surreal o que estamos passando",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2025-09-01T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "Nunca na minha vida fiquei tão decepcionado com alguém. O que custa me receber por 1 horinha",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2025-09-01T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "[Ameaçando pedir recuperação judicial da SteelCorp se a dívida seguisse no balanço:] Vale a pena? Poxa….",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2025-09-01T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "…falta de empatia de sua parte absurda… [diz ter cumprido] a duras penas tudo que combinamos dos aportes…",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2025-09-02T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Mas para ser um true sale tem que ter um fluxo",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2025-09-11T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "[A empresa estaria] incapaz de honrar compromissos financeiros",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2025-09-11T12:00:00-03:00",
+      "sender_id": "roberto-justus",
+      "type": "text",
+      "content": "O problema é sobreviver até lá",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    },
+    {
+      "id": "m-00010",
+      "timestamp": "2025-09-11T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Caro Roberto, eu tenho um carinho enorme por você",
+      "source_ref": "Terra · Poder360, 02/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-terra-20261006"
+    }
+  ]
+}

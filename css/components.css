@@ -907,7 +907,7 @@ mark {
   color: #66562B;
 }
 
-.notice strong { display: block; margin-bottom: 4px; color: #574A24; }
+.notice strong:first-child { display: block; margin-bottom: 4px; color: #574A24; }
 
 .cards-grid {
   display: grid;
@@ -958,6 +958,124 @@ mark {
   padding: 1px 5px;
   font-size: 12px;
 }
+
+/* ============ Card de perfil do contato ============ */
+.profile-dialog {
+  width: min(440px, 92vw);
+  border-radius: 12px;
+  box-shadow: var(--shadow-pop);
+  background: var(--panel);
+  color: var(--ink);
+}
+
+.pf-head {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 18px 18px 4px;
+}
+
+.pf-avatar {
+  width: 64px;
+  height: 64px;
+  font-size: 24px;
+  flex: 0 0 auto;
+}
+
+.pf-id { flex: 1; min-width: 0; }
+
+.pf-id h3 {
+  font-size: 18px;
+  color: var(--ink);
+  line-height: 1.2;
+}
+
+.pf-id p {
+  font-size: 13px;
+  color: var(--wa-teal-light);
+  margin-top: 2px;
+}
+
+.profile-dialog .icon-btn { color: var(--ink-3); }
+.profile-dialog .icon-btn:hover { background: rgba(11, 20, 26, 0.07); }
+
+.pf-aliases {
+  padding: 4px 18px 0;
+  font-size: 12px;
+  color: var(--ink-muted);
+}
+
+.pf-summary {
+  padding: 10px 18px 0;
+  font-size: 13.8px;
+  line-height: 1.5;
+  color: var(--ink-2);
+}
+
+.pf-sources-title {
+  padding: 14px 18px 4px;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-muted);
+}
+
+.pf-sources {
+  padding: 0 18px;
+  display: grid;
+  gap: 8px;
+  list-style: none;
+}
+
+.pf-sources li {
+  font-size: 13px;
+  line-height: 1.4;
+  padding-left: 14px;
+  position: relative;
+}
+
+.pf-sources li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 7px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--wa-teal-light);
+}
+
+.pf-sources a {
+  color: var(--wa-teal);
+  text-decoration: underline;
+  text-decoration-color: rgba(18, 140, 126, 0.35);
+  overflow-wrap: anywhere;
+}
+
+.pf-sources a:hover { color: var(--wa-teal-dark); }
+
+.pf-sources-empty {
+  padding: 4px 18px;
+  font-size: 13px;
+  color: var(--ink-muted);
+}
+
+/* avatar clicável (lista e header) */
+.avatar-btn {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background: var(--av-color, #6A7D8A);
+  transition: box-shadow 120ms ease;
+}
+
+.avatar-btn:hover,
+.avatar-btn:focus-visible {
+  box-shadow: 0 0 0 3px rgba(18, 140, 126, 0.35);
+}
+
+/* avatar no header da conversa */
+.chat-header .avatar { flex: 0 0 auto; }
 
 /* ============ Diálogo de fonte ============ */
 .source-dialog {

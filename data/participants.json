@@ -1,30 +1,145 @@
 [
   {
-    "id": "ana-cardoso",
-    "name": "Ana Cardoso",
-    "role": "Coordenadora do comitê",
-    "aliases": ["Ana"],
-    "summary": "Servidora pública que coordenava o comitê executivo do projeto Aurora entre 2023 e 2024."
+    "id": "daniel-vorcaro",
+    "name": "Daniel Vorcaro",
+    "role": "Ex-controlador do Banco Master",
+    "aliases": [
+      "Vorcaro"
+    ],
+    "summary": "Banqueiro, controlador do Banco Master, conglomerado originado da Máxima Corretora (1974) e classificado pelo BC como de pequeno porte (0,57% dos ativos do SFN). Preso em flagrante em 18/11/2025, na Operação Compliance Zero, ao tentar embarcar no Aeroporto de Guarulhos; solto pelo TRF-1 em 29/11/2025 e preso novamente em 04/03/2026, por decisão do STF. No mesmo dia da primeira prisão, o Banco Central decretou a liquidação extrajudicial do grupo. Este arquivo reproduz as conversas do WhatsApp dele conforme a extração forense da PF de 18/11/2025 divulgada pelas reportagens linkadas: as mensagens dele aparecem à direita, como no aparelho.",
+    "profile_sources": [
+      {
+        "label": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro e o colapso do Banco Master (04/03/2026)",
+        "url": "https://g1.globo.com/economia/noticia/2026/03/04/o-que-voce-precisa-saber-sobre-a-prisao-de-daniel-vorcaro-e-o-colapso-do-banco-master.ghtml"
+      },
+      {
+        "label": "Wikipédia — Daniel Vorcaro",
+        "url": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
+      },
+      {
+        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+      }
+    ]
   },
   {
-    "id": "bruno-lima",
-    "name": "Bruno Lima",
+    "id": "alexandre-moraes",
+    "name": "Alexandre de Moraes",
+    "role": "Ministro do STF",
+    "aliases": [
+      "Moraes"
+    ],
+    "summary": "Ministro do Supremo Tribunal Federal desde 2017 e ex-ministro da Justiça. No celular de Vorcaro, o contato estava salvo como “Alexandre de Moraes BRASILIA”. Segundo relatório da PF desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7, o banqueiro lhe enviou pedidos ligados a apurações da PF e da PGR; as mensagens do lado do ministro tinham exclusão automática de 24 horas (ativada em 17/09/2025) e não sobreviveram à extração.",
+    "profile_sources": [
+      {
+        "label": "Wikipédia — Alexandre de Moraes",
+        "url": "https://pt.wikipedia.org/wiki/Alexandre_de_Moraes"
+      },
+      {
+        "label": "Rádio Guaíba / R7 — PF revela pedidos de Vorcaro a Moraes (01/09/2026)",
+        "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+      }
+    ]
+  },
+  {
+    "id": "flavio-bolsonaro",
+    "name": "Flávio Bolsonaro",
+    "role": "Senador (PL-RJ)",
+    "aliases": [
+      "Flávio",
+      "Flavio B"
+    ],
+    "summary": "Senador da República e pré-candidato ao Planalto em 2026. Nas mensagens, tratou com Vorcaro da cinebiografia sobre o atentado sofrido por Jair Bolsonaro e dos repasses ao fundo Havengate. Segundo a piauí, negou publicamente proximidade com o banqueiro.",
+    "profile_sources": [
+      {
+        "label": "Wikipédia — Flávio Bolsonaro",
+        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+      },
+      {
+        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+      }
+    ]
+  },
+  {
+    "id": "thiago-miranda",
+    "name": "Thiago Miranda",
+    "role": "Publicitário e lobista",
+    "aliases": [
+      "Miranda"
+    ],
+    "summary": "Publicitário e lobista, então presidente do Portal Leo Dias; intermediou os contatos de Vorcaro com Flávio Bolsonaro, Mário Frias e os produtores do filme, conforme a reportagem da piauí.",
+    "profile_sources": [
+      {
+        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+      }
+    ]
+  },
+  {
+    "id": "mario-frias",
+    "name": "Mário Frias",
+    "role": "Deputado federal (PL-SP)",
+    "aliases": [
+      "Frias"
+    ],
+    "summary": "Deputado federal e ator, ex-secretário de Cultura do governo Jair Bolsonaro; produtor executivo da cinebiografia sobre o atentado a Jair Bolsonaro, conforme a reportagem da piauí.",
+    "profile_sources": [
+      {
+        "label": "Wikipédia — Mário Frias",
+        "url": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias"
+      },
+      {
+        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+      }
+    ]
+  },
+  {
+    "id": "flavio-carneiro",
+    "name": "Flávio Carneiro",
     "role": "Empresário",
-    "aliases": ["Bruno"],
-    "summary": "Empresário do setor de construção civil; participou das tratativas do projeto Aurora."
+    "aliases": [
+      "Carneiro"
+    ],
+    "summary": "Empresário, amigo próximo e conselheiro frequente de Vorcaro; chama o senador Flávio Bolsonaro de “meu xará”, segundo a reportagem da piauí.",
+    "profile_sources": [
+      {
+        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+      }
+    ]
   },
   {
-    "id": "carla-souza",
-    "name": "Carla Souza",
-    "role": "Assessora técnica",
-    "aliases": ["Carla"],
-    "summary": "Assessora técnica do comitê; encaminhava relatórios, laudos e documentos oficiais."
+    "id": "roberto-justus",
+    "name": "Roberto Justus",
+    "role": "Empresário",
+    "aliases": [
+      "Justus"
+    ],
+    "summary": "Empresário e apresentador; à época, sócio da SteelCorp, empresa que tinha aportes e notas comerciais emitidas pelo Banco Master, conforme Terra/Poder360.",
+    "profile_sources": [
+      {
+        "label": "Terra / Poder360 — cobranças de Roberto Justus por aporte (02/10/2026)",
+        "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+      },
+      {
+        "label": "Wikipédia — Roberto Justus",
+        "url": "https://pt.wikipedia.org/wiki/Roberto_Justus"
+      }
+    ]
   },
   {
-    "id": "diego-martins",
-    "name": "Diego Martins",
-    "role": "Prestador de serviços",
-    "aliases": ["Diego"],
-    "summary": "Prestador de serviços de transporte citado nas tratativas logísticas do projeto."
+    "id": "vanessa-souza",
+    "name": "Vanessa Souza",
+    "role": "Advogada",
+    "aliases": [],
+    "summary": "Advogada que atuava nos Estados Unidos, indicada a Vorcaro pelo pastor André Valadão, segundo o Correio Braziliense/O Globo.",
+    "profile_sources": [
+      {
+        "label": "Correio Braziliense / O Globo — Vorcaro disse que Haddad era um de seus ‘maiores opositores’ (03/10/2026)",
+        "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+      }
+    ]
   }
 ]

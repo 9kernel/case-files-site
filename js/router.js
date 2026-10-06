@@ -62,7 +62,7 @@ async function route() {
   try {
     switch (name) {
       case 'home':
-        document.title = `${CONFIG.CASE_NAME} — ${CONFIG.SITE_TITLE}`;
+        document.title = `${CONFIG.HOME_TITLE || CONFIG.CASE_NAME} — ${CONFIG.SITE_TITLE}`;
         await renderHome(container);
         break;
       case 'thread':

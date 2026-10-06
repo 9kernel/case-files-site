@@ -1,0 +1,125 @@
+{
+  "id": "flavio-carneiro-daniel-vorcaro",
+  "title": "Flávio Carneiro",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "flavio-carneiro"
+  ],
+  "source": {
+    "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "Thiago tá cobrando se você vai num jantar c meu xará e o pai dele pelo que entendi, você tá ciente disso?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "Acho uma roubada danada.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Não sei nem de quem tá falando.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "[Thiago Miranda insistia em juntá-lo com] o meu xará e o pai",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Temos que pensar nisso.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2024-12-09T20:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Não fala dessa reunião bolso pra ninguém!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2024-12-09T20:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Esse negócio acaba comigo.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2024-12-09T20:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "[Respondeu estar] morrendo de medo",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2024-12-09T20:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "[Comentou ter] receio do xará",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00010",
+      "timestamp": "2025-02-27T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "[Perguntou se a entrevista do presidente à Leo Dias TV havia sido] boa pro bolso",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00011",
+      "timestamp": "2025-02-27T12:00:00-03:00",
+      "sender_id": "flavio-carneiro",
+      "type": "text",
+      "content": "Segundo o meu xará foi fantástico",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    }
+  ]
+}

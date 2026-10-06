@@ -26,20 +26,23 @@ export async function renderHome(container) {
   <div class="home">
     <div class="home-inner">
       <section class="hero">
-        <h1>${esc(CONFIG.CASE_NAME)}</h1>
-        <p>Navegação cronológica dos diálogos divulgados publicamente nos autos,
-           no formato original das conversas. Feito para jornalistas, advogados
-           e público geral — sem paraphrase, sem resumo: só transcrição fiel
-           com a fonte de cada mensagem.</p>
+        <h1>O WhatsApp de Daniel Vorcaro</h1>
+        <p>Réplica de navegação das conversas do celular de <strong>Daniel Vorcaro</strong>,
+           ex-controlador do Banco Master, extraídas pela Polícia Federal em 18/11/2025.
+           As conversas aparecem como no aparelho — as mensagens do banqueiro à direita —
+           e cada mensagem aponta <strong>exatamente de onde foi retirada</strong>.
+           Feito para jornalistas, advogados e público geral.</p>
       </section>
 
       <section class="notice" aria-label="Aviso editorial">
         <strong>Aviso editorial</strong>
-        Conteúdo reproduzido fielmente de documentos públicos.
+        Conteúdo reproduzido fielmente de <strong>reportagens jornalísticas</strong> que publicaram
+        trechos da extração forense da PF — <em>não</em> temos acesso aos autos originais.
         Última atualização: ${esc(formatDateLong(CONFIG.LAST_UPDATED))}.
-        Cada mensagem exibe sua referência de origem (documento e folha).
-        Instalação de demonstração: as conversas deste scaffold são
-        <em>fictícias</em> e servem apenas para validar a ferramenta.
+        O texto entre [colchetes] é conectivo editorial; “…” indica corte na citação; horários não
+        divulgados pela reportagem aparecem como 12:00. Estas mensagens <strong>não constituem
+        conclusão de culpa ou inocência</strong>: as investigações seguem em curso e as partes citadas
+        podem apresentar contestações.
       </section>
 
       ${
@@ -48,26 +51,35 @@ export async function renderHome(container) {
           : ''
       }
 
+      <h2 class="section-title">Fontes</h2>
+      <section class="howto">
+        <ul style="list-style:disc; padding-left:20px; display:grid; gap:6px">
+          <li><a href="https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/" target="_blank" rel="noopener">piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)</a> — Ana Clara Costa, João Batista Jr. e Breno Pires;</li>
+          <li><a href="https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html" target="_blank" rel="noopener">Terra / Poder360 — cobranças de Roberto Justus por aporte (02/10/2026)</a>;</li>
+          <li><a href="https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html" target="_blank" rel="noopener">Correio Braziliense / O Globo — “Vorcaro disse que Haddad era um de seus ‘maiores opositores’” (03/10/2026)</a> — Pedro José Borges.</li>
+        </ul>
+        <p style="margin-top:8px">A referência de cada mensagem abre, no botão abaixo da bolha, o
+        diálogo com a reportagem de origem e o link para o texto completo.</p>
+      </section>
+
       <h2 class="section-title">Como citar</h2>
       <section class="howto">
         <p>Em cada mensagem há dois botões:</p>
         <ol>
           <li><strong>Copiar link</strong> — deep-link direto da mensagem
-              (ex.: <code>#/thread/grupo-comite-executivo/m-00014</code>);</li>
+              (ex.: <code>#/thread/flavio-bolsonaro-daniel-vorcaro/m-00024</code>);</li>
           <li><strong>Copiar citação</strong> — no formato
-              <code>${esc(CONFIG.CASE_NAME)} — ${esc(CONFIG.PROCESS_LABEL)}, fl. 123, msg m-00014</code>.</li>
+              <code>Banco Master — piauí, 01/10/2026, msg m-00024</code>.</li>
         </ol>
-        <p style="margin-top:8px">A fonte completa (documento e folha) abre no botão
-        de referência abaixo de cada bolha, com link para o documento original em
-        <a href="${esc(CONFIG.SOURCE_URL)}" target="_blank" rel="noopener">${esc(CONFIG.SOURCE_URL)}</a>.</p>
       </section>
 
       <h2 class="section-title">Regras editoriais</h2>
       <section class="howto">
         <ul style="list-style:disc; padding-left:20px; display:grid; gap:6px">
-          <li>Só transcrição fiel: proibido parafrasear, resumir ou "corrigir" os diálogos.</li>
-          <li>Só material de fonte pública/oficial, sempre com <code>source_ref</code>.</li>
-          <li>Nomes de pessoas privadas apenas se constarem nos documentos públicos.</li>
+          <li>Só transcrição fiel do que a reportagem publicou: proibido parafrasear, resumir ou "corrigir" os diálogos.</li>
+          <li>[Colchetes] marcam palavras nossas usadas apenas como conectivo; “…” marca corte na citação.</li>
+          <li>Só material de fonte pública (reportagens identificadas), sempre com <code>source_ref</code> e link.</li>
+          <li>Nomes citados constam das reportagens publicadas; nada é inferido ou completado.</li>
           <li>Mensagens <code>pending-review</code> não são publicadas até revisão humana.</li>
         </ul>
       </section>

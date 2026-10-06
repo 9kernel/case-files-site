@@ -1,0 +1,102 @@
+{
+  "id": "alexandre-moraes-daniel-vorcaro",
+  "title": "Alexandre de Moraes",
+  "participants_ids": ["daniel-vorcaro", "alexandre-moraes"],
+  "source": {
+    "document": "R7 / relatório da PF desclassificado pelo STF — decisão de André Mendonça (01/09/2026)",
+    "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
+    "pages": "Relatório da PF revelado pelo R7 e reproduzido pela Rádio Guaíba (01/09/2026). O contato do ministro usava mensagens temporárias de 24h (ativadas em 17/09/2025): só o lado de Vorcaro sobreviveu na extração, preservado em rascunhos e capturas de tela. Mensagens sem data individual no relatório foram agrupadas em 30/10/2025 conforme a ordem da reportagem. [Colchetes] são conectivos editoriais."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "system",
+      "content": "[O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado do banqueiro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.]",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "G e os diretores estão na pressão máxima",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "É importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "system",
+      "content": "[Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF]",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "E com Andrei dá pra segurar?",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2025-11-17T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "[Sobre jornalistas apurando transações do BRB, diz ter feito] uma correria aqui pra tentar salvar [a situação, o que poderia] inibir [o avanço das apurações]",
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    }
+  ]
+}

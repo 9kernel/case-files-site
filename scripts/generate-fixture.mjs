@@ -67,7 +67,7 @@ const WORDS = [
   'resposta', 'encaminhamento', 'protocolo',
 ];
 
-const SENDERS = ['ana-cardoso', 'bruno-lima', 'carla-souza'];
+const SENDERS = ['daniel-vorcaro', 'flavio-bolsonaro', 'thiago-miranda'];
 const START = Date.UTC(2023, 0, 2, 11, 0, 0); // 08:00 em -03:00
 const STEP_MS = 45 * 1000;
 

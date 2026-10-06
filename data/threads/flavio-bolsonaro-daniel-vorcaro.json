@@ -1,0 +1,317 @@
+{
+  "id": "flavio-bolsonaro-daniel-vorcaro",
+  "title": "Flávio Bolsonaro",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "flavio-bolsonaro"
+  ],
+  "source": {
+    "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2024-12-16T22:10:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "call",
+      "content": "Chamada de voz",
+      "call_info": {
+        "direction": "in"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2025-08-20T17:22:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "21 pode ser",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2025-08-20T17:22:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Blz",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2025-08-20T17:22:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "image",
+      "content": "",
+      "media": {
+        "filename": "Imagem enviada em visualização única (conteúdo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2025-08-20T17:22:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Kkk. Boa.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2025-08-20T21:47:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "A caminho",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2025-08-26T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "video",
+      "content": "Não postar nem encaminhar. Já estão em São Paulo. Começou!!!",
+      "media": {
+        "filename": "IMG_5262 (vídeo encaminhado — arquivo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2025-09-08T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "audio",
+      "content": "Irmão, preferi te mandar o áudio aqui para você ouvir com calma. […] eu fico sem graça de ficar te cobrando, tá? […] Imagina a gente dando calote num Jim Caviezel, num Cyrus [Nowrasteh]. […] tem muita conta para pagar esse mês. […] na reta final [não podemos perder] ator, diretor, equipe. […] Desculpa o áudio longo aí, tá? Um abração, fica com Deus, cara.",
+      "media": {
+        "filename": "Áudio de voz longo (transcrição parcial publicada pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2025-09-08T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Preferi te mandar um áudio pra vc ouvir com calma aí, mermão! abs!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00010",
+      "timestamp": "2025-09-08T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "[Pedindo desculpas:] semana passada foi muito dificil pra mim",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00011",
+      "timestamp": "2025-09-08T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Eu vou resolver amanhã",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00012",
+      "timestamp": "2025-09-08T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "call",
+      "content": "Chamada de voz (2 min 38 s)",
+      "call_info": {
+        "direction": "out",
+        "duration_sec": 158
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00013",
+      "timestamp": "2025-09-16T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "call",
+      "content": "Chamada de voz (42 s)",
+      "call_info": {
+        "direction": "out",
+        "duration_sec": 42
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00014",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Já estamos no terceiro dia de gravação. Estamos no limite.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00015",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Mais uma vez, com toda a liberdade que temos, se não der me fala que procuro urgente outro caminho.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00016",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Deixa comigo irmão, vou ver agora",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00017",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "[Convite para jantar com o ator Jim Caviezel e o diretor Cyrus Nowrasteh,] totalmente reservado",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00018",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Pode ser na sua casa, sim! Acho até melhor!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00019",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Não, acho que meu irmão tá indo",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00020",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Tá precisando de algo lá? Peço pra ele te encontrar",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00021",
+      "timestamp": "2025-11-13T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "call",
+      "content": "Chamada de voz perdida",
+      "call_info": {
+        "direction": "in"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00022",
+      "timestamp": "2025-11-15T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "call",
+      "content": "Chamada de voz perdida",
+      "call_info": {
+        "direction": "in"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00023",
+      "timestamp": "2025-11-15T12:00:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Fala mermão, pode atender?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00024",
+      "timestamp": "2025-11-16T15:46:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Irmão, estou e estarei contigo sempre, não tem meia conversa entre a gente. Só preciso que me dê uma luz!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00025",
+      "timestamp": "2025-11-16T15:46:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "image",
+      "content": "",
+      "media": {
+        "filename": "Duas imagens enviadas em visualização única (conteúdo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00026",
+      "timestamp": "2025-11-16T15:46:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "image",
+      "content": "",
+      "media": {
+        "filename": "Foto enviada em resposta, em visualização única (conteúdo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00027",
+      "timestamp": "2025-11-16T15:46:00-03:00",
+      "sender_id": "flavio-bolsonaro",
+      "type": "text",
+      "content": "Amém!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    }
+  ]
+}

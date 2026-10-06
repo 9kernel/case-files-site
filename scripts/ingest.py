@@ -46,16 +46,17 @@ IMG_HINTS = (".jpg", ".jpeg", ".png", ".webp", ".gif")
 
 
 def demo_transcript() -> str:
-    return """11/03/2024 08:05 - Mensagens e chamadas são protegidas com criptografia de ponta a ponta.
-11/03/2024 08:12 - Ana: Bom dia, equipe. A reunião de acompanhamento fica adiada para quinta, às 14h.
-11/03/2024 08:20 - Carla: Recebido, Ana. Atualizo a pauta e envio a todos.
-11/03/2024 09:47 - Carla: Segue o laudo atualizado do bloco B. laudo-tecnico-bloco-b.pdf
-11/03/2024 10:03 - Bruno: Só falta a assinatura do responsável pela estrutura.
-12/03/2024 14:02 - Chamada de voz perdida
-12/03/2024 16:05 - Chamada de voz (12 min)
-13/03/2024 10:27 - Carla: ⌁ nota de voz (3 s)
-13/03/2024 13:45 - Ana: Gravação da vistoria de hoje, sem áudio no trecho inicial. vistoria-bloco-b.mp4
-15/03/2024 18:02 - Bruno: Sem comentários adicionais por mim. Encerro minha parte.
+    # Nomes resolvidos via participants.json (aliases reais do caso atual).
+    return """08/12/2024 12:00 - Miranda: Flavio, bolso querem sentar com vc. Tem 40 minutos pra matarmos isso na quarta?
+08/12/2024 12:05 - Miranda: Do filme do presidente e do SBT $$
+08/12/2024 12:06 - Miranda: Flavio [Carneiro] está ciente de tudo
+08/12/2024 17:00 - Miranda: Confirmei com o Flávio Bolsonaro. Quarta dia 11 às 17:30 aqui na sua casa de Brasília.
+09/12/2024 20:00 - Vorcaro: Não fala dessa reunião bolso pra ninguém!
+09/12/2024 20:01 - Vorcaro: Esse negócio acaba comigo.
+10/12/2024 09:00 - Chamada de voz perdida
+16/12/2024 12:49 - Flávio: Fala irmão. Tô com senador aqui. Pode falar ?!?
+16/12/2024 12:50 - Vorcaro: Opa. Sim
+20/12/2024 10:00 - Miranda: Analisou algo do filme? Deixamos para resolver em janeiro?
 """
 
 

@@ -1,0 +1,361 @@
+{
+  "id": "thiago-miranda-daniel-vorcaro",
+  "title": "Thiago Miranda",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "thiago-miranda"
+  ],
+  "source": {
+    "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flavio, bolso querem sentar com vc. Tem 40 minutos pra matarmos isso na quarta?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Do filme do presidente e do SBT $$",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2024-12-08T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flavio [Carneiro] está ciente de tudo",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2024-12-08T17:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Confirmei com o Flávio Bolsonaro. Quarta dia 11 às 17:30 aqui na sua casa de Brasília.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2024-12-10T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando mensagem do senador:] Amanhã vou levar o dep Mário Frias por ser o idealizador do projeto. Tem algum problema?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2024-12-11T18:30:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Desculpa a confusão que o Flávio fez. Vou conduzir isso da melhor forma.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2024-12-11T18:30:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Isso não se faz. Eu tinha combinado com ele. Como o cara aparece na sua casa assim.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2024-12-20T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Analisou algo do filme? Deixamos para resolver em janeiro?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2025-01-06T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Pedindo os dados da] empresa que vamos usar [para o contrato]",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00010",
+      "timestamp": "2025-01-20T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Hoje é a data limite daquele primeiro aporte filme",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00011",
+      "timestamp": "2025-02-11T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flavio B e Neypai estão me cobrando",
+      "source_ref": "piauí, 01/10/2026 (a reportagem indica apenas “no dia 11”)",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00012",
+      "timestamp": "2025-03-12T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "image",
+      "content": "",
+      "media": {
+        "filename": "Imagem da cláusula do acordo Havengate (conteúdo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00013",
+      "timestamp": "2025-03-18T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flavio B e Eduardo querem marcar uma agenda com vc. Filme.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00014",
+      "timestamp": "2025-03-21T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando mensagem atribuída a Eduardo Bolsonaro, revelada pelo The Intercept:] …o máximo possível [de dinheiro] ainda neste sistema atual, com o remetente atual… dos Estados Unidos para os Estados Unidos é tranquilo",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00015",
+      "timestamp": "2025-04-05T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "…o Flávio em um aniversário esse fds aqui no Rio…",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00016",
+      "timestamp": "2025-04-05T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Ele falou que te ligou, né? Que o que precisar ele é ótimo estão prontos. Temos força de todos os lados",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00017",
+      "timestamp": "2025-08-07T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "document",
+      "content": "",
+      "media": {
+        "filename": "Funding Schedule - Havengate Dev Fund (planilha encaminhada — arquivo não divulgado pela reportagem)"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00018",
+      "timestamp": "2025-08-27T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Eles não fizeram o pagamento das parcelas. Flavio me ligou hoje",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00019",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Liberei mais uma hoje",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00020",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flávio disse que iria te ligar tb",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00021",
+      "timestamp": "2025-10-22T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Pede desculpas pelos atrasos, meu esforço tem sido máximo possível e prioridade total. Apesar de qq tempestade vou até o fim com isso.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00022",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Flavio me mandou msg.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00023",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando:] Vc não pode dar um toque no investidor pra saber o que houve que veio o contrato, mas não veio o depósito? As vezes ele nem sabe.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00024",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Já foi. Não bateu lá?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00025",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Não. Só chegou o contrato",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00026",
+      "timestamp": "2025-10-30T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "que loucura",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00027",
+      "timestamp": "2025-10-31T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando mensagem atribuída a Flávio Bolsonaro:] Ele conseguiu ver o que houve?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00028",
+      "timestamp": "2025-10-31T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando mensagem atribuída a Flávio Bolsonaro:] Preciso da sua ajuda",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00029",
+      "timestamp": "2025-10-31T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "[Encaminhando mensagem atribuída a Flávio Bolsonaro:] Chegaram os documentos mas não o recurso",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00030",
+      "timestamp": "2025-10-31T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "[Explicando que o pagamento] voltou… na segunda vai de novo",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00031",
+      "timestamp": "2025-11-03T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Eles conseguiram refazer o pagamento hoje?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00032",
+      "timestamp": "2025-11-10T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Você tem alguma posição das parcelas? Pessoal está desesperado lá.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00033",
+      "timestamp": "2025-11-12T12:00:00-03:00",
+      "sender_id": "thiago-miranda",
+      "type": "text",
+      "content": "Cara, desculpa te perturbar com esse tema. Você está a 1.0000 aí com outros [assuntos] maiores e mais sérios. É só pra eu dar uma posição pra eles. Como faço? Me passa as coordenadas. Por favor!",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00034",
+      "timestamp": "2025-11-17T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "system",
+      "content": "[Última mensagem desta conversa registrada na extração da PF, enviada no dia da prisão de Vorcaro — texto não divulgado pela reportagem]",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    }
+  ]
+}

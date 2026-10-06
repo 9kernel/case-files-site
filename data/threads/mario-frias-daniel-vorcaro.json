@@ -1,0 +1,179 @@
+{
+  "id": "mario-frias-daniel-vorcaro",
+  "title": "Mário Frias",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "mario-frias"
+  ],
+  "source": {
+    "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2024-12-11T17:59:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "system",
+      "content": "[A partir das 17h59, o deputado fez seis chamadas não atendidas ao banqueiro, segundo a reportagem]",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2024-12-11T17:59:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "call",
+      "content": "Chamada de voz perdida",
+      "call_info": {
+        "direction": "in"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2024-12-11T18:22:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Tmj",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2024-12-11T18:30:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "audio",
+      "content": "Só te agradecer, meu irmão. […] [O projeto vai] mexer com o coração de muita gente [e será] muito importante para o nosso país. […] Preciso de vez em quando te falar como as coisas vão andando, tá?",
+      "media": {
+        "filename": "Áudio de voz (17 s — transcrição parcial publicada pela reportagem)",
+        "duration_sec": 17
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00005",
+      "timestamp": "2024-12-11T18:30:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "call",
+      "content": "Chamada de voz (menos de 2 minutos)",
+      "call_info": {
+        "direction": "out"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00006",
+      "timestamp": "2024-12-15T12:00:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Milagres só são possíveis quando há fé.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00007",
+      "timestamp": "2024-12-15T12:00:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Vai ser a maior superprodução de uma história brasileira.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00008",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Fala irmão. Tô com senador aqui. Pode falar ?!?",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00009",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Opa. Sim",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00010",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "call",
+      "content": "Chamada de voz (2 min 02 s)",
+      "call_info": {
+        "direction": "out",
+        "duration_sec": 122
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00011",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Tmj",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00012",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Aqui só os melhores guerreiros",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00013",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "Família",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00014",
+      "timestamp": "2024-12-16T12:49:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Bora.",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-00015",
+      "timestamp": "2024-12-22T12:00:00-03:00",
+      "sender_id": "mario-frias",
+      "type": "text",
+      "content": "[Dizendo que aquele era um filme de] justiça divina… 2026 é do Brasil",
+      "source_ref": "piauí, 01/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-piaui-20261006"
+    }
+  ]
+}

@@ -1,37 +1,90 @@
-# Arquivo Público de Diálogos — Caso Aurora (scaffold)
+# Arquivo Público de Diálogos — Caso Banco Master
 
 Site **100% estático** (HTML + CSS + JavaScript puro, sem frameworks, sem build,
-sem npm) que reproduz a interface do WhatsApp para navegação cronológica dos
-diálogos divulgados publicamente nos autos de um caso. Nesta instalação de
-demonstração, o caso e todas as conversas são **fictícios** ("Caso Aurora",
-IP 2024/0123) — substitua pelos dados reais seguindo as regras editoriais.
+sem npm) que reproduz a interface do WhatsApp para navegação cronológica de
+diálogos de interesse público. Nesta instalação, o acervo é o caso
+**Banco Master**: mensagens do celular de **Daniel Vorcaro** extraídas pela
+Polícia Federal (18/11/2025) e divulgadas por reportagens jornalísticas.
 
-> **Aviso editorial**: o site só publica material de fonte pública/oficial,
-> sempre com `source_ref` (documento + folha) em cada mensagem. Mensagens
-> `pending-review` nunca são renderizadas.
+> **Aviso editorial**: o site reproduz **o que as reportagens publicaram**, com a
+> fonte citada em cada mensagem — não temos acesso aos autos originais. O conteúdo
+> não constitui conclusão de culpa ou inocência; as investigações seguem em curso.
+> Mensagens `pending-review` nunca são renderizadas.
 
+---
+
+## 1. Acervo atual: caso Banco Master
+
+### Fontes usadas (cada mensagem aponta a sua)
+
+| Fonte | Data | Conversas no site |
+|---|---|---|
+| [piauí — "As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão"](https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/) (Ana Clara Costa, João Batista Jr., Breno Pires) | 01/10/2026 | Flávio Bolsonaro ↔ Vorcaro · Thiago Miranda ↔ Vorcaro · Mário Frias ↔ Vorcaro · Flávio Carneiro ↔ Vorcaro |
+| [Terra / Poder360 — cobranças de Roberto Justus por aporte](https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html) | 02/10/2026 | Roberto Justus ↔ Vorcaro |
+| [Correio Braziliense / O Globo — "Vorcaro disse que Haddad era um de seus 'maiores opositores'"](https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html) (Pedro José Borges) | 03/10/2026 | Vanessa Souza ↔ Vorcaro |
+| [Rádio Guaíba / R7 — relatório da PF desclassificado pelo STF ("Mendonça tira sigilo")](https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes) | 01/09/2026 | Alexandre de Moraes ↔ Vorcaro |
+
+**Documentos judiciais no acervo**: a conversa com Alexandre de Moraes vem de
+**relatório da PF desclassificado pelo ministro André Mendonça (01/09/2026)** —
+documento judicial tornado público e revelado pelo R7. Contexto judicial
+monitorado em `sources.yaml`: delação de doleiro homologada por Mendonça
+(set/2026, conforme Agência Brasil), inclusão de Flávio Bolsonaro como
+investigado no inquérito do filme "Dark Horse" (set/2026) e decisões do STF
+(portal.stf.jus.br) — quando inteiros teores públicos com mensagens forem
+localizados, entram com `source_ref` de documento judicial.
+
+### Convenções de transcrição
+
+- **Transcrição literal** do que a reportagem publicou, entre aspas na origem.
+- **[Colchetes]** = palavras nossas, apenas conectivo editorial (ex.: "[Pedindo
+  desculpas:] semana passada foi muito dificil pra mim").
+- **"…"** = corte na citação, conforme a reportagem.
+- **Horários**: quando a reportagem indica (ex.: 17h22, 15h46), usamos o horário
+  real; quando não indica, usamos **12:00** como aproximação — o campo `pages`
+  de cada thread avisa isso, e o diálogo de fonte repete.
+- **Mídia de visualização única / arquivos não divulgados**: a mensagem existe
+  (com `type` correto) e o nome do arquivo descreve o que a reportagem registrou,
+  sem inventar conteúdo.
+- O campo `source_ref` de cada mensagem segue o padrão
+  `veículo, data` (ex.: `piauí, 01/10/2026`) — é o que vai na citação copiável.
+
+### Cuidados jurídicos (importantes)
+
+- Publicar mensagens de pessoas reais envolve direito de resposta, direito de
+  imagem e risco de decisões judiciais — **inclusive há precedente de site com
+  essas mesmas mensagens derrubado por ordem judicial**, conforme a imprensa.
+  Antes de publicar um domínio público, faça revisão jurídica e mantenha o aviso
+  editorial visível.
+- Só publique mensagem que exista **textualmente** em fonte verificável e
+  identificável; quando a reportagem paraphrase, use conectivo entre [colchetes]
+  ou não publique.
 ---
 
 ## 1. Executando localmente
 
 Os dados em `/data` são carregados via `fetch()`, que **não funciona abrindo
-`index.html` direto (`file://`)** — o navegador bloqueia por CORS. Use um
-servidor local:
+`index.html` direto (`file://`)** — o navegador bloqueia por CORS. Use o
+servidor de desenvolvimento incluído, que envia `Cache-Control: no-cache`
+(evita o navegador servir JS/CSS antigos durante o desenvolvimento):
 
 ```bash
 cd case-files-site
-python -m http.server 8080
+python scripts/dev-server.py 8080
 # abra http://localhost:8080
 ```
+
+(`python -m http.server 8080` também funciona, mas pode servir arquivos
+estáticos de cache durante as edições.)
 
 Todas as rotas são por hash e funcionam direto, sem fallback de 404:
 
 | Rota | O que faz |
 |---|---|
-| `#/` | Home com aviso editorial e destaques |
-| `#/thread/grupo-comite-executivo` | Conversa (abre no fim, como no WhatsApp) |
-| `#/thread/grupo-comite-executivo/m-00014` | **Deep-link**: abre na mensagem destacada |
-| `#/search/pauta` | Busca global (agrupada por thread, trechos em `<mark>`) |
+| `#/` | Home com aviso editorial, destaques e fontes |
+| `#/thread/flavio-bolsonaro-daniel-vorcaro` | Conversa (abre no fim, como no WhatsApp) |
+| `#/thread/flavio-bolsonaro-daniel-vorcaro/m-00024` | **Deep-link**: abre na mensagem destacada |
+| `#/thread/alexandre-moraes-daniel-vorcaro` | Conversa com o ministro (relatório da PF desclassificado) |
+| `#/search/mermão` | Busca global (agrupada por thread, trechos em `<mark>`) |
 
 ### Testes locais (Node puro, sem dependências)
 
@@ -64,7 +117,7 @@ mensagens via `IntersectionObserver` (nas duas pontas).
      `actions/upload-pages-artifact` + `actions/deploy-pages` — **sem build**:
      o que está no repo é o que vai ao ar.
 
-### Placeholders a substituir antes de publicar um caso real
+### Placeholders a substituir antes de publicar num domínio público
 
 - `js/config.js` — `CASE_NAME`, `PROCESS_LABEL`, `LAST_UPDATED`, `SOURCE_URL`, `REPO_URL`;
 - `index.html` — `<title>`, `og:url`, `og:description`;
@@ -88,18 +141,18 @@ case-files-site/
 │   ├── utils.js             # escapeHtml, datas pt-BR, clipboard, toast…
 │   ├── state.js             # estado de UI em memória
 │   ├── config.js            # constantes editoriais (nome do caso, datas)
-│   └── render/              # chatList · chatWindow · message · searchView · home
+│   └── render/              # chatList · chatWindow · message · profile · searchView · home
 ├── data/
 │   ├── participants.json    # participantes (id, nome, aliases, contexto)
 │   ├── threads.json         # ÍNDICE leve para a ChatList (ver adiante)
 │   └── threads/{{id}}.json  # uma conversa por arquivo
-├── public/media/            # mídias dos autos referenciadas nos JSONs
+├── public/media/            # mídias dos autos referenciadas nos JSONs (vazio: o caso ainda não tem mídia publicada)
 ├── scripts/
 │   ├── ingest.py            # parser PDF → JSON (ferramenta do agente; demo sem deps)
 │   ├── validate.mjs         # validador (Node puro) — regras da seção 4
 │   ├── test-validate.mjs    # testa cada regra de rejeição
 │   ├── generate-fixture.mjs # fixture sintética de 65 mil mensagens
-│   ├── make-demo-media.py   # gera WAV/PDF de demonstração (stdlib)
+│   ├── dev-server.py        # servidor local com Cache-Control: no-cache
 │   └── sources.yaml         # fontes monitoradas pelo agente
 └── .github/workflows/ci.yml # job 1: validação · job 2: deploy Pages
 ```
@@ -128,9 +181,9 @@ case-files-site/
 
 ```jsonc
 {
-  "id": "grupo-comite-executivo",        // = nome do arquivo
+  "id": "flavio-bolsonaro-daniel-vorcaro",   // = nome do arquivo
   "title": "…",
-  "participants_ids": ["ana-cardoso"],   // o 1º é o dono da conversa (bolha verde, direita)
+  "participants_ids": ["daniel-vorcaro", "flavio-bolsonaro"],  // o 1º é o dono (bolha verde, direita)
   "source": { "document": "IP 2024/0123", "url": "https://…", "pages": "fl. 120–133" },
   "messages": [{
     "id": "m-00014",                     // sequencial na thread (m-NNNNN)
@@ -220,14 +273,18 @@ APIs dinâmicas, banco de dados e download em massa do corpus.
   link para o arquivo; clique na imagem alterna o zoom (1,75×); `Esc`, botão ✕
   ou clique fora fecham.
 - **Vídeos com áudio**: mensagens do tipo `video` com `media.url` renderizam
-  `<video controls playsinline>` (controles com volume = som). Os MP4 de
-  demonstração são sintéticos (H.264 + AAC) e podem ser regenerados com
-  `python scripts/make-demo-media.py` (requer `pip install imageio-ffmpeg`,
-  que traz um binário ffmpeg estático — não altera o PATH).
+  `<video controls playsinline>` (controles com volume = som). O caso publicado
+  até aqui não tem mídia divulgada (imagens/vídeos eram de "visualização única");
+  quando uma reportagem publicar mídia, basta colocar o arquivo em
+  `/public/media` e preencher `media.url` no JSON — o validador confere a existência.
 - **Emojis**: as fontes de emoji do sistema (Apple Color Emoji / Segoe UI Emoji /
-  Noto Color Emoji) fazem parte da pilha tipográfica; as transcrições demo
-  incluem emojis, que são renderizados como texto comum (não são tokens de
-  busca).
+  Noto Color Emoji) fazem parte da pilha tipográfica; emojis nas transcrições
+  são renderizados como texto comum (não são tokens de busca).
+- **Card de perfil do contato**: clicar no avatar (na lista lateral ou no
+  cabeçalho da conversa) abre um card com nome, cargo, contexto público e as
+  **fontes linkadas** de onde cada informação foi retirada
+  (`profile_sources` em `data/participants.json` — campo opcional; cada
+  fato do resumo deve rastrear até uma das fontes listadas).
 - **Interface**: fundo de conversa com padrão de "doodles" sutil, duplo check
   azul nas bolhas do dono, prévia da última mensagem na lista lateral,
   ícones de chamada/vídeo no header (desabilitados — o arquivo é somente

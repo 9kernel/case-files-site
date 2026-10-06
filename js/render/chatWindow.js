@@ -6,6 +6,7 @@ import { CONFIG } from '../config.js';
 import { getThreadRaw, getParticipants, participantMap } from '../api.js';
 import { state, freshFilters } from '../state.js';
 import { renderMessage, icons } from './message.js';
+import { openProfileDialog } from './profile.js';
 import {
   escapeHtml as esc,
   dayKey,
@@ -16,6 +17,8 @@ import {
   buildCitation,
   copyText,
   showToast,
+  initials,
+  hashHue,
 } from '../utils.js';
 
 const CHUNK = CONFIG.CHUNK_SIZE;
@@ -274,9 +277,15 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
 
   const len = filtered.length;
   const title = raw.title || threadId;
-  const participantsLine = raw.participants_ids
-    .map((id) => pmap.get(id)?.name || id)
-    .join(', ');
+  // como no WhatsApp: em 1:1 o subtítulo é o cargo/status do contato; em grupo, todos
+  const others = raw.participants_ids.filter((id) => id !== ctx.ownerId);
+  const contactId = others[0] || raw.participants_ids[0] || threadId;
+  const contact = ctx.pmap.get(contactId);
+  const contactName = contact?.name || contactId;
+  const participantsLine = (ctx.isGroup
+    ? raw.participants_ids.map((id) => pmap.get(id)?.name || id)
+    : others.map((id) => pmap.get(id)?.role || pmap.get(id)?.name || id)
+  ).join(', ');
 
   container.innerHTML = `
   <section class="chat">
@@ -284,6 +293,9 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
       <button type="button" class="icon-btn only-mobile" id="btn-back" aria-label="Voltar">
         <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
       </button>
+      <button type="button" class="avatar avatar-btn only-desktop" id="hdr-avatar" data-profile="${esc(contactId)}"
+        aria-label="Ver perfil de ${esc(contactName)}" title="Ver perfil de ${esc(contactName)}"
+        style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}</button>
       <div class="chat-title">
         <h2>${esc(title)}</h2>
         <p>${esc(participantsLine)}</p>
@@ -325,6 +337,9 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   };
 
   // cabeçalho e filtros
+  container.querySelector('#hdr-avatar')?.addEventListener('click', () => {
+    openProfileDialog(ctx.pmap.get(contactId));
+  });
   container.querySelector('#chat-source').addEventListener('click', () => openSourceDialog(null, raw));
   const btnFilters = container.querySelector('#btn-filters');
   btnFilters.addEventListener('click', () => {

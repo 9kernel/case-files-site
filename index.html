@@ -3,23 +3,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Caso Aurora — Arquivo Público de Diálogos</title>
-  <meta name="description" content="Navegação cronológica dos diálogos divulgados publicamente nos autos do Caso Aurora, com transcrição fiel e referência de fonte (documento e folha) em cada mensagem.">
+  <title>WhatsApp de Daniel Vorcaro (Banco Master) — Arquivo Público de Diálogos</title>
+  <meta name="description" content="Réplica do WhatsApp do celular de Daniel Vorcaro (Banco Master): conversas extraídas pela PF em 18/11/2025 e divulgadas por reportagens jornalísticas, com a referência da fonte em cada mensagem.">
   <meta name="theme-color" content="#075E54">
 
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Arquivo Público de Diálogos — Caso Aurora">
-  <meta property="og:title" content="Caso Aurora — Arquivo Público de Diálogos">
-  <meta property="og:description" content="Diálogos dos autos reproduzidos fielmente, com fonte (documento e folha) em cada mensagem.">
+  <meta property="og:site_name" content="Arquivo Público de Diálogos — WhatsApp de Daniel Vorcaro">
+  <meta property="og:title" content="WhatsApp de Daniel Vorcaro (Banco Master)">
+  <meta property="og:description" content="Conversas do celular de Daniel Vorcaro extraídas pela PF, reproduzidas das reportagens que as divulgaram, com a fonte citada em cada mensagem.">
   <meta property="og:locale" content="pt_BR">
   <meta property="og:url" content="https://usuario.github.io/case-files-site/">
   <!-- Substituir og:url pelo endereço final do GitHub Pages -->
 
   <link rel="icon" href="public/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="css/reset.css">
-  <link rel="stylesheet" href="css/theme.css">
-  <link rel="stylesheet" href="css/layout.css">
-  <link rel="stylesheet" href="css/components.css">
+  <link rel="stylesheet" href="css/reset.css?v=2">
+  <link rel="stylesheet" href="css/theme.css?v=2">
+  <link rel="stylesheet" href="css/layout.css?v=2">
+  <link rel="stylesheet" href="css/components.css?v=2">
   <script type="module" src="js/main.js"></script>
 </head>
 <body>
@@ -40,7 +40,7 @@
     </button>
     <a class="brand" href="#/">
       <strong>Arquivo Público de Diálogos</strong>
-      <span>Caso Aurora</span>
+      <span>WhatsApp de Daniel Vorcaro — extração PF 18/11/2025</span>
     </a>
     <form class="global-search" id="global-search" role="search">
       <input type="search" id="global-search-input" placeholder="Buscar em todas as conversas…" aria-label="Busca global em todas as conversas" autocomplete="off">
@@ -57,7 +57,7 @@
       </div>
       <ul class="chatlist" id="chatlist-items"></ul>
       <footer class="sidebar-foot">
-        Conteúdo reproduzido fielmente de documentos públicos. Veja a fonte em cada mensagem.
+        Conteúdo reproduzido de reportagens públicas. Veja a fonte em cada mensagem.
       </footer>
     </aside>
 
@@ -97,6 +97,28 @@
         <p class="media-dialog-ref"><span id="md-ref"></span> · <a id="md-open" href="#" target="_blank" rel="noopener">abrir arquivo</a></p>
       </figcaption>
     </figure>
+  </dialog>
+
+  <dialog class="profile-dialog" id="profile-dialog" aria-labelledby="pf-name">
+    <div class="pf-head">
+      <span class="avatar pf-avatar" id="pf-avatar" aria-hidden="true">?</span>
+      <div class="pf-id">
+        <h3 id="pf-name">—</h3>
+        <p id="pf-role">—</p>
+      </div>
+      <button type="button" class="icon-btn" id="pf-close" aria-label="Fechar perfil">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
+      </button>
+    </div>
+    <p class="pf-aliases" id="pf-aliases" hidden></p>
+    <p class="pf-summary" id="pf-summary">—</p>
+    <h4 class="pf-sources-title">Fontes públicas sobre esta pessoa</h4>
+    <ul class="pf-sources" id="pf-sources"></ul>
+    <p class="pf-sources-empty" id="pf-sources-empty" hidden>
+      Ainda não há fonte pública específica catalogada para esta pessoa.
+    </p>
+    <p class="dlg-note">Perfil resumido exclusivamente a partir das reportagens linkadas.
+    Não constitui acusação nem conclusão sobre responsabilidade individual.</p>
   </dialog>
 
   <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>

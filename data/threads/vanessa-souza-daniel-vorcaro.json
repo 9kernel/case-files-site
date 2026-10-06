@@ -1,0 +1,55 @@
+{
+  "id": "vanessa-souza-daniel-vorcaro",
+  "title": "Vanessa Souza",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "vanessa-souza"
+  ],
+  "source": {
+    "document": "Correio Braziliense / O Globo — “Vorcaro disse que Haddad era um de seus ‘maiores opositores’, revelam mensagens” (03/10/2026)",
+    "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html",
+    "pages": "Reportagem de Pedro José Borges (Correio Braziliense) com base no O Globo, sobre extração da PF de 18/11/2025. Conversa de 29/10/2025; a reportagem não informa a hora (usamos 12:00 como aproximação). Texto entre [colchetes] é conectivo editorial."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "timestamp": "2025-10-29T12:00:00-03:00",
+      "sender_id": "vanessa-souza",
+      "type": "text",
+      "content": "[Disse estar almoçando com] o advogado do Haddad [e perguntou sobre a venda do Banco Master ao BRB e os trâmites no Banco Central]",
+      "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-cb-20261006"
+    },
+    {
+      "id": "m-00002",
+      "timestamp": "2025-10-29T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "[Disse que o problema no Banco Central era] bem mais profundo",
+      "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-cb-20261006"
+    },
+    {
+      "id": "m-00003",
+      "timestamp": "2025-10-29T12:00:00-03:00",
+      "sender_id": "daniel-vorcaro",
+      "type": "text",
+      "content": "Haddad um dos meus maiores opositores. Infelizmente, porque nem conhecer o conheço.",
+      "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-cb-20261006"
+    },
+    {
+      "id": "m-00004",
+      "timestamp": "2025-10-29T12:00:00-03:00",
+      "sender_id": "vanessa-souza",
+      "type": "text",
+      "content": "Vamos mudar isso, então.",
+      "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
+      "status": "confirmed",
+      "added_in": "ingest-bm-cb-20261006"
+    }
+  ]
+}
