@@ -8,7 +8,7 @@
 // registros pending_review nunca são renderizados (filtro em api.js).
 
 import { CONFIG } from '../config.js';
-import { getThreadRaw, getParticipants, participantMap } from '../api.js';
+import { getThreadRaw, getParticipants, participantMap, getDocuments, documentMap, documentPageUrl } from '../api.js';
 import { state, freshFilters } from '../state.js';
 import { renderMessage, icons } from './message.js';
 import { openProfileDialog } from './profile.js';
@@ -184,20 +184,31 @@ function secondaryListHtml(record) {
     .join('<br>');
 }
 
-function provenanceRows(record) {
+function provenanceRows(record, docs) {
   const v = record?.verification;
   if (!v) return dlRow('Proveniência', '<span class="muted">não informada</span>');
+  const doc = docs.get(record.source?.document_id);
+  const pageUrl = doc ? documentPageUrl(doc, record.source?.page) : null;
+  const docLink = doc
+    ? `${esc(doc.title)}${doc.copy_kind === 'public_reproduction' ? ' <span class="muted">(cópia pública — reprodução jornalística; o original integra os autos)</span>' : ''}`
+    : null;
+  const pageCell = record.source?.page
+    ? (pageUrl
+        ? `<a href="${esc(pageUrl)}" target="_blank" rel="noopener">fl. ${record.source.page} — abrir página do PDF</a>`
+        : `fl. ${record.source.page}`)
+    : v.page != null ? String(v.page) : '—';
+  const processCell = doc?.official_process_url
+    ? `<a href="${esc(doc.official_process_url)}" target="_blank" rel="noopener">${esc([doc.court, doc.case].filter(Boolean).join(' — '))} — abrir processo no STF</a>`
+    : esc([v.court, v.case].filter(Boolean).join(' — ') || '—');
   switch (v.level) {
     case 'official_document':
       return [
         dlRow('Origem', esc(v.authority || '—')),
-        dlRow('Processo', esc([v.court, v.case].filter(Boolean).join(' — ') || '—')),
-        dlRow('Documento', esc(v.document || '—')),
-        dlRow('Página', v.page != null ? String(v.page) : '—'),
-        dlRow('Figura', v.figure != null ? String(v.figure) : '—'),
-        dlRow('Documento oficial', v.official_url
-          ? `<a href="${esc(v.official_url)}" target="_blank" rel="noopener">abrir documento</a>`
-          : '<span class="muted">sem URL pública divulgada</span>'),
+        dlRow('Documento', docLink || esc(v.document || '—')),
+        dlRow('Processo', processCell),
+        dlRow('Página', pageCell),
+        dlRow('Figura', record.source?.figure != null ? String(record.source.figure) : (v.figure != null ? String(v.figure) : '—')),
+        ...(doc?.sha256 ? [dlRow('SHA-256 da cópia', `<code class="sha">${esc(doc.sha256.slice(0, 16))}…</code>`)] : []),
         dlRow('Status de verificação', '<strong class="ok">Documento primário localizado</strong>'),
       ].join('');
     case 'public_investigation':
@@ -217,17 +228,36 @@ function provenanceRows(record) {
   }
 }
 
-export function openSourceDialog(record, thread) {
+export async function openSourceDialog(record, thread) {
   const dlg = document.getElementById('source-dialog');
   if (!dlg) return;
+  const docs = documentMap(await getDocuments());
   const body = dlg.querySelector('#sd-body');
   const isRecord = record && record.verification;
   const ref = isRecord ? record.source_ref : `${thread.source.document}`;
-  const rows = isRecord ? provenanceRows(record) : dlRow('Documento', esc(thread.source.document));
+  const rows = isRecord ? provenanceRows(record, docs) : dlRow('Documento', esc(thread.source.document));
+
+  /* bloco de mídia (§27): áudio disponível? origem? transcrição completa? */
+  let mediaRows = '';
+  if (isRecord && record.media) {
+    const media = record.media;
+    const disp = media.status === 'secondary_media'
+      ? `<a href="${esc(media.external_url || '#')}" target="_blank" rel="noopener">player de ${esc(media.publisher)}</a>`
+      : media.status === 'official_media' ? 'arquivo oficial (autos públicos)' : 'não disponível aqui';
+    mediaRows = [
+      dlRow('Áudio/mídia', disp),
+      dlRow('Origem da mídia', esc(media.publisher || media.source_authority || 'não localizada (referência no documento)')),
+      dlRow('Transcrição', record.transcription
+        ? `${record.transcription.complete ? 'completa' : 'parcial'} (${esc(record.transcription.kind === 'publisher_transcription' ? record.transcription.source : record.transcription.kind === 'document_transcription' ? 'documento da PF' : 'projeto')})`
+        : 'sem transcrição publicada'),
+    ].join('');
+  }
+
   body.innerHTML = `
     <dl>
       <dt>${isRecord ? 'Referência' : 'Documento'}</dt><dd>${esc(ref)}</dd>
       ${rows}
+      ${mediaRows}
       ${isRecord ? dlRow('Fontes jornalísticas', secondaryListHtml(record)) : ''}
       ${!isRecord && thread.source.pages ? dlRow('Notas', esc(thread.source.pages)) : ''}
     </dl>`;
@@ -346,7 +376,8 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   const pmap = participantMap(await getParticipants());
   const timeline = buildTimeline({ messages, timeline_events: events });
   filtered = applyFilters(timeline, state.filters);
-  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, isGroup: raw.participants_ids.length > 2 };
+  const docs = documentMap(await getDocuments());
+  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, docs, isGroup: raw.participants_ids.length > 2 };
 
   // resolução do deep-link
   let banner = '';

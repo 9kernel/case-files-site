@@ -7,6 +7,7 @@
 // Ícones: SVGs inline mínimos (sem biblioteca).
 
 import { escapeHtml as esc, escapeAttr, nl2br, timeLabel, formatDateBR, formatDuration, hashHue } from '../utils.js';
+import { documentPageUrl } from '../api.js';
 
 const I = {
   link: `<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>`,
@@ -55,6 +56,8 @@ function kindTagHtml(m) {
   switch (m.content_kind) {
     case 'verbatim_excerpt':
       return `<div class="kind-tag">trecho da mensagem</div>`;
+    case 'forwarded_message':
+      return `<div class="kind-tag">mensagem encaminhada</div>`;
     case 'audio_transcript':
       return `<div class="kind-tag">${m.transcription_complete ? 'transcrição de áudio' : 'transcrição parcial de áudio'}</div>`;
     default:
@@ -62,19 +65,44 @@ function kindTagHtml(m) {
   }
 }
 
-function bodyFor(m) {
+/** atribuição de encaminhada: terceiro nunca vira remetente direto (§17) */
+function fwdAttributionHtml(m) {
+  if (m.content_kind !== 'forwarded_message' || !m.forwarded_attribution) return '';
+  const fa = m.forwarded_attribution;
+  const name = fa.name || 'interlocutor não identificado no relatório';
+  return `<div class="fwd-attribution">⤷ encaminhada de: ${esc(name)} · contato direto não verificado</div>`;
+}
+
+/** link para a evidência no documento público (§26) ou player externo (§8) */
+function evidenceLinksHtml(m, ctx) {
+  if (!ctx?.docs) return '';
+  const doc = ctx.docs.get(m.source?.document_id);
+  const pageUrl = doc ? documentPageUrl(doc, m.source?.page) : null;
+  let html = '';
+  const media = m.media;
+  if (media?.status === 'secondary_media' && media.external_url) {
+    html += `<a class="evidence-link" href="${esc(media.external_url)}" target="_blank" rel="noopener">▶ ouvir na origem — ${esc(media.publisher || 'fonte externa')}</a>`;
+  }
+  if (pageUrl) {
+    html += `<a class="evidence-link" href="${esc(pageUrl)}" target="_blank" rel="noopener">⧉ ver no documento (fl. ${esc(m.source.page)})</a>`;
+  }
+  return html ? `<div class="evidence-links">${html}</div>` : '';
+}
+
+function bodyFor(m, ctx) {
   const src = mediaSrc(m);
   switch (m.content_kind) {
     case 'verbatim':
     case 'verbatim_excerpt':
+    case 'forwarded_message':
       return `<div class="msg-text">${nl2br(esc(m.content || ''))}</div>`;
 
     case 'audio_transcript': {
       const dur = formatDuration(m.media?.duration_sec);
       const card = src
         ? `<div class="audio-card">${I.mic}<audio controls preload="metadata" src="${esc(src)}"></audio></div>`
-        : `<div class="media-placeholder">${I.mic}<span>Áudio — ${esc(m.media?.filename || 'nota de voz')}</span><small>disponível no documento original</small></div>`;
-      return `${card}${dur ? `<span class="audio-dur">Duração: ${esc(dur)}</span>` : ''}${captionHtml(m)}`;
+        : `<div class="media-placeholder">${I.mic}<span>Áudio — ${esc(m.media?.filename || 'nota de voz')}</span><small>${m.media?.status === 'secondary_media' ? 'disponível no player da fonte (link abaixo)' : 'disponível no documento original'}</small></div>`;
+      return `${card}${dur ? `<span class="audio-dur">Duração: ${esc(dur)}</span>` : ''}${captionHtml(m)}${evidenceLinksHtml(m, ctx)}`;
     }
 
     case 'media': {
@@ -87,21 +115,21 @@ function bodyFor(m) {
                    onerror="window.__mediaError && window.__mediaError(this)">
                </button>`
             : `<div class="media-placeholder">${I.imgPh}<span>Imagem — ${esc(m.media?.filename || 'arquivo dos autos')}</span><small>disponível no documento original</small></div>`
-        }${captionHtml(m)}</figure>`;
+        }${captionHtml(m)}</figure>${evidenceLinksHtml(m, ctx)}`;
       }
       if (mediaKind === 'video') {
         return `<figure class="media">${
           src
             ? `<video controls playsinline preload="metadata" src="${esc(src)}"></video>`
             : `<div class="media-placeholder">${I.play}<span>Vídeo — ${esc(m.media?.filename || 'gravação')}</span><small>disponível no documento original</small></div>`
-        }${captionHtml(m)}</figure>`;
+        }${captionHtml(m)}</figure>${evidenceLinksHtml(m, ctx)}`;
       }
       // document
       const filename = m.media?.filename || 'documento';
       const card = src
         ? `<a class="doc-card" href="${esc(src)}" target="_blank" rel="noopener">${I.doc}<span><span class="doc-name">${esc(filename)}</span><span class="doc-hint">Documento dos autos — abrir</span></span></a>`
         : `<div class="doc-card">${I.doc}<span><span class="doc-name">${esc(filename)}</span><span class="doc-hint">Documento dos autos</span></span></div>`;
-      return `${card}${captionHtml(m)}`;
+      return `${card}${captionHtml(m)}${evidenceLinksHtml(m, ctx)}`;
     }
 
     case 'call': {
@@ -198,7 +226,7 @@ export function renderMessage(m, ctx) {
   return `<div class="msg-row ${out ? 'out' : 'in'}" id="msg-${esc(m.id)}" data-msg-id="${esc(m.id)}">
     <div class="bubble-col">
       <div class="bubble${noTime}">
-        ${kindTagHtml(m)}${senderLabel}${quoteFor(m, ctx)}${bodyFor(m)}
+        ${kindTagHtml(m)}${senderLabel}${quoteFor(m, ctx)}${fwdAttributionHtml(m)}${bodyFor(m, ctx)}
         <span class="bubble-meta"><time>${esc(timeLabel(m))}</time>${out ? I.ticks : ''}</span>
       </div>
       <div class="msg-side">${provenanceBadgeHtml(m)}${sourceBadgeHtml(m)}${actionButtonsHtml()}</div>

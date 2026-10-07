@@ -42,6 +42,25 @@ export function getParticipants() {
   return fetchJSON('data/participants.json');
 }
 
+/** Registro central de documentos: data/documents.json (§24) */
+export function getDocuments() {
+  return fetchJSON('data/documents.json').catch(() => []);
+}
+
+/** Map id -> documento. */
+export function documentMap(documents) {
+  return new Map((documents || []).map((d) => [d.id, d]));
+}
+
+/**
+ * URL de deep-link para a página do PDF público (§26): PDF_URL#page=N.
+ * Retorna null quando não há cópia pública ou página.
+ */
+export function documentPageUrl(doc, page) {
+  if (!doc?.public_copy_url || !page) return null;
+  return `${doc.public_copy_url}#page=${page}`;
+}
+
 /** Índice leve de threads (título, contagem, última data): data/threads.json */
 export function getThreadIndex() {
   return fetchJSON('data/threads.json');

@@ -677,6 +677,45 @@ a.doc-card:hover { background: #fff; }
 
 .msg-row.in .kind-tag { color: #0E7A6C; }
 
+/* ============ Encaminhadas: atribuição nunca vira remetente (§17) ============ */
+.fwd-attribution {
+  font-size: 12px;
+  color: var(--ink-muted);
+  border-top: 1px dashed rgba(11, 20, 26, 0.14);
+  margin-top: 4px;
+  padding-top: 3px;
+}
+
+/* ============ Links de evidência (§8/§26): origem externa e página do PDF ============ */
+.evidence-links {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  margin: 5px 0 3px;
+}
+
+.evidence-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  width: fit-content;
+  font-size: 12.6px;
+  color: var(--wa-teal);
+  border: 1px solid rgba(18, 140, 126, 0.35);
+  border-radius: 999px;
+  padding: 3px 11px;
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.evidence-link:hover { background: #fff; border-color: var(--wa-teal); }
+
+.source-dialog .sha {
+  font-size: 11.5px;
+  background: var(--panel-alt);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
 /* ============ Nota editorial — SEMPRE fora da bolha (§1/§5) ============ */
 .editorial-note {
   display: flex;
