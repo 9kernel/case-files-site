@@ -1,6 +1,11 @@
 // chatWindow.js — janela da conversa: chunked rendering, separadores de data,
-// filtros, TimelineNav, deep-link com destaque, cópia de link/citação e dialog
-// de fonte. Nunca renderiza a thread inteira de uma vez (IntersectionObserver).
+// filtros, TimelineNav, deep-link com destaque, cópia de link/citação e painel
+// de fonte/proveniência. Nunca renderiza a thread inteira de uma vez
+// (IntersectionObserver).
+//
+// A timeline exibe mensagens E eventos editoriais em ordem cronológica;
+// eventos têm aparência totalmente diferente (sem bolha/avatar/lado) e
+// registros pending_review nunca são renderizados (filtro em api.js).
 
 import { CONFIG } from '../config.js';
 import { getThreadRaw, getParticipants, participantMap } from '../api.js';
@@ -13,6 +18,8 @@ import {
   dayLabel,
   monthLabel,
   formatDateBR,
+  timeLabel,
+  sortKeyOf,
   messageUrl,
   buildCitation,
   copyText,
@@ -23,6 +30,14 @@ import {
 
 const CHUNK = CONFIG.CHUNK_SIZE;
 
+const KIND_OPTIONS = [
+  ['verbatim', 'mensagem literal'],
+  ['verbatim_excerpt', 'trecho'],
+  ['audio_transcript', 'áudio transcrito'],
+  ['media', 'mídia'],
+  ['call', 'chamada'],
+];
+
 // contexto da renderização corrente (módulo — uma janela por vez)
 let ctx = null;
 let filtered = [];
@@ -31,35 +46,53 @@ let observer = null;
 let els = null;
 let threadData = null;
 
-const TYPE_OPTIONS = ['text', 'image', 'audio', 'video', 'document', 'call', 'system'];
-
 function applyFilters(list, f) {
-  return list.filter((m) => {
-    if (f.participant && m.sender_id !== f.participant) return false;
-    const dk = dayKey(m.timestamp);
+  return list.filter((item) => {
+    if (item.event_kind) {
+      // eventos editoriais: só caem fora do resultado por data; filtros de
+      // participante/natureza dizem respeito a mensagens
+      const dk = dayKey(item);
+      if (f.from && dk < f.from) return false;
+      if (f.to && dk > f.to) return false;
+      return f.types.size ? false : true;
+    }
+    if (f.participant && item.sender_id !== f.participant) return false;
+    const dk = dayKey(item);
     if (f.from && dk < f.from) return false;
     if (f.to && dk > f.to) return false;
-    if (f.types.size && !f.types.has(m.type)) return false;
+    if (f.types.size && !f.types.has(item.content_kind)) return false;
     return true;
   });
+}
+
+/** Mensagens + eventos editoriais em ordem cronológica (estável). */
+function buildTimeline(raw) {
+  const items = [
+    ...(raw.messages || []).map((m) => ({ ...m, _isMessage: true })),
+    ...(raw.timeline_events || []).map((e) => ({ ...e })),
+  ];
+  return items
+    .map((item, idx) => ({ item, idx }))
+    .sort((a, b) => (sortKeyOf(a.item) < sortKeyOf(b.item) ? -1 : sortKeyOf(a.item) > sortKeyOf(b.item) ? 1 : a.idx - b.idx))
+    .map((x) => x.item);
 }
 
 function dateSepHtml(key) {
   return `<div class="date-sep"><span>${esc(dayLabel(key))}</span></div>`;
 }
 
-/** HTML das mensagens de [from, to), com separadores de data. */
+/** HTML dos itens de [from, to), com separadores de data. */
 function renderRange(from, to, initialLastDay = null) {
   let html = '';
   let last = initialLastDay;
   for (let i = from; i < to; i++) {
-    const m = filtered[i];
-    const dk = dayKey(m.timestamp);
+    const item = filtered[i];
+    const dk = dayKey(item);
     if (dk !== last) {
       html += dateSepHtml(dk);
       last = dk;
     }
-    html += renderMessage(m, ctx);
+    html += renderMessage(item, ctx);
   }
   return html;
 }
@@ -71,7 +104,7 @@ function updateSentinels() {
 
 function renderAt(start) {
   const to = Math.min(filtered.length, start + CHUNK);
-  const lastDay = start > 0 ? dayKey(filtered[start - 1].timestamp) : null;
+  const lastDay = start > 0 ? dayKey(filtered[start - 1]) : null;
   els.list.innerHTML = renderRange(start, to, lastDay);
   rendered = { start, end: to };
   updateSentinels();
@@ -81,7 +114,7 @@ function renderAt(start) {
 function appendNext() {
   if (rendered.end >= filtered.length) return;
   const to = Math.min(filtered.length, rendered.end + CHUNK);
-  const lastDay = dayKey(filtered[rendered.end - 1].timestamp);
+  const lastDay = dayKey(filtered[rendered.end - 1]);
   els.list.insertAdjacentHTML('beforeend', renderRange(rendered.end, to, lastDay));
   rendered = { ...rendered, end: to };
   updateSentinels();
@@ -106,10 +139,10 @@ function prependPrev() {
 function buildMonths() {
   const months = [];
   let lastKey = null;
-  filtered.forEach((m, i) => {
-    const key = m.timestamp.slice(0, 7);
+  filtered.forEach((item, i) => {
+    const key = String(item.date).slice(0, 7);
     if (key !== lastKey) {
-      months.push({ key, idx: i, label: monthLabel(m.timestamp) });
+      months.push({ key, idx: i, label: monthLabel(item.date) });
       lastKey = key;
     }
   });
@@ -135,20 +168,77 @@ function markActiveChip() {
   });
 }
 
-/* ---------- dialog de fonte ---------- */
+/* ---------- painel de fonte / proveniência (§15) ---------- */
 
-export function openSourceDialog(message, thread) {
+function dlRow(dt, dd) {
+  return `<dt>${esc(dt)}</dt><dd>${dd}</dd>`;
+}
+
+function secondaryListHtml(record) {
+  const secondary = record?.sources?.secondary || [];
+  if (!secondary.length) return '<span class="muted">—</span>';
+  return secondary
+    .map((s) => (s.url
+      ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.publication)}${s.date ? ` (${esc(formatDateBR(s.date))})` : ''}</a>`
+      : esc(`${s.publication}${s.date ? ` (${formatDateBR(s.date)})` : ''}`)))
+    .join('<br>');
+}
+
+function provenanceRows(record) {
+  const v = record?.verification;
+  if (!v) return dlRow('Proveniência', '<span class="muted">não informada</span>');
+  switch (v.level) {
+    case 'official_document':
+      return [
+        dlRow('Origem', esc(v.authority || '—')),
+        dlRow('Processo', esc([v.court, v.case].filter(Boolean).join(' — ') || '—')),
+        dlRow('Documento', esc(v.document || '—')),
+        dlRow('Página', v.page != null ? String(v.page) : '—'),
+        dlRow('Figura', v.figure != null ? String(v.figure) : '—'),
+        dlRow('Documento oficial', v.official_url
+          ? `<a href="${esc(v.official_url)}" target="_blank" rel="noopener">abrir documento</a>`
+          : '<span class="muted">sem URL pública divulgada</span>'),
+        dlRow('Status de verificação', '<strong class="ok">Documento primário localizado</strong>'),
+      ].join('');
+    case 'public_investigation':
+      return [
+        dlRow('Origem declarada', esc(v.origin || v.authority || '—')),
+        dlRow('Investigação', esc([v.court, v.case].filter(Boolean).join(' — ') || '—')),
+        dlRow('Status de verificação', '<span class="muted">Investigação pública — peça primária desta mensagem ainda não localizada</span>'),
+      ].join('');
+    case 'secondary_source':
+      return [
+        dlRow('Origem declarada', esc(v.origin || '—')),
+        dlRow('Fonte disponível', secondaryListHtml(record)),
+        dlRow('Documento primário', '<span class="muted">Ainda não localizado no acervo público</span>'),
+      ].join('');
+    default:
+      return dlRow('Status de verificação', '<span class="muted">Em revisão humana — não publicada</span>');
+  }
+}
+
+export function openSourceDialog(record, thread) {
   const dlg = document.getElementById('source-dialog');
   if (!dlg) return;
-  dlg.querySelector('#sd-ref').textContent = message
-    ? message.source_ref
-    : `${thread.source.document} · ${thread.source.pages || 'sem paginação'}`;
-  dlg.querySelector('#sd-doc').textContent = thread.source.document;
-  dlg.querySelector('#sd-pages').textContent = thread.source.pages || '—';
+  const body = dlg.querySelector('#sd-body');
+  const isRecord = record && record.verification;
+  const ref = isRecord ? record.source_ref : `${thread.source.document}`;
+  const rows = isRecord ? provenanceRows(record) : dlRow('Documento', esc(thread.source.document));
+  body.innerHTML = `
+    <dl>
+      <dt>${isRecord ? 'Referência' : 'Documento'}</dt><dd>${esc(ref)}</dd>
+      ${rows}
+      ${isRecord ? dlRow('Fontes jornalísticas', secondaryListHtml(record)) : ''}
+      ${!isRecord && thread.source.pages ? dlRow('Notas', esc(thread.source.pages)) : ''}
+    </dl>`;
   const link = dlg.querySelector('#sd-url');
-  if (thread.source.url) {
-    link.href = thread.source.url;
+  // para registros, o link externo só aparece quando há URL oficial de fato —
+  // nunca apontamos "documento oficial" para uma reportagem
+  const url = isRecord ? record.verification.official_url : thread.source.url;
+  if (url) {
+    link.href = url;
     link.hidden = false;
+    link.textContent = isRecord ? 'Abrir documento oficial' : 'Abrir reportagem de origem';
   } else {
     link.hidden = true;
   }
@@ -205,8 +295,8 @@ function filterBarHtml() {
       return `<option value="${esc(id)}" ${f.participant === id ? 'selected' : ''}>${esc(name)}</option>`;
     })
     .join('');
-  const checks = TYPE_OPTIONS
-    .map((t) => `<label><input type="checkbox" name="ft-type" value="${t}" ${f.types.has(t) ? 'checked' : ''}> ${t}</label>`)
+  const checks = KIND_OPTIONS
+    .map(([value, label]) => `<label><input type="checkbox" name="ft-type" value="${value}" ${f.types.has(value) ? 'checked' : ''}> ${label}</label>`)
     .join('');
   return `
   <div class="filter-grid">
@@ -217,7 +307,7 @@ function filterBarHtml() {
     </label>
     <label class="field">De <input type="date" id="ft-from" value="${esc(f.from)}"></label>
     <label class="field">Até <input type="date" id="ft-to" value="${esc(f.to)}"></label>
-    <div class="field">Tipo<span class="type-checks">${checks}</span></div>
+    <div class="field">Natureza<span class="type-checks">${checks}</span></div>
     <button type="button" class="btn btn-primary" id="ft-apply">Aplicar filtros</button>
     <button type="button" class="btn btn-ghost" id="ft-clear">Limpar</button>
   </div>`;
@@ -246,10 +336,16 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   }
 
   threadData = raw;
-  const confirmed = raw.messages.filter((m) => m.status === 'confirmed');
+  const published = (m) => m.verification?.level !== 'pending_review';
+  const messages = raw.messages.filter(published);
+  const events = (raw.timeline_events || []).filter(published);
+  // byId cobre TODOS os registros (inclusive pending_review) para deep-link
+  const byId = new Map();
+  for (const m of raw.messages) byId.set(m.id, m);
+  for (const ev of raw.timeline_events || []) byId.set(ev.id, ev);
   const pmap = participantMap(await getParticipants());
-  const byId = new Map(raw.messages.map((m) => [m.id, m]));
-  filtered = applyFilters(confirmed, state.filters);
+  const timeline = buildTimeline({ messages, timeline_events: events });
+  filtered = applyFilters(timeline, state.filters);
   ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, isGroup: raw.participants_ids.length > 2 };
 
   // resolução do deep-link
@@ -258,14 +354,14 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   if (targetMsgId) {
     const target = byId.get(targetMsgId);
     if (!target) {
-      banner = warnBanner(`Mensagem <strong>${esc(targetMsgId)}</strong> não encontrada nesta conversa.`);
-    } else if (target.status !== 'confirmed') {
+      banner = warnBanner(`Registro <strong>${esc(targetMsgId)}</strong> não encontrado nesta conversa.`);
+    } else if (target.verification?.level === 'pending_review') {
       banner = warnBanner(
-        `A mensagem <strong>${esc(targetMsgId)}</strong> existe nos dados, mas está com status
-         <strong>pending-review</strong> e ainda não é publicada no site.`
+        `A mensagem <strong>${esc(targetMsgId)}</strong> existe nos dados, mas está
+         <strong>em revisão humana</strong> (pending_review) e ainda não é publicada no site.`
       );
     } else {
-      targetIdx = filtered.findIndex((m) => m.id === targetMsgId);
+      targetIdx = filtered.findIndex((item) => item.id === targetMsgId);
       if (targetIdx === -1) {
         banner = warnBanner(
           `A mensagem <strong>${esc(targetMsgId)}</strong> está oculta pelos filtros ativos.
@@ -291,7 +387,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   <section class="chat">
     <header class="chat-header">
       <button type="button" class="icon-btn only-mobile" id="btn-back" aria-label="Voltar">
-        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
+        <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M19 12H5"/><path d="M12 19l-7-7 7-7"/></svg>
       </button>
       <button type="button" class="avatar avatar-btn only-desktop" id="hdr-avatar" data-profile="${esc(contactId)}"
         aria-label="Ver perfil de ${esc(contactName)}" title="Ver perfil de ${esc(contactName)}"
@@ -300,7 +396,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
         <h2>${esc(title)}</h2>
         <p>${esc(participantsLine)}</p>
       </div>
-      <button type="button" class="chat-source-link" id="chat-source" title="Ver fonte do documento">${esc(raw.source?.document || '')}${raw.source?.pages ? ` · ${esc(raw.source.pages)}` : ''}</button>
+      <button type="button" class="chat-source-link" id="chat-source" title="Ver fonte do documento">${esc(raw.source?.document || '')}</button>
       <button type="button" class="icon-btn only-desktop" disabled title="Chamadas não fazem parte do arquivo" aria-label="Chamada (indisponível no arquivo)">${icons.phoneHeader}</button>
       <button type="button" class="icon-btn only-desktop" disabled title="Videochamadas não fazem parte do arquivo" aria-label="Videochamada (indisponível no arquivo)">${icons.videocam}</button>
       <button type="button" class="icon-btn" id="hdr-search" title="Buscar no arquivo" aria-label="Buscar no arquivo">${icons.search}</button>
@@ -321,7 +417,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
     <div class="chat-inputbar" aria-label="Arquivo somente leitura">
       <button type="button" class="icon-btn" disabled title="Emoji (indisponível no arquivo)" aria-label="Emoji (indisponível no arquivo)">${icons.smiley}</button>
       <button type="button" class="icon-btn" disabled title="Anexar (indisponível no arquivo)" aria-label="Anexar (indisponível no arquivo)">${icons.clip}</button>
-      <div class="chat-input-fake">Arquivo somente leitura — mensagens reproduzidas dos autos</div>
+      <div class="chat-input-fake">Arquivo somente leitura — mensagens reproduzidas com fonte citada</div>
       <button type="button" class="icon-btn input-mic" disabled title="Gravar áudio (indisponível no arquivo)" aria-label="Gravar áudio (indisponível no arquivo)">${icons.mic}</button>
     </div>
   </section>`;
@@ -447,27 +543,27 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
     const btn = e.target.closest('[data-action]');
     if (!btn) return;
     const row = btn.closest('[data-msg-id]');
-    const msgId = row?.getAttribute('data-msg-id');
-    const message = byId.get(msgId);
-    if (!message) return;
+    const recordId = row?.getAttribute('data-msg-id');
+    const record = byId.get(recordId);
+    if (!record) return;
 
     switch (btn.dataset.action) {
       case 'copy-link': {
-        const ok = await copyText(messageUrl(threadId, msgId));
+        const ok = await copyText(messageUrl(threadId, recordId));
         showToast(ok ? 'Link da mensagem copiado.' : 'Não foi possível copiar o link.');
         break;
       }
       case 'copy-citation': {
-        const citation = buildCitation(CONFIG.CASE_NAME, message.source_ref, msgId);
+        const citation = buildCitation(CONFIG.CASE_NAME, record.source_ref, recordId);
         const ok = await copyText(citation);
         showToast(ok ? 'Citação copiada.' : 'Não foi possível copiar a citação.');
         break;
       }
       case 'source':
-        openSourceDialog(message, raw);
+        openSourceDialog(record, raw);
         break;
       case 'view-media':
-        openMediaDialog(message);
+        openMediaDialog(record);
         break;
     }
   });

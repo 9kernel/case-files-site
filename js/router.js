@@ -1,6 +1,7 @@
 // router.js — parse do location.hash e dispatch das views.
 // Rotas:
 //   #/                        -> home
+//   #/policy                  -> política de correções e fontes
 //   #/thread/{{id}}           -> conversa (abre no fim)
 //   #/thread/{{id}}/{{msgId}} -> conversa com deep-link na mensagem
 //   #/search/{{consulta}}     -> resultados globais
@@ -9,6 +10,7 @@
 import { renderHome } from './render/home.js';
 import { renderChatWindow } from './render/chatWindow.js';
 import { renderSearchView } from './render/searchView.js';
+import { renderPolicy } from './render/policy.js';
 import { setActiveThread } from './render/chatList.js';
 import { CONFIG } from './config.js';
 
@@ -27,6 +29,9 @@ function parseHash() {
 
   if (parts[0] === 'thread' && parts[1]) {
     return { name: 'thread', params: { id: parts[1], msgId: parts[2] || null } };
+  }
+  if (parts[0] === 'policy') {
+    return { name: 'policy', params: {} };
   }
   if (parts[0] === 'search') {
     return { name: 'search', params: { q: parts.slice(1).join('/') } };
@@ -72,6 +77,10 @@ async function route() {
       case 'search':
         document.title = `Busca — ${CONFIG.CASE_NAME}`;
         await renderSearchView(container, params.q);
+        break;
+      case 'policy':
+        document.title = `Política de correções e fontes — ${CONFIG.CASE_NAME}`;
+        renderPolicy(container);
         break;
       default:
         document.title = `Página não encontrada — ${CONFIG.CASE_NAME}`;

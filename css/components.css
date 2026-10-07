@@ -639,6 +639,119 @@ a.doc-card:hover { background: #fff; }
 
 .sys-badge { border-bottom-color: var(--wa-timestamp); }
 
+/* ============ Proveniência (badges §16) ============ */
+.prov-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10.5px;
+  padding: 1px 8px;
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.85);
+  white-space: nowrap;
+}
+
+/* cores neutras: explicam proveniência, nunca sugerem culpa */
+.prov-official { color: #1F6FA8; border-color: #BFD8E8; }
+.prov-investigation { color: #6B5EA8; border-color: #D6D0EE; }
+.prov-secondary { color: #6E7B83; border-color: #D8DEE2; }
+.prov-pending { color: #9AA3A8; border-color: #E3E7EA; }
+
+.prov-badge:hover { border-color: currentColor; }
+
+.msg-side { flex-wrap: wrap; }
+
+/* ============ Natureza do conteúdo (tag discreta §4) ============ */
+.kind-tag {
+  font-size: 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--wa-teal);
+  background: rgba(18, 140, 126, 0.09);
+  border-radius: 999px;
+  padding: 1px 8px;
+  width: fit-content;
+  margin: 1px 0 3px;
+}
+
+.msg-row.in .kind-tag { color: #0E7A6C; }
+
+/* ============ Nota editorial — SEMPRE fora da bolha (§1/§5) ============ */
+.editorial-note {
+  display: flex;
+  gap: 6px;
+  align-items: flex-start;
+  max-width: min(560px, 88%);
+  margin: 4px 2px 10px;
+  padding: 7px 10px;
+  border-left: 3px solid var(--wa-teal);
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 12.5px;
+  line-height: 1.45;
+  color: var(--ink-2);
+  font-style: italic;
+}
+
+.editorial-note svg { flex: 0 0 auto; margin-top: 2px; color: var(--wa-teal); opacity: 0.8; }
+.editorial-note strong { font-style: normal; color: var(--ink); }
+
+.msg-row.out + .editorial-note,
+.msg-row.out .editorial-note { align-self: flex-end; }
+
+/* bolha com hora não divulgada: rótulo cabe no meta */
+.bubble.no-time .bubble-meta time { font-size: 9.5px; letter-spacing: 0.01em; }
+
+/* ============ Evento editorial da timeline (§14) ============ */
+/* Registro neutro: SEM avatar, SEM bolha, SEM check, SEM lado. */
+.event-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px;
+  margin: 14px auto 10px;
+  max-width: min(560px, 86%);
+  padding: 10px 14px;
+  border: 1px dashed #B9C4CA;
+  border-radius: var(--radius-sm);
+  background: rgba(255, 255, 255, 0.72);
+  text-align: center;
+}
+
+.event-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 9.5px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+}
+
+.event-content {
+  font-size: 12.8px;
+  line-height: 1.45;
+  color: var(--ink-2);
+}
+
+.event-meta {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 11px;
+  color: var(--ink-muted);
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* dialog de fonte */
+.source-dialog dd .muted { color: var(--ink-muted); }
+.source-dialog dd strong.ok { color: #1F8B4D; font-weight: 600; }
+.source-dialog dd a { color: var(--wa-teal); }
+.source-dialog #sd-url { color: var(--wa-teal); }
+.source-dialog #sd-url[hidden] { display: none; }
+
 /* destaque de deep-link */
 @keyframes flash-highlight {
   0%, 100% { box-shadow: var(--shadow-bubble); }

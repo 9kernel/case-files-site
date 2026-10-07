@@ -2,7 +2,7 @@
 
 import { getThreadIndex } from '../api.js';
 import { search, snippetHtml, groupByThread } from '../search.js';
-import { escapeHtml as esc, formatDateBR, formatTime } from '../utils.js';
+import { escapeHtml as esc, dateTimeLabel } from '../utils.js';
 
 const PER_GROUP = 15;
 
@@ -51,7 +51,7 @@ export async function renderSearchView(container, query) {
       const rows = shown
         .map(
           (hit) => `<a class="search-hit" href="#/thread/${esc(hit.threadId)}/${esc(hit.msgId)}">
-            <span class="hit-meta">${esc(formatDateBR(hit.msg.timestamp))} ${esc(formatTime(hit.msg.timestamp))} · ${esc(hit.msg.source_ref)} · msg ${esc(hit.msgId)}</span>
+            <span class="hit-meta">${esc(dateTimeLabel(hit.msg))} · ${esc(hit.msg.source_ref)} · msg ${esc(hit.msgId)}</span>
             <span class="hit-snippet">${snippetHtml(hit.msg.content, terms)}</span>
           </a>`
         )

@@ -6,7 +6,7 @@
 // A busca normaliza acentos/caixa dos dois lados (query e conteúdo).
 
 import { getThreadIndex, getThread } from './api.js';
-import { tokenize, normalize, escapeHtml, escapeAttr, formatTime, dayKey } from './utils.js';
+import { tokenize, normalize, escapeHtml, escapeAttr } from './utils.js';
 
 const MAX_RESULTS = 300;
 const SNIPPET_RADIUS = 90;
@@ -159,5 +159,3 @@ export function groupByThread(hits) {
   }
   return [...groups.values()];
 }
-
-export { formatTime, dayKey };

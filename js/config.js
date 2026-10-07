@@ -14,4 +14,8 @@ export const CONFIG = Object.freeze({
   REPO_URL: 'https://github.com/usuario/case-files-site',
   // Quantidade de mensagens renderizadas por chunk (renderização progressiva).
   CHUNK_SIZE: 100,
+  // Canal de correções exibido na página "Política de correções e fontes"
+  // (#/policy). PLACEHOLDER: não inventar e-mail — preencher quando o
+  // responsável definir o canal (ex.: 'correcoes@exemplo.org').
+  CORRECTIONS_CONTACT: null,
 });

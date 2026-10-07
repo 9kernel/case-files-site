@@ -46,19 +46,14 @@ export function tokenize(text) {
 }
 
 /* ---------- datas (sem conversão de fuso: o horário exibido é o do documento) ---------- */
+/* Os registros carregam { date, time, timestamp_precision }: horário nunca é
+   estimado — quando a fonte não divulga, exibimos "horário não divulgado". */
 
-const ISO_RE = /^(\d{4})-(\d{2})-(\d{2})T(\d{2}):(\d{2})/;
+const NO_TIME_LABEL = 'horário não divulgado';
 
-/** Extrai componentes do ISO SEM aplicar fuso do navegador. */
-export function isoParts(iso) {
-  const m = ISO_RE.exec(String(iso ?? ''));
-  if (!m) return null;
-  return { y: m[1], mo: m[2], d: m[3], hh: m[4], mm: m[5] };
-}
-
-/** 'YYYY-MM-DD' no fuso original do documento. */
-export function dayKey(iso) {
-  return String(iso ?? '').slice(0, 10);
+/** 'YYYY-MM-DD' (ou 'YYYY-MM' quando precision=month) do documento. */
+export function dayKey(item) {
+  return String(item?.date ?? '').slice(0, 10);
 }
 
 function localDayKey(date) {
@@ -66,20 +61,33 @@ function localDayKey(date) {
   return `${date.getFullYear()}-${p(date.getMonth() + 1)}-${p(date.getDate())}`;
 }
 
-/** dd/mm/yyyy a partir do ISO do documento. */
-export function formatDateBR(iso) {
-  const p = isoParts(iso);
-  return p ? `${p.d}/${p.mo}/${p.y}` : '';
+/** dd/mm/yyyy a partir do date do documento. */
+export function formatDateBR(date) {
+  const s = String(date ?? '');
+  return /^\d{4}-\d{2}-\d{2}$/.test(s) ? `${s.slice(8, 10)}/${s.slice(5, 7)}/${s.slice(0, 4)}` : '';
 }
 
-/** HH:MM no fuso original do documento. */
-export function formatTime(iso) {
-  const p = isoParts(iso);
-  return p ? `${p.hh}:${p.mm}` : '';
+/** HH:MM do documento, ou rótulo de hora não divulgada. */
+export function timeLabel(item) {
+  return item?.time ?? NO_TIME_LABEL;
 }
 
-/** Rótulo do separador de data: HOJE / ONTEM / dd/mm/yyyy. */
+/** "dd/mm/yyyy · HH:MM" ou "dd/mm/yyyy · horário não divulgado". */
+export function dateTimeLabel(item) {
+  const d = formatDateBR(item?.date);
+  return d ? `${d} · ${timeLabel(item)}` : '';
+}
+
+/** Chave de ordenação interna (nunca exibida como fato documental). */
+export function sortKeyOf(item) {
+  // '~' > qualquer dígito: registros sem hora ficam após os com hora do mesmo
+  // dia — convenção de EXIBIÇÃO, não afirmação de ordem cronológica.
+  return `${item?.date ?? ''}|${item?.time ?? '~'}`;
+}
+
+/** Rótulo do separador de data: HOJE / ONTEM / dd/mm/yyyy / mmm/yyyy. */
 export function dayLabel(key) {
+  if (/^\d{4}-\d{2}$/.test(key)) return monthLabel(key).replace('/', ' ').trim();
   const today = new Date();
   if (key === localDayKey(today)) return 'HOJE';
   const yesterday = new Date(today);
@@ -91,10 +99,11 @@ export function dayLabel(key) {
 const MONTHS_SHORT = ['jan', 'fev', 'mar', 'abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez'];
 
 /** Rótulo curto de mês para a TimelineNav: 'mar/24'. */
-export function monthLabel(iso) {
-  const p = isoParts(iso);
-  if (!p) return '';
-  return `${MONTHS_SHORT[Number(p.mo) - 1]}/${p.y.slice(2)}`;
+export function monthLabel(date) {
+  const s = String(date ?? '');
+  const m = /^(\d{4})-(\d{2})/.exec(s);
+  if (!m) return '';
+  return `${MONTHS_SHORT[Number(m[2]) - 1]}/${m[1].slice(2)}`;
 }
 
 /** Data completa em pt-BR para a home: '6 de outubro de 2026'. */

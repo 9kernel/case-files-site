@@ -20,7 +20,7 @@ function matches(entry, pmap, query) {
 
 function itemHtml(entry, pmap, activeId) {
   const count = entry.message_count ?? 0;
-  const date = formatDateBR(entry.last_message_at);
+  const date = formatDateBR(entry.last_message_date || entry.last_message_at);
   const preview = entry.last_message_preview || `${count} mensagem${count === 1 ? '' : 's'}`;
   // contato = primeiro participante que não é o dono da conversa (participants_ids[0])
   const pids = entry.participants_ids || [];

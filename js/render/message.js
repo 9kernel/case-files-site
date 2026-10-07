@@ -1,8 +1,12 @@
-// message.js — renderização de uma mensagem por tipo (bolha WhatsApp).
+// message.js — renderização de uma mensagem por content_kind (bolha WhatsApp)
+// e de eventos editoriais da timeline (nunca como bolha de alguém).
+//
+// Princípio editorial: texto editorial JAMAIS aparece dentro da bolha de
+// mensagem literal — notas vão para .editorial-note, fora da fala.
 // TODO conteúdo dinâmico passa por escapeHtml antes de innerHTML.
 // Ícones: SVGs inline mínimos (sem biblioteca).
 
-import { escapeHtml as esc, escapeAttr, nl2br, formatTime, formatDuration, hashHue } from '../utils.js';
+import { escapeHtml as esc, escapeAttr, nl2br, timeLabel, formatDateBR, formatDuration, hashHue } from '../utils.js';
 
 const I = {
   link: `<svg viewBox="0 0 24 24" width="14" height="14" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>`,
@@ -20,8 +24,9 @@ const I = {
   clip: `<svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21.44 11.05l-9.19 9.19a6 6 0 0 1-8.49-8.49l9.19-9.19a4 4 0 0 1 5.66 5.66l-9.2 9.19a2 2 0 0 1-2.83-2.83l8.49-8.48"/></svg>`,
   phoneHeader: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>`,
   videocam: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M23 7l-7 5 7 5V7z"/><rect x="1" y="5" width="15" height="14" rx="2"/></svg>`,
-  search: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>`,
-  close: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>`,
+  search: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>`,
+  close: `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>`,
+  info: `<svg viewBox="0 0 24 24" width="13" height="13" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4"/><path d="M12 8h.01"/></svg>`,
 };
 
 export const icons = I;
@@ -39,30 +44,33 @@ function mediaSrc(m) {
 }
 
 function captionHtml(m) {
-  return m.content ? `<div class="msg-text">${nl2br(esc(m.content))}</div>` : '';
+  return m.content ? `<div class="msg-text">${nl2br(esc(m.content || ''))}</div>` : '';
 }
 
 function altFor(m) {
   return m.media?.filename || m.content || 'Mídia dos autos';
 }
 
+/** rótulo discreto da natureza do conteúdo (dentro da bolha, acima do texto) */
+function kindTagHtml(m) {
+  switch (m.content_kind) {
+    case 'verbatim_excerpt':
+      return `<div class="kind-tag">trecho da mensagem</div>`;
+    case 'audio_transcript':
+      return `<div class="kind-tag">${m.transcription_complete ? 'transcrição de áudio' : 'transcrição parcial de áudio'}</div>`;
+    default:
+      return '';
+  }
+}
+
 function bodyFor(m) {
   const src = mediaSrc(m);
-  switch (m.type) {
-    case 'text':
+  switch (m.content_kind) {
+    case 'verbatim':
+    case 'verbatim_excerpt':
       return `<div class="msg-text">${nl2br(esc(m.content || ''))}</div>`;
 
-    case 'image':
-      return `<figure class="media">${
-        src
-          ? `<button type="button" class="media-zoom" data-action="view-media" aria-label="Ampliar imagem" title="Clique para ampliar">
-               <img src="${esc(src)}" alt="${esc(altFor(m))}" loading="lazy" decoding="async"
-                 onerror="window.__mediaError && window.__mediaError(this)">
-             </button>`
-          : `<div class="media-placeholder">${I.imgPh}<span>Imagem — ${esc(m.media?.filename || 'arquivo dos autos')}</span><small>disponível no documento original</small></div>`
-      }${captionHtml(m)}</figure>`;
-
-    case 'audio': {
+    case 'audio_transcript': {
       const dur = formatDuration(m.media?.duration_sec);
       const card = src
         ? `<div class="audio-card">${I.mic}<audio controls preload="metadata" src="${esc(src)}"></audio></div>`
@@ -70,14 +78,26 @@ function bodyFor(m) {
       return `${card}${dur ? `<span class="audio-dur">Duração: ${esc(dur)}</span>` : ''}${captionHtml(m)}`;
     }
 
-    case 'video':
-      return `<figure class="media">${
-        src
-          ? `<video controls playsinline preload="metadata" src="${esc(src)}"></video>`
-          : `<div class="media-placeholder">${I.play}<span>Vídeo — ${esc(m.media?.filename || 'gravação')}</span><small>disponível no documento original</small></div>`
-      }${captionHtml(m)}</figure>`;
-
-    case 'document': {
+    case 'media': {
+      const mediaKind = m.media?.kind || 'image';
+      if (mediaKind === 'image') {
+        return `<figure class="media">${
+          src
+            ? `<button type="button" class="media-zoom" data-action="view-media" aria-label="Ampliar imagem" title="Clique para ampliar">
+                 <img src="${esc(src)}" alt="${esc(altFor(m))}" loading="lazy" decoding="async"
+                   onerror="window.__mediaError && window.__mediaError(this)">
+               </button>`
+            : `<div class="media-placeholder">${I.imgPh}<span>Imagem — ${esc(m.media?.filename || 'arquivo dos autos')}</span><small>disponível no documento original</small></div>`
+        }${captionHtml(m)}</figure>`;
+      }
+      if (mediaKind === 'video') {
+        return `<figure class="media">${
+          src
+            ? `<video controls playsinline preload="metadata" src="${esc(src)}"></video>`
+            : `<div class="media-placeholder">${I.play}<span>Vídeo — ${esc(m.media?.filename || 'gravação')}</span><small>disponível no documento original</small></div>`
+        }${captionHtml(m)}</figure>`;
+      }
+      // document
       const filename = m.media?.filename || 'documento';
       const card = src
         ? `<a class="doc-card" href="${esc(src)}" target="_blank" rel="noopener">${I.doc}<span><span class="doc-name">${esc(filename)}</span><span class="doc-hint">Documento dos autos — abrir</span></span></a>`
@@ -104,9 +124,24 @@ function quoteFor(m, ctx) {
     return `<div class="quote quote-missing"><span>Mensagem original não publicada</span></div>`;
   }
   const sender = ctx.pmap.get(original.sender_id)?.name || original.sender_id;
-  const preview = (original.content || `[${original.type}]`).slice(0, 110);
+  const preview = (original.content || `(${original.content_kind})`).slice(0, 110);
   return `<a class="quote" href="#/thread/${esc(ctx.threadId)}/${esc(original.id)}">
     <strong>${esc(sender)}</strong><span>${esc(preview)}</span></a>`;
+}
+
+/* ---------- proveniência (§15/§16) ---------- */
+
+const PROVENANCE = {
+  official_document: { symbol: '✓', label: 'Documento oficial', cls: 'prov-official' },
+  public_investigation: { symbol: '◉', label: 'Investigação pública', cls: 'prov-investigation' },
+  secondary_source: { symbol: '○', label: 'Fonte jornalística', cls: 'prov-secondary' },
+  pending_review: { symbol: '◌', label: 'Em revisão', cls: 'prov-pending' },
+};
+
+export function provenanceBadgeHtml(record) {
+  const p = PROVENANCE[record?.verification?.level] || PROVENANCE.pending_review;
+  return `<button type="button" class="prov-badge ${p.cls}" data-action="source"
+    title="Nível de proveniência: ${p.label} — clique para ver a fonte">${p.symbol} ${p.label}</button>`;
 }
 
 function sourceBadgeHtml(m) {
@@ -119,11 +154,30 @@ function actionButtonsHtml() {
   <button type="button" class="mini-btn" data-action="copy-citation" title="Copiar citação" aria-label="Copiar citação">${I.quote}</button>`;
 }
 
-function systemRow(m) {
-  return `<div class="sys-row" id="msg-${esc(m.id)}" data-msg-id="${esc(m.id)}">
-    <span class="sys-capsule">${nl2br(esc(m.content || ''))}</span>
-    <div class="msg-side">${sourceBadgeHtml(m)}</div>
+/**
+ * Evento editorial da timeline (§14): registro neutro — SEM avatar, SEM bolha,
+ * SEM check, SEM lado esquerdo/direito. Nunca parece mensagem de alguém.
+ */
+export function renderEvent(ev, ctx) {
+  return `<div class="event-row" id="msg-${esc(ev.id)}" data-msg-id="${esc(ev.id)}">
+    <span class="event-tag">${I.info} evento editorial</span>
+    <p class="event-content">${nl2br(esc(ev.content || ''))}</p>
+    <span class="event-meta">
+      <time>${esc(dateTimeShort(ev))}</time>
+      · <button type="button" class="source-badge sys-badge" data-action="source" title="Ver fonte">${I.docSmall}<span>${esc(ev.source_ref)}</span></button>
+    </span>
   </div>`;
+}
+
+function dateTimeShort(item) {
+  const d = formatDateBR(item?.date) || item?.date || '';
+  return `${d}${item?.time ? ` · ${item.time}` : ''}`;
+}
+
+/** Nota editorial (§5): sempre FORA da bolha, com identidade visual própria. */
+function editorialNoteHtml(m) {
+  if (!m.editorial_note) return '';
+  return `<div class="editorial-note">${I.info}<span><strong>Contexto editorial</strong> — ${nl2br(esc(m.editorial_note))}</span></div>`;
 }
 
 /**
@@ -131,21 +185,25 @@ function systemRow(m) {
  * ctx = { threadId, ownerId, pmap, byId, isGroup }
  */
 export function renderMessage(m, ctx) {
-  if (m.type === 'system') return systemRow(m);
+  if (m.content_kind === 'editorial_event' || m.content_kind === 'system' || m.event_kind) {
+    return renderEvent(m, ctx);
+  }
 
   const out = m.sender_id === ctx.ownerId;
   const sender = ctx.pmap.get(m.sender_id)?.name || m.sender_id;
   const senderLabel = !out && ctx.isGroup
     ? `<div class="sender-name" style="color:${nameColor(m.sender_id)}">${esc(sender)}</div>`
     : '';
+  const noTime = m.time == null ? ' no-time' : '';
 
   return `<div class="msg-row ${out ? 'out' : 'in'}" id="msg-${esc(m.id)}" data-msg-id="${esc(m.id)}">
     <div class="bubble-col">
-      <div class="bubble">
-        ${senderLabel}${quoteFor(m, ctx)}${bodyFor(m)}
-        <span class="bubble-meta"><time datetime="${esc(m.timestamp)}">${esc(formatTime(m.timestamp))}</time>${out ? I.ticks : ''}</span>
+      <div class="bubble${noTime}">
+        ${kindTagHtml(m)}${senderLabel}${quoteFor(m, ctx)}${bodyFor(m)}
+        <span class="bubble-meta"><time>${esc(timeLabel(m))}</time>${out ? I.ticks : ''}</span>
       </div>
-      <div class="msg-side">${sourceBadgeHtml(m)}${actionButtonsHtml()}</div>
+      <div class="msg-side">${provenanceBadgeHtml(m)}${sourceBadgeHtml(m)}${actionButtonsHtml()}</div>
+      ${editorialNoteHtml(m)}
     </div>
   </div>`;
 }

@@ -47,20 +47,27 @@ export function getThreadIndex() {
   return fetchJSON('data/threads.json');
 }
 
-/** Thread RAW (inclui mensagens pending-review) — uso interno/deep-link. */
+/** Thread RAW (inclui registros pending_review) — uso interno/deep-link. */
 export function getThreadRaw(id) {
   // slug simples para evitar traversal de caminho
   const safeId = String(id).replace(/[^a-zA-Z0-9._-]/g, '');
   return fetchJSON(`data/threads/${safeId}.json`);
 }
 
+const isPublished = (r) => r?.verification?.level !== 'pending_review';
+
 /**
- * Thread para render: retorna uma CÓPIA com apenas as mensagens
- * status === 'confirmed' (pending-review fica só nos JSON, nunca no site).
+ * Thread para render: retorna uma CÓPIA com apenas mensagens e eventos
+ * publicados (verification.level != pending_review fica só nos JSON,
+ * nunca no site).
  */
 export async function getThread(id) {
   const raw = await getThreadRaw(id);
-  return { ...raw, messages: raw.messages.filter((m) => m.status === 'confirmed') };
+  return {
+    ...raw,
+    messages: (raw.messages || []).filter(isPublished),
+    timeline_events: (raw.timeline_events || []).filter(isPublished),
+  };
 }
 
 /** Map id -> participante. */
