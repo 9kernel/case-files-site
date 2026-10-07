@@ -7,8 +7,8 @@
  ],
  "source": {
   "document": "PF · IPJ-A nº 1252786/2026 — Análise de conteúdo (conversa Vorcaro × Paulo Henrique/BRB) (pacote Pet 16704)",
-  "url": "",
-  "pages": "Conversa declarada nos 'trechos do bate-papo entre VORCARO e PAULO HENRIQUE' ao longo do relatório. Paulo Henrique Costa era o então presidente do BRB, segundo o próprio documento. Citações literais conforme a narrativa; datas apenas quando documentadas."
+  "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
+  "pages": "IPJ-A nº 1252786/2026 — peça 792 do INQ 5.026, íntegra no pacote público «Arquivos Pet 16704» do STF. Página e figura citadas em cada mensagem."
  },
  "messages": [
   {
@@ -29,11 +29,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 5,
     "figure": 2,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -43,11 +43,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 5,
      "figure": 2,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -72,11 +72,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 5,
     "figure": 2,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -86,11 +86,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 5,
      "figure": 2,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -115,11 +115,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 10,
     "figure": 7,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -129,11 +129,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 10,
      "figure": 7,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -158,11 +158,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 10,
     "figure": 7,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -172,11 +172,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 10,
      "figure": 7,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -201,11 +201,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 227,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -215,11 +215,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 227,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -244,11 +244,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 227,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -258,11 +258,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 227,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -287,11 +287,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 227,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -301,11 +301,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 227,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -330,11 +330,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 77,
     "figure": 78,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -344,11 +344,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 77,
      "figure": 78,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -372,11 +372,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 5,
     "figure": 2,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -386,11 +386,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 5,
      "figure": 2,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -414,11 +414,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 6,
     "figure": 3,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -428,11 +428,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 6,
      "figure": 3,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -456,11 +456,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 6,
     "figure": 3,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -470,11 +470,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 6,
      "figure": 3,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -498,11 +498,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 7,
     "figure": 4,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -512,11 +512,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 7,
      "figure": 4,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -540,11 +540,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 10,
     "figure": 7,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -554,11 +554,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 10,
      "figure": 7,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -582,11 +582,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 13,
     "figure": 10,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -596,11 +596,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 13,
      "figure": 10,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -624,11 +624,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 36,
     "figure": 32,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -638,11 +638,11 @@
      "document_id": "pf-ipja-1252786-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "INQ 5026",
      "document": "IPJ-A nº 1252786/2026",
      "page": 36,
      "figure": 32,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
     },
     "secondary": []
    },
@@ -666,11 +666,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 5,
     "figure": 2,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -692,11 +692,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 7,
     "figure": 4,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -720,11 +720,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "INQ 5026",
     "document": "IPJ-A nº 1252786/2026",
     "page": 7,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },

@@ -7,8 +7,8 @@
  ],
  "source": {
   "document": "PF · Representação PF (PET 15.499/STF) e IPJ-A nº 1020625/2026 (conversas declaradas no texto e nas legendas)",
-  "url": "",
-  "pages": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53)."
+  "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
+  "pages": "Representação PF (PET 15.499 — peça íntegra pública como PET 15.977, peça 2) e IPJ-A nº 1020625/2026 (PET 15.978, peça 4) — pacote público «Arquivos Pet 16704» do STF. Página e figura citadas em cada mensagem."
  },
  "messages": [
   {
@@ -33,7 +33,7 @@
     "document": "Representação PF (PET 15.499/STF)",
     "page": 46,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -47,7 +47,7 @@
      "document": "Representação PF (PET 15.499/STF)",
      "page": 46,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111"
     },
     "secondary": []
    },
@@ -76,7 +76,7 @@
     "document": "Representação PF (PET 15.499/STF)",
     "page": 46,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -90,7 +90,7 @@
      "document": "Representação PF (PET 15.499/STF)",
      "page": 46,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111"
     },
     "secondary": []
    },
@@ -119,7 +119,7 @@
     "document": "Representação PF (PET 15.499/STF)",
     "page": 46,
     "figure": null,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -133,7 +133,7 @@
      "document": "Representação PF (PET 15.499/STF)",
      "page": 46,
      "figure": null,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111"
     },
     "secondary": []
    },
@@ -157,11 +157,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "PET 15978",
     "document": "IPJ-A nº 1020625/2026",
     "page": 49,
     "figure": 57,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -171,11 +171,11 @@
      "document_id": "pf-ipja-1020625-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "PET 15978",
      "document": "IPJ-A nº 1020625/2026",
      "page": 49,
      "figure": 57,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
     },
     "secondary": []
    },
@@ -199,11 +199,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "PET 15978",
     "document": "IPJ-A nº 1020625/2026",
     "page": 49,
     "figure": 57,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -213,11 +213,11 @@
      "document_id": "pf-ipja-1020625-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "PET 15978",
      "document": "IPJ-A nº 1020625/2026",
      "page": 49,
      "figure": 57,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
     },
     "secondary": []
    },
@@ -241,11 +241,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "PET 15978",
     "document": "IPJ-A nº 1020625/2026",
     "page": 49,
     "figure": 57,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -255,11 +255,11 @@
      "document_id": "pf-ipja-1020625-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "PET 15978",
      "document": "IPJ-A nº 1020625/2026",
      "page": 49,
      "figure": 57,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
     },
     "secondary": []
    },
@@ -283,11 +283,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "PET 15978",
     "document": "IPJ-A nº 1020625/2026",
     "page": 50,
     "figure": 58,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },
@@ -297,11 +297,11 @@
      "document_id": "pf-ipja-1020625-2026",
      "authority": "Polícia Federal",
      "court": "STF",
-     "case": null,
+     "case": "PET 15978",
      "document": "IPJ-A nº 1020625/2026",
      "page": 50,
      "figure": 58,
-     "url": null
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
     },
     "secondary": []
    },
@@ -325,11 +325,11 @@
     "origin": "PF extraction",
     "authority": "Polícia Federal",
     "court": "STF",
-    "case": null,
+    "case": "PET 15978",
     "document": "IPJ-A nº 1020625/2026",
     "page": 49,
     "figure": 57,
-    "official_url": null,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
     "primary_document_located": true,
     "verified_at": "2026-10-07"
    },

@@ -1,59 +1,59 @@
 {
-  "id": "luiz-renno-daniel-vorcaro",
-  "title": "Luiz Rennó",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "luiz-renno"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 184–185",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-    "pages": "Cópia pública (reprodução jornalística) do documento oficial."
-  },
-  "messages": [
-    {
-      "id": "m-00001",
-      "date": "2024-04-19",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "evento super exclusivo com alexandre de moraes em londres",
-      "editorial_note": "Escreve que está organizando o evento, segundo o relatório.",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 185,
-        "figure": 191
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 185,
-        "figure": 191,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 185,
-          "figure": 191,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 185 · fig. 191",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+ "id": "luiz-renno-daniel-vorcaro",
+ "title": "Luiz Rennó",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "luiz-renno"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 184–185",
+  "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-04-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "evento super exclusivo com alexandre de moraes em londres",
+   "editorial_note": "Escreve que está organizando o evento, segundo o relatório.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 185,
+    "figure": 191
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 185,
+    "figure": 191,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 185,
+     "figure": 191,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 185 · fig. 191",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

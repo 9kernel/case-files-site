@@ -17,6 +17,39 @@ const participants = [
   { id: 'p-bruno', name: 'Bruno', role: 'r', aliases: [], summary: 's' },
 ];
 
+/* documents.json padrão do fixture: peça com publicidade confirmada */
+const defaultDocs = [
+  {
+    id: 'pf-ipja-3298613-2026',
+    title: 'IPJ-A nº 3298613/2026 — teste',
+    authority: 'Polícia Federal',
+    court: 'STF',
+    case: 'PET 16662',
+    official_process_url: 'https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133',
+    public_access_verified: true,
+    public_access_date: '2026-09-01',
+    public_access_basis: 'levantamento de sigilo STF + cópia pública conferida',
+    sha256: 'a'.repeat(64),
+    bytes: 10,
+  },
+  {
+    id: 'doc-sigilosa',
+    title: 'Peça ainda sob sigilo — teste',
+    authority: 'Polícia Federal',
+    court: 'STF',
+    case: 'PET X',
+    public_access_verified: false,
+  },
+  {
+    id: 'doc-publicidade-nula',
+    title: 'Peça com publicidade desconhecida — teste',
+    authority: 'Polícia Federal',
+    court: 'STF',
+    case: 'PET Y',
+    public_access_verified: null,
+  },
+];
+
 function msg(over = {}) {
   return {
     id: 'm-00001',
@@ -82,6 +115,7 @@ function officialMsg(over = {}) {
       secondary: [{ publication: 'R7', date: '2026-09-01', url: 'https://example.org/r7' }],
     },
     source_ref: 'PF · IPJ-A nº 3298613/2026 · fl. 143',
+    source: { document_id: 'pf-ipja-3298613-2026', page: 143, figure: 142 },
     ...over,
   });
 }
@@ -112,8 +146,9 @@ function baseThread() {
   };
 }
 
-function writeData(thread, participantsData = participants) {
+function writeData(thread, participantsData = participants, docs = defaultDocs) {
   fs.writeFileSync(path.join(dataDir, 'participants.json'), JSON.stringify(participantsData));
+  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docs));
   fs.writeFileSync(path.join(dataDir, 'threads', 'thread-teste.json'), JSON.stringify(thread));
 }
 
@@ -298,21 +333,66 @@ ok = runCase('sem data mas com precision → erro', (t) => {
 ok = runCase('document_id desconhecido', (t) => {
   t.messages[0].source = { document_id: 'doc-fantasma', page: 10 };
 }, ['E_UNKNOWN_DOCUMENT']) && ok;
+
+/* publicidade da peça (missão §9/§10) — a força da afirmação nunca supera a evidência */
+ok = runCase('official_document sem document_id', (t) => { delete t.messages[1].source; }, ['E_OFFICIAL_UNVERIFIED_PUBLIC']) && ok;
+ok = runCase('official_document em peça sem publicidade confirmada (false)', (t) => {
+  t.messages[1].source = { ...t.messages[1].source, document_id: 'doc-sigilosa' };
+}, ['E_OFFICIAL_UNVERIFIED_PUBLIC']) && ok;
+ok = runCase('official_document em peça com publicidade desconhecida (null)', (t) => {
+  t.messages[1].source = { ...t.messages[1].source, document_id: 'doc-publicidade-nula' };
+}, ['E_OFFICIAL_UNVERIFIED_PUBLIC']) && ok;
+ok = runCase('evento editorial official_document exige peça pública', (t) => {
+  t.timeline_events[0].verification = { level: 'official_document', authority: 'PF', document: 'Peça X', page: 10, primary_document_located: true, verified_at: null };
+  t.timeline_events[0].source = { document_id: 'doc-sigilosa', page: 10 };
+}, ['E_OFFICIAL_UNVERIFIED_PUBLIC']) && ok;
+ok = runCase('official_document em peça verificada pública passa', (t) => {}, []) && ok;
 {
   const docsBad = [{ id: 'doc-x', title: 'X', authority: 'PF', official_pdf_url: 'https://ex.org/x.pdf' }];
-  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsBad));
-  writeData(baseThread());
+  writeData(baseThread(), participants, docsBad);
   const { errors } = validateData(dataDir, tmpRoot);
   const has = errors.some((e) => e.code === 'E_DOCUMENT_FIELD' && /official_pdf_url/.test(e.message));
   console.log(has ? '✓ documents.json com official_pdf_url → E_DOCUMENT_FIELD' : '✗ official_pdf_url não detectado');
   ok = has && ok;
-  fs.rmSync(path.join(dataDir, 'documents.json'));
+}
+{
+  // documento sem o campo estruturado de publicidade
+  const docsNoField = [{ id: 'doc-x', title: 'X', authority: 'PF' }];
+  writeData(baseThread(), participants, docsNoField);
+  const { errors } = validateData(dataDir, tmpRoot);
+  const has = errors.some((e) => e.code === 'E_DOCUMENT_FIELD' && /campo estruturado.*public_access_verified/.test(e.message));
+  console.log(has ? '✓ documento sem public_access_verified → E_DOCUMENT_FIELD' : '✗ campo estruturado ausente não detectado');
+  ok = has && ok;
+
+  // string vaga ("em verificação") no lugar do campo estruturado
+  const docsVaga = [{ id: 'doc-x', title: 'X', authority: 'PF', public_access_verified: 'em verificação' }];
+  writeData(baseThread(), participants, docsVaga);
+  const { errors: ev } = validateData(dataDir, tmpRoot);
+  const hasV = ev.some((e) => e.code === 'E_DOCUMENT_FIELD' && /deve ser true\/false\/null/.test(e.message));
+  console.log(hasV ? '✓ public_access_verified como string vaga → E_DOCUMENT_FIELD' : '✗ string vaga não detectada');
+  ok = hasV && ok;
+
+  // verified=true sem data nem base da publicidade
+  const docsSemData = [{ id: 'doc-x', title: 'X', authority: 'PF', public_access_verified: true }];
+  writeData(baseThread(), participants, docsSemData);
+  const { errors: ed } = validateData(dataDir, tmpRoot);
+  const hasD = ed.some((e) => e.code === 'E_DOCUMENT_FIELD' && /public_access_date/.test(e.message));
+  const hasB = ed.some((e) => e.code === 'E_DOCUMENT_FIELD' && /public_access_basis/.test(e.message));
+  console.log(hasD && hasB ? '✓ verified=true sem data/basis → E_DOCUMENT_FIELD' : '✗ data/basis ausentes não detectados');
+  ok = hasD && hasB && ok;
+
+  // verified=true com data inválida
+  const docsDataInvalida = [{ id: 'doc-x', title: 'X', authority: 'PF', public_access_verified: true, public_access_date: 'set/2026', public_access_basis: 'x' }];
+  writeData(baseThread(), participants, docsDataInvalida);
+  const { errors: edi } = validateData(dataDir, tmpRoot);
+  const hasI = edi.some((e) => e.code === 'E_DOCUMENT_FIELD' && /public_access_date \(YYYY-MM-DD\)/.test(e.message));
+  console.log(hasI ? '✓ verified=true com data inválida → E_DOCUMENT_FIELD' : '✗ data inválida não detectada');
+  ok = hasI && ok;
 }
 {
   // hosted_copy_url: sempre caminho relativo em public/docs/ — nunca URL externa
   const docsExt = [{ id: 'doc-x', title: 'X', authority: 'PF', hosted_copy_url: 'https://cdn.ex.org/x.pdf' }];
-  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsExt));
-  writeData(baseThread());
+  writeData(baseThread(), participants, docsExt);
   const { errors } = validateData(dataDir, tmpRoot);
   const has = errors.some((e) => e.code === 'E_DOCUMENT_FIELD' && /hosted_copy_url.*nunca URL externa/.test(e.message));
   console.log(has ? '✓ hosted_copy_url externa → E_DOCUMENT_FIELD' : '✗ hosted_copy_url externa não detectada');
@@ -320,7 +400,7 @@ ok = runCase('document_id desconhecido', (t) => {
 
   // arquivo hospedado inexistente no repositório
   const docsMissing = [{ id: 'doc-x', title: 'X', authority: 'PF', hosted_copy_url: 'public/docs/sumiu.pdf' }];
-  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsMissing));
+  writeData(baseThread(), participants, docsMissing);
   const { errors: e2 } = validateData(dataDir, tmpRoot);
   const has2 = e2.some((e) => e.code === 'E_DOCUMENT_FIELD' && /não existe no repositório/.test(e.message));
   console.log(has2 ? '✓ hosted_copy_url sem arquivo → E_DOCUMENT_FIELD' : '✗ arquivo ausente não detectado');
@@ -328,7 +408,7 @@ ok = runCase('document_id desconhecido', (t) => {
 
   // arquivo existente mas com hash divergente do declarado
   const docsHash = [{ id: 'doc-x', title: 'X', authority: 'PF', sha256: '0'.repeat(64), hosted_copy_url: 'public/docs/h.pdf' }];
-  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsHash));
+  writeData(baseThread(), participants, docsHash);
   fs.mkdirSync(path.join(tmpRoot, 'public', 'docs'), { recursive: true });
   fs.writeFileSync(path.join(tmpRoot, 'public', 'docs', 'h.pdf'), 'conteudo qualquer');
   const { errors: e3 } = validateData(dataDir, tmpRoot);
@@ -336,7 +416,6 @@ ok = runCase('document_id desconhecido', (t) => {
   console.log(has3 ? '✓ hosted_copy_url com hash divergente → E_DOCUMENT_FIELD' : '✗ divergência de hash não detectada');
   ok = has3 && ok;
 
-  fs.rmSync(path.join(dataDir, 'documents.json'));
   fs.rmSync(path.join(tmpRoot, 'public'), { recursive: true, force: true });
 }
 

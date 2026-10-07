@@ -1,716 +1,716 @@
 {
-  "id": "alexandre-moraes-daniel-vorcaro",
-  "title": "Alexandre de Moraes",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "alexandre-moraes"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — relatório desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7",
-    "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
-    "pages": "Mensagens localizadas no documento primário: página e figura citadas em cada mensagem. O contato do ministro usava mensagens temporárias de 24 horas (ativadas em 17/09/2025): só o lado de Vorcaro sobreviveu na extração, preservado em rascunhos e capturas de tela. Todos os textos são trechos — a transcrição integral das mensagens não foi divulgada."
+ "id": "alexandre-moraes-daniel-vorcaro",
+ "title": "Alexandre de Moraes",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "alexandre-moraes"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — relatório desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7",
+  "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
+  "pages": "Mensagens localizadas no documento primário: página e figura citadas em cada mensagem. O contato do ministro usava mensagens temporárias de 24 horas (ativadas em 17/09/2025): só o lado de Vorcaro sobreviveu na extração, preservado em rascunhos e capturas de tela. Todos os textos são trechos — a transcrição integral das mensagens não foi divulgada."
+ },
+ "messages": [
+  {
+   "id": "m-00002",
+   "date": "2025-10-30",
+   "time": "13:33",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "G e os diretores estão na pressão máxima\nÉ importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
+   "editorial_note": "No documento primário, estes dois trechos constam de uma mesma mensagem (fl. 49, fig. 48); a transcrição integral não foi localizada.",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 49,
+    "figure": 48,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 49,
+     "figure": 48,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
+    },
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 49 · fig. 48",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 49,
+    "figure": 48
+   }
   },
-  "messages": [
-    {
-      "id": "m-00002",
-      "date": "2025-10-30",
-      "time": "13:33",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "G e os diretores estão na pressão máxima\nÉ importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
-      "editorial_note": "No documento primário, estes dois trechos constam de uma mesma mensagem (fl. 49, fig. 48); a transcrição integral não foi localizada.",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 49,
-        "figure": 48,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 49,
-          "figure": 48,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 49 · fig. 48",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 49,
-        "figure": 48
-      }
+  {
+   "id": "m-00007",
+   "date": "2025-11-04",
+   "time": "17:41",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
+   "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 61,
+    "figure": 60,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 61,
+     "figure": 60,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00007",
-      "date": "2025-11-04",
-      "time": "17:41",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
-      "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 61,
-        "figure": 60,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 61,
-          "figure": 60,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 61 · fig. 60",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 61,
-        "figure": 60
-      }
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 61 · fig. 60",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 61,
+    "figure": 60
+   }
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-11-15",
+   "time": "22:12",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "E com Andrei dá pra segurar?",
+   "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 127,
+    "figure": 126,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 127,
+     "figure": 126,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00008",
-      "date": "2025-11-15",
-      "time": "22:12",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "E com Andrei dá pra segurar?",
-      "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 127,
-        "figure": 126,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 127,
-          "figure": 126,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 127 · fig. 126",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 127,
-        "figure": 126
-      }
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 127 · fig. 126",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 127,
+    "figure": 126
+   }
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-11-15",
+   "time": "22:28",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
+   "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 129,
+    "figure": 128,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 129,
+     "figure": 128,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00006",
-      "date": "2025-11-15",
-      "time": "22:28",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
-      "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 129,
-        "figure": 128,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 129,
-          "figure": 128,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 129 · fig. 128",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 129,
-        "figure": 128
-      }
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 129 · fig. 128",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 129,
+    "figure": 128
+   }
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-11-17",
+   "time": "17:22",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fiz uma correria aqui pra tentar salvar. Fiz o que deu, vou anunciar parte da transação",
+   "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 141,
+    "figure": 140,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 141,
+     "figure": 140,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00009",
-      "date": "2025-11-17",
-      "time": "17:22",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "Fiz uma correria aqui pra tentar salvar. Fiz o que deu, vou anunciar parte da transação",
-      "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 141,
-        "figure": 140,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 141,
-          "figure": 140,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 141 · fig. 140",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 141,
-        "figure": 140
-      }
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 141 · fig. 140",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 141,
+    "figure": 140
+   }
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-11-17",
+   "time": "17:26",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
+   "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 143,
+    "figure": 142,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 143,
+     "figure": 142,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00005",
-      "date": "2025-11-17",
-      "time": "17:26",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
-      "editorial_note": "Data, hora e referência de fl./fig. conferidas contra a cópia pública do documento (tabelas de ações da PF, horários em UTC-3).",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 143,
-        "figure": 142,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 143,
-          "figure": 142,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 143 · fig. 142",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 143,
-        "figure": 142
-      }
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 143 · fig. 142",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 143,
+    "figure": 142
+   }
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-11-17",
+   "time": "20:48",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que pode inibir.",
+   "editorial_note": "Segundo a reportagem do R7, a resposta refere-se à apuração jornalística sobre transações do BRB; a leitura de que poderia inibir o avanço das apurações é da reportagem.",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 147,
+    "figure": 146,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 147,
+     "figure": 146,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+     "document_id": "pf-ipja-3298613-2026"
     },
-    {
-      "id": "m-00010",
-      "date": "2025-11-17",
-      "time": "20:48",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "Acho que pode inibir.",
-      "editorial_note": "Segundo a reportagem do R7, a resposta refere-se à apuração jornalística sobre transações do BRB; a leitura de que poderia inibir o avanço das apurações é da reportagem.",
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 147,
-        "figure": 146,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 147,
-          "figure": 146,
-          "url": null,
-          "document_id": "pf-ipja-3298613-2026"
-        },
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 147 · fig. 146",
-      "added_in": "ingest-bm-r7-20261006",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 147,
-        "figure": 146
-      }
-    }
-  ],
-  "timeline_events": [
-    {
-      "id": "e-00001",
-      "date": "2023-12-26",
-      "time": "11:43",
-      "timestamp_precision": "minute",
-      "content": "O contato “Alexandre de Moraes BRASILIA” é salvo na agenda de Vorcaro às 11:43:58 (-03:00), após compartilhamento por Fábio Faria dos contatos “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número (não reproduzido).",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 19,
-        "figure": 13
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 19,
-        "figure": 13,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 19 · fig. 13",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00002",
-      "date": "2024-11-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Em conversa com um contato pessoal (identidade minimizada), Vorcaro diz que está “com alexandre moraes”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 175,
-        "figure": 177
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 175,
-        "figure": 177,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 175 · fig. 177",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00003",
-      "date": "2025-03-19",
-      "time": "20:23",
-      "timestamp_precision": "minute",
-      "content": "Vorcaro escreve a um contato pessoal (identidade minimizada) que está com o ministro.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 177,
-        "figure": 179
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 177,
-        "figure": 179,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 177 · fig. 179",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00004",
-      "date": "2025-03-20",
-      "time": "00:32",
-      "timestamp_precision": "minute",
-      "content": "Vorcaro informa que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”; o relatório indica que o encontro pode ter durado desde 20:23:54 de 19/03/2025.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 178,
-        "figure": 181
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 178,
-        "figure": 181,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 178 · fig. 181",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00005",
-      "date": "2025-04-19",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está “indo encontrar alexandre moraes” perto de casa; questionado se o ministro estava em Campos, responde “Ele ta passando feriado”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 179,
-        "figure": 182
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 179,
-        "figure": 182,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 179 · fig. 182",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00006",
-      "date": "2025-04-29",
-      "time": "22:44",
-      "timestamp_precision": "minute",
-      "content": "Após chamada de voz de 1 min 47 s com contato pessoal (identidade minimizada), questionado “Quem era o primeiro cara?”, Vorcaro responde que era “alexandre moraes”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 180,
-        "figure": 184
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 180,
-        "figure": 184,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 180 · fig. 184",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00007",
-      "date": "2025-05-21",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está com “Ciro e alexandre”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 180,
-        "figure": 185
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 180,
-        "figure": 185,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 180 · fig. 185",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00008",
-      "date": "2025-05-26",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Vorcaro escreve a um contato pessoal (identidade minimizada) que teria encontro com “alexandre” e que estaria “marcando jantar com as mulheres fabio e dele”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 181,
-        "figure": 186
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 181,
-        "figure": 186,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 181 · fig. 186",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00009",
-      "date": "2025-08-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está com “alexandre” e que depois terá reunião “Com ciro”.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 181,
-        "figure": 187
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 181,
-        "figure": 187,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 181 · fig. 187",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00010",
-      "date": "2025-09-17",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado de Vorcaro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.",
-      "event_kind": "editorial_context",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "e-00011",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF. As datas e horários das mensagens desta data provêm do documento primário (IPJ-A nº 3298613/2026).",
-      "event_kind": "editorial_context",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "e-00012",
-      "date": "2025-11-17",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Contexto atribuído pela reportagem: jornalistas apuravam transações do Banco Master com o BRB, e o R7 relata que Vorcaro disse ter feito “uma correria” para tentar salvar a situação, o que poderia inibir o avanço das apurações.",
-      "event_kind": "editorial_context",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "e-00013",
-      "date": "2025-11-17",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "As mensagens trocadas neste dia entre Vorcaro e o contato estão reproduzidas nas figuras 38–40 do relatório; cinco mensagens foram enviadas por Vorcaro em modo de visualização única, recuperadas na própria extração, e os horários do WhatsApp são exibidos em UTC-3.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 37,
-        "figure": 38
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 37,
-        "figure": 38,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 37 · fig. 38",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+    "secondary": [
+     {
+      "publication": "R7 (reproduzido pela Rádio Guaíba)",
+      "date": "2026-09-01",
+      "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+     }
+    ]
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 147 · fig. 146",
+   "added_in": "ingest-bm-r7-20261006",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 147,
+    "figure": 146
+   }
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2023-12-26",
+   "time": "11:43",
+   "timestamp_precision": "minute",
+   "content": "O contato “Alexandre de Moraes BRASILIA” é salvo na agenda de Vorcaro às 11:43:58 (-03:00), após compartilhamento por Fábio Faria dos contatos “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número (não reproduzido).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 19,
+    "figure": 13
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 19,
+    "figure": 13,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 19 · fig. 13",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-11-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Em conversa com um contato pessoal (identidade minimizada), Vorcaro diz que está “com alexandre moraes”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 175,
+    "figure": 177
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 175,
+    "figure": 177,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 175 · fig. 177",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00003",
+   "date": "2025-03-19",
+   "time": "20:23",
+   "timestamp_precision": "minute",
+   "content": "Vorcaro escreve a um contato pessoal (identidade minimizada) que está com o ministro.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 177,
+    "figure": 179
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 177,
+    "figure": 179,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 177 · fig. 179",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00004",
+   "date": "2025-03-20",
+   "time": "00:32",
+   "timestamp_precision": "minute",
+   "content": "Vorcaro informa que “acabou chegando hugo e ciro aqui pra falarem com Alexandre”; o relatório indica que o encontro pode ter durado desde 20:23:54 de 19/03/2025.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 178,
+    "figure": 181
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 178,
+    "figure": 181,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 178 · fig. 181",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00005",
+   "date": "2025-04-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está “indo encontrar alexandre moraes” perto de casa; questionado se o ministro estava em Campos, responde “Ele ta passando feriado”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 179,
+    "figure": 182
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 179,
+    "figure": 182,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 179 · fig. 182",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00006",
+   "date": "2025-04-29",
+   "time": "22:44",
+   "timestamp_precision": "minute",
+   "content": "Após chamada de voz de 1 min 47 s com contato pessoal (identidade minimizada), questionado “Quem era o primeiro cara?”, Vorcaro responde que era “alexandre moraes”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 180,
+    "figure": 184
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 180,
+    "figure": 184,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 180 · fig. 184",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00007",
+   "date": "2025-05-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está com “Ciro e alexandre”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 180,
+    "figure": 185
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 180,
+    "figure": 185,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 180 · fig. 185",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00008",
+   "date": "2025-05-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro escreve a um contato pessoal (identidade minimizada) que teria encontro com “alexandre” e que estaria “marcando jantar com as mulheres fabio e dele”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 181,
+    "figure": 186
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 181,
+    "figure": 186,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 181 · fig. 186",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00009",
+   "date": "2025-08-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro diz a um contato pessoal (identidade minimizada) que está com “alexandre” e que depois terá reunião “Com ciro”.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 181,
+    "figure": 187
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 181,
+    "figure": 187,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 181 · fig. 187",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00010",
+   "date": "2025-09-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado de Vorcaro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+   "added_in": "ingest-bm-r7-20261006"
+  },
+  {
+   "id": "e-00011",
+   "date": "2025-10-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF. As datas e horários das mensagens desta data provêm do documento primário (IPJ-A nº 3298613/2026).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+   "added_in": "ingest-bm-r7-20261006"
+  },
+  {
+   "id": "e-00012",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Contexto atribuído pela reportagem: jornalistas apuravam transações do Banco Master com o BRB, e o R7 relata que Vorcaro disse ter feito “uma correria” para tentar salvar a situação, o que poderia inibir o avanço das apurações.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+   "added_in": "ingest-bm-r7-20261006"
+  },
+  {
+   "id": "e-00013",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "As mensagens trocadas neste dia entre Vorcaro e o contato estão reproduzidas nas figuras 38–40 do relatório; cinco mensagens foram enviadas por Vorcaro em modo de visualização única, recuperadas na própria extração, e os horários do WhatsApp são exibidos em UTC-3.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 37,
+    "figure": 38
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 37,
+    "figure": 38,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 37 · fig. 38",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

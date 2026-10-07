@@ -1,330 +1,330 @@
 {
-  "id": "marcio-conjur-daniel-vorcaro",
-  "title": "Marcio Conjur",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "marcio-conjur"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 182, 213–215",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Nome usado exatamente como salvo no aparelho; identidade civil não estabelecida no documento."
+ "id": "marcio-conjur-daniel-vorcaro",
+ "title": "Marcio Conjur",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "marcio-conjur"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 182, 213–215",
+  "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Nome usado exatamente como salvo no aparelho; identidade civil não estabelecida no documento."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ministro fez convite ao andrei PF",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 214,
+    "figure": 226
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 214,
+    "figure": 226,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 214,
+     "figure": 226,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 214 · fig. 226",
+   "added_in": "ingest-ipja-20261006"
   },
-  "messages": [
-    {
-      "id": "m-00001",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "Ministro fez convite ao andrei PF",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 214,
-        "figure": 226
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 214,
-        "figure": 226,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 214,
-          "figure": 226,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 214 · fig. 226",
-      "added_in": "ingest-ipja-20261006"
+  {
+   "id": "m-00002",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "marcio-conjur",
+   "content_kind": "verbatim",
+   "content": "ótimo",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 214,
+    "figure": 226
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 214,
+    "figure": 226,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 214,
+     "figure": 226,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00002",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "marcio-conjur",
-      "content_kind": "verbatim",
-      "content": "ótimo",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 214,
-        "figure": 226
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 214,
-        "figure": 226,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 214,
-          "figure": 226,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 214 · fig. 226",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 214 · fig. 226",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "marcio-conjur",
+   "content_kind": "forwarded_message",
+   "content": "",
+   "editorial_note": "Encaminha mensagem de pessoa que se apresenta como “EPF Ana Beatriz, assistente do Diretor-Geral da Polícia Federal”; teor não transcrito no relatório.",
+   "media": {
+    "id": "media-fwd-epf-20240403",
+    "status": "media_reference_only",
+    "type": "forwarded_image",
+    "local_file": null,
+    "external_url": null,
+    "sha256": null,
+    "verified": false
+   },
+   "forwarded_attribution": {
+    "name": "EPF Ana Beatriz (apresentação da interlocutora)",
+    "verified_direct_contact": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 215,
+    "figure": 227
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 215,
+    "figure": 227,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 215,
+     "figure": 227,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00003",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "marcio-conjur",
-      "content_kind": "forwarded_message",
-      "content": "",
-      "editorial_note": "Encaminha mensagem de pessoa que se apresenta como “EPF Ana Beatriz, assistente do Diretor-Geral da Polícia Federal”; teor não transcrito no relatório.",
-      "media": {
-        "id": "media-fwd-epf-20240403",
-        "status": "media_reference_only",
-        "type": "forwarded_image",
-        "local_file": null,
-        "external_url": null,
-        "sha256": null,
-        "verified": false
-      },
-      "forwarded_attribution": {
-        "name": "EPF Ana Beatriz (apresentação da interlocutora)",
-        "verified_direct_contact": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 215,
-        "figure": 227
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 215,
-        "figure": 227,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 215,
-          "figure": 227,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "marcio-conjur",
+   "content_kind": "forwarded_message",
+   "content": "interesse em participar do evento em Londres",
+   "editorial_note": "Encaminha confirmação de interesse; a interlocutora pediu que fosse averiguado “sobre questões logísticas”, incluindo a pergunta abaixo.",
+   "forwarded_attribution": {
+    "name": "EPF Ana Beatriz (apresentação da interlocutora)",
+    "verified_direct_contact": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 215,
+    "figure": 227
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 215,
+    "figure": 227,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 215,
+     "figure": 227,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00004",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "marcio-conjur",
-      "content_kind": "forwarded_message",
-      "content": "interesse em participar do evento em Londres",
-      "editorial_note": "Encaminha confirmação de interesse; a interlocutora pediu que fosse averiguado “sobre questões logísticas”, incluindo a pergunta abaixo.",
-      "forwarded_attribution": {
-        "name": "EPF Ana Beatriz (apresentação da interlocutora)",
-        "verified_direct_contact": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 215,
-        "figure": 227
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 215,
-        "figure": 227,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 215,
-          "figure": 227,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "marcio-conjur",
+   "content_kind": "forwarded_message",
+   "content": "algum custo (hospedagem, passagem) é coberto pelos organizadores?",
+   "editorial_note": null,
+   "forwarded_attribution": {
+    "name": "EPF Ana Beatriz (apresentação da interlocutora)",
+    "verified_direct_contact": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 215,
+    "figure": 227
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 215,
+    "figure": 227,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 215,
+     "figure": 227,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00005",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "marcio-conjur",
-      "content_kind": "forwarded_message",
-      "content": "algum custo (hospedagem, passagem) é coberto pelos organizadores?",
-      "editorial_note": null,
-      "forwarded_attribution": {
-        "name": "EPF Ana Beatriz (apresentação da interlocutora)",
-        "verified_direct_contact": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 215,
-        "figure": 227
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 215,
-        "figure": 227,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 215,
-          "figure": 227,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-04-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "marcio-conjur",
+   "content_kind": "verbatim",
+   "content": "Todas as despesas bancadas por nós",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 215,
+    "figure": 227
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 215,
+    "figure": 227,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 215,
+     "figure": 227,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00006",
-      "date": "2024-04-03",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "marcio-conjur",
-      "content_kind": "verbatim",
-      "content": "Todas as despesas bancadas por nós",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 215,
-        "figure": 227
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 215,
-        "figure": 227,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 215,
-          "figure": 227,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ],
-  "timeline_events": [
-    {
-      "id": "e-00001",
-      "date": "2024-03-28",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "“Marcio Conjur” informa Vorcaro que o ministro Alexandre enviou convite para o evento a ser realizado em Londres entre 24 e 27 de abril de 2024.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 182,
-        "figure": 188
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 182,
-        "figure": 188,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 182 · fig. 188",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 215 · fig. 227",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-03-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "“Marcio Conjur” informa Vorcaro que o ministro Alexandre enviou convite para o evento a ser realizado em Londres entre 24 e 27 de abril de 2024.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 182,
+    "figure": 188
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 182,
+    "figure": 188,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 182 · fig. 188",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

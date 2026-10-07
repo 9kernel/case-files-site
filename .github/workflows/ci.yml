@@ -21,6 +21,10 @@ jobs:
         run: node scripts/validate.mjs data
       - name: test-validate.mjs (testa cada regra de rejeição)
         run: node scripts/test-validate.mjs
+      - name: audit-public-provenance.mjs (publicidade por mensagem)
+        run: node scripts/audit-public-provenance.mjs
+      - name: check-email-leak.mjs (sem e-mail pessoal em arquivos publicados)
+        run: node scripts/check-email-leak.mjs
 
   deploy:
     name: Publicar no GitHub Pages (sem build)

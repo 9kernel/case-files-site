@@ -1,0 +1,753 @@
+{
+ "generated_at": "2026-10-07",
+ "purpose": "Estado do acervo ANTES da correção de proveniência/publicidade (missão CORRIGIR PROVENIÊNCIA, PRIVACIDADE E METADADOS)",
+ "counts": {
+  "threads": 25,
+  "messages": 335,
+  "events": 48
+ },
+ "messages_by_verification_level": {
+  "official_document": 232,
+  "public_investigation": 74,
+  "secondary_source": 29
+ },
+ "messages_by_content_kind": {
+  "verbatim_excerpt": 189,
+  "verbatim": 102,
+  "media": 15,
+  "forwarded_message": 16,
+  "audio_transcript": 4,
+  "call": 9
+ },
+ "messages_by_document_id": {
+  "pf-ipja-3298613-2026": 103,
+  "pf-ipja-1252786-2026": 18,
+  "pf-repr-pet15-499": 12,
+  "pf-ipja-1020625-2026": 98,
+  "pf-ipja-1070759-2026": 1
+ },
+ "events_by_document_id": {
+  "pf-ipja-3298613-2026": 35,
+  "pf-ipja-1020625-2026": 5,
+  "pf-ipja-1252786-2026": 3
+ },
+ "official_document_by_document_public_access": {
+  "pf-ipja-3298613-2026 | public_access=true(copy exists)": 103,
+  "pf-ipja-1252786-2026 | public_access=unstructured/pending": 18,
+  "pf-repr-pet15-499 | public_access=unstructured/pending": 12,
+  "pf-ipja-1020625-2026 | public_access=unstructured/pending": 98,
+  "pf-ipja-1070759-2026 | public_access=unstructured/pending": 1
+ },
+ "inconsistent_official_document_messages": [
+  {
+   "thread": "angelo-silva-daniel-vorcaro",
+   "message_id": "m-00003",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "angelo-silva-daniel-vorcaro",
+   "message_id": "m-00004",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "angelo-silva-daniel-vorcaro",
+   "message_id": "m-00005",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00001",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00002",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00003",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00004",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00005",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00006",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00007",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00001",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00002",
+   "document_id": "pf-ipja-1070759-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00003",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00004",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00005",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00006",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00007",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00008",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00009",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00010",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00011",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00012",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00013",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00014",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00015",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00016",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00017",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00018",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00019",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00020",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00021",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00022",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00023",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00024",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00025",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00026",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00027",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00028",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00029",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00030",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00031",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00032",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00033",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00034",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00035",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00036",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00037",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00038",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00039",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00040",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00041",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00042",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00043",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00044",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00045",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00046",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00047",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00048",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00049",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00050",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00051",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00052",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00053",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00054",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00055",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00056",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00057",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00058",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00059",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00060",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00061",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00062",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00063",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00064",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00065",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00066",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00067",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00068",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00069",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00070",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00071",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00072",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00073",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00074",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00075",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00076",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00077",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00078",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00079",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00080",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00081",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00082",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00083",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00084",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00085",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00086",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00087",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00088",
+   "document_id": "pf-repr-pet15-499"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00001",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00002",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00003",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00004",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00005",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00006",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00007",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00008",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00009",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00010",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00011",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00012",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00013",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00014",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00015",
+   "document_id": "pf-ipja-1252786-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00001",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00002",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00003",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00004",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00005",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00006",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00007",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00008",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00009",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00010",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00011",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00012",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00013",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00014",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00015",
+   "document_id": "pf-ipja-1020625-2026"
+  },
+  {
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00016",
+   "document_id": "pf-ipja-1020625-2026"
+  }
+ ],
+ "documents_state": [
+  {
+   "id": "pf-ipja-3298613-2026",
+   "case": "PET 16662",
+   "pages": 218,
+   "has_public_copy_url": true,
+   "has_hosted_copy": true,
+   "structured_public_access_field": false,
+   "copy_note": "Cópia pública disponibilizada pelo Poder360 (veículo de imprensa). O documento de origem é oficial da Polícia Federal e integra os autos da PET 16662/STF; este PDF hospedado journalisticamente NÃO é o arquivo original assinado do tribunal."
+  },
+  {
+   "id": "stf-inq-5070",
+   "case": "INQ 5070",
+   "pages": null,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": null
+  },
+  {
+   "id": "pf-ipja-1070759-2026",
+   "case": "IPL 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF",
+   "pages": 198,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": "Peça obtida pelo editor do projeto em 2026-10-06; situação de publicidade em verificação — por isso sem cópia hospedada. Mensagens que a citam trazem página/figura verificadas contra este arquivo (SHA-256 registrado)."
+  },
+  {
+   "id": "pf-ipja-1020625-2026",
+   "case": "IPL 2025.0087917-DELEINQUE/DRPJ/SR/PF/DF",
+   "pages": 126,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": "Peça obtida pelo editor do projeto em 2026-10-06; situação de publicidade em verificação — por isso sem cópia hospedada. Mensagens que a citam trazem página/figura verificadas contra este arquivo (SHA-256 registrado)."
+  },
+  {
+   "id": "pf-ipj-1752768-2026",
+   "case": "PET 15.562/STF",
+   "pages": 117,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": "Peça obtida pelo editor do projeto em 2026-10-06; publicidade em verificação; sem conteúdo importado até agora."
+  },
+  {
+   "id": "pf-repr-pet15-499",
+   "case": "PET 15.499/STF · INQ 5.026",
+   "pages": 238,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": "Peça obtida pelo editor do projeto em 2026-10-06; publicidade em verificação. Reproduz trechos dos IPJ-A; usada para verificação cruzada de citações."
+  },
+  {
+   "id": "pf-ipja-1252786-2026",
+   "case": "Pet 16704 (pacote OneDrive)",
+   "pages": 228,
+   "has_public_copy_url": false,
+   "has_hosted_copy": false,
+   "structured_public_access_field": false,
+   "copy_note": "Peça do pacote Pet 16704 obtido pelo editor do projeto em 2026-10-07; publicidade em verificação — sem cópia hospedada. Mensagens que a citam trazem página/figura verificadas contra este arquivo (SHA-256 registrado)."
+  }
+ ]
+}
