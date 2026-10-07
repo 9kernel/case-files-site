@@ -63,6 +63,7 @@ Toda entrada indica a natureza do conteúdo:
 | `audio_transcript` | tag "transcrição (parcial) de áudio" | Transcrição de áudio; `transcription_complete` informa se é integral. Colchetes de completição são inerentes ao gênero. |
 | `media` | card de mídia | Imagem/vídeo/documento; quando o arquivo não foi divulgado, o card descreve o que a fonte registrou. |
 | `call` | card de chamada | Registro de chamada (perdida/atendida, duração quando divulgada). |
+| `forwarded_message` | tag "mensagem encaminhada" | Mensagem encaminhada com atribuição a terceiro (`forwarded_attribution`); **contato direto do terceiro com Vorcaro não é verificado** — atribuição nunca vira remetente. |
 | `editorial_event` | card neutro "evento editorial" | Afirmação editorial/reportagem sobre a conversa — **nunca** renderizada como bolha, sem avatar, check ou lado. Vive em `timeline_events`. |
 | `system` | card neutro | Linha de sistema da extração (também em `timeline_events`). |
 
@@ -182,8 +183,11 @@ case-files-site/
 │   └── render/              # chatList · chatWindow · message · profile · home · policy
 ├── data/
 │   ├── participants.json    # participantes (+ profile_verification opcional)
+│   ├── documents.json       # registro central de documentos (hash, cópia pública, processo)
 │   ├── threads.json         # índice leve para a ChatList
+│   ├── audit/document-audit.json  # auditoria documental legível por máquina
 │   └── threads/{id}.json    # mensagens + timeline_events por conversa
+├── DOCUMENT-AUDIT.md        # relatório da auditoria documental
 ├── migration-report.json    # relatório da migração de proveniência
 ├── public/media/            # mídias referenciadas (vazio: nada divulgado)
 └── scripts/
@@ -196,7 +200,34 @@ case-files-site/
     └── sources.yaml         # fontes monitoradas (documento_oficial/processo_publico/reportagem)
 ```
 
-## 11. Schema de dados
+## 11. Registro de documentos e mídia
+
+`data/documents.json` centraliza os documentos (§24): processo oficial
+(`official_process_url`), cópia pública (`public_copy_url` + `copy_kind:
+public_reproduction` — **nunca** `official_pdf_url` para arquivo hospedado por
+veículo), SHA-256 **calculado localmente** e tamanho. Mensagens referenciam por
+`source.document_id` + `page`/`figure`; o painel de evidência resolve links
+diretos (`PDF#page=N` e "abrir processo no STF").
+
+Mídia carrega cadeia de proveniência própria (§28), **independente da
+proveniência do texto** (transcrição oficial + áudio de veículo é combinação
+válida):
+
+| `media.status` | Uso |
+|---|---|
+| `official_media` | Arquivo dos autos/pacote oficial — exige arquivo local + SHA-256 + fonte oficial; **jamais** com `publisher` (URL jornalística não gera oficial) |
+| `secondary_media` | Publicado por veículo (player/link externo) — exige `publisher`; **não re-hospedado** (§8) |
+| `embedded_media` | Player incorporado à origem |
+| `transcript_only` | Existe apenas a transcrição — jamais aponta arquivo |
+| `media_reference_only` | O documento registra a mídia (figura/página); arquivo não obtido |
+
+Transcrições declaram autoria (`transcription.kind`: `document_transcription` /
+`publisher_transcription` / `project_transcription`, com `complete`) e nunca são
+apagadas pela presença/ausência de áudio (§37). `original_file: true` exige
+`source_document_id`. Mídia local exige SHA-256 + bytes; derivada exige
+`derived_from` (originais em `original/`, conversões em `derived/`).
+
+## 12. Schema de dados
 
 `data/threads/{id}.json`:
 
@@ -245,7 +276,7 @@ case-files-site/
 }
 ```
 
-## 12. O que o validador rejeita (CI vermelho)
+## 13. O que o validador rejeita (CI vermelho)
 
 JSON inválido; campos legados (`timestamp`, `status`, `type` — regressão ao
 schema antigo); mensagem sem `sender_id` (ou evento **com** `sender_id`);
@@ -254,14 +285,21 @@ schema antigo); mensagem sem `sender_id` (ou evento **com** `sender_id`);
 ordem cronológica violada quando determinável; `official_document` sem
 `authority` + `document` + `page` (+ `sources.primary`); `secondary_source`
 sem fonte em `sources.secondary`; **`[colchetes]` editoriais em `verbatim`/
-`verbatim_excerpt`** sem `literal_brackets: true`; `audio_transcript` sem
-`transcription_complete`; `reply_to`/`media.url` inválidos; índice
+`verbatim_excerpt`/`forwarded_message`** sem `literal_brackets: true`;
+`forwarded_message` sem `forwarded_attribution` com `verified_direct_contact:
+false`; `audio_transcript` sem `transcription_complete` **ou** sem registro de
+mídia; mídia sem `status`; `official_media` sem arquivo+SHA-256+fonte oficial ou
+com `publisher`; `secondary_media` sem `publisher`; `transcript_only` apontando
+arquivo ou sem transcrição; mídia local sem SHA-256/bytes; derivada sem
+`derived_from`; `original_file: true` sem `source_document_id`;
+`source.document_id` inexistente; `documents.json` com `official_pdf_url` ou
+cópia pública sem processo oficial; `reply_to`/`media.url` inválidos; índice
 dessincronizado; ids duplicados/inválidos; mensagem sem `source_ref`/`added_in`.
 
 **Imutabilidade**: mensagem nunca é editada em silêncio — correção = novo
 commit, rastreável no Git (`added_in` marca o commit de inserção).
 
-## 13. Pipeline de ingestão
+## 14. Pipeline de ingestão
 
 1. **DETECÇÃO** — fontes em `scripts/sources.yaml`.
 2. **EXTRAÇÃO** — `scripts/ingest.py` converte exportações/PDF para o schema:
@@ -273,7 +311,7 @@ commit, rastreável no Git (`added_in` marca o commit de inserção).
 4. **VERSIONAMENTO** — lote = commit; índice atualizado.
 5. **CI** — validador + testes; Pages publica no merge.
 
-## 14. Regras editoriais (hard rules)
+## 15. Regras editoriais (hard rules)
 
 - Proibido parafrasear, resumir, "corrigir" português, expandir abreviações,
   completar frases ou fundir/separar mensagens sem evidência documental.
@@ -284,13 +322,22 @@ commit, rastreável no Git (`added_in` marca o commit de inserção).
 - Todo dado em `/data` rastreia até uma entrada de `sources.yaml`.
 - Nenhuma fonte, página, horário, e-Doc ou documento é inventado — na dúvida,
   `null` + nível compatível com a evidência.
+- Transcrição não é áudio: possuir transcrição nunca autoriza afirmar que se
+  possui o arquivo original; player jornalístico nunca é "arquivo oficial da PF".
+- Mídia jornalística não é baixada/re-hospedada sem verificação de regime —
+  link para a origem; sem yt-dlp/scraping/paywall-bypass.
+- Reprodução jornalística de documento oficial é `public_reproduction`, sempre
+  acompanhada do processo oficial que comprova a origem.
+- Atribuição de terceiro em mensagem encaminhada jamais vira contato direto.
+- Privacidade: sem threads de familiares/motoristas/funcionários com conteúdo
+  pessoal; sem placas, endereços residenciais, telefones, CPF ou dados íntimos.
 
-## 15. Fora de escopo
+## 16. Fora de escopo
 
 Login/contas, comentários, envio de mensagens, backend, APIs dinâmicas, banco
 de dados, download em massa do corpus.
 
-## 16. Notas de performance e compatibilidade
+## 17. Notas de performance e compatibilidade
 
 Busca com índice invertido pós-first-paint (multi-termo AND, normalizada);
 scroll em chunks de 100; deep-link com destaque; todo conteúdo do JSON passa

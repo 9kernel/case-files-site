@@ -34,7 +34,11 @@ fontes:
     processo: PET 16662
     documento: IPJ-A nº 3298613/2026
     paginas: "49, 61, 127, 129, 141, 143, 147"
-    url_oficial: null        # a localizar (monitorar portal.stf.jus.br / e-Doc)
+    url_oficial: "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    url_copia_publica: "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+    tipo_copia: public_reproduction   # reprodução jornalística do original oficial — NÃO é o arquivo assinado do STF
+    sha256: "30e24f6d8abd6c033c50594ff2658a4ad72b2ac818f312ea3fe54e80a5d052d7"
+    bytes: 5537944
     ultima_verificacao: 2026-10-06
 
   - id: stf-inq-5070
@@ -63,6 +67,49 @@ fontes:
     url: https://portal.stf.jus.br
     ultima_verificacao: 2026-10-06
 
+  # ---------- notas oficiais / auxiliares ----------
+
+  - id: stf-nota-imprensa-47
+    tipo: processo_publico
+    descricao: >
+      STF — Nota à imprensa 47: disponibilização de aproximadamente 25,3 GB
+      (~4.000 arquivos: documentos, áudios, vídeos) da PET 15.556 e procedimentos
+      correlatos. Rota oficial para localizar mídias ORIGINAIS (promover
+      secondary_media -> official_media exige arquivo identificável aqui).
+    url: https://noticias.stf.jus.br/postsnoticias/nota-a-imprensa-47/
+    ultima_verificacao: 2026-10-06
+
+  - id: stf-nota-sigilo-levantado
+    tipo: processo_publico
+    descricao: >
+      STF — processos que tiveram o sigilo retirado (documentos e peças
+      disponibilizados). Ponto de partida para inteiros teores.
+    url: https://noticias.stf.jus.br/postsnoticias/stf-disponibiliza-documentos-e-pecas-de-processos-que-sigilos-foram-levantados/
+    ultima_verificacao: 2026-10-06
+
+  - id: novelo-catalogo-fontes
+    tipo: reportagem
+    descricao: >
+      Catálogo de fontes do caso (novo-master.fausel.adv.br) com descrição técnica
+      do IPJ-A. FONTE AUXILIAR de navegação — nunca substitui o documento primário.
+    url: https://novelo-master.fausel.adv.br/fontes/src-pf-relatorio-ipj-3298613-2026-integra/
+    ultima_verificacao: 2026-10-06
+
+  - id: arkanto-indice-romy
+    tipo: reportagem
+    descricao: >
+      Indexação auxiliar Romy <-> Vorcaro baseada no IPJ-A. AUXILIAR: usada só
+      para localizar página/sequência; verdade documental veio do PDF da PF.
+    url: https://arkanto.company/vorcaro/vorcazap/chat/romy-banco-master/
+    ultima_verificacao: 2026-10-06
+
+  - id: arkanto-indice-ana-matos
+    tipo: reportagem
+    descricao: >
+      Indexação auxiliar Ana Matos <-> Vorcaro baseada no IPJ-A. AUXILIAR.
+    url: https://arkanto.company/vorcaro/vorcazap/chat/ana-matos-mkt/
+    ultima_verificacao: 2026-10-06
+
   # ---------- reportagens ----------
 
   - id: r7-guaiba-relatorio-pf
@@ -75,6 +122,43 @@ fontes:
       de cada mensagem promovida a official_document.
     url: https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes
     paginas_relevantes: "reportagem única"
+    ultima_verificacao: 2026-10-06
+
+  - id: intercept-audio-frias
+    tipo: reportagem
+    descricao: >
+      The Intercept Brasil — áudio de Mário Frias para Vorcaro (11/12/2024 18:24,
+      player na matéria) e a sequência seguinte ("Eu to numa ligação te chamo em
+      seguida" / "Blz" / chamada de ~2 min às 19:06). Registrado como
+      secondary_media — SEM download/re-host. URL 403 para cliente automatizado.
+    url: https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/
+    paginas_relevantes: "reportagem única"
+    ultima_verificacao: 2026-10-06
+
+  - id: poder360-audio-flavio
+    tipo: reportagem
+    descricao: >
+      Poder360 — registro sonoro de Flávio Bolsonaro para Vorcaro (08/09/2025,
+      ~1min37s, player público). secondary_media com link externo; a PF NEGOU
+      ser a origem do vazamento (UOL, 21/07/2026) — jamais tratar como oficial
+      enquanto o arquivo não surgir nos autos públicos.
+    url: https://www.poder360.com.br/poder-congresso/ouca-flavio-pedindo-dinheiro-a-vorcaro-para-filme-de-jair-bolsonaro/
+    paginas_relevantes: "reportagem única"
+    ultima_verificacao: 2026-10-06
+
+  - id: terra-audio-flavio
+    tipo: reportagem
+    descricao: >
+      Terra — mesma peça sonora com player próprio (espelho do Poder360).
+    url: https://www.terra.com.br/noticias/brasil/politica/ouca-audio-em-que-flavio-pede-dinheiro-a-vorcaro-para-financiar-filme-de-bolsonaro-senador-nega%2C5438a30fa9a2d4167c6fdb8c695b47a20j310ry3.html
+    ultima_verificacao: 2026-10-06
+
+  - id: uol-pf-nega-vazamento
+    tipo: reportagem
+    descricao: >
+      UOL (21/07/2026) — PF nega ter sido a origem do vazamento do áudio de
+      Flávio. Contexto obrigatório do registro secondary_media.
+    url: https://noticias.uol.com.br/politica/ultimas-noticias/2026/07/21/pf-nega-vazamento-de-audio-de-flavio-cobrando-dinheiro-de-vorcaro.amp.htm
     ultima_verificacao: 2026-10-06
 
   - id: piaui-96-mensagens
