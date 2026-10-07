@@ -3,7 +3,7 @@
 
 Idempotente: reexecutar só reprocessa arquivo novo ou cujo sha256 mudou.
 Gera data/audit/pf-inventory.json (índice interno — gitignored, NUNCA publicado:
-data/audit/import-state.json (checkpoint exigido pela missão, §4).
+data/audit/import-state.json (checkpoint interno — gitignored, nunca publicado).
 """
 
 from __future__ import annotations
