@@ -84,7 +84,9 @@ function evidenceLinksHtml(m, ctx) {
     html += `<a class="evidence-link" href="${esc(media.external_url)}" target="_blank" rel="noopener">▶ ouvir na origem — ${esc(media.publisher || 'fonte externa')}</a>`;
   }
   if (pageUrl) {
-    html += `<a class="evidence-link" href="${esc(pageUrl)}" target="_blank" rel="noopener">⧉ ver no documento (fl. ${esc(m.source.page)})</a>`;
+    // data-doc/data-page abrem o painel integrado (§17); o href permanece
+    // como fallback (aba nova / teclado) para a mesma URL pública
+    html += `<a class="evidence-link" data-doc="${esc(m.source.document_id)}" data-page="${esc(m.source.page)}" href="${esc(pageUrl)}" target="_blank" rel="noopener">⧉ ver no documento (fl. ${esc(m.source.page)})</a>`;
   }
   return html ? `<div class="evidence-links">${html}</div>` : '';
 }

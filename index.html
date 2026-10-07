@@ -20,6 +20,7 @@
   <link rel="stylesheet" href="css/theme.css?v=2">
   <link rel="stylesheet" href="css/layout.css?v=2">
   <link rel="stylesheet" href="css/components.css?v=2">
+  <link rel="stylesheet" href="css/docpanel.css?v=1">
   <script type="module" src="js/main.js"></script>
 </head>
 <body>
@@ -112,6 +113,32 @@
     <p class="dlg-note">Perfil resumido exclusivamente a partir das reportagens linkadas.
     Não constitui acusação nem conclusão sobre responsabilidade individual.</p>
   </dialog>
+
+  <!-- painel de visualização documental (§17-19): PDF público ao lado do chat -->
+  <aside class="doc-panel" id="doc-panel" hidden aria-label="Documento original">
+    <header class="dp-head">
+      <div class="dp-titles">
+        <h3 id="dp-title">Documento</h3>
+        <p id="dp-sub"></p>
+        <p class="dp-page" id="dp-page"></p>
+      </div>
+      <div class="dp-actions">
+        <a id="dp-open" class="icon-btn dp-open" href="#" target="_blank" rel="noopener"
+           title="Abrir o PDF em nova aba (fonte pública)">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><path d="M15 3h6v6"/><path d="M10 14L21 3"/></svg>
+        </a>
+        <button type="button" class="icon-btn" id="dp-close" aria-label="Fechar documento">
+          <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M18 6L6 18M6 6l12 12"/></svg>
+        </button>
+      </div>
+    </header>
+    <div class="dp-frame" id="dp-frame"></div>
+    <p class="dp-empty" id="dp-empty" hidden></p>
+    <footer class="dp-foot">
+      Visualização da cópia pública catalogada; a conferência definitiva é
+      sempre no documento original dos autos.
+    </footer>
+  </aside>
 
   <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
 </body>

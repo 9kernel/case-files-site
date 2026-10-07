@@ -1,0 +1,97 @@
+/* docpanel.css — painel do documento original (§17-19) */
+
+.doc-panel {
+  position: fixed;
+  top: var(--topbar-h);
+  right: 0;
+  bottom: 0;
+  width: min(680px, 46vw);
+  min-width: 380px;
+  z-index: 40;
+  display: flex;
+  flex-direction: column;
+  background: var(--panel);
+  box-shadow: -6px 0 24px rgba(11, 20, 26, 0.18);
+  border-left: 1px solid var(--line);
+}
+
+.dp-head {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 12px 14px;
+  background: var(--panel-alt);
+  border-bottom: 1px solid var(--line);
+}
+
+.dp-titles { min-width: 0; }
+
+.dp-titles h3 {
+  font-size: 16.8px;
+  line-height: 1.25;
+  color: var(--ink);
+}
+
+.dp-titles p {
+  font-size: 13.8px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.dp-titles .dp-page {
+  margin-top: 2px;
+  color: var(--wa-teal-light);
+  font-weight: 600;
+}
+
+.dp-actions { display: flex; gap: 4px; flex: 0 0 auto; }
+
+.dp-open.icon-btn { display: inline-flex; }
+
+.dp-frame {
+  flex: 1;
+  min-height: 0;
+  background: #525659; /* padrão de leitores de PDF */
+}
+
+.dp-frame iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.dp-empty {
+  flex: 1;
+  margin: 0;
+  padding: 24px 18px;
+  font-size: 15.6px;
+  line-height: 1.55;
+  color: var(--ink-2);
+  overflow-y: auto;
+}
+
+.dp-empty p + p { margin-top: 10px; }
+
+.dp-foot {
+  flex: 0 0 auto;
+  padding: 8px 14px;
+  font-size: 12.6px;
+  line-height: 1.45;
+  color: var(--ink-muted);
+  background: var(--panel-alt);
+  border-top: 1px solid var(--line);
+}
+
+/* mobile: painel em tela cheia, como um leitor dedicado */
+@media (max-width: 767px) {
+  .doc-panel {
+    width: 100%;
+    min-width: 0;
+    top: 0;
+    z-index: 60;
+  }
+}

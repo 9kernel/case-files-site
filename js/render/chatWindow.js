@@ -12,6 +12,7 @@ import { getThreadRaw, getParticipants, participantMap, getDocuments, documentMa
 import { state, freshFilters } from '../state.js';
 import { renderMessage, icons } from './message.js';
 import { openProfileDialog } from './profile.js';
+import { openDocPanel, closeDocPanel, syncDocPanel, isDocPanelOpen, wireDocPanel } from './docPanel.js';
 import {
   avatarPhotoHtml,
   escapeHtml as esc,
@@ -348,6 +349,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   if (state.threadId !== threadId) {
     state.threadId = threadId;
     state.filters = freshFilters();
+    closeDocPanel(); // trocou de conversa: painel documental não persiste
   }
 
   threadData = raw;
@@ -401,8 +403,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
 
   container.innerHTML = `
   <section class="chat">
-    <header class="chat-header">
-      <button type="button" class="avatar avatar-btn" id="hdr-avatar" data-profile="${esc(contactId)}"
+    <header class="chat-header">      <button type="button" class="avatar avatar-btn" id="hdr-avatar" data-profile="${esc(contactId)}"
         aria-label="Ver perfil de ${esc(contactName)}" title="Ver perfil de ${esc(contactName)}"
         style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}${avatarPhotoHtml(contact)}</button>
       <div class="chat-title">
@@ -460,6 +461,25 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   // ⋮ — fontes e processo da conversa (diálogo de proveniência)
   container.querySelector('#btn-thread-menu')?.addEventListener('click', () => {
     openSourceDialog(null, threadData);
+  });
+
+  // painel documental (§17-19): link de evidência abre o PDF ao lado;
+  // selecionar mensagem com o painel aberto sincroniza a página
+  wireDocPanel();
+  els.list.addEventListener('click', (e) => {
+    const evLink = e.target.closest('.evidence-link[data-doc]');
+    if (evLink) {
+      const doc = ctx.docs.get(evLink.dataset.doc);
+      if (doc) {
+        e.preventDefault();
+        openDocPanel(doc, Number(evLink.dataset.page));
+        return;
+      }
+    }
+    const row = e.target.closest('.msg-row');
+    if (row && isDocPanelOpen()) {
+      syncDocPanel(ctx.byId.get(row.dataset.msgId));
+    }
   });
 
   const applyFiltersFromInputs = () => {
