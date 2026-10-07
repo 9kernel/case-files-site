@@ -206,6 +206,25 @@ ou insultos de terceiros permanecem por regra absoluta do projeto (fala
 verbatim de peça pública, atribuída ao seu autor) — entre elas a que menciona
 A.C. e o primeiro nome da filha de Vorcaro.
 
+### Estágio 2 do plano de risco (2026-10-07, tarde)
+
+- **§2.3 PDF → link-only:** a cópia antes hospedada em public/docs/ foi REMOVIDA —
+  o projeto não redistribui peças dos autos; deep-links apontam para a cópia
+  pública externa (Poder360) ou o pacote oficial do STF com #page=N; o painel
+  documental exibe estado informativo com botão 「Abrir na origem」 (só cópia
+  same-origin seria embutida — política registrada na página de política).
+- **§2.4 Revisão de necessidade dos perfis:** verificados os 10 perfis de
+  pessoas privadas/empregados (Ana Matos, Romy, Ana Claudia, Angelo Silva,
+  Marcio Conjur, Luiz Rennó, Geraldo, Alberto Felix, Leonardo Palhares,
+  Marcos da Mata) contra critérios de necessidade — cada informação remete ao
+  tema documental da própria thread; nenhum telefone/CPF/endereço/e-mail/
+  dado familiar/sensível; valores citados são o objeto documental; identidade
+  civil não-inferida mantida; disclaimers de não-acusação presentes. **Nenhuma
+  alteração necessária** — perfis já no nível de minimização.
+- **§2.6 Política de mídia publicada:** nova seção na página de política —
+  zero mídia publicada; figuras dos autos só com revisão individual futura;
+  áudios nunca re-hospedados (player da origem); nada de mídia de não-envolvidos.
+
 ## 11. Resultado dos testes (atualizado 2026-10-07)
 
 `validate.mjs`: **0 erros / 0 warnings** (25 threads, 335 mensagens, 48 eventos;

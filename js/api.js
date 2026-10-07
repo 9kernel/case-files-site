@@ -54,8 +54,10 @@ export function documentMap(documents) {
 
 /**
  * URL de deep-link para a página do PDF público (§26): PDF_URL#page=N.
- * Prefere a cópia hospedada pelo projeto (hosted_copy_url, mesma origem,
- * alta resolução) e cai para a cópia pública externa. null sem cópia/página.
+ * Política link-only (2026-10-07): o projeto não redistribui peças — deep-link
+ * aponta para a cópia pública de origem (public_copy_url); uma futura cópia
+ * hospedada (hosted_copy_url, same-origin) teria preferência para exibição
+ * integrada. null sem cópia/página.
  */
 export function documentPageUrl(doc, page) {
   if (!page) return null;
