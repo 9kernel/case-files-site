@@ -17,7 +17,6 @@ import {
   escapeHtml as esc,
   dayKey,
   dayLabel,
-  monthLabel,
   formatDateBR,
   timeLabel,
   sortKeyOf,
@@ -109,7 +108,6 @@ function renderAt(start) {
   els.list.innerHTML = renderRange(start, to, lastDay);
   rendered = { start, end: to };
   updateSentinels();
-  markActiveChip();
 }
 
 function appendNext() {
@@ -119,7 +117,6 @@ function appendNext() {
   els.list.insertAdjacentHTML('beforeend', renderRange(rendered.end, to, lastDay));
   rendered = { ...rendered, end: to };
   updateSentinels();
-  markActiveChip();
 }
 
 function prependPrev() {
@@ -132,41 +129,6 @@ function prependPrev() {
   rendered = { ...rendered, start };
   els.scroll.scrollTop = prevTop + (els.scroll.scrollHeight - prevHeight);
   updateSentinels();
-  markActiveChip();
-}
-
-/* ---------- TimelineNav ---------- */
-
-function buildMonths() {
-  const months = [];
-  let lastKey = null;
-  filtered.forEach((item, i) => {
-    const key = String(item.date).slice(0, 7);
-    if (key !== lastKey) {
-      months.push({ key, idx: i, label: monthLabel(item.date) });
-      lastKey = key;
-    }
-  });
-  return months;
-}
-
-function renderRail() {
-  const months = buildMonths();
-  els.nav.innerHTML = months
-    .map((mo) => `<button type="button" class="tl-chip" data-idx="${mo.idx}" title="Ir para ${esc(mo.key)}">${esc(mo.label)}</button>`)
-    .join('');
-}
-
-function markActiveChip() {
-  const idx = rendered.start;
-  let activeKey = null;
-  for (const chip of els.nav.querySelectorAll('.tl-chip')) {
-    const chipIdx = Number(chip.dataset.idx);
-    if (chipIdx <= idx) activeKey = chip.dataset.idx;
-  }
-  els.nav.querySelectorAll('.tl-chip').forEach((chip) => {
-    chip.classList.toggle('active', chip.dataset.idx === activeKey);
-  });
 }
 
 /* ---------- painel de fonte / proveniência (§15) ---------- */
@@ -439,7 +401,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
         <div id="msg-list" aria-live="polite"></div>
         <div class="sentinel" id="bottom-sentinel"></div>
       </div>
-      <nav class="timeline-nav" id="timeline-nav" aria-label="Índice de meses da conversa"></nav>
     </div>
     <div class="chat-inputbar" aria-label="Arquivo somente leitura">
       <button type="button" class="icon-btn" disabled title="Emoji (indisponível no arquivo)" aria-label="Emoji (indisponível no arquivo)">${icons.smiley}</button>
@@ -455,7 +416,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
     topSentinelWrap: container.querySelector('#top-sentinel-wrap'),
     topSentinel: container.querySelector('#top-sentinel'),
     bottomSentinel: container.querySelector('#bottom-sentinel'),
-    nav: container.querySelector('#timeline-nav'),
     filterBar: container.querySelector('#filter-bar'),
   };
 
@@ -492,17 +452,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   });
 
   wireMediaDialog();
-
-  // timeline nav
-  renderRail();
-  els.nav.addEventListener('click', (e) => {
-    const chip = e.target.closest('.tl-chip');
-    if (!chip) return;
-    const idx = Number(chip.dataset.idx);
-    renderAt(idx);
-    els.scroll.scrollTop = 0;
-    history.replaceState(null, '', `#/thread/${encodeURIComponent(threadId)}/${encodeURIComponent(filtered[idx].id)}`);
-  });
 
   // render inicial (chunk do alvo ou do fim)
   const start = targetIdx >= 0 ? Math.max(0, targetIdx - 10) : Math.max(0, len - CHUNK);
