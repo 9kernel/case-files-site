@@ -2,7 +2,7 @@
 // Aberto ao clicar no avatar na lista de conversas ou no cabeçalho da conversa.
 // Todos os dados vêm de data/participants.json (campo opcional profile_sources).
 
-import { escapeHtml as esc, initials, hashHue } from '../utils.js';
+import { escapeHtml as esc, initials, hashHue, avatarPhotoHtml } from '../utils.js';
 
 export function openProfileDialog(participant) {
   if (!participant) return;
@@ -11,7 +11,7 @@ export function openProfileDialog(participant) {
   wireProfileDialog();
 
   const avatar = dlg.querySelector('#pf-avatar');
-  avatar.textContent = initials(participant.name);
+  avatar.innerHTML = `${esc(initials(participant.name))}${avatarPhotoHtml(participant)}`;
   avatar.style.setProperty('--av-color', `hsl(${hashHue(participant.id)}, 38%, 42%)`);
 
   dlg.querySelector('#pf-name').textContent = participant.name || participant.id;

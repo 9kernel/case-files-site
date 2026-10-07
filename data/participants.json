@@ -2,6 +2,7 @@
   {
     "id": "daniel-vorcaro",
     "name": "Daniel Vorcaro",
+    "photo": null,
     "role": "Ex-controlador do Banco Master",
     "aliases": [
       "Vorcaro"
@@ -35,6 +36,7 @@
   {
     "id": "alexandre-moraes",
     "name": "Alexandre de Moraes",
+    "photo": null,
     "role": "Ministro do STF",
     "aliases": [
       "Moraes"
@@ -64,6 +66,7 @@
   {
     "id": "flavio-bolsonaro",
     "name": "Flávio Bolsonaro",
+    "photo": null,
     "role": "Senador (PL-RJ)",
     "aliases": [
       "Flávio",
@@ -84,6 +87,7 @@
   {
     "id": "thiago-miranda",
     "name": "Thiago Miranda",
+    "photo": null,
     "role": "Publicitário e lobista",
     "aliases": [
       "Miranda"
@@ -99,6 +103,7 @@
   {
     "id": "mario-frias",
     "name": "Mário Frias",
+    "photo": null,
     "role": "Deputado federal (PL-SP)",
     "aliases": [
       "Frias"
@@ -118,6 +123,7 @@
   {
     "id": "flavio-carneiro",
     "name": "Flávio Carneiro",
+    "photo": null,
     "role": "Empresário",
     "aliases": [
       "Carneiro"
@@ -133,6 +139,7 @@
   {
     "id": "roberto-justus",
     "name": "Roberto Justus",
+    "photo": null,
     "role": "Empresário",
     "aliases": [
       "Justus"
@@ -152,6 +159,7 @@
   {
     "id": "vanessa-souza",
     "name": "Vanessa Souza",
+    "photo": null,
     "role": "Advogada",
     "aliases": [],
     "summary": "Advogada que atuava nos Estados Unidos, indicada a Vorcaro pelo pastor André Valadão, segundo o Correio Braziliense/O Globo.",
@@ -165,6 +173,7 @@
   {
     "id": "fabio-faria",
     "name": "Fábio Faria",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [
       "FABIO FARIA"
@@ -180,6 +189,7 @@
   {
     "id": "viviane-de-moraes",
     "name": "Viviane de Moraes",
+    "photo": null,
     "role": "Advogada (Escritório Barci de Moraes)",
     "aliases": [
       "Vivi Moraes",
@@ -196,6 +206,7 @@
   {
     "id": "ana-matos",
     "name": "Ana Matos",
+    "photo": null,
     "role": "Funcionária de Vorcaro (eventos)",
     "aliases": [
       "Ana Matos Mkt"
@@ -211,6 +222,7 @@
   {
     "id": "ciro-soares",
     "name": "Ciro Soares",
+    "photo": null,
     "role": "Advogado",
     "aliases": [
       "Ciro"
@@ -226,6 +238,7 @@
   {
     "id": "leonardo-palhares",
     "name": "Leonardo Palhares",
+    "photo": null,
     "role": "Advogado de Vorcaro",
     "aliases": [
       "Palhares"
@@ -241,6 +254,7 @@
   {
     "id": "angelo-silva",
     "name": "Angelo Silva",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [],
     "summary": "Contato salvo como “Angelo Silva”. Segundo o IPJ-A, enviou a Vorcaro o comprovante do primeiro pagamento do Banco Master ao Escritório Barci de Moraes (R$ 3.422.268,14) e tratou de pagamentos posteriores. O contrato do escritório foi assinado por um “Angelo Antonio Ribeiro da Silva” (fl. 34); a identificação entre os dois nomes não é afirmada pelo documento.",
@@ -254,6 +268,7 @@
   {
     "id": "marcos-da-mata",
     "name": "Marcos da Mata",
+    "photo": null,
     "role": "Proprietário da Prime You",
     "aliases": [
       "Marcos Prime",
@@ -270,6 +285,7 @@
   {
     "id": "romy-banco-master",
     "name": "Romy",
+    "photo": null,
     "role": "Funcionária de Vorcaro",
     "aliases": [
       "Romy Banco Master"
@@ -285,6 +301,7 @@
   {
     "id": "alberto-felix",
     "name": "Alberto Felix",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [
       "Alberto Félix"
@@ -300,6 +317,7 @@
   {
     "id": "marcio-conjur",
     "name": "Marcio Conjur",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [],
     "summary": "Contato salvo como “Marcio Conjur”, nome usado exatamente como registrado no aparelho. Segundo o IPJ-A, tratou do convite do ministro Alexandre de Moraes para o evento de Londres e do convite ao Diretor-Geral da PF. A identidade civil completa não é estabelecida no documento.",
@@ -313,6 +331,7 @@
   {
     "id": "luiz-renno",
     "name": "Luiz Rennó",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [],
     "summary": "Contato salvo como “Luiz Rennó”. Segundo o IPJ-A, recebeu de Vorcaro, em 19/04/2024, a informação de que organizava um “evento super exclusivo com alexandre de moraes em londres”.",
@@ -326,6 +345,7 @@
   {
     "id": "geraldo-brazil-journal",
     "name": "Geraldo (Brazil Journal)",
+    "photo": null,
     "role": "Interlocutor no celular de Vorcaro",
     "aliases": [
       "GERALDO BRAZIL JOURNAL"
@@ -341,6 +361,7 @@
   {
     "id": "paulo-sergio",
     "name": "Paulo Sergio",
+    "photo": null,
     "role": "Diretor do Banco Central (segundo o IPJ-A)",
     "aliases": [],
     "summary": "Identificado no IPJ-A como Diretor do Banco Central. Em 19/03/2025, Vorcaro escreveu-lhe que estava “com Moraes aqui”. Não confundir com o “Paulo” citado nas notas de Vorcaro, que o relatório associa a Paulo Gonet (PGR).",
@@ -354,6 +375,7 @@
   {
     "id": "ana-claudia-financeiro",
     "name": "Ana Claudia",
+    "photo": null,
     "role": "Interlocutora no celular de Vorcaro (financeiro)",
     "aliases": [
       "Ana Claudia Financeiro1"

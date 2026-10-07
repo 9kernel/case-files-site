@@ -206,6 +206,18 @@ export function initials(text) {
   return (first + second).toUpperCase();
 }
 
+/**
+ * Camada de foto do participante dentro do avatar: cobre as iniciais quando
+ * carrega; se o arquivo não existir, remove-se e as iniciais permanecem.
+ * Foto vem de public/media/people/ (campo "photo" do participants.json).
+ */
+export function avatarPhotoHtml(participant) {
+  if (!participant?.photo) return '';
+  const src = `public/media/people/${String(participant.photo).replace(/^[\/]+/, '')}`;
+  return `<img class="avatar-photo" src="${src}" alt="" loading="lazy"
+    onerror="this.remove()">`;
+}
+
 /** Cor estável a partir de uma string (avatar, nome de remetente). */
 export function hashHue(text) {
   let h = 0;

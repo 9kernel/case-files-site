@@ -4,7 +4,7 @@
 import { getThreadIndex, getParticipants, participantMap } from '../api.js';
 import { state } from '../state.js';
 import { openProfileDialog, wireProfileDialog } from './profile.js';
-import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce } from '../utils.js';
+import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml } from '../utils.js';
 
 let participants = null;
 
@@ -30,7 +30,7 @@ function itemHtml(entry, pmap, activeId) {
     <a class="chat-item ${entry.id === activeId ? 'active' : ''}" href="#/thread/${esc(entry.id)}" data-thread-id="${esc(entry.id)}">
       <span class="avatar avatar-btn" data-profile="${esc(contactId)}" role="button" tabindex="0"
         aria-label="Ver perfil de ${esc(contactName)}" title="Ver perfil de ${esc(contactName)}"
-        style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}</span>
+        style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}${avatarPhotoHtml(participants.get(contactId))}</span>
       <span class="chat-item-main">
         <span class="chat-item-top">
           <span class="chat-item-title">${esc(entry.title || entry.id)}</span>
