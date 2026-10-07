@@ -13,3 +13,9 @@ Thumbs.db
 .documents/
 .tmp-curate/
 pdf_pf/
+
+# pipeline de importação em massa — estado local, caches e área de revisão
+# (candidatos derivados de peças com publicidade pendente NUNCA vão ao build)
+.pipeline/
+data/cache/
+data/review/
