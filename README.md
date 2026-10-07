@@ -321,8 +321,10 @@ python -m scripts.import_pipeline.batch --docs 30   # retomada exata
 ```
 
 - **Inventário** (hash SHA-256, páginas, identificação da peça, publicidade)
-  → `data/audit/pf-inventory.json`; estado/checkpoint em `.pipeline/import.db`
-  (SQLite, gitignored) + `data/audit/import-state.json`.
+  → `data/audit/pf-inventory.json` — **gitignored, nunca publicado**: o índice bruto
+  expõe identificação de peças de pessoas/empresas fora da curadoria do site
+  (decisão 2026-10-07); estado/checkpoint em `.pipeline/import.db` (SQLite,
+  gitignored) + `data/audit/import-state.json`.
 - **Extração**: texto por página com cache (`data/cache/`); citações literais
   entre aspas na narrativa policial com pista de remetente/data/hora/figura;
   eventos com timestamp; referências de mídia (prints/áudios).

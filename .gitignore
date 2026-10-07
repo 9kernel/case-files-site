@@ -15,6 +15,9 @@ Thumbs.db
 pdf_pf/
 
 # pipeline de importação em massa — estado local, caches e área de revisão
+# inventário bruto: índice de 2.677 peças com identificação de terceiros fora
+# da curadoria — nunca no build público (decisão 2026-10-07)
+data/audit/pf-inventory.json
 # (candidatos derivados de peças com publicidade pendente NUNCA vão ao build)
 .pipeline/
 data/cache/
