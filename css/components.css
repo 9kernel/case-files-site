@@ -77,15 +77,6 @@
   text-overflow: ellipsis;
 }
 
-.chat-source-link {
-  font-size: 13.8px;
-  color: var(--wa-teal);
-  border-bottom: 1px dotted currentColor;
-  white-space: nowrap;
-}
-
-.chat-source-link:hover { color: var(--wa-teal-dark); }
-
 /* barra de filtros (recolhível) */
 .filter-bar {
   flex: 0 0 auto;
