@@ -38,6 +38,8 @@
 //   E_BAD_CONTENT             content não é string (mensagem) / vazio (evento)
 //   E_BAD_CONTENT_KIND        content_kind fora da lista permitida
 //   E_AUDIO_NEEDS_FLAGS       audio_transcript sem transcription_complete
+//   E_EDITORIAL_BRACKETS      [colchetes] editoriais em content_kind verbatim/
+//                             verbatim_excerpt sem literal_brackets: true
 //   E_BAD_REPLY_TO            reply_to aponta para mensagem inexistente na thread
 //   E_MISSING_MEDIA_FILE      media.url aponta para arquivo inexistente em /public
 //   E_MISSING_VERIFICATION    sem objeto verification
@@ -258,6 +260,15 @@ export function validateData(dataDir, rootDir) {
       // transcription_complete obrigatório em transcrição de áudio
       if (kind === 'audio_transcript' && typeof m.transcription_complete !== 'boolean') {
         err('E_AUDIO_NEEDS_FLAGS', where, 'content_kind "audio_transcript" exige "transcription_complete" (boolean).');
+      }
+
+      // texto editorial jamais dentro de fala literal (§1/§19): colchetes são
+      // sinalizadores de inserção editorial; salvo literal_brackets explícito
+      // para os casos raros em que os colchetes existem no original
+      if ((kind === 'verbatim' || kind === 'verbatim_excerpt') && !m.literal_brackets &&
+          /[[\]]/.test(String(m.content ?? ''))) {
+        err('E_EDITORIAL_BRACKETS', where,
+          `content contém [colchetes] em content_kind "${kind}" — mova o texto editorial para editorial_note (ou declare literal_brackets: true se os colchetes constam do original).`);
       }
 
       // campos obrigatórios de rastreabilidade

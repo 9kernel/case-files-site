@@ -184,6 +184,14 @@ ok = runCase('content_kind fora da lista', (t) => { t.messages[0].content_kind =
 ok = runCase('sem content_kind', (t) => delete t.messages[0].content_kind, ['E_BAD_CONTENT_KIND']) && ok;
 ok = runCase('áudio sem transcription_complete', (t) => { t.messages[0].content_kind = 'audio_transcript'; }, ['E_AUDIO_NEEDS_FLAGS']) && ok;
 ok = runCase('áudio com transcription_complete passa', (t) => { t.messages[0].content_kind = 'audio_transcript'; t.messages[0].transcription_complete = false; }, []) && ok;
+ok = runCase('verbatim com [texto editorial]', (t) => { t.messages[0].content = 'falando [pedindo desculpas] algo'; }, ['E_EDITORIAL_BRACKETS']) && ok;
+ok = runCase('verbatim_excerpt com [colchetes] também é rejeitado', (t) => { t.messages[0].content = 'trecho [nota] da mensagem'; t.messages[0].content_kind = 'verbatim_excerpt'; }, ['E_EDITORIAL_BRACKETS']) && ok;
+ok = runCase('literal_brackets: true libera colchetes do original', (t) => { t.messages[0].content = 'vote [sim] ontem'; t.messages[0].literal_brackets = true; }, []) && ok;
+ok = runCase('áudio transcrito com colchetes passa (completição de transcrição)', (t) => {
+  t.messages[0].content_kind = 'audio_transcript';
+  t.messages[0].transcription_complete = false;
+  t.messages[0].content = 'obrigado [inaudível] irmão';
+}, []) && ok;
 ok = runCase('sem added_in', (t) => delete t.messages[0].added_in, ['E_MISSING_ADDED_IN']) && ok;
 ok = runCase('content não-string', (t) => { t.messages[0].content = 42; }, ['E_BAD_CONTENT']) && ok;
 ok = runCase('reply_to inexistente', (t) => { t.messages[1].reply_to = 'm-99999'; }, ['E_BAD_REPLY_TO']) && ok;
