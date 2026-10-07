@@ -54,11 +54,14 @@ export function documentMap(documents) {
 
 /**
  * URL de deep-link para a página do PDF público (§26): PDF_URL#page=N.
- * Retorna null quando não há cópia pública ou página.
+ * Prefere a cópia hospedada pelo projeto (hosted_copy_url, mesma origem,
+ * alta resolução) e cai para a cópia pública externa. null sem cópia/página.
  */
 export function documentPageUrl(doc, page) {
-  if (!doc?.public_copy_url || !page) return null;
-  return `${doc.public_copy_url}#page=${page}`;
+  if (!page) return null;
+  const base = doc?.hosted_copy_url || doc?.public_copy_url;
+  if (!base) return null;
+  return `${base}#page=${page}`;
 }
 
 /** Índice leve de threads (título, contagem, última data): data/threads.json */

@@ -298,6 +298,37 @@ ok = runCase('document_id desconhecido', (t) => {
   ok = has && ok;
   fs.rmSync(path.join(dataDir, 'documents.json'));
 }
+{
+  // hosted_copy_url: sempre caminho relativo em public/docs/ — nunca URL externa
+  const docsExt = [{ id: 'doc-x', title: 'X', authority: 'PF', hosted_copy_url: 'https://cdn.ex.org/x.pdf' }];
+  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsExt));
+  writeData(baseThread());
+  const { errors } = validateData(dataDir, tmpRoot);
+  const has = errors.some((e) => e.code === 'E_DOCUMENT_FIELD' && /hosted_copy_url.*nunca URL externa/.test(e.message));
+  console.log(has ? '✓ hosted_copy_url externa → E_DOCUMENT_FIELD' : '✗ hosted_copy_url externa não detectada');
+  ok = has && ok;
+
+  // arquivo hospedado inexistente no repositório
+  const docsMissing = [{ id: 'doc-x', title: 'X', authority: 'PF', hosted_copy_url: 'public/docs/sumiu.pdf' }];
+  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsMissing));
+  const { errors: e2 } = validateData(dataDir, tmpRoot);
+  const has2 = e2.some((e) => e.code === 'E_DOCUMENT_FIELD' && /não existe no repositório/.test(e.message));
+  console.log(has2 ? '✓ hosted_copy_url sem arquivo → E_DOCUMENT_FIELD' : '✗ arquivo ausente não detectado');
+  ok = has2 && ok;
+
+  // arquivo existente mas com hash divergente do declarado
+  const docsHash = [{ id: 'doc-x', title: 'X', authority: 'PF', sha256: '0'.repeat(64), hosted_copy_url: 'public/docs/h.pdf' }];
+  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsHash));
+  fs.mkdirSync(path.join(tmpRoot, 'public', 'docs'), { recursive: true });
+  fs.writeFileSync(path.join(tmpRoot, 'public', 'docs', 'h.pdf'), 'conteudo qualquer');
+  const { errors: e3 } = validateData(dataDir, tmpRoot);
+  const has3 = e3.some((e) => e.code === 'E_DOCUMENT_FIELD' && /diverge do sha256/.test(e.message));
+  console.log(has3 ? '✓ hosted_copy_url com hash divergente → E_DOCUMENT_FIELD' : '✗ divergência de hash não detectada');
+  ok = has3 && ok;
+
+  fs.rmSync(path.join(dataDir, 'documents.json'));
+  fs.rmSync(path.join(tmpRoot, 'public'), { recursive: true, force: true });
+}
 
 /* JSON inválido */
 writeData(baseThread());

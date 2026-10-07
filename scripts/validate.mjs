@@ -71,6 +71,7 @@
 
 import fs from 'node:fs';
 import path from 'node:path';
+import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const ALLOWED_KINDS = new Set(['verbatim', 'verbatim_excerpt', 'audio_transcript', 'media', 'call', 'forwarded_message', 'editorial_event', 'system']);
@@ -155,6 +156,25 @@ export function validateData(dataDir, rootDir) {
       }
       if (d.sha256 != null && !SHA256_RE.test(d.sha256)) {
         err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" com sha256 inválido (64 hex minúsculos).`);
+      }
+      // cópia hospedada pelo projeto: sempre caminho relativo em public/docs/
+      // (mesma origem), arquivo presente no repositório e hash igual ao declarado
+      if (d.hosted_copy_url != null) {
+        const rel = String(d.hosted_copy_url).replace(/^\/+/, '');
+        if (!rel.startsWith('public/docs/') || /^https?:\/\//.test(d.hosted_copy_url)) {
+          err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": hosted_copy_url deve ser caminho relativo em public/docs/ (nunca URL externa — para origem use public_copy_url).`);
+        } else {
+          const full = path.join(rootDir, rel);
+          if (!fs.existsSync(full)) {
+            err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": hosted_copy_url "${rel}" não existe no repositório.`);
+          } else if (d.sha256) {
+            const h = fs.readFileSync(full);
+            const actual = crypto.createHash('sha256').update(h).digest('hex');
+            if (actual !== d.sha256) {
+              err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": hosted_copy_url diverge do sha256 declarado (arquivo: ${actual}).`);
+            }
+          }
+        }
       }
     }
   }
