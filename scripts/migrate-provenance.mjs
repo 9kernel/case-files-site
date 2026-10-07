@@ -243,7 +243,13 @@ function audit(thread, report) {
     }
     const excerpt = bracketsOf(m.content);
     if (excerpt != null && !m.literal_brackets) {
-      report.editorial_brackets.push({ thread: thread.id, id: m.id, excerpt: `…${excerpt}…` });
+      // colchetes de completição em transcrição de áudio parcial são legítimos
+      // (inerentes ao gênero); nos demais kinds exigem revisão editorial
+      if (m.content_kind === 'audio_transcript') {
+        report.audio_brackets_kept.push({ thread: thread.id, id: m.id, excerpt: `…${excerpt}…` });
+      } else {
+        report.editorial_brackets.push({ thread: thread.id, id: m.id, excerpt: `…${excerpt}…` });
+      }
     }
     if (level === 'pending_review') {
       report.manual_review_required.push({
@@ -300,6 +306,7 @@ function main() {
     generated_at: new Date().toISOString().slice(0, 10),
     fake_time_candidates: [],
     editorial_brackets: [],
+    audio_brackets_kept: [],
     official_document_candidates: [],
     secondary_source_only: [],
     manual_review_required: [],

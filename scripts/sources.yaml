@@ -2,102 +2,152 @@
 #
 # O agente verifica periodicamente estas URLs; quando um documento novo ou
 # atualizado aparece, dispara a EXTRAÇÃO (scripts/ingest.py) e abre PR com
-# as mensagens em pending-review.
+# as mensagens em pending_review.
 #
 # REGRA: toda linha de /data deve rastrear até uma entrada aqui.
 #
+# Tipos:
+#   documento_oficial  — peça primária pública (relatório, IPJ-A, decisão) com
+#                        página/figura citáveis por mensagem
+#   processo_publico   — procedimento judicial/policial público que reúne o
+#                        material, peça primária ainda não localizada
+#   reportagem         — veículo de imprensa que publicou trechos
+#
+# REGRA ABSOLUTA: nunca preencher processo/documento/pagina/url_oficial sem
+# evidência localizada. Usar null e o nível de verificação compatível.
+#
 # CASO BANCO MASTER — mensagens do celular de Daniel Vorcaro
-# (extração forense da PF de 18/11/2025, divulgadas pela imprensa)
+# (extração forense da PF de 18/11/2025, divulgadas por documentos e imprensa)
 
 fontes:
-  - id: piaui-96-mensagens
+  # ---------- documentos oficiais / processos ----------
+
+  - id: pf-ipja-3298613-pet-16662
+    tipo: documento_oficial
     descricao: >
-      piauí — "As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão",
-      de Ana Clara Costa, João Batista Jr. e Breno Pires (01/10/2026).
-      Reconstrução do chat Flávio Bolsonaro ↔ Vorcaro e conversas com
-      Thiago Miranda, Mário Frias e Flávio Carneiro.
-    url: https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/
+      PF — IPJ-A nº 3298613/2026, peça do PET 16662/STF, cujo sigilo foi
+      levantado pelo ministro André Mendonça (01/09/2026) e cujo conteúdo foi
+      revelado pelo R7. Base documental da conversa alexandre-moraes-daniel-
+      vorcaro: 7 mensagens localizadas (fls. 49, 61, 127, 129, 141, 143 e 147;
+      figuras 48, 60, 126, 128, 140, 142 e 146). Todas as mensagens da thread
+      são trechos — a transcrição integral não foi divulgada.
+    processo: PET 16662
+    documento: IPJ-A nº 3298613/2026
+    paginas: "49, 61, 127, 129, 141, 143, 147"
+    url_oficial: null        # a localizar (monitorar portal.stf.jus.br / e-Doc)
+    ultima_verificacao: 2026-10-06
+
+  - id: stf-inq-5070
+    tipo: processo_publico
+    descricao: >
+      STF — INQ 5070: inquérito que reúne a extração forense do celular de
+      Vorcaro (PF, 18/11/2025), base das conversas com Flávio Bolsonaro,
+      Thiago Miranda e Mário Frias divulgadas pela piauí. Mensagens dessas
+      threads estão em nível public_investigation: promove a official_document
+      somente quando página/e-Doc de cada mensagem for localizado.
+    processo: INQ 5070
+    documento: null
+    paginas: null
+    url_oficial: null
+    ultima_verificacao: 2026-10-06
+
+  - id: stf-portal-decisoes
+    tipo: processo_publico
+    descricao: >
+      Portal do STF — decisões do ministro André Mendonça no inquérito do
+      Banco Master (desclassificação do relatório da PF 01/09/2026;
+      inclusão de Flávio Bolsonaro como investigado set/2026; homologação
+      de delação). Monitorar por inteiros teores que citem as mensagens —
+      quando localizados, viram entradas tipo documento_oficial com
+      processo/documento/pagina preenchidos.
+    url: https://portal.stf.jus.br
+    ultima_verificacao: 2026-10-06
+
+  # ---------- reportagens ----------
+
+  - id: r7-guaiba-relatorio-pf
     tipo: reportagem
+    descricao: >
+      Rádio Guaíba (reproduzindo R7) — "Mendonça tira sigilo, e PF revela
+      pedidos de Vorcaro a Moraes" (01/09/2026). Revelou o relatório da PF
+      desclassificado (IPJ-A nº 3298613/2026, PET 16662/STF) que permitiu
+      localizar as mensagens da thread Moraes. Mantida como fonte secundária
+      de cada mensagem promovida a official_document.
+    url: https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes
+    paginas_relevantes: "reportagem única"
+    ultima_verificacao: 2026-10-06
+
+  - id: piaui-96-mensagens
+    tipo: reportagem
+    descricao: >
+      piauí — "As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da
+      prisão", de Ana Clara Costa, João Batista Jr. e Breno Pires
+      (01/10/2026). Reconstrução do chat Flávio Bolsonaro ↔ Vorcaro e
+      conversas com Thiago Miranda, Mário Frias e Flávio Carneiro, com base
+      na extração da PF de 18/11/2025 (INQ 5070/STF).
+    url: https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/
     paginas_relevantes: "reportagem única (web story)"
     ultima_verificacao: 2026-10-06
 
   - id: terra-poder360-justus
+    tipo: reportagem
     descricao: >
       Terra, com base no Poder360 — "Mensagens extraídas do celular de Vorcaro
       mostram cobranças de Roberto Justus por aporte" (02/10/2026).
-      Conversas Roberto Justus ↔ Vorcaro sobre a SteelCorp.
+      Conversas Roberto Justus ↔ Vorcaro sobre a SteelCorp (nível
+      secondary_source: peça primária não localizada).
     url: https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html
-    tipo: reportagem
     paginas_relevantes: "reportagem única"
     ultima_verificacao: 2026-10-06
 
   - id: correiobraziliense-haddad
+    tipo: reportagem
     descricao: >
       Correio Braziliense (Pedro José Borges), com base no O Globo —
       "Vorcaro disse que Haddad era um de seus 'maiores opositores', revelam
-      mensagens" (03/10/2026). Conversa Vanessa Souza ↔ Vorcaro (29/10/2025).
+      mensagens" (03/10/2026). Conversa Vanessa Souza ↔ Vorcaro (29/10/2025;
+      horários não divulgados). Nível secondary_source.
     url: https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html
-    tipo: reportagem
     paginas_relevantes: "reportagem única"
     ultima_verificacao: 2026-10-06
 
-  - id: r7-guaiba-relatorio-pf
-    descricao: >
-      Rádio Guaíba (reproduzindo R7) — "Mendonça tira sigilo, e PF revela
-      pedidos de Vorcaro a Moraes" (01/09/2026). Relatório da PF
-      desclassificado pelo ministro André Mendonça; base da conversa
-      alexandre-moraes-daniel-vorcaro.
-    url: https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes
-    tipo: reportagem          # reproduz documento judicial (relatório da PF)
-    paginas_relevantes: "reportagem única"
-    ultima_verificacao: 2026-10-06
+  # ---------- monitoramento de contexto (sem mensagens no /data) ----------
 
   - id: agencia-brasil-delacao
+    tipo: reportagem
     descricao: >
       Agência Brasil — Mendonça homologou (set/2026) a delação de doleiro
       ligado aos repasses ao filme Dark Horse. URL completa a confirmar;
       monitorar agenciabrasil.ebc.com.br.
     url: https://agenciabrasil.ebc.com.br
-    tipo: reportagem          # trata de ato judicial (homologação de delação)
     paginas_relevantes: "a confirmar"
     ultima_verificacao: 2026-10-06
 
   - id: uol-dark-horse-134mi
+    tipo: reportagem
     descricao: >
       UOL — "Flávio Bolsonaro negociou com Vorcaro R$ 134 milhões" sobre o
       filme Dark Horse (13/05/2026). URL completa a confirmar; monitorar
       noticias.uol.com.br.
     url: https://noticias.uol.com.br
-    tipo: reportagem
     paginas_relevantes: "a confirmar"
     ultima_verificacao: 2026-10-06
 
-  - id: stf-portal-decisoes
-    descricao: >
-      Portal do STF — decisões do ministro André Mendonça no inquérito do
-      Banco Master (desclassificação do relatório da PF 01/09/2026;
-      inclusão de Flávio Bolsonaro como investigado set/2026; homologação
-      de delação). Monitorar por inteiro teores que citem as mensagens.
-    url: https://portal.stf.jus.br
-    tipo: decisao
-    paginas_relevantes: "a localizar (número do inquérito)"
-    ultima_verificacao: 2026-10-06
-
-  # Leitura de contexto (sem mensagens transcritas ainda no /data):
   - id: bbc-quem-e-quem
-    descricao: >
-      BBC News Brasil — "Quem é quem nas mensagens que desencadearam a operação"
-      (11/09/2026). Contexto dos envolvidos; monitorar para novas citações.
-    url: https://www.bbc.com/portuguese
     tipo: reportagem
+    descricao: >
+      BBC News Brasil — "Quem é quem nas mensagens que desencadearam a
+      operação" (11/09/2026). Contexto dos envolvidos; monitorar para
+      novas citações.
+    url: https://www.bbc.com/portuguese
     paginas_relevantes: "a confirmar (URL completa do artigo)"
     ultima_verificacao: 2026-10-06
 
   - id: g1-colapso-master
+    tipo: reportagem
     descricao: >
       g1 — "O que você precisa saber sobre a prisão de Daniel Vorcaro e o
       colapso do Banco Master" (04/03/2026). Contexto geral do caso.
     url: https://g1.globo.com/economia/noticia/2026/03/04/o-que-voce-precisa-saber-sobre-a-prisao-de-daniel-vorcaro-e-o-colapso-do-banco-master.ghtml
-    tipo: reportagem
     paginas_relevantes: "reportagem única"
     ultima_verificacao: 2026-10-06

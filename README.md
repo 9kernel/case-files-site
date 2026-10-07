@@ -4,68 +4,122 @@ Site **100% estático** (HTML + CSS + JavaScript puro, sem frameworks, sem build
 sem npm) que reproduz a interface do WhatsApp para navegação cronológica de
 diálogos de interesse público. Nesta instalação, o acervo é o caso
 **Banco Master**: mensagens do celular de **Daniel Vorcaro** extraídas pela
-Polícia Federal (18/11/2025) e divulgadas por reportagens jornalísticas.
+Polícia Federal (18/11/2025) e divulgadas por documentos públicos e
+reportagens jornalísticas.
 
-> **Aviso editorial**: o site reproduz **o que as reportagens publicaram**, com a
-> fonte citada em cada mensagem — não temos acesso aos autos originais. O conteúdo
-> não constitui conclusão de culpa ou inocência; as investigações seguem em curso.
-> Mensagens `pending-review` nunca são renderizadas.
+> **Princípio editorial central**: a interface nunca deve fazer uma
+> reconstrução editorial parecer uma mensagem literal enviada por uma pessoa.
 
 ---
 
-## 1. Acervo atual: caso Banco Master
+## 1. Princípio editorial
 
-### Fontes usadas (cada mensagem aponta a sua)
+O projeto organiza informações presentes em **documentos públicos e
+reportagens** sobre investigações de interesse público.
 
-| Fonte | Data | Conversas no site |
+A existência de uma mensagem no arquivo **não constitui**:
+
+- acusação;
+- conclusão de culpa (ou inocência);
+- confirmação da interpretação apresentada por terceiros.
+
+Texto editorial **nunca** é incorporado à fala atribuída aos participantes:
+notas de contexto aparecem fora da bolha de mensagem, em bloco próprio
+("Contexto editorial"), sempre citando a fonte responsável pela interpretação.
+Erros de português, gírias e abreviações pertencem ao documento — nada é
+corrigido, expandido ou completado.
+
+## 2. Proveniência
+
+Cada registro carrega um objeto `verification` com um nível, exibido na
+interface como um badge discreto:
+
+| Nível | Badge | Significado |
 |---|---|---|
-| [piauí — "As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão"](https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/) (Ana Clara Costa, João Batista Jr., Breno Pires) | 01/10/2026 | Flávio Bolsonaro ↔ Vorcaro · Thiago Miranda ↔ Vorcaro · Mário Frias ↔ Vorcaro · Flávio Carneiro ↔ Vorcaro |
-| [Terra / Poder360 — cobranças de Roberto Justus por aporte](https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html) | 02/10/2026 | Roberto Justus ↔ Vorcaro |
-| [Correio Braziliense / O Globo — "Vorcaro disse que Haddad era um de seus 'maiores opositores'"](https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html) (Pedro José Borges) | 03/10/2026 | Vanessa Souza ↔ Vorcaro |
-| [Rádio Guaíba / R7 — relatório da PF desclassificado pelo STF ("Mendonça tira sigilo")](https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes) | 01/09/2026 | Alexandre de Moraes ↔ Vorcaro |
+| `official_document` | ✓ Documento oficial | A mensagem foi localizada no documento primário público (authority, documento, página e — quando houver — figura citados). |
+| `public_investigation` | ◉ Investigação pública | O material integra procedimento cujo sigilo foi levantado, mas a peça primária desta mensagem ainda não foi localizada. |
+| `secondary_source` | ○ Fonte jornalística | Mensagem confirmada por reportagem; a peça pública primária ainda não foi localizada. |
+| `pending_review` | ◌ Em revisão | Ainda não passou por revisão humana — **nunca é renderizada no site**. |
 
-**Documentos judiciais no acervo**: a conversa com Alexandre de Moraes vem de
-**relatório da PF desclassificado pelo ministro André Mendonça (01/09/2026)** —
-documento judicial tornado público e revelado pelo R7. Contexto judicial
-monitorado em `sources.yaml`: delação de doleiro homologada por Mendonça
-(set/2026, conforme Agência Brasil), inclusão de Flávio Bolsonaro como
-investigado no inquérito do filme "Dark Horse" (set/2026) e decisões do STF
-(portal.stf.jus.br) — quando inteiros teores públicos com mensagens forem
-localizados, entram com `source_ref` de documento judicial.
+Os níveis **não são permanentes**. Promoções seguem sempre a ordem
+`secondary_source → public_investigation → official_document` e ocorrem
+**somente mediante evidência documental** localizada (página, e-Doc, URL
+oficial). Nenhum validador, script ou ingest promove nível automaticamente.
 
-### Convenções de transcrição
+Página/figura/e-Doc/horário **nunca são inferidos**: quando a fonte não
+divulga, o campo fica `null`. É melhor não saber do que atribuir referência
+errada. O painel "Fonte e proveniência" (botão abaixo de cada mensagem) mostra
+a evidência disponível — e nunca usa linguagem que dê certeza maior que a
+evidência.
 
-- **Transcrição literal** do que a reportagem publicou, entre aspas na origem.
-- **[Colchetes]** = palavras nossas, apenas conectivo editorial (ex.: "[Pedindo
-  desculpas:] semana passada foi muito dificil pra mim").
-- **"…"** = corte na citação, conforme a reportagem.
-- **Horários**: quando a reportagem indica (ex.: 17h22, 15h46), usamos o horário
-  real; quando não indica, usamos **12:00** como aproximação — o campo `pages`
-  de cada thread avisa isso, e o diálogo de fonte repete.
-- **Mídia de visualização única / arquivos não divulgados**: a mensagem existe
-  (com `type` correto) e o nome do arquivo descreve o que a reportagem registrou,
-  sem inventar conteúdo.
-- O campo `source_ref` de cada mensagem segue o padrão
-  `veículo, data` (ex.: `piauí, 01/10/2026`) — é o que vai na citação copiável.
+## 3. Transcrição (content_kind)
 
-### Cuidados jurídicos (importantes)
+Toda entrada indica a natureza do conteúdo:
 
-- Publicar mensagens de pessoas reais envolve direito de resposta, direito de
-  imagem e risco de decisões judiciais — **inclusive há precedente de site com
-  essas mesmas mensagens derrubado por ordem judicial**, conforme a imprensa.
-  Antes de publicar um domínio público, faça revisão jurídica e mantenha o aviso
-  editorial visível.
-- Só publique mensagem que exista **textualmente** em fonte verificável e
-  identificável; quando a reportagem paraphrase, use conectivo entre [colchetes]
-  ou não publique.
----
+| `content_kind` | Exibição | Significado |
+|---|---|---|
+| `verbatim` | (bolha comum) | Texto literalmente presente na mensagem. |
+| `verbatim_excerpt` | tag "trecho da mensagem" | Somente parte da mensagem foi publicada — nunca fingimos ter a mensagem completa. |
+| `audio_transcript` | tag "transcrição (parcial) de áudio" | Transcrição de áudio; `transcription_complete` informa se é integral. Colchetes de completição são inerentes ao gênero. |
+| `media` | card de mídia | Imagem/vídeo/documento; quando o arquivo não foi divulgado, o card descreve o que a fonte registrou. |
+| `call` | card de chamada | Registro de chamada (perdida/atendida, duração quando divulgada). |
+| `editorial_event` | card neutro "evento editorial" | Afirmação editorial/reportagem sobre a conversa — **nunca** renderizada como bolha, sem avatar, check ou lado. Vive em `timeline_events`. |
+| `system` | card neutro | Linha de sistema da extração (também em `timeline_events`). |
 
-## 1. Executando localmente
+## 4. Horários
 
-Os dados em `/data` são carregados via `fetch()`, que **não funciona abrindo
-`index.html` direto (`file://`)** — o navegador bloqueia por CORS. Use o
-servidor de desenvolvimento incluído, que envia `Cache-Control: no-cache`
-(evita o navegador servir JS/CSS antigos durante o desenvolvimento):
+**Horários nunca são estimados.** Cada registro declara:
+
+```jsonc
+{ "date": "2025-09-01", "time": null,    "timestamp_precision": "date" }    // só a data é conhecida
+{ "date": "2025-09-01", "time": "17:02", "timestamp_precision": "minute" } // hora divulgada
+{ "date": "2025-09",    "time": null,    "timestamp_precision": "month" }   // só o mês
+```
+
+Quando a fonte informa apenas a data, o site exibe **"horário não divulgado"**
+— nunca `12:00` ou qualquer aproximação. A ordem de exibição dentro de um
+mesmo dia não é afirmada quando a fonte não permite determiná-la (registros
+sem hora mantêm a ordem da fonte; a chave de ordenação interna nunca aparece
+na UI como fato documental). O validador rejeita `precision: "date"` com hora
+preenchida e `precision: "minute"` sem hora.
+
+## 5. Notas editoriais
+
+`editorial_note` contextualiza a mensagem **fora da bolha** (bloco "Contexto
+editorial", itálico, borda teal), sempre atribuindo a interpretação à fonte
+responsável. Exemplo real do acervo:
+
+> **Mensagem (trecho):** "semana passada foi muito dificil pra mim"
+> **Contexto editorial:** Segundo a reportagem, a mensagem foi enviada em tom
+> de pedido de desculpas.
+
+## 6. Fontes do acervo atual
+
+| Fonte | Tipo | Data | Conversas |
+|---|---|---|---|
+| PF · IPJ-A nº 3298613/2026 (PET 16662/STF), revelado pelo [R7/Rádio Guaíba](https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes) | documento oficial (via reportagem) | 01/09/2026 | Alexandre de Moraes ↔ Vorcaro |
+| [piauí — "As 96 mensagens entre Flávio e Vorcaro"](https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/) (Ana Clara Costa, João Batista Jr., Breno Pires) | reportagem (extração INQ 5070/STF) | 01/10/2026 | Flávio Bolsonaro · Thiago Miranda · Mário Frias · Flávio Carneiro ↔ Vorcaro |
+| [Terra / Poder360 — cobranças de Roberto Justus por aporte](https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html) | reportagem | 02/10/2026 | Roberto Justus ↔ Vorcaro |
+| [Correio Braziliense / O Globo — "…maiores opositores"](https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html) (Pedro José Borges) | reportagem | 03/10/2026 | Vanessa Souza ↔ Vorcaro |
+
+Fontes monitoradas para localização de peças primárias: `scripts/sources.yaml`
+(diferencia `documento_oficial`, `processo_publico` e `reportagem`). Quando um
+documento primário é localizado, a reportagem que permitiu achá-lo **permanece**
+em `sources.secondary` — nunca substituída.
+
+## 7. Correções e contestação
+
+Ver a página **Política de correções e fontes** no site (rota `#/policy`). Em
+resumo: erros de transcrição podem ser corrigidos (sempre conferidos contra a
+fonte); pessoas citadas podem indicar erro factual ou fonte contraditória;
+toda correção fica registrada no histórico do Git; prevalece o documento
+primário quando disponível. O canal de contato é configurável em
+`js/config.js` (`CORRECTIONS_CONTACT`, hoje um placeholder).
+
+## 8. Executando localmente
+
+Os dados em `/data` são carregados via `fetch()`, que **não funciona** abrindo
+`index.html` direto (`file://`). Use o servidor de desenvolvimento incluído:
 
 ```bash
 cd case-files-site
@@ -73,17 +127,12 @@ python scripts/dev-server.py 8080
 # abra http://localhost:8080
 ```
 
-(`python -m http.server 8080` também funciona, mas pode servir arquivos
-estáticos de cache durante as edições.)
-
-Todas as rotas são por hash e funcionam direto, sem fallback de 404:
-
 | Rota | O que faz |
 |---|---|
-| `#/` | Home com aviso editorial, destaques e fontes |
+| `#/` | Home com aviso editorial, destaques e legenda de proveniência |
+| `#/policy` | Política de correções e fontes |
 | `#/thread/flavio-bolsonaro-daniel-vorcaro` | Conversa (abre no fim, como no WhatsApp) |
-| `#/thread/flavio-bolsonaro-daniel-vorcaro/m-00024` | **Deep-link**: abre na mensagem destacada |
-| `#/thread/alexandre-moraes-daniel-vorcaro` | Conversa com o ministro (relatório da PF desclassificado) |
+| `#/thread/…/m-00024` | Deep-link: abre na mensagem destacada |
 | `#/search/mermão` | Busca global (agrupada por thread, trechos em `<mark>`) |
 
 ### Testes locais (Node puro, sem dependências)
@@ -100,193 +149,148 @@ node scripts/generate-fixture.mjs              # gera data/threads/fixture-stres
 node scripts/generate-fixture.mjs --remove     # remove e limpa o índice
 ```
 
-A fixture é **gitignored** (só para teste local). Com ela carregada, a view de
-busca exibe o tempo de resposta — referência exigida: **< 200 ms**. O scroll da
-thread longa fica fluido porque o `chatWindow.js` renderiza em chunks de 100
-mensagens via `IntersectionObserver` (nas duas pontas).
+A fixture é **gitignored** (teste local). Busca < 200 ms e scroll fluido
+(chunks de 100 mensagens via `IntersectionObserver`).
 
----
+## 9. Deploy no GitHub Pages
 
-## 2. Deploy no GitHub Pages
+1. Suba o repositório; **Settings → Pages → Source: GitHub Actions**.
+2. O workflow `.github/workflows/ci.yml`:
+   - **job `validate`**: `validate.mjs` + `test-validate.mjs` em todo push/PR;
+   - **job `deploy`**: no merge na `main`, publica a raiz do repo (sem build).
 
-1. Suba o repositório (`git init && git add -A && git commit && git remote add origin …`).
-2. **Settings → Pages → Source: GitHub Actions**.
-3. O workflow `.github/workflows/ci.yml` faz o resto:
-   - **job `validate`**: roda `validate.mjs` e `test-validate.mjs` em todo push/PR;
-   - **job `deploy`**: no merge na `main`, publica a **raiz do repo** via
-     `actions/upload-pages-artifact` + `actions/deploy-pages` — **sem build**:
-     o que está no repo é o que vai ao ar.
+Placeholders a substituir antes de domínio público: `js/config.js`
+(`CASE_NAME`, `LAST_UPDATED`, `REPO_URL`, `CORRECTIONS_CONTACT`),
+`index.html` (title/og), `sitemap.xml`/`robots.txt` (domínio).
 
-### Placeholders a substituir antes de publicar num domínio público
-
-- `js/config.js` — `CASE_NAME`, `PROCESS_LABEL`, `LAST_UPDATED`, `SOURCE_URL`, `REPO_URL`;
-- `index.html` — `<title>`, `og:url`, `og:description`;
-- `sitemap.xml` e `robots.txt` — domínio final;
-- `data/` — participantes, threads e mídias reais.
-
----
-
-## 3. Estrutura
+## 10. Estrutura
 
 ```
 case-files-site/
 ├── index.html               # única página (SPA por hash routing)
-├── 404.html                 # erro estático do GitHub Pages
-├── css/                     # reset · theme (custom properties) · layout · components
+├── css/                     # reset · theme · layout · components
 ├── js/
 │   ├── main.js              # bootstrap, topbar, drawer, warmup do índice
-│   ├── router.js            # parse do hash + dispatch das views
-│   ├── api.js               # fetch + cache (Map) + filtro pending-review
+│   ├── router.js            # #/ · #/policy · #/thread/… · #/search/…
+│   ├── api.js               # fetch + cache + filtro pending_review
 │   ├── search.js            # índice invertido + busca + <mark>
-│   ├── utils.js             # escapeHtml, datas pt-BR, clipboard, toast…
+│   ├── utils.js             # escapeHtml, datas pt-BR, sortKey, clipboard…
 │   ├── state.js             # estado de UI em memória
-│   ├── config.js            # constantes editoriais (nome do caso, datas)
-│   └── render/              # chatList · chatWindow · message · profile · searchView · home
+│   ├── config.js            # constantes editoriais + canal de correção
+│   └── render/              # chatList · chatWindow · message · profile · searchView · home · policy
 ├── data/
-│   ├── participants.json    # participantes (id, nome, aliases, contexto)
-│   ├── threads.json         # ÍNDICE leve para a ChatList (ver adiante)
-│   └── threads/{{id}}.json  # uma conversa por arquivo
-├── public/media/            # mídias dos autos referenciadas nos JSONs (vazio: o caso ainda não tem mídia publicada)
-├── scripts/
-│   ├── ingest.py            # parser PDF → JSON (ferramenta do agente; demo sem deps)
-│   ├── validate.mjs         # validador (Node puro) — regras da seção 4
-│   ├── test-validate.mjs    # testa cada regra de rejeição
-│   ├── generate-fixture.mjs # fixture sintética de 65 mil mensagens
-│   ├── dev-server.py        # servidor local com Cache-Control: no-cache
-│   └── sources.yaml         # fontes monitoradas pelo agente
-└── .github/workflows/ci.yml # job 1: validação · job 2: deploy Pages
+│   ├── participants.json    # participantes (+ profile_verification opcional)
+│   ├── threads.json         # índice leve para a ChatList
+│   └── threads/{id}.json    # mensagens + timeline_events por conversa
+├── migration-report.json    # relatório da migração de proveniência
+├── public/media/            # mídias referenciadas (vazio: nada divulgado)
+└── scripts/
+    ├── ingest.py            # parser → JSON (nunca promove nível/página)
+    ├── validate.mjs         # validador (regras da seção 12)
+    ├── test-validate.mjs    # testa cada regra de rejeição
+    ├── migrate-provenance.mjs # migração de schema + auditoria
+    ├── generate-fixture.mjs # fixture sintética
+    ├── dev-server.py        # servidor local (Cache-Control: no-cache)
+    └── sources.yaml         # fontes monitoradas (documento_oficial/processo_publico/reportagem)
 ```
 
-### Desvios conscientes da especificação (e por quê)
+## 11. Schema de dados
 
-- **`data/threads.json`** — índice leve (título, contagem, última data). Sem ele,
-  a ChatList teria que baixar todas as threads (com a fixture de 65 mil msgs isso
-  inviabiliza a primeira renderização). O `validate.mjs` cruza índice × arquivos
-  (`E_INDEX_MISMATCH`) e avisa se a contagem dessincronizar.
-- **`js/config.js`** — concentra os placeholders `{{...}}` do caso em um lugar só.
-- **`call_info`** (opcional nas mensagens de chamada) — `{direction: in|out|missed,
-  duration_sec}`. O `content` continua sendo a transcrição literal da linha do
-  documento ("Chamada de voz perdida"); `call_info` é apenas dica de renderização
-  (seta/cor). O validador ignora campos extras.
-- **`scripts/test-validate.mjs`** e **`generate-fixture.mjs`** — exigidos pelos
-  critérios de aceite (testar cada regra; fixture de 65 mil).
-
----
-
-## 4. Schema de dados
-
-`data/participants.json` — array de `{id, name, role, aliases, summary}`.
-
-`data/threads/{{id}}.json`:
+`data/threads/{id}.json`:
 
 ```jsonc
 {
-  "id": "flavio-bolsonaro-daniel-vorcaro",   // = nome do arquivo
+  "id": "flavio-bolsonaro-daniel-vorcaro",      // = nome do arquivo
   "title": "…",
-  "participants_ids": ["daniel-vorcaro", "flavio-bolsonaro"],  // o 1º é o dono (bolha verde, direita)
-  "source": { "document": "IP 2024/0123", "url": "https://…", "pages": "fl. 120–133" },
+  "participants_ids": ["daniel-vorcaro", "…"],  // o 1º é o dono (bolha verde, direita)
+  "source": { "document": "…", "url": "…", "pages": "…" },
   "messages": [{
-    "id": "m-00014",                     // sequencial na thread (m-NNNNN)
-    "timestamp": "2024-03-12T14:02:00-03:00",  // ISO 8601 COM offset
+    "id": "m-00014",                     // m-NNNNN
+    "date": "2024-03-12",                // YYYY-MM-DD (ou YYYY-MM se precision=month)
+    "time": "14:02",                     // HH:MM ou null — NUNCA estimado
+    "timestamp_precision": "minute",     // minute | date | month | approximate
     "sender_id": "ana-cardoso",
-    "type": "text|image|audio|video|document|call|system",
-    "content": "transcrição fiel (pode ser vazia em mídia)",
-    "media": { "url": "/public/media/…", "filename": "…", "duration_sec": 3 },
-    "reply_to": "m-00010",
-    "source_ref": "IP 2024/0123 · fl. 125",  // OBRIGATÓRIO em TODA mensagem
-    "status": "confirmed | pending-review",  // OBRIGATÓRIO
-    "added_in": "a1b2c3d"                    // hash curto do commit que inseriu
+    "content_kind": "verbatim",          // §3 acima
+    "content": "transcrição fiel",
+    "editorial_note": null,              // contexto FORA da bolha
+    "transcription_complete": false,     // exigido em audio_transcript
+    "literal_brackets": true,            // só quando os colchetes são do original
+    "media": { "kind": "image", "url": "/public/media/…", "filename": "…" },
+    "call_info": { "direction": "out", "duration_sec": 158 },
+    "verification": {
+      "level": "official_document",      // §2 acima
+      "origin": "PF extraction",
+      "authority": "Polícia Federal", "court": "STF", "case": "PET 16662",
+      "document": "IPJ-A nº 3298613/2026", "page": 143, "figure": 142,
+      "official_url": null,
+      "primary_document_located": true,  // true SÓ em official_document
+      "verified_at": "2026-10-06"
+    },
+    "sources": {
+      "primary": { /* espelha o documento localizado */ },
+      "secondary": [ { "publication": "R7", "date": "2026-09-01", "url": "…" } ]
+    },
+    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 143",  // citação legível
+    "added_in": "a1b2c3d"
+  }],
+  "timeline_events": [{
+    "id": "e-00001",                     // e-NNNNN — SEM sender_id
+    "date": "2025-11-17", "time": null, "timestamp_precision": "date",
+    "content": "A reportagem registra que…",
+    "event_kind": "editorial_context",   // editorial_context | system
+    "verification": { /* … */ }, "source_ref": "…", "added_in": "…"
   }]
 }
 ```
 
-O `validate.mjs` rejeita (CI vermelho): JSON inválido; mensagem sem `source_ref`,
-`status`, `sender_id`, `added_in` ou `id` válido; `sender_id` inexistente em
-participants.json; timestamps fora de ordem ou fora do ISO 8601 com offset; ids
-duplicados; `type` fora da lista; `reply_to` inexistente; `media.url` sem arquivo;
-thread sem `title`/`participants_ids`/`source`; índice dessincronizado.
+## 12. O que o validador rejeita (CI vermelho)
 
-**Regra de imutabilidade**: mensagem nunca é editada — correção = novo commit no
-JSON, com o `added_in` do commit novo.
+JSON inválido; campos legados (`timestamp`, `status`, `type` — regressão ao
+schema antigo); mensagem sem `sender_id` (ou evento **com** `sender_id`);
+`content_kind`/`verification.level`/`timestamp_precision` fora das listas;
+`precision: date` **com** hora inventada; `precision: minute` sem hora;
+ordem cronológica violada quando determinável; `official_document` sem
+`authority` + `document` + `page` (+ `sources.primary`); `secondary_source`
+sem fonte em `sources.secondary`; **`[colchetes]` editoriais em `verbatim`/
+`verbatim_excerpt`** sem `literal_brackets: true`; `audio_transcript` sem
+`transcription_complete`; `reply_to`/`media.url` inválidos; índice
+dessincronizado; ids duplicados/inválidos; mensagem sem `source_ref`/`added_in`.
 
----
+**Imutabilidade**: mensagem nunca é editada em silêncio — correção = novo
+commit, rastreável no Git (`added_in` marca o commit de inserção).
 
-## 5. Pipeline de ingestão (agente catalogador)
+## 13. Pipeline de ingestão
 
-1. **DETECÇÃO** — o agente monitora as fontes listadas em `scripts/sources.yaml`
-   (URLs oficiais dos PDFs/decisões). Mantenha o arquivo atualizado.
-2. **EXTRAÇÃO** — `scripts/ingest.py` converte trechos de conversa para o schema,
-   preenchendo `source_ref` com documento + folha. Sem PDF, use `--demo`:
+1. **DETECÇÃO** — fontes em `scripts/sources.yaml`.
+2. **EXTRAÇÃO** — `scripts/ingest.py` converte exportações/PDF para o schema:
+   tudo sai `pending_review`, `page: null` (a página do PDF de origem da linha
+   fica em `extraction.pdf_page`, metadado interno); remetente desconhecido
+   **aborta**; linhas de sistema viram `timeline_events`.
+3. **REVISÃO** — humano confere contra o documento, promove o nível e preenche
+   página/figura **só quando localizados de fato**.
+4. **VERSIONAMENTO** — lote = commit; índice atualizado.
+5. **CI** — validador + testes; Pages publica no merge.
 
-   ```bash
-   python scripts/ingest.py --demo --thread-id demo-nova --title "Demo" \
-       --document-name "IP 2024/0123" --pages 140-145 --source-url https://example.org/x.pdf
-   ```
+## 14. Regras editoriais (hard rules)
 
-   Com PDF real: `pip install pdfplumber` e `python scripts/ingest.py --pdf autos.pdf …`.
-   Remetentes são resolvidos via participants.json; nome desconhecido **aborta**
-   (não inventamos participantes).
-3. **REVISÃO** — a saída entra com status `pending-review` (e `added_in: "pending"`).
-   O revisor confere o diff do PR contra o PDF original, muda para `confirmed` e
-   troca `added_in` pelo hash curto do commit — **no mesmo PR**.
-4. **VERSIONAMENTO** — cada lote = 1 commit `ingest: {{fonte}} · {{n}} msgs`.
-   Se a conversa for nova, atualize também `data/threads.json`.
-5. **CI** — `validate.mjs` + `test-validate.mjs` rodam no PR; no merge na `main`
-   o Pages publica automaticamente (sem build).
+- Proibido parafrasear, resumir, "corrigir" português, expandir abreviações,
+  completar frases ou fundir/separar mensagens sem evidência documental.
+- Descrição jornalística nunca vira citação: paráfrase fica em
+  `editorial_note` (ou `timeline_events`), com a fonte citada.
+- Proibido material que não seja de fonte pública/oficial.
+- Nomes de pessoas privadas só se constarem dos documentos públicos.
+- Todo dado em `/data` rastreia até uma entrada de `sources.yaml`.
+- Nenhuma fonte, página, horário, e-Doc ou documento é inventado — na dúvida,
+  `null` + nível compatível com a evidência.
 
----
+## 15. Fora de escopo
 
-## 6. Regras editoriais (hard rules)
+Login/contas, comentários, envio de mensagens, backend, APIs dinâmicas, banco
+de dados, download em massa do corpus.
 
-- Proibido parafrasear, resumir ou "corrigir" os diálogos: **só transcrição fiel**,
-  com `source_ref`.
-- Proibido incluir material que não seja de fonte pública/oficial.
-- Nomes de pessoas privadas só se constarem nos documentos públicos.
-- Todo dado em `/data` rastreável até um documento citado (e uma entrada em
-  `sources.yaml`).
+## 16. Notas de performance e compatibilidade
 
-## 7. Fora de escopo
-
-Login/contas, comentários, envio de mensagens (qualquer escrita), backend,
-APIs dinâmicas, banco de dados e download em massa do corpus.
-
-## 8. Notas de performance e compatibilidade
-
-- **Busca**: índice invertido (`Map` token → mensagens) construído após o primeiro
-  paint (`requestIdleCallback`); query e conteúdo normalizados (sem acento/caixa).
-  Multi-termo = AND. Com a fixture de 65 mil, o tempo exibido na view de busca
-  serve de verificação do critério (< 200 ms).
-- **Scroll**: chunks de 100 mensagens; sentinels no topo e no rodapé com
-  `IntersectionObserver` (preserva a posição do scroll ao adicionar acima).
-- **Deep-link**: abre o chunk que contém a mensagem, centra com
-  `scrollIntoView` e aplica destaque temporário.
-- **Segurança**: todo conteúdo do JSON passa por `escapeHtml()` antes de
-  `innerHTML`.
-- **Compatibilidade**: últimos 2 anos de Chrome/Firefox/Safari/Edge (desktop e
-  mobile). Layout responsivo com drawer abaixo de 768px. Tipografia e ícones
-  não usam recursos externos.
-
-## 9. Fidelidade visual e mídia (estilo WhatsApp)
-
-- **Visualizador de imagens (lightbox)**: clique na imagem da bolha abre o
-  diálogo de mídia com a foto ampliada, legenda, `source_ref` da mensagem e
-  link para o arquivo; clique na imagem alterna o zoom (1,75×); `Esc`, botão ✕
-  ou clique fora fecham.
-- **Vídeos com áudio**: mensagens do tipo `video` com `media.url` renderizam
-  `<video controls playsinline>` (controles com volume = som). O caso publicado
-  até aqui não tem mídia divulgada (imagens/vídeos eram de "visualização única");
-  quando uma reportagem publicar mídia, basta colocar o arquivo em
-  `/public/media` e preencher `media.url` no JSON — o validador confere a existência.
-- **Emojis**: as fontes de emoji do sistema (Apple Color Emoji / Segoe UI Emoji /
-  Noto Color Emoji) fazem parte da pilha tipográfica; emojis nas transcrições
-  são renderizados como texto comum (não são tokens de busca).
-- **Card de perfil do contato**: clicar no avatar (na lista lateral ou no
-  cabeçalho da conversa) abre um card com nome, cargo, contexto público e as
-  **fontes linkadas** de onde cada informação foi retirada
-  (`profile_sources` em `data/participants.json` — campo opcional; cada
-  fato do resumo deve rastrear até uma das fontes listadas).
-- **Interface**: fundo de conversa com padrão de "doodles" sutil, duplo check
-  azul nas bolhas do dono, prévia da última mensagem na lista lateral,
-  ícones de chamada/vídeo no header (desabilitados — o arquivo é somente
-  leitura) e barra de entrada decorativa "Arquivo somente leitura" — envio de
-  mensagens segue fora de escopo por decisão editorial (seção 7).
+Busca com índice invertido pós-first-paint (multi-termo AND, normalizada);
+scroll em chunks de 100; deep-link com destaque; todo conteúdo do JSON passa
+por `escapeHtml()`; últimos 2 anos de Chrome/Firefox/Safari/Edge; sem
+recursos externos (fontes/ícones inline).
