@@ -6,35 +6,44 @@
     "alexandre-moraes"
   ],
   "source": {
-    "document": "R7 / relatório da PF desclassificado pelo STF — decisão de André Mendonça (01/09/2026)",
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — relatório desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7",
     "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
-    "pages": "Relatório da PF revelado pelo R7 e reproduzido pela Rádio Guaíba (01/09/2026). O contato do ministro usava mensagens temporárias de 24h (ativadas em 17/09/2025): só o lado de Vorcaro sobreviveu na extração, preservado em rascunhos e capturas de tela. Mensagens sem data individual no relatório foram agrupadas em 30/10/2025 conforme a ordem da reportagem. [Colchetes] são conectivos editoriais."
+    "pages": "Mensagens localizadas no documento primário: página e figura citadas em cada mensagem. O contato do ministro usava mensagens temporárias de 24 horas (ativadas em 17/09/2025): só o lado de Vorcaro sobreviveu na extração, preservado em rascunhos e capturas de tela. Todos os textos são trechos — a transcrição integral das mensagens não foi divulgada."
   },
   "messages": [
     {
       "id": "m-00002",
       "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
+      "time": "13:33",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "G e os diretores estão na pressão máxima",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "G e os diretores estão na pressão máxima\nÉ importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
+      "editorial_note": "No documento primário, estes dois trechos constam de uma mesma mensagem (fl. 49, fig. 48); a transcrição integral não foi localizada.",
       "verification": {
-        "level": "public_investigation",
+        "level": "official_document",
         "origin": "PF extraction",
         "authority": "Polícia Federal",
         "court": "STF",
         "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 49,
+        "figure": 48,
         "official_url": null,
-        "primary_document_located": false,
+        "primary_document_located": true,
         "verified_at": "2026-10-06"
       },
       "sources": {
-        "primary": null,
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 49,
+          "figure": 48,
+          "url": null
+        },
         "secondary": [
           {
             "publication": "R7 (reproduzido pela Rádio Guaíba)",
@@ -43,138 +52,42 @@
           }
         ]
       },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "m-00003",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "É importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
-      "editorial_note": null,
-      "verification": {
-        "level": "public_investigation",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "m-00005",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
-      "editorial_note": null,
-      "verification": {
-        "level": "public_investigation",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "m-00006",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
-      "editorial_note": null,
-      "verification": {
-        "level": "public_investigation",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "R7 (reproduzido pela Rádio Guaíba)",
-            "date": "2026-09-01",
-            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-          }
-        ]
-      },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 49 · fig. 48",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00007",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
+      "date": "2025-11-04",
+      "time": "17:41",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
+      "content_kind": "verbatim_excerpt",
       "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
       "editorial_note": null,
       "verification": {
-        "level": "public_investigation",
+        "level": "official_document",
         "origin": "PF extraction",
         "authority": "Polícia Federal",
         "court": "STF",
         "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 61,
+        "figure": 60,
         "official_url": null,
-        "primary_document_located": false,
+        "primary_document_located": true,
         "verified_at": "2026-10-06"
       },
       "sources": {
-        "primary": null,
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 61,
+          "figure": 60,
+          "url": null
+        },
         "secondary": [
           {
             "publication": "R7 (reproduzido pela Rádio Guaíba)",
@@ -183,33 +96,42 @@
           }
         ]
       },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 61 · fig. 60",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00008",
-      "date": "2025-10-30",
-      "time": null,
-      "timestamp_precision": "date",
+      "date": "2025-11-15",
+      "time": "22:12",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
+      "content_kind": "verbatim_excerpt",
       "content": "E com Andrei dá pra segurar?",
       "editorial_note": null,
       "verification": {
-        "level": "public_investigation",
+        "level": "official_document",
         "origin": "PF extraction",
         "authority": "Polícia Federal",
         "court": "STF",
         "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 127,
+        "figure": 126,
         "official_url": null,
-        "primary_document_located": false,
+        "primary_document_located": true,
         "verified_at": "2026-10-06"
       },
       "sources": {
-        "primary": null,
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 127,
+          "figure": 126,
+          "url": null
+        },
         "secondary": [
           {
             "publication": "R7 (reproduzido pela Rádio Guaíba)",
@@ -218,33 +140,86 @@
           }
         ]
       },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 127 · fig. 126",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2025-11-15",
+      "time": "22:28",
+      "timestamp_precision": "minute",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
+      "editorial_note": null,
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 129,
+        "figure": 128,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 129,
+          "figure": 128,
+          "url": null
+        },
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 129 · fig. 128",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00009",
       "date": "2025-11-17",
-      "time": null,
-      "timestamp_precision": "date",
+      "time": "17:22",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "[Sobre jornalistas apurando transações do BRB, diz ter feito] uma correria aqui pra tentar salvar [a situação, o que poderia] inibir [o avanço das apurações]",
+      "content_kind": "verbatim_excerpt",
+      "content": "Fiz uma correria aqui pra tentar salvar. Fiz o que deu, vou anunciar parte da transação",
       "editorial_note": null,
       "verification": {
-        "level": "public_investigation",
+        "level": "official_document",
         "origin": "PF extraction",
         "authority": "Polícia Federal",
         "court": "STF",
         "case": "PET 16662",
-        "document": null,
-        "page": null,
-        "figure": null,
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 141,
+        "figure": 140,
         "official_url": null,
-        "primary_document_located": false,
+        "primary_document_located": true,
         "verified_at": "2026-10-06"
       },
       "sources": {
-        "primary": null,
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 141,
+          "figure": 140,
+          "url": null
+        },
         "secondary": [
           {
             "publication": "R7 (reproduzido pela Rádio Guaíba)",
@@ -253,17 +228,105 @@
           }
         ]
       },
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 141 · fig. 140",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2025-11-17",
+      "time": "17:26",
+      "timestamp_precision": "minute",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
+      "editorial_note": null,
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 143,
+        "figure": 142,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 143,
+          "figure": 142,
+          "url": null
+        },
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 143 · fig. 142",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "m-00010",
+      "date": "2025-11-17",
+      "time": "20:48",
+      "timestamp_precision": "minute",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Acho que pode inibir.",
+      "editorial_note": "Segundo a reportagem do R7, a resposta refere-se à apuração jornalística sobre transações do BRB; a leitura de que poderia inibir o avanço das apurações é da reportagem.",
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 147,
+        "figure": 146,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 147,
+          "figure": 146,
+          "url": null
+        },
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 147 · fig. 146",
       "added_in": "ingest-bm-r7-20261006"
     }
   ],
   "timeline_events": [
     {
       "id": "e-00001",
-      "date": "2025-10-30",
+      "date": "2025-09-17",
       "time": null,
       "timestamp_precision": "date",
-      "content": "[O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado do banqueiro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.]",
+      "content": "O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado de Vorcaro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.",
       "event_kind": "editorial_context",
       "verification": {
         "level": "secondary_source",
@@ -286,7 +349,30 @@
       "date": "2025-10-30",
       "time": null,
       "timestamp_precision": "date",
-      "content": "[Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF]",
+      "content": "Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF. As datas e horários das mensagens desta data provêm do documento primário (IPJ-A nº 3298613/2026).",
+      "event_kind": "editorial_context",
+      "verification": {
+        "level": "secondary_source",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "e-00003",
+      "date": "2025-11-17",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Contexto atribuído pela reportagem: jornalistas apuravam transações do Banco Master com o BRB, e o R7 relata que Vorcaro disse ter feito “uma correria” para tentar salvar a situação, o que poderia inibir o avanço das apurações.",
       "event_kind": "editorial_context",
       "verification": {
         "level": "secondary_source",
