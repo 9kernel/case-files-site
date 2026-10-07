@@ -18,6 +18,7 @@ pdf_pf/
 # inventário bruto: índice de 2.677 peças com identificação de terceiros fora
 # da curadoria — nunca no build público (decisão 2026-10-07)
 data/audit/pf-inventory.json
+data/audit/import-state.json
 # (candidatos derivados de peças com publicidade pendente NUNCA vão ao build)
 .pipeline/
 data/cache/
