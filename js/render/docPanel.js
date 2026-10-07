@@ -38,22 +38,24 @@ export function openDocPanel(doc, page, figure) {
 
   const frameHost = p.querySelector('#dp-frame');
   const url = documentPageUrl(doc, page);
-  const embedable = url && !/^https?:\/\//.test(url); // só cópia same-origin é embutida
-  if (url && embedable) {
-    // o visualizador nativo do navegador cuida de zoom, rolagem e busca;
-    // #page=N abre direto na página da mensagem
-    frameHost.innerHTML = `<iframe src="${esc(url)}" title="${esc(doc.title)} — página ${page || '?'}"></iframe>`;
+  if (url) {
+    // link-only (§2.3): o projeto não redistribui peças — o PDF é exibido da
+    // origem pública (cópia externa) ou de eventual cópia same-origin; o
+    // visualizador nativo do navegador cuida de zoom/rolagem/busca e #page=N
+    // abre direto na página da mensagem
+    const external = /^https?:\/\//.test(url);
+    let host = '';
+    try { host = external ? new URL(url).hostname : ''; } catch { host = ''; }
+    const banner = external
+      ? `<div class="dp-ext">Cópia pública externa (${esc(host)}) — o projeto não redistribui peças dos autos (link-only).`
+        + ` A conferência definitiva é sempre no documento original dos autos.</div>`
+      : '';
+    frameHost.innerHTML = banner + `<iframe src="${esc(url)}" title="${esc(doc.title)} — página ${page || '?'}"></iframe>`;
     p.querySelector('#dp-empty').hidden = true;
   } else {
-    // link-only (plano de risco §2.3): peça externa não é embutida nem
-    // redistribuída pelo projeto — abre na origem pública em nova aba
     frameHost.innerHTML = '';
     p.querySelector('#dp-empty').hidden = false;
-    p.querySelector('#dp-empty').innerHTML = url ? `
-      <p><strong>Cópia pública externa.</strong></p>
-      <p>O projeto não redistribui peças dos autos (política link-only).
-      Abra o documento na origem pública, direto na página da mensagem:</p>
-      <p><a class="btn" href="${esc(url)}" target="_blank" rel="noopener">Abrir na origem (fl. ${page})</a></p>` : `
+    p.querySelector('#dp-empty').innerHTML = `
       <p><strong>Cópia pública não catalogada.</strong></p>
       <p>Este documento ainda não possui URL pública catalogada para
       exibição. Consulte a peça na origem oficial do processo
