@@ -6,8 +6,7 @@
       "daniel-vorcaro",
       "thiago-miranda"
     ],
-    "message_count": 34,
-    "last_message_at": "2025-11-17T12:00:00-03:00",
+    "message_count": 33,
     "last_message_preview": "[Última mensagem registrada na extração da PF, enviada no dia da prisão]",
     "featured": false,
     "note": "O intermediário (publicitário e lobista, então presidente do Portal Leo Dias) articulando encontros, contrato do filme e cobrando pagamentos.",
@@ -15,7 +14,8 @@
       "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
       "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
       "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
-    }
+    },
+    "last_message_date": "2025-11-12"
   },
   {
     "id": "alexandre-moraes-daniel-vorcaro",
@@ -24,8 +24,7 @@
       "daniel-vorcaro",
       "alexandre-moraes"
     ],
-    "message_count": 9,
-    "last_message_at": "2025-11-17T12:00:00-03:00",
+    "message_count": 7,
     "last_message_preview": "…uma correria aqui pra tentar salvar…",
     "featured": true,
     "note": "Pedidos do banqueiro ao ministro do STF, segundo relatório da PF desclassificado por Mendonça (01/09/2026) e revelado pelo R7. Só o lado de Vorcaro sobreviveu (mensagens temporárias de 24h no outro aparelho).",
@@ -33,7 +32,8 @@
       "document": "R7 / relatório da PF desclassificado pelo STF — decisão de André Mendonça (01/09/2026)",
       "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
       "pages": "Relatório da PF revelado pelo R7 e reproduzido pela Rádio Guaíba (01/09/2026). O lado do ministro usava mensagens temporárias de 24h. Mensagens sem data individual no relatório foram agrupadas em 30/10/2025 conforme a ordem da reportagem. [Colchetes] são conectivos editoriais."
-    }
+    },
+    "last_message_date": "2025-11-17"
   },
   {
     "id": "flavio-bolsonaro-daniel-vorcaro",
@@ -43,7 +43,6 @@
       "flavio-bolsonaro"
     ],
     "message_count": 27,
-    "last_message_at": "2025-11-16T15:46:00-03:00",
     "last_message_preview": "Amém!",
     "featured": true,
     "note": "O chat central da extração da PF: do primeiro contato ao dia anterior à prisão — filme, repasses ao fundo Havengate e cobranças.",
@@ -51,7 +50,8 @@
       "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
       "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
       "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
-    }
+    },
+    "last_message_date": "2025-11-16"
   },
   {
     "id": "vanessa-souza-daniel-vorcaro",
@@ -61,7 +61,6 @@
       "vanessa-souza"
     ],
     "message_count": 4,
-    "last_message_at": "2025-10-29T12:00:00-03:00",
     "last_message_preview": "Vamos mudar isso, então.",
     "featured": false,
     "note": "Almoço com o advogado de Haddad e a reação do banqueiro, segundo Correio Braziliense/O Globo.",
@@ -69,7 +68,8 @@
       "document": "Correio Braziliense / O Globo — “Vorcaro disse que Haddad era um de seus ‘maiores opositores’” (03/10/2026)",
       "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html",
       "pages": "Reportagem de Pedro José Borges, com base no O Globo"
-    }
+    },
+    "last_message_date": "2025-10-29"
   },
   {
     "id": "roberto-justus-daniel-vorcaro",
@@ -79,7 +79,6 @@
       "roberto-justus"
     ],
     "message_count": 10,
-    "last_message_at": "2025-09-11T12:00:00-03:00",
     "last_message_preview": "Caro Roberto, eu tenho um carinho enorme por você",
     "featured": false,
     "note": "Cobranças do empresário por aportes da SteelCorp e as respostas do banqueiro, segundo Terra/Poder360.",
@@ -87,7 +86,8 @@
       "document": "Terra / Poder360 — cobranças de Roberto Justus por aporte (02/10/2026)",
       "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html",
       "pages": "Reportagem da Terra com base no Poder360"
-    }
+    },
+    "last_message_date": "2025-09-11"
   },
   {
     "id": "flavio-carneiro-daniel-vorcaro",
@@ -97,7 +97,6 @@
       "flavio-carneiro"
     ],
     "message_count": 11,
-    "last_message_at": "2025-02-27T12:00:00-03:00",
     "last_message_preview": "Segundo o meu xará foi fantástico",
     "featured": false,
     "note": "O amigo e conselheiro do banqueiro avaliando o encontro com o senador: “Acho uma roubada danada”.",
@@ -105,7 +104,8 @@
       "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
       "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
       "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
-    }
+    },
+    "last_message_date": "2025-02-27"
   },
   {
     "id": "mario-frias-daniel-vorcaro",
@@ -114,8 +114,7 @@
       "daniel-vorcaro",
       "mario-frias"
     ],
-    "message_count": 15,
-    "last_message_at": "2024-12-22T12:00:00-03:00",
+    "message_count": 14,
     "last_message_preview": "[Dizendo que aquele era um filme de] justiça divina… 2026 é do Brasil",
     "featured": false,
     "note": "O deputado e produtor executivo da cinebiografia agradecendo o aporte e falando do filme.",
@@ -123,6 +122,7 @@
       "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
       "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
       "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
-    }
+    },
+    "last_message_date": "2024-12-22"
   }
 ]

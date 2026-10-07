@@ -4,27 +4,51 @@
 // Uso:  node scripts/validate.mjs [dataDir]      (padrão: <repo>/data)
 // Exit 1 se houver QUALQUER erro; warnings não derrubam o CI.
 //
+// PRINCÍPIO EDITORIAL CENTRAL:
+//   A interface nunca deve fazer uma reconstrução editorial parecer uma
+//   mensagem literal enviada por uma pessoa. O schema separa:
+//     - natureza do conteúdo (content_kind: verbatim, verbatim_excerpt,
+//       audio_transcript, media, call, editorial_event, system);
+//     - precisão temporal (timestamp_precision: minute, date, month,
+//       approximate — horário NUNCA é estimado);
+//     - proveniência documental (verification.level: official_document,
+//       public_investigation, secondary_source, pending_review);
+//     - nota editorial (editorial_note) FORA da fala atribuída.
+//
 // Regras que geram ERRO (CI vermelho):
-//   E_JSON_PARSE          qualquer JSON inválido (JSON.parse em try/catch)
-//   E_MISSING_SOURCE_REF  mensagem sem source_ref
-//   E_MISSING_STATUS      mensagem sem status
-//   E_BAD_STATUS          status fora de confirmed | pending-review
-//   E_UNKNOWN_SENDER      sender_id inexistente em participants.json
-//   E_MISSING_SENDER      mensagem sem sender_id
-//   E_TIMESTAMP_ORDER     timestamps fora de ordem cronológica na thread
-//   E_BAD_TIMESTAMP       timestamp ausente ou fora do formato ISO 8601 c/ offset
-//   E_DUPLICATE_ID        ids de mensagem duplicados
-//   E_BAD_ID / E_MISSING_ID  id ausente ou fora do padrão m-NNNNN
-//   E_BAD_TYPE            type fora da lista permitida
-//   E_MISSING_ADDED_IN    mensagem sem added_in
-//   E_BAD_CONTENT         content não é string
-//   E_BAD_REPLY_TO        reply_to aponta para mensagem inexistente na thread
-//   E_MISSING_MEDIA_FILE  media.url aponta para arquivo inexistente em /public
-//   E_THREAD_FIELD        thread sem id/title/participants_ids/source válidos
-//   E_ID_MISMATCH         thread.id difere do nome do arquivo
-//   E_UNKNOWN_PARTICIPANT participants_ids cita id fora de participants.json
-//   E_DUP_PARTICIPANT     participants.json com ids duplicados
-//   E_INDEX_MISMATCH      threads.json e threads/*.json fora de sincronia
+//   E_JSON_PARSE              JSON inválido
+//   E_THREAD_FIELD            thread sem id/title/participants_ids/source/messages
+//   E_ID_MISMATCH             thread.id difere do nome do arquivo
+//   E_UNKNOWN_PARTICIPANT     participants_ids cita id fora de participants.json
+//   E_DUP_PARTICIPANT         participants.json com ids duplicados
+//   E_INDEX_MISMATCH          threads.json x threads/*.json fora de sincronia
+//   E_MISSING_ID / E_BAD_ID / E_DUPLICATE_ID   ids de mensagem ausentes/inválidos/repetidos
+//   E_MISSING_SENDER          mensagem (não-evento) sem sender_id
+//   E_EVENT_SENDER            evento editorial com sender_id (evento não tem autor)
+//   E_UNKNOWN_SENDER          sender_id inexistente em participants.json
+//   E_BAD_DATE                date ausente/fora de YYYY-MM-DD (ou YYYY-MM p/ month)
+//   E_BAD_TIME                time fora de HH:MM
+//   E_BAD_PRECISION           timestamp_precision fora da lista permitida
+//   E_TIME_PRECISION_MISMATCH precisão x time inconsistentes (ex.: precision=date
+//                             com hora inventada; precision=minute sem hora)
+//   E_TIMESTAMP_ORDER         ordem cronológica violada QUANDO determinável
+//                             (mesmo dia com hora ausente em qualquer lado não compara)
+//   E_MISSING_SOURCE_REF      mensagem/evento sem source_ref
+//   E_MISSING_ADDED_IN        registro sem added_in
+//   E_BAD_CONTENT             content não é string (mensagem) / vazio (evento)
+//   E_BAD_CONTENT_KIND        content_kind fora da lista permitida
+//   E_AUDIO_NEEDS_FLAGS       audio_transcript sem transcription_complete
+//   E_BAD_REPLY_TO            reply_to aponta para mensagem inexistente na thread
+//   E_MISSING_MEDIA_FILE      media.url aponta para arquivo inexistente em /public
+//   E_MISSING_VERIFICATION    sem objeto verification
+//   E_BAD_VERIFICATION_LEVEL  verification.level fora da lista permitida
+//   E_VERIFICATION_SHAPE      official_document sem authority/document/page ou com
+//                             primary_document_located=false; nível != official_document
+//                             com primary_document_located=true
+//   E_VERIFICATION_SECONDARY  secondary_source sem ao menos 1 fonte secundária válida
+//   E_BAD_EVENT_ID            id de evento fora do padrão e-NNNNN
+//   E_BAD_EVENT_KIND          event_kind fora da lista permitida
+//   E_LEGACY_FIELD            campo do schema antigo (timestamp/status/type) presente
 //
 // Warnings (não bloqueiam): E_COUNT_MISMATCH (contagem no índice desatualizada).
 
@@ -32,10 +56,33 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const ALLOWED_TYPES = new Set(['text', 'image', 'audio', 'video', 'document', 'call', 'system']);
-const ALLOWED_STATUS = new Set(['confirmed', 'pending-review']);
-const ISO_RE = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:\d{2})$/;
+const ALLOWED_KINDS = new Set(['verbatim', 'verbatim_excerpt', 'audio_transcript', 'media', 'call', 'editorial_event', 'system']);
+const ALLOWED_LEVELS = new Set(['official_document', 'public_investigation', 'secondary_source', 'pending_review']);
+const ALLOWED_PRECISIONS = new Set(['minute', 'date', 'month', 'approximate']);
+const ALLOWED_EVENT_KINDS = new Set(['editorial_context', 'system']);
+/** content_kinds que não são fala de pessoa ( dispensam sender_id ) */
+const NO_SENDER_KINDS = new Set(['editorial_event', 'system']);
+/** campos do schema antigo — sua presença é erro de regressão */
+const LEGACY_FIELDS = ['timestamp', 'status', 'type'];
+
+const DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
+const MONTH_RE = /^\d{4}-\d{2}$/;
+const TIME_RE = /^([01]\d|2[0-3]):[0-5]\d$/;
 const ID_RE = /^m-\d{5,}$/;
+const EVENT_ID_RE = /^e-\d{5,}$/;
+
+function isValidDate(date) {
+  if (!DATE_RE.test(date)) return false;
+  const [y, mo, d] = date.split('-').map(Number);
+  const dt = new Date(Date.UTC(y, mo - 1, d));
+  return dt.getUTCFullYear() === y && dt.getUTCMonth() === mo - 1 && dt.getUTCDate() === d;
+}
+
+function isValidMonth(date) {
+  if (!MONTH_RE.test(date)) return false;
+  const [y, mo] = date.split('-').map(Number);
+  return mo >= 1 && mo <= 12 && String(y).length === 4;
+}
 
 /**
  * Valida o diretório de dados. Retorna { errors, warnings, stats }.
@@ -58,7 +105,7 @@ export function validateData(dataDir, rootDir) {
     participants = JSON.parse(fs.readFileSync(pFile, 'utf8'));
   } catch (e) {
     err('E_JSON_PARSE', 'data/participants.json', `JSON inválido: ${e.message}`);
-    return { errors, warnings, stats: { threads: 0, messages: 0 } };
+    return { errors, warnings, stats: { threads: 0, messages: 0, events: 0, byLevel: {} } };
   }
   const participantIds = new Set();
   if (!Array.isArray(participants)) {
@@ -98,12 +145,14 @@ export function validateData(dataDir, rootDir) {
   /* ---------- threads/*.json ---------- */
   if (!fs.existsSync(threadsDir)) {
     err('E_THREAD_FIELD', 'data/threads/', 'Diretório data/threads não existe.');
-    return { errors, warnings, stats: { threads: 0, messages: 0 } };
+    return { errors, warnings, stats: { threads: 0, messages: 0, events: 0, byLevel: {} } };
   }
 
   const files = fs.readdirSync(threadsDir).filter((f) => f.endsWith('.json')).sort();
   const fileIds = new Set();
   let totalMessages = 0;
+  let totalEvents = 0;
+  const byLevel = {};
 
   for (const file of files) {
     const rel = `data/threads/${file}`;
@@ -149,7 +198,7 @@ export function validateData(dataDir, rootDir) {
     // coleta ids para validar reply_to depois
     const ids = new Set(thread.messages.map((m) => m?.id).filter(Boolean));
     const seenIds = new Set(); // duplicatas são por thread (ids reiniciam em cada arquivo)
-    let prevTime = null;
+    let prevMsg = null; // { date, time, precision } do registro anterior
     totalMessages += thread.messages.length;
 
     for (let i = 0; i < thread.messages.length; i++) {
@@ -160,11 +209,18 @@ export function validateData(dataDir, rootDir) {
         continue;
       }
 
+      // campos do schema antigo são erro de regressão
+      for (const legacy of LEGACY_FIELDS) {
+        if (legacy in m) {
+          err('E_LEGACY_FIELD', where, `campo legado "${legacy}" presente — use o novo schema (date/time/timestamp_precision, content_kind, verification).`);
+        }
+      }
+
       // id
       if (m.id == null || m.id === '') {
         err('E_MISSING_ID', where, 'Mensagem sem "id".');
       } else if (!ID_RE.test(m.id)) {
-        err('E_BAD_ID', where, `id "${m.id}" fora do padrão m-NNNNN sequencial.`);
+        err('E_BAD_ID', where, `id "${m.id}" fora do padrão m-NNNNN.`);
       }
 
       // duplicidade (Set local por thread)
@@ -173,45 +229,49 @@ export function validateData(dataDir, rootDir) {
       }
       if (m.id) seenIds.add(m.id);
 
-      // sender
-      if (m.sender_id == null || m.sender_id === '') {
+      // content_kind
+      if (m.content_kind == null) {
+        err('E_BAD_CONTENT_KIND', where, 'Mensagem sem "content_kind".');
+      } else if (!ALLOWED_KINDS.has(m.content_kind)) {
+        err('E_BAD_CONTENT_KIND', where, `content_kind "${m.content_kind}" fora da lista permitida (${[...ALLOWED_KINDS].join(', ')}).`);
+      }
+      const kind = ALLOWED_KINDS.has(m.content_kind) ? m.content_kind : null;
+
+      // sender: exigido em fala; proibido em evento editorial
+      if (kind && NO_SENDER_KINDS.has(kind)) {
+        if (m.sender_id != null) {
+          err('E_EVENT_SENDER', where, `content_kind "${kind}" não pode ter sender_id — evento editorial não é fala de pessoa.`);
+        }
+      } else if (m.sender_id == null || m.sender_id === '') {
         err('E_MISSING_SENDER', where, 'Mensagem sem "sender_id".');
       } else if (!participantIds.has(m.sender_id)) {
         err('E_UNKNOWN_SENDER', where, `sender_id "${m.sender_id}" não existe em participants.json.`);
       }
 
-      // type
-      if (!ALLOWED_TYPES.has(m.type)) {
-        err('E_BAD_TYPE', where, `type "${m.type}" fora da lista permitida (${[...ALLOWED_TYPES].join(', ')}).`);
+      // data / hora / precisão
+      const tCheck = checkTemporal(m, where, err);
+      if (tCheck) {
+        checkOrder(prevMsg, m, where, err);
+        prevMsg = m;
       }
 
-      // timestamp
-      if (m.timestamp == null || m.timestamp === '') {
-        err('E_BAD_TIMESTAMP', where, 'Mensagem sem "timestamp".');
-      } else if (typeof m.timestamp !== 'string' || !ISO_RE.test(m.timestamp) || Number.isNaN(Date.parse(m.timestamp))) {
-        err('E_BAD_TIMESTAMP', where, `timestamp "${m.timestamp}" não é ISO 8601 com offset (ex.: 2024-03-12T14:02:00-03:00).`);
-      } else {
-        const t = Date.parse(m.timestamp);
-        if (prevTime !== null && t < prevTime) {
-          err('E_TIMESTAMP_ORDER', where, `timestamp ${m.timestamp} anterior ao da mensagem anterior (${new Date(prevTime).toISOString()}).`);
-        }
-        prevTime = t;
+      // transcription_complete obrigatório em transcrição de áudio
+      if (kind === 'audio_transcript' && typeof m.transcription_complete !== 'boolean') {
+        err('E_AUDIO_NEEDS_FLAGS', where, 'content_kind "audio_transcript" exige "transcription_complete" (boolean).');
       }
 
       // campos obrigatórios de rastreabilidade
       if (m.source_ref == null || String(m.source_ref).trim() === '') {
         err('E_MISSING_SOURCE_REF', where, 'Mensagem sem "source_ref".');
       }
-      if (m.status == null || m.status === '') {
-        err('E_MISSING_STATUS', where, 'Mensagem sem "status".');
-      } else if (!ALLOWED_STATUS.has(m.status)) {
-        err('E_BAD_STATUS', where, `status "${m.status}" deve ser confirmed | pending-review.`);
-      }
       if (m.added_in == null || String(m.added_in).trim() === '') {
         err('E_MISSING_ADDED_IN', where, 'Mensagem sem "added_in" (hash curto do commit de inserção).');
       }
       if (typeof m.content !== 'string') {
         err('E_BAD_CONTENT', where, '"content" deve ser string (pode ser vazia em mídia).');
+      }
+      if (m.editorial_note != null && typeof m.editorial_note !== 'string') {
+        err('E_BAD_CONTENT', where, '"editorial_note" deve ser string ou null.');
       }
 
       // reply_to
@@ -228,6 +288,66 @@ export function validateData(dataDir, rootDir) {
           }
         } else if (!/^https?:\/\//.test(relUrl)) {
           warn('E_MISSING_MEDIA_FILE', where, `media.url "${m.media.url}" fora de /public/media e sem http(s) — não verificada.`);
+        }
+      }
+
+      // proveniência
+      checkVerification(m, where, err, { isMessage: true });
+      if (m.verification && ALLOWED_LEVELS.has(m.verification.level)) {
+        byLevel[m.verification.level] = (byLevel[m.verification.level] || 0) + 1;
+      }
+    }
+
+    /* ---------- timeline_events ---------- */
+    if (thread.timeline_events != null) {
+      if (!Array.isArray(thread.timeline_events)) {
+        err('E_THREAD_FIELD', rel, '"timeline_events" deve ser um array.');
+      } else {
+        let prevEvt = null;
+        const seenEventIds = new Set();
+        totalEvents += thread.timeline_events.length;
+        for (let i = 0; i < thread.timeline_events.length; i++) {
+          const ev = thread.timeline_events[i];
+          const where = `${rel} · timeline_events[${i}]`;
+          if (!ev || typeof ev !== 'object') {
+            err('E_THREAD_FIELD', where, 'Elemento não é um objeto.');
+            continue;
+          }
+          for (const legacy of LEGACY_FIELDS) {
+            if (legacy in ev) {
+              err('E_LEGACY_FIELD', where, `campo legado "${legacy}" presente.`);
+            }
+          }
+          if (ev.id == null || ev.id === '') {
+            err('E_BAD_EVENT_ID', where, 'Evento sem "id".');
+          } else if (!EVENT_ID_RE.test(ev.id)) {
+            err('E_BAD_EVENT_ID', where, `id "${ev.id}" fora do padrão e-NNNNN.`);
+          } else if (seenEventIds.has(ev.id)) {
+            err('E_DUPLICATE_ID', where, `id de evento duplicado: "${ev.id}"`);
+          } else {
+            seenEventIds.add(ev.id);
+          }
+          if (ev.sender_id != null) {
+            err('E_EVENT_SENDER', where, 'Evento editorial não pode ter sender_id — nunca é renderizado como mensagem de alguém.');
+          }
+          if (ev.event_kind != null && !ALLOWED_EVENT_KINDS.has(ev.event_kind)) {
+            err('E_BAD_EVENT_KIND', where, `event_kind "${ev.event_kind}" fora da lista permitida (${[...ALLOWED_EVENT_KINDS].join(', ')}).`);
+          }
+          if (typeof ev.content !== 'string' || !ev.content.trim()) {
+            err('E_BAD_CONTENT', where, 'Evento editorial exige "content" não vazio.');
+          }
+          if (ev.source_ref == null || String(ev.source_ref).trim() === '') {
+            err('E_MISSING_SOURCE_REF', where, 'Evento editorial sem "source_ref".');
+          }
+          if (ev.added_in == null || String(ev.added_in).trim() === '') {
+            err('E_MISSING_ADDED_IN', where, 'Evento editorial sem "added_in".');
+          }
+          const tCheck = checkTemporal(ev, where, err);
+          if (tCheck) {
+            checkOrder(prevEvt, ev, where, err);
+            prevEvt = ev;
+          }
+          checkVerification(ev, where, err, { isMessage: false });
         }
       }
     }
@@ -253,10 +373,10 @@ export function validateData(dataDir, rootDir) {
         const full = path.join(threadsDir, `${entry.id}.json`);
         if (!fs.existsSync(full)) continue;
         const t = JSON.parse(fs.readFileSync(full, 'utf8'));
-        const confirmed = (t.messages || []).filter((m) => m?.status === 'confirmed').length;
-        if (typeof entry.message_count === 'number' && entry.message_count !== confirmed) {
+        const count = (t.messages || []).length;
+        if (typeof entry.message_count === 'number' && entry.message_count !== count) {
           warn('E_COUNT_MISMATCH', 'data/threads.json',
-            `Thread "${entry.id}": message_count=${entry.message_count}, confirmadas=${confirmed}.`);
+            `Thread "${entry.id}": message_count=${entry.message_count}, mensagens=${count}.`);
         }
       }
     } catch {
@@ -264,7 +384,110 @@ export function validateData(dataDir, rootDir) {
     }
   }
 
-  return { errors, warnings, stats: { threads: files.length, messages: totalMessages } };
+  return {
+    errors,
+    warnings,
+    stats: { threads: files.length, messages: totalMessages, events: totalEvents, byLevel },
+  };
+}
+
+/* ---------- data / hora / precisão ---------- */
+
+function checkTemporal(m, where, err) {
+  const precision = m.timestamp_precision;
+  if (precision == null || !ALLOWED_PRECISIONS.has(precision)) {
+    err('E_BAD_PRECISION', where, `timestamp_precision "${precision}" inválida (use ${[...ALLOWED_PRECISIONS].join(', ')}).`);
+    return false;
+  }
+  const date = m.date;
+  if (typeof date !== 'string' || !(precision === 'month' ? isValidMonth(date) : isValidDate(date))) {
+    err('E_BAD_DATE', where, `date "${date}" inválida para precision "${precision}" (esperado ${precision === 'month' ? 'YYYY-MM' : 'YYYY-MM-DD'}).`);
+    return false;
+  }
+  const time = m.time;
+  if (time != null && (typeof time !== 'string' || !TIME_RE.test(time))) {
+    err('E_BAD_TIME', where, `time "${time}" fora do formato HH:MM.`);
+    return false;
+  }
+  if (precision === 'minute' && time == null) {
+    err('E_TIME_PRECISION_MISMATCH', where, 'timestamp_precision "minute" exige time HH:MM não nulo.');
+    return false;
+  }
+  if (precision !== 'minute' && time != null) {
+    // horário nunca é estimado: precisão menor que minuto proíbe hora
+    err('E_TIME_PRECISION_MISMATCH', where, `timestamp_precision "${precision}" exige time null — horário não divulgado não pode ser inventado.`);
+    return false;
+  }
+  return true;
+}
+
+/**
+ * Ordem cronológica só é exigida quando determinável:
+ * datas diferentes bastam; mesmo dia só compara se AMBOS têm hora.
+ * Precisões month/approximate não participam da comparação.
+ */
+function checkOrder(prev, cur, where, err) {
+  if (!prev) return;
+  const ordered = (x) => x.timestamp_precision === 'minute' || x.timestamp_precision === 'date';
+  if (!ordered(prev) || !ordered(cur)) return;
+  if (prev.date !== cur.date) {
+    if (cur.date < prev.date) {
+      err('E_TIMESTAMP_ORDER', where, `date ${cur.date} anterior à do registro anterior (${prev.date}).`);
+    }
+    return;
+  }
+  if (prev.time != null && cur.time != null && cur.time < prev.time) {
+    err('E_TIMESTAMP_ORDER', where, `time ${cur.time} anterior ao do registro anterior no mesmo dia (${prev.time}).`);
+  }
+}
+
+/* ---------- verification / sources ---------- */
+
+function checkVerification(m, where, err, { isMessage }) {
+  const v = m.verification;
+  if (v == null || typeof v !== 'object' || Array.isArray(v)) {
+    err('E_MISSING_VERIFICATION', where, 'Registro sem objeto "verification".');
+    return;
+  }
+  if (!ALLOWED_LEVELS.has(v.level)) {
+    err('E_BAD_VERIFICATION_LEVEL', where, `verification.level "${v.level}" fora da lista permitida (${[...ALLOWED_LEVELS].join(', ')}).`);
+    return;
+  }
+  if (typeof v.primary_document_located !== 'boolean') {
+    err('E_VERIFICATION_SHAPE', where, 'verification.primary_document_located deve ser boolean.');
+  }
+
+  if (v.level === 'official_document') {
+    // mensagem localizada no documento primário exige referência documental mínima
+    if (!v.authority || typeof v.authority !== 'string') {
+      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige "authority".');
+    }
+    if (!v.document || typeof v.document !== 'string') {
+      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige "document".');
+    }
+    if (typeof v.page !== 'number' || !Number.isInteger(v.page) || v.page < 1) {
+      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige "page" (número inteiro ≥ 1) — nunca inferida.');
+    }
+    if (v.primary_document_located !== true) {
+      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige primary_document_located = true.');
+    }
+    const primary = m.sources?.primary;
+    if (!primary || typeof primary !== 'object' || typeof primary.document !== 'string' || !primary.document ||
+        typeof primary.page !== 'number') {
+      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige sources.primary com document e page.');
+    }
+  } else if (v.primary_document_located === true) {
+    err('E_VERIFICATION_SHAPE', where, `verification.level "${v.level}" não pode ter primary_document_located = true.`);
+  }
+
+  if (isMessage && v.level === 'secondary_source') {
+    const secondary = m.sources?.secondary;
+    const ok = Array.isArray(secondary) && secondary.length > 0 &&
+      secondary.every((s) => s && typeof s.publication === 'string' && s.publication.trim() !== '');
+    if (!ok) {
+      err('E_VERIFICATION_SECONDARY', where, 'verification.level "secondary_source" exige ao menos uma fonte em sources.secondary (publication obrigatória).');
+    }
+  }
 }
 
 /* ---------- CLI ---------- */
@@ -287,8 +510,9 @@ function main() {
     console.error(`[error] ${e.code} — ${e.file}\n        ${e.message}`);
   }
 
-  console.log(`[validate] ${stats.threads} thread(s), ${stats.messages} mensagem(ns), ` +
-    `${errors.length} erro(s), ${warnings.length} warning(s).`);
+  const levels = Object.entries(stats.byLevel).map(([k, n]) => `${k}=${n}`).join(', ');
+  console.log(`[validate] ${stats.threads} thread(s), ${stats.messages} mensagem(ns), ${stats.events} evento(s) editoriais${levels ? ` · ${levels}` : ''}`);
+  console.log(`[validate] ${errors.length} erro(s), ${warnings.length} warning(s).`);
 
   if (errors.length) {
     console.error('[validate] FALHOU — CI vermelho.');

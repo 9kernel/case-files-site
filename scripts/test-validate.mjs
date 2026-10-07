@@ -17,31 +17,95 @@ const participants = [
   { id: 'p-bruno', name: 'Bruno', role: 'r', aliases: [], summary: 's' },
 ];
 
+function msg(over = {}) {
+  return {
+    id: 'm-00001',
+    date: '2024-03-11',
+    time: '08:00',
+    timestamp_precision: 'minute',
+    sender_id: 'p-ana',
+    content_kind: 'verbatim',
+    content: 'primeira mensagem',
+    editorial_note: null,
+    verification: {
+      level: 'secondary_source',
+      origin: 'PF extraction',
+      authority: null,
+      court: null,
+      case: null,
+      document: null,
+      page: null,
+      figure: null,
+      official_url: null,
+      primary_document_located: false,
+      verified_at: '2026-10-06',
+    },
+    sources: {
+      primary: null,
+      secondary: [{ publication: 'Veículo Teste', date: '2026-10-01', url: 'https://example.org/materia' }],
+    },
+    source_ref: 'Veículo Teste, 01/10/2026',
+    added_in: 'abc1234',
+    ...over,
+  };
+}
+
+function officialMsg(over = {}) {
+  return msg({
+    id: 'm-00002',
+    content_kind: 'verbatim_excerpt',
+    content: 'trecho da mensagem',
+    verification: {
+      level: 'official_document',
+      origin: 'PF extraction',
+      authority: 'Polícia Federal',
+      court: 'STF',
+      case: 'PET 16662',
+      document: 'IPJ-A nº 3298613/2026',
+      page: 143,
+      figure: 142,
+      official_url: null,
+      primary_document_located: true,
+      verified_at: '2026-10-06',
+    },
+    sources: {
+      primary: {
+        type: 'official_document',
+        authority: 'Polícia Federal',
+        court: 'STF',
+        case: 'PET 16662',
+        document: 'IPJ-A nº 3298613/2026',
+        page: 143,
+        figure: 142,
+        url: null,
+      },
+      secondary: [{ publication: 'R7', date: '2026-09-01', url: 'https://example.org/r7' }],
+    },
+    source_ref: 'PF · IPJ-A nº 3298613/2026 · fl. 143',
+    ...over,
+  });
+}
+
 function baseThread() {
   return {
     id: 'thread-teste',
     title: 'Thread de teste',
     participants_ids: ['p-ana', 'p-bruno'],
-    source: { document: 'IP 0000/0000', url: 'https://example.org/x.pdf', pages: 'fl. 1–2' },
+    source: { document: 'Documento da fonte', url: 'https://example.org/x', pages: 'reportagem única' },
     messages: [
+      { ...msg(), date: '2024-03-11', time: '08:00', id: 'm-00001' },
+      { ...officialMsg(), date: '2024-03-11', time: '08:05', id: 'm-00002' },
+    ],
+    timeline_events: [
       {
-        id: 'm-00001',
-        timestamp: '2024-03-11T08:00:00-03:00',
-        sender_id: 'p-ana',
-        type: 'text',
-        content: 'primeira mensagem',
-        source_ref: 'IP 0000/0000 · fl. 1',
-        status: 'confirmed',
-        added_in: 'abc1234',
-      },
-      {
-        id: 'm-00002',
-        timestamp: '2024-03-11T08:05:00-03:00',
-        sender_id: 'p-bruno',
-        type: 'text',
-        content: 'segunda mensagem',
-        source_ref: 'IP 0000/0000 · fl. 1',
-        status: 'confirmed',
+        id: 'e-00001',
+        date: '2024-03-10',
+        time: null,
+        timestamp_precision: 'date',
+        content: 'Evento editorial de contexto.',
+        event_kind: 'editorial_context',
+        verification: { level: 'secondary_source', origin: 'PF extraction', primary_document_located: false, verified_at: null },
+        source_ref: 'Veículo Teste, 01/10/2026',
         added_in: 'abc1234',
       },
     ],
@@ -71,7 +135,7 @@ function runCase(name, mutate, expectedCodes) {
 
 let ok = true;
 
-/* caso-base DEVE passar sem erros */
+/* caso-base DEVE passar sem erros (fonte válida + mensagem oficial completa) */
 writeData(baseThread());
 {
   const { errors, warnings } = validateData(dataDir, tmpRoot);
@@ -86,24 +150,52 @@ writeData(baseThread());
 /* cada regra de rejeição */
 ok = runCase('sem source_ref', (t) => delete t.messages[0].source_ref, ['E_MISSING_SOURCE_REF']) && ok;
 ok = runCase('source_ref vazio', (t) => { t.messages[0].source_ref = '  '; }, ['E_MISSING_SOURCE_REF']) && ok;
-ok = runCase('sem status', (t) => delete t.messages[1].status, ['E_MISSING_STATUS']) && ok;
-ok = runCase('status inválido', (t) => { t.messages[0].status = 'talvez'; }, ['E_BAD_STATUS']) && ok;
-ok = runCase('sender inexistente', (t) => { t.messages[1].sender_id = 'p-fantasma'; }, ['E_UNKNOWN_SENDER']) && ok;
 ok = runCase('sem sender', (t) => delete t.messages[0].sender_id, ['E_MISSING_SENDER']) && ok;
-ok = runCase('timestamps fora de ordem', (t) => { t.messages[1].timestamp = '2024-03-11T07:00:00-03:00'; }, ['E_TIMESTAMP_ORDER']) && ok;
-ok = runCase('timestamp em formato inválido', (t) => { t.messages[0].timestamp = '11/03/2024 08:00'; }, ['E_BAD_TIMESTAMP']) && ok;
-ok = runCase('timestamp sem offset', (t) => { t.messages[0].timestamp = '2024-03-11T08:00:00'; }, ['E_BAD_TIMESTAMP']) && ok;
+ok = runCase('sender inexistente', (t) => { t.messages[0].sender_id = 'p-fantasma'; }, ['E_UNKNOWN_SENDER']) && ok;
+ok = runCase('evento editorial com sender_id', (t) => { t.messages[0].content_kind = 'editorial_event'; }, ['E_EVENT_SENDER']) && ok;
+ok = runCase('evento da timeline com sender_id', (t) => { t.timeline_events[0].sender_id = 'p-ana'; }, ['E_EVENT_SENDER']) && ok;
+ok = runCase('sem verification', (t) => delete t.messages[0].verification, ['E_MISSING_VERIFICATION']) && ok;
+ok = runCase('nível de verificação inválido', (t) => { t.messages[0].verification = { ...t.messages[0].verification, level: 'confirmed' }; }, ['E_BAD_VERIFICATION_LEVEL']) && ok;
+ok = runCase('official_document sem página', (t) => { t.messages[1].verification = { ...t.messages[1].verification, page: null }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('official_document sem documento', (t) => { t.messages[1].verification = { ...t.messages[1].verification, document: null }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('official_document sem authority', (t) => { t.messages[1].verification = { ...t.messages[1].verification, authority: null }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('official_document com primary_document_located=false', (t) => { t.messages[1].verification = { ...t.messages[1].verification, primary_document_located: false }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('official_document sem sources.primary', (t) => { t.messages[1].sources = { primary: null, secondary: [] }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('secondary_source sem fonte secundária', (t) => { t.messages[0].sources = { primary: null, secondary: [] }; }, ['E_VERIFICATION_SECONDARY']) && ok;
+ok = runCase('secondary_source com fonte inválida', (t) => { t.messages[0].sources = { primary: null, secondary: [{ date: '2026-10-01' }] }; }, ['E_VERIFICATION_SECONDARY']) && ok;
+ok = runCase('nível != official_document com primary_document_located=true', (t) => { t.messages[0].verification = { ...t.messages[0].verification, primary_document_located: true }; }, ['E_VERIFICATION_SHAPE']) && ok;
+ok = runCase('datas fora de ordem', (t) => { t.messages[1].date = '2024-03-10'; }, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('horas fora de ordem no mesmo dia', (t) => { t.messages[1].time = '07:00'; }, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('mesmo dia com hora ausente NÃO compara ordem', (t) => {
+  t.messages[1].date = '2024-03-11'; t.messages[1].time = null; t.messages[1].timestamp_precision = 'date';
+}, []) && ok;
+ok = runCase('date inválida', (t) => { t.messages[0].date = '11/03/2024'; }, ['E_BAD_DATE']) && ok;
+ok = runCase('date inexistente (31/02)', (t) => { t.messages[0].date = '2024-02-31'; }, ['E_BAD_DATE']) && ok;
+ok = runCase('time fora de HH:MM', (t) => { t.messages[0].time = '8h00'; }, ['E_BAD_TIME']) && ok;
+ok = runCase('time impossível', (t) => { t.messages[0].time = '25:99'; }, ['E_BAD_TIME']) && ok;
+ok = runCase('precisão inválida', (t) => { t.messages[0].timestamp_precision = 'second'; }, ['E_BAD_PRECISION']) && ok;
+ok = runCase('precision=date com hora inventada', (t) => { t.messages[0].time = '12:00'; t.messages[0].timestamp_precision = 'date'; }, ['E_TIME_PRECISION_MISMATCH']) && ok;
+ok = runCase('precision=minute sem hora', (t) => { t.messages[0].time = null; }, ['E_TIME_PRECISION_MISMATCH']) && ok;
+ok = runCase('precision=month aceita YYYY-MM', (t) => { t.messages[0].date = '2024-03'; t.messages[0].time = null; t.messages[0].timestamp_precision = 'month'; }, []) && ok;
 ok = runCase('id duplicado', (t) => { t.messages[1].id = 'm-00001'; }, ['E_DUPLICATE_ID']) && ok;
 ok = runCase('id fora do padrão', (t) => { t.messages[0].id = 'msg1'; }, ['E_BAD_ID']) && ok;
 ok = runCase('sem id', (t) => delete t.messages[0].id, ['E_MISSING_ID']) && ok;
-ok = runCase('type fora da lista', (t) => { t.messages[0].type = 'sticker'; }, ['E_BAD_TYPE']) && ok;
-ok = runCase('sem type', (t) => delete t.messages[0].type, ['E_BAD_TYPE']) && ok;
+ok = runCase('content_kind fora da lista', (t) => { t.messages[0].content_kind = 'palpite'; }, ['E_BAD_CONTENT_KIND']) && ok;
+ok = runCase('sem content_kind', (t) => delete t.messages[0].content_kind, ['E_BAD_CONTENT_KIND']) && ok;
+ok = runCase('áudio sem transcription_complete', (t) => { t.messages[0].content_kind = 'audio_transcript'; }, ['E_AUDIO_NEEDS_FLAGS']) && ok;
+ok = runCase('áudio com transcription_complete passa', (t) => { t.messages[0].content_kind = 'audio_transcript'; t.messages[0].transcription_complete = false; }, []) && ok;
 ok = runCase('sem added_in', (t) => delete t.messages[0].added_in, ['E_MISSING_ADDED_IN']) && ok;
 ok = runCase('content não-string', (t) => { t.messages[0].content = 42; }, ['E_BAD_CONTENT']) && ok;
 ok = runCase('reply_to inexistente', (t) => { t.messages[1].reply_to = 'm-99999'; }, ['E_BAD_REPLY_TO']) && ok;
 ok = runCase('sender de thread inexistente em participants', (t) => { t.participants_ids = ['p-fantasma']; }, ['E_UNKNOWN_PARTICIPANT']) && ok;
 ok = runCase('thread sem source', (t) => delete t.source, ['E_THREAD_FIELD']) && ok;
-ok = runCase('media.url sem arquivo', (t) => { t.messages[0].type = 'image'; t.messages[0].media = { url: '/public/media/inexistente.png', filename: 'x.png' }; }, ['E_MISSING_MEDIA_FILE']) && ok;
+ok = runCase('media.url sem arquivo', (t) => { t.messages[0].content_kind = 'media'; t.messages[0].media = { kind: 'image', url: '/public/media/inexistente.png', filename: 'x.png' }; }, ['E_MISSING_MEDIA_FILE']) && ok;
+ok = runCase('campo legado timestamp', (t) => { t.messages[0].timestamp = '2024-03-11T08:00:00-03:00'; }, ['E_LEGACY_FIELD']) && ok;
+ok = runCase('campo legado status', (t) => { t.messages[0].status = 'confirmed'; }, ['E_LEGACY_FIELD']) && ok;
+ok = runCase('campo legado type', (t) => { t.messages[0].type = 'text'; }, ['E_LEGACY_FIELD']) && ok;
+ok = runCase('evento com id fora do padrão', (t) => { t.timeline_events[0].id = 'evento-1'; }, ['E_BAD_EVENT_ID']) && ok;
+ok = runCase('evento com event_kind inválido', (t) => { t.timeline_events[0].event_kind = 'palpite'; }, ['E_BAD_EVENT_KIND']) && ok;
+ok = runCase('evento com content vazio', (t) => { t.timeline_events[0].content = '  '; }, ['E_BAD_CONTENT']) && ok;
 
 /* JSON inválido */
 writeData(baseThread());

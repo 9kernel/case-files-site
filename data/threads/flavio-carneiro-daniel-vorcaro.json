@@ -13,112 +13,387 @@
   "messages": [
     {
       "id": "m-00001",
-      "timestamp": "2024-12-08T12:00:00-03:00",
+      "date": "2024-12-08",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Thiago tá cobrando se você vai num jantar c meu xará e o pai dele pelo que entendi, você tá ciente disso?",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00002",
-      "timestamp": "2024-12-08T12:00:00-03:00",
+      "date": "2024-12-08",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Acho uma roubada danada.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00003",
-      "timestamp": "2024-12-08T12:00:00-03:00",
+      "date": "2024-12-08",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Não sei nem de quem tá falando.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00004",
-      "timestamp": "2024-12-08T12:00:00-03:00",
+      "date": "2024-12-08",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Thiago Miranda insistia em juntá-lo com] o meu xará e o pai",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00005",
-      "timestamp": "2024-12-08T12:00:00-03:00",
+      "date": "2024-12-08",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Temos que pensar nisso.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00006",
-      "timestamp": "2024-12-09T20:00:00-03:00",
+      "date": "2024-12-09",
+      "time": "20:00",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Não fala dessa reunião bolso pra ninguém!",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00007",
-      "timestamp": "2024-12-09T20:00:00-03:00",
+      "date": "2024-12-09",
+      "time": "20:00",
+      "timestamp_precision": "minute",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Esse negócio acaba comigo.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00008",
-      "timestamp": "2024-12-09T20:00:00-03:00",
+      "date": "2024-12-09",
+      "time": "20:00",
+      "timestamp_precision": "minute",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Respondeu estar] morrendo de medo",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00009",
-      "timestamp": "2024-12-09T20:00:00-03:00",
+      "date": "2024-12-09",
+      "time": "20:00",
+      "timestamp_precision": "minute",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Comentou ter] receio do xará",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00010",
-      "timestamp": "2025-02-27T12:00:00-03:00",
+      "date": "2025-02-27",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Perguntou se a entrevista do presidente à Leo Dias TV havia sido] boa pro bolso",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
       "id": "m-00011",
-      "timestamp": "2025-02-27T12:00:00-03:00",
+      "date": "2025-02-27",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "flavio-carneiro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Segundo o meu xará foi fantástico",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
       "source_ref": "piauí, 01/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-piaui-20261006"
     }
   ]

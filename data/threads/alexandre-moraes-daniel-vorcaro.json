@@ -1,7 +1,10 @@
 {
   "id": "alexandre-moraes-daniel-vorcaro",
   "title": "Alexandre de Moraes",
-  "participants_ids": ["daniel-vorcaro", "alexandre-moraes"],
+  "participants_ids": [
+    "daniel-vorcaro",
+    "alexandre-moraes"
+  ],
   "source": {
     "document": "R7 / relatório da PF desclassificado pelo STF — decisão de André Mendonça (01/09/2026)",
     "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes",
@@ -9,93 +12,296 @@
   },
   "messages": [
     {
-      "id": "m-00001",
-      "timestamp": "2025-10-30T12:00:00-03:00",
-      "sender_id": "daniel-vorcaro",
-      "type": "system",
-      "content": "[O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado do banqueiro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.]",
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
       "id": "m-00002",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "G e os diretores estão na pressão máxima",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00003",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "É importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
-      "added_in": "ingest-bm-r7-20261006"
-    },
-    {
-      "id": "m-00004",
-      "timestamp": "2025-10-30T12:00:00-03:00",
-      "sender_id": "daniel-vorcaro",
-      "type": "system",
-      "content": "[Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF]",
-      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00005",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00006",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00007",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00008",
-      "timestamp": "2025-10-30T12:00:00-03:00",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "E com Andrei dá pra segurar?",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-r7-20261006"
     },
     {
       "id": "m-00009",
-      "timestamp": "2025-11-17T12:00:00-03:00",
+      "date": "2025-11-17",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Sobre jornalistas apurando transações do BRB, diz ter feito] uma correria aqui pra tentar salvar [a situação, o que poderia] inibir [o avanço das apurações]",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "R7 (reproduzido pela Rádio Guaíba)",
+            "date": "2026-09-01",
+            "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+          }
+        ]
+      },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
-      "status": "confirmed",
+      "added_in": "ingest-bm-r7-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "[O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado do banqueiro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.]",
+      "event_kind": "editorial_context",
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
+      "added_in": "ingest-bm-r7-20261006"
+    },
+    {
+      "id": "e-00002",
+      "date": "2025-10-30",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "[Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF]",
+      "event_kind": "editorial_context",
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
       "added_in": "ingest-bm-r7-20261006"
     }
   ]

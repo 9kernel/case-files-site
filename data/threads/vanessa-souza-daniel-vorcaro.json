@@ -13,42 +13,142 @@
   "messages": [
     {
       "id": "m-00001",
-      "timestamp": "2025-10-29T12:00:00-03:00",
+      "date": "2025-10-29",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "vanessa-souza",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Disse estar almoçando com] o advogado do Haddad [e perguntou sobre a venda do Banco Master ao BRB e os trâmites no Banco Central]",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Correio Braziliense / O Globo",
+            "date": "2026-10-03",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+          }
+        ]
+      },
       "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-cb-20261006"
     },
     {
       "id": "m-00002",
-      "timestamp": "2025-10-29T12:00:00-03:00",
+      "date": "2025-10-29",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Disse que o problema no Banco Central era] bem mais profundo",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Correio Braziliense / O Globo",
+            "date": "2026-10-03",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+          }
+        ]
+      },
       "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-cb-20261006"
     },
     {
       "id": "m-00003",
-      "timestamp": "2025-10-29T12:00:00-03:00",
+      "date": "2025-10-29",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Haddad um dos meus maiores opositores. Infelizmente, porque nem conhecer o conheço.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Correio Braziliense / O Globo",
+            "date": "2026-10-03",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+          }
+        ]
+      },
       "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-cb-20261006"
     },
     {
       "id": "m-00004",
-      "timestamp": "2025-10-29T12:00:00-03:00",
+      "date": "2025-10-29",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "vanessa-souza",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Vamos mudar isso, então.",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Correio Braziliense / O Globo",
+            "date": "2026-10-03",
+            "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+          }
+        ]
+      },
       "source_ref": "Correio Braziliense · O Globo, 03/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-cb-20261006"
     }
   ]

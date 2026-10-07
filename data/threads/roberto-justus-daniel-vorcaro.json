@@ -13,102 +13,352 @@
   "messages": [
     {
       "id": "m-00001",
-      "timestamp": "2024-12-21T12:00:00-03:00",
+      "date": "2024-12-21",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Em 40 anos como empresário, nunca tive tantas dificuldades em falar ou ter retorno como tenho com você",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00002",
-      "timestamp": "2025-08-06T12:00:00-03:00",
+      "date": "2025-08-06",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Você sumiu de novo como sempre. Ainda não foi resolvida a capitalização",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00003",
-      "timestamp": "2025-08-06T12:00:00-03:00",
+      "date": "2025-08-06",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Surreal o que estamos passando",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00004",
-      "timestamp": "2025-09-01T12:00:00-03:00",
+      "date": "2025-09-01",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Nunca na minha vida fiquei tão decepcionado com alguém. O que custa me receber por 1 horinha",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00005",
-      "timestamp": "2025-09-01T12:00:00-03:00",
+      "date": "2025-09-01",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[Ameaçando pedir recuperação judicial da SteelCorp se a dívida seguisse no balanço:] Vale a pena? Poxa….",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00006",
-      "timestamp": "2025-09-01T12:00:00-03:00",
+      "date": "2025-09-01",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "…falta de empatia de sua parte absurda… [diz ter cumprido] a duras penas tudo que combinamos dos aportes…",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00007",
-      "timestamp": "2025-09-02T12:00:00-03:00",
+      "date": "2025-09-02",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Mas para ser um true sale tem que ter um fluxo",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00008",
-      "timestamp": "2025-09-11T12:00:00-03:00",
+      "date": "2025-09-11",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "[A empresa estaria] incapaz de honrar compromissos financeiros",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00009",
-      "timestamp": "2025-09-11T12:00:00-03:00",
+      "date": "2025-09-11",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "O problema é sobreviver até lá",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     },
     {
       "id": "m-00010",
-      "timestamp": "2025-09-11T12:00:00-03:00",
+      "date": "2025-09-11",
+      "time": null,
+      "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "type": "text",
+      "content_kind": "verbatim",
       "content": "Caro Roberto, eu tenho um carinho enorme por você",
+      "editorial_note": null,
+      "verification": {
+        "level": "pending_review",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": null
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Terra / Poder360",
+            "date": "2026-10-02",
+            "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+          }
+        ]
+      },
       "source_ref": "Terra · Poder360, 02/10/2026",
-      "status": "confirmed",
       "added_in": "ingest-bm-terra-20261006"
     }
   ]
