@@ -1,28 +1,9 @@
-// home.js — rota #/: aviso editorial, destaques, níveis de proveniência e
-// orientações de citação.
+// home.js — rota #/: apresentação, legenda de proveniência e fontes.
+// Sem seções de destaques/citação: a lista lateral já dá acesso às conversas.
 
-import { CONFIG } from '../config.js';
-import { getThreadIndex } from '../api.js';
-import { escapeHtml as esc, formatDateLong } from '../utils.js';
+import { escapeHtml as esc } from '../utils.js';
 
 export async function renderHome(container) {
-  let featured = [];
-  try {
-    featured = (await getThreadIndex()).filter((t) => t.featured);
-  } catch {
-    featured = [];
-  }
-
-  const cards = featured
-    .map(
-      (t) => `<a class="hl-card" href="#/thread/${esc(t.id)}">
-        <h3>${esc(t.title)}</h3>
-        <p>${esc(t.note || t.source?.pages || '')}</p>
-        <span class="hl-meta">${t.message_count ?? 0} mensagens publicadas · ${esc(t.source?.document || '')}</span>
-      </a>`
-    )
-    .join('');
-
   container.innerHTML = `
   <div class="home">
     <div class="home-inner">
@@ -34,22 +15,6 @@ export async function renderHome(container) {
            e cada mensagem indica <strong>exatamente de onde veio e com que grau de
            verificação</strong>. Feito para jornalistas, advogados e público geral.</p>
       </section>
-
-      <section class="notice" aria-label="Aviso editorial">
-        <strong>Aviso editorial</strong>
-        Conteúdo reproduzido de <strong>documentos públicos e reportagens jornalísticas</strong>
-        que publicaram trechos da extração forense da PF. A existência de uma mensagem neste
-        arquivo <strong>não constitui acusação, conclusão de culpa ou confirmação de
-        interpretação de terceiros</strong>; as investigações seguem em curso.
-        Última atualização: ${esc(formatDateLong(CONFIG.LAST_UPDATED))}.
-        <a href="#/policy">Política de correções e fontes</a>.
-      </section>
-
-      ${
-        cards
-          ? `<h2 class="section-title">Destaques</h2><div class="cards-grid">${cards}</div>`
-          : ''
-      }
 
       <h2 class="section-title">Como ler este arquivo</h2>
       <section class="howto">
@@ -63,6 +28,7 @@ export async function renderHome(container) {
           <li><strong>Transcrição parcial de áudio</strong> marca transcrições incompletas de áudios.</li>
           <li><strong>Notas editoriais</strong> (contexto atribuído pelas fontes) aparecem sempre <em>fora</em> da bolha de mensagem — nunca dentro da fala de alguém.</li>
           <li><strong>Horários nunca são estimados</strong>: quando a fonte não divulga, exibimos “horário não divulgado”.</li>
+          <li>Estas mensagens não constituem acusação nem conclusão de culpa ou inocência; as investigações seguem em curso. Veja a <a href="#/policy">Política de correções e fontes</a>.</li>
         </ul>
       </section>
 
@@ -76,17 +42,6 @@ export async function renderHome(container) {
         </ul>
         <p style="margin-top:8px">O botão abaixo de cada mensagem abre o painel com a
            proveniência completa e o link para a fonte.</p>
-      </section>
-
-      <h2 class="section-title">Como citar</h2>
-      <section class="howto">
-        <p>Em cada mensagem há dois botões:</p>
-        <ol>
-          <li><strong>Copiar link</strong> — deep-link direto da mensagem
-              (ex.: <code>#/thread/flavio-bolsonaro-daniel-vorcaro/m-00024</code>);</li>
-          <li><strong>Copiar citação</strong> — no formato
-              <code>Banco Master — piauí, 01/10/2026, msg m-00024</code>.</li>
-        </ol>
       </section>
     </div>
   </div>`;

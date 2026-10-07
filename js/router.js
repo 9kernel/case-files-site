@@ -4,12 +4,10 @@
 //   #/policy                  -> política de correções e fontes
 //   #/thread/{{id}}           -> conversa (abre no fim)
 //   #/thread/{{id}}/{{msgId}} -> conversa com deep-link na mensagem
-//   #/search/{{consulta}}     -> resultados globais
 //   qualquer outra            -> 404
 
 import { renderHome } from './render/home.js';
 import { renderChatWindow } from './render/chatWindow.js';
-import { renderSearchView } from './render/searchView.js';
 import { renderPolicy } from './render/policy.js';
 import { setActiveThread } from './render/chatList.js';
 import { CONFIG } from './config.js';
@@ -32,9 +30,6 @@ function parseHash() {
   }
   if (parts[0] === 'policy') {
     return { name: 'policy', params: {} };
-  }
-  if (parts[0] === 'search') {
-    return { name: 'search', params: { q: parts.slice(1).join('/') } };
   }
   return { name: 'notfound', params: {} };
 }
@@ -73,10 +68,6 @@ async function route() {
       case 'thread':
         document.title = `Conversa — ${CONFIG.CASE_NAME}`;
         await renderChatWindow(container, params.id, params.msgId);
-        break;
-      case 'search':
-        document.title = `Busca — ${CONFIG.CASE_NAME}`;
-        await renderSearchView(container, params.q);
         break;
       case 'policy':
         document.title = `Política de correções e fontes — ${CONFIG.CASE_NAME}`;

@@ -399,7 +399,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
       <button type="button" class="chat-source-link" id="chat-source" title="Ver fonte do documento">${esc(raw.source?.document || '')}</button>
       <button type="button" class="icon-btn only-desktop" disabled title="Chamadas não fazem parte do arquivo" aria-label="Chamada (indisponível no arquivo)">${icons.phoneHeader}</button>
       <button type="button" class="icon-btn only-desktop" disabled title="Videochamadas não fazem parte do arquivo" aria-label="Videochamada (indisponível no arquivo)">${icons.videocam}</button>
-      <button type="button" class="icon-btn" id="hdr-search" title="Buscar no arquivo" aria-label="Buscar no arquivo">${icons.search}</button>
       <button type="button" class="icon-btn" id="btn-filters" aria-expanded="false" aria-controls="filter-bar" title="Filtros">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16"/><path d="M7 12h10"/><path d="M10 18h4"/></svg>
       </button>
@@ -470,10 +469,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
     else location.hash = '#/';
   });
 
-  // ícone de busca do header -> foca a busca global
-  container.querySelector('#hdr-search')?.addEventListener('click', () => {
-    document.getElementById('global-search-input')?.focus();
-  });
   wireMediaDialog();
 
   // timeline nav

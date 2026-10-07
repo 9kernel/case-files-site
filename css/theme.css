@@ -38,7 +38,7 @@
     Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji";
 }
 
-html { font-size: 16px; }
+html { font-size: 19.2px; }
 
 body {
   font-family: var(--font);

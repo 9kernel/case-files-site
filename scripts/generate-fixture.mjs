@@ -181,4 +181,4 @@ writeIndex(index);
 console.timeEnd('[fixture] geração');
 
 const mb = (fs.statSync(path.join(threadsDir, `${THREAD_ID}.json`)).size / 1024 / 1024).toFixed(1);
-console.log(`[fixture] ${messages.length} mensagens + ${events.length} eventos escritos (${mb} MB). Abra o site e teste a busca — o tempo está exibido na view de resultados.`);
+console.log(`[fixture] ${messages.length} mensagens + ${events.length} eventos escritos (${mb} MB). Use para testar o scroll em chunks da chatWindow.`);

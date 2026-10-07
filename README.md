@@ -1,4 +1,4 @@
-# Arquivo Público de Diálogos — Caso Banco Master
+# Zap do Vorcaro — Caso Banco Master
 
 Site **100% estático** (HTML + CSS + JavaScript puro, sem frameworks, sem build,
 sem npm) que reproduz a interface do WhatsApp para navegação cronológica de
@@ -159,6 +159,8 @@ A fixture é **gitignored** (teste local). Busca < 200 ms e scroll fluido
    - **job `validate`**: `validate.mjs` + `test-validate.mjs` em todo push/PR;
    - **job `deploy`**: no merge na `main`, publica a raiz do repo (sem build).
 
+Tipografia ampliada (~20%) para leitura confortável em baixa visão.
+
 Placeholders a substituir antes de domínio público: `js/config.js`
 (`CASE_NAME`, `LAST_UPDATED`, `REPO_URL`, `CORRECTIONS_CONTACT`),
 `index.html` (title/og), `sitemap.xml`/`robots.txt` (domínio).
@@ -177,7 +179,7 @@ case-files-site/
 │   ├── utils.js             # escapeHtml, datas pt-BR, sortKey, clipboard…
 │   ├── state.js             # estado de UI em memória
 │   ├── config.js            # constantes editoriais + canal de correção
-│   └── render/              # chatList · chatWindow · message · profile · searchView · home · policy
+│   └── render/              # chatList · chatWindow · message · profile · home · policy
 ├── data/
 │   ├── participants.json    # participantes (+ profile_verification opcional)
 │   ├── threads.json         # índice leve para a ChatList
