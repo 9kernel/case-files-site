@@ -98,7 +98,7 @@ SENDER_FIX = {  # quote (início, caixa-baixa) -> remetente documentalmente corr
     "se vc quiser vou com o pessoal do rio": "felipe-mourao",  # fl.50: FM fala com Vorcaro
 }
 DROP_QUOTES = [  # conteúdo de captura (não mensagem), duplicata ou fragmento
-    "usuário: alina boueres",      # texto da consulta anexada, não mensagem do chat
+    "usuária de nome não reproduzido",      # texto da consulta anexada, não mensagem do chat
     "boa vc é foda",               # dup. da ocorrência datada no IPJ-A («Boa vc e foda»)
     "o tiro saiu pela culatra",    # fragmento da ocorrência completa
     "mas o principal é o primeiro",# fragmento de «Esse outro foi na onda…»

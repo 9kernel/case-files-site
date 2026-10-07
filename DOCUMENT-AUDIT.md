@@ -82,7 +82,7 @@ Beatriz/Jarbas).
 
 ## 5. Privacidade e minimização (§23)
 
-**Não publicadas**: threads de Martha Graeff (namorada — os encontros com o
+**Não publicadas**: threads de Martha G. (namorada — os encontros com o
 ministro viraram eventos com identidade minimizada na thread Moraes), Gustavo
 Motorista, Motorista Brasilia Sidney, Michael (funcionário do hotel), Stella
 (filha), Thatiane Prime e Fabiano Zettel (fora das prioridades; citações
@@ -196,6 +196,15 @@ A.C., V.D., N.T., M.Q., V.J.T., M.R., H.V. e a usuária de sistema citada em
 log de acesso, com nome não reproduzido); evento de contexto e-00004 abre a
 timeline da thread esclarecendo a presunção de inocência. Os nomes completos
 constam dos documentos públicos originais, disponíveis no pacote do STF.
+
+**Segunda passada (mesma data):** varredura case-insensitive em todo o repositório
+capturou formatos mistos que a primeira (padrão CAIXA ALTA da PF) não pegou —
+corrigidos em mais 8 notas (L.F.W., A.C. com colchete de substituição, nome
+da filha dentro de citação repetida, arquivo que identificava N.T.) e nos
+registros de auditoria (Martha G.). Mensagens **literais** que contêm nomes
+ou insultos de terceiros permanecem por regra absoluta do projeto (fala
+verbatim de peça pública, atribuída ao seu autor) — entre elas a que menciona
+A.C. e o primeiro nome da filha de Vorcaro.
 
 ## 11. Resultado dos testes (atualizado 2026-10-07)
 
