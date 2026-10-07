@@ -3,12 +3,12 @@
  "scope": "todas as threads públicas de data/threads/",
  "summary": {
   "threads": 25,
-  "records": 383,
-  "ok": 383,
+  "records": 384,
+  "ok": 384,
   "problems": 0,
   "by_category": {
    "OK_OFFICIAL": 275,
-   "OK_SECONDARY": 34,
+   "OK_SECONDARY": 35,
    "OK_PUBLIC_INVESTIGATION": 74
   }
  },
@@ -4164,6 +4164,24 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "e-00004",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {

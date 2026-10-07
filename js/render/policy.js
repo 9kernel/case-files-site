@@ -66,6 +66,28 @@ export function renderPolicy(container) {
         <p style="margin-top:10px">${contactHtml}</p>
       </section>
 
+      <section class="howto" aria-label="Dados pessoais">
+        <h2 class="section-title">Seus dados (LGPD)</h2>
+        <ul style="list-style:disc; padding-left:20px; display:grid; gap:6px">
+          <li><strong>Base da publicação:</strong> este arquivo reproduz exclusivamente
+              conteúdo de peças públicas de processos no STF (levantamento de sigilo de
+              10/09/2026, pacote «Arquivos Pet 16704») e reportagens com citação da fonte —
+              tratamento necessário ao exercício de direitos e ao escrutínio de atos
+              públicos (LGPD, art. 7º, VI e art. 11, II).</li>
+          <li><strong>Minimização:</strong> dados pessoais não essenciais à compreensão
+              documental (telefones, CPF, contas) nunca são publicados, mesmo quando
+              constem dos originais; pessoas não investigadas citadas na narrativa
+              aparecem apenas por iniciais.</li>
+          <li><strong>Direitos do titular:</strong> qualquer pessoa citada pode solicitar,
+              pelo canal abaixo, <strong>acesso, correção, anonimização ou exclusão</strong>
+              de dados pessoais que não sejam essenciais ao registro documental de fatos
+              públicos. Resposta em até <strong>15 dias</strong>.</li>
+          <li>O PDF hospedado em <code>public/docs/</code> (cópia pública de peça oficial)
+              está coberto por esta mesma política.</li>
+        </ul>
+        <p style="margin-top:10px">${contactHtml}</p>
+      </section>
+
       <p class="howto" style="margin-top:4px">
         <a class="btn btn-ghost" href="#/">Voltar ao início</a>
       </p>

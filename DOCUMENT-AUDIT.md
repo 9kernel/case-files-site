@@ -183,6 +183,20 @@ todas, para peças com publicidade confirmada. Nenhuma mensagem precisou ser
 rebaixada; os metadados (processo/e-Doc/URL oficial) foram preenchidos onde
 estavam nulos. Detalhe por mensagem: [`PUBLIC-PROVENANCE-AUDIT.md`](PUBLIC-PROVENANCE-AUDIT.md).
 
+### Decisão editorial: desnominalização de terceiros (2026-10-07, tarde)
+
+Pessoas citadas na narrativa da PF **como alvos de apuração, de "pressão" ou
+de acompanhamento** — e que não figuram nos autos como investigadas, réus ou
+condenadas — passam a ser identificadas **apenas por iniciais** nas notas
+editoriais deste site (critério de necessidade: o interesse público da
+narrativa não depende do nome completo de quem não é parte). Mensagens
+literais permanecem intocadas, por regra do projeto. Aplicado a 19 notas
+editoriais da thread Felipe Mourão (terceiros identificados por L.G., L.F.W.,
+A.C., V.D., N.T., M.Q., V.J.T., M.R., H.V. e a usuária de sistema citada em
+log de acesso, com nome não reproduzido); evento de contexto e-00004 abre a
+timeline da thread esclarecendo a presunção de inocência. Os nomes completos
+constam dos documentos públicos originais, disponíveis no pacote do STF.
+
 ## 11. Resultado dos testes (atualizado 2026-10-07)
 
 `validate.mjs`: **0 erros / 0 warnings** (25 threads, 335 mensagens, 48 eventos;
