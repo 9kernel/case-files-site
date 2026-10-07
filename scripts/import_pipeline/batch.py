@@ -134,7 +134,8 @@ def main() -> int:
     c = conn()
     pending = [dict(r) for r in c.execute(
         "SELECT doc_id,status,pages,header_ref,public_access FROM docs"
-        " WHERE status IN ('discovered','indexed','parsed') ORDER BY updated_at LIMIT ?",
+        " WHERE status IN ('discovered','indexed','parsed')"
+        " ORDER BY COALESCE(pages, 999999) ASC, updated_at LIMIT ?",
         (args.docs,))]
     if args.dry_run:
         for d in pending:

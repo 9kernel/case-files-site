@@ -111,13 +111,30 @@ def atomic_write_json(path: Path, data) -> None:
             os.unlink(tmp)
 
 
-def derive_doc_id(first_page_text: str, sha16: str) -> tuple[str, str, str]:
-    """Extrai (doc_id, header_ref, doc_kind) da primeira página; nunca inventa.
+# número de processo unificado (ex.: 1117467-26.2025.4.01.3400)
+PROC_RE = re.compile(r"(\d{7})-(\d{2})\.(\d{4})\.(\d)\.(\d{2})\.(\d{4})")
+FILE_KINDS = [
+    ("inquérito", "inquerito"), ("peticao", "petição inicial"), ("petição", "petição inicial"),
+    ("sequestro", "sequestro"), ("busca", "busca e apreensão"), ("prisao", "prisão"),
+    ("prisão", "prisão"), ("restituicao", "restituição"), ("quebra", "quebra de sigilo"),
+    ("documento", "documento"), ("denuncia", "denúncia"), ("acordao", "decisão"),
+]
 
-    Ordem importa: o campo de formulário ("Número da IPJ-A 1070759/2026") é
-    autoritativo; menções soltas "IPJ-A nº X" em representações referem-se a
-    ANEXOS, não à peça em si — por isso representações são detectadas antes.
+
+def derive_doc_id(first_page_text: str, sha16: str, filename: str | None = None) -> tuple[str, str, str]:
+    """Extrai (doc_id, header_ref, doc_kind); nunca inventa.
+
+    Pacotes padronizados (ex.: Arquivos Pet 16704) têm nome estruturado
+    "NNNNN Peça - PROCESSO_hash.pdf": deriva daí, com sufixo de hash para
+    unicidade entre partes/repetições. Caso contrário, lê a 1ª página.
     """
+    if filename:
+        base = filename.rsplit("_", 1)[0]
+        m = PROC_RE.search(filename)
+        kind = next((label for pat, label in FILE_KINDS if pat in filename.lower()), "peça processual")
+        if m:
+            return f"pet16704-{m.group(1)}-{m.group(2)}-{sha16[:8]}", base[:90], kind
+
     t = (first_page_text or "").replace("\n", " ")
 
     if re.search(r"EXCELENT[ÍI]SSIMO", t, re.IGNORECASE) or (

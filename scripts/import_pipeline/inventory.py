@@ -52,13 +52,23 @@ def index_file(c, path: Path, known: set[str] | None = None) -> str:
         first = reader.pages[0].extract_text() or ""
     except Exception:
         first = ""
-    doc_id, header_ref, kind = derive_doc_id(first, sha[:16])
+    doc_id, header_ref, kind = derive_doc_id(first, sha[:16], path.name)
+
+    # mesma peça, arquivo distinto (revisão/versão com anexos): nunca
+    # sobrescrever — vira entrada própria com sufixo de revisão, preservando
+    # a paginação citada de cada versão
+    clash = c.execute("SELECT sha256, pages FROM docs WHERE doc_id=?", (doc_id,)).fetchone()
+    if clash and clash["sha256"] != sha:
+        doc_id = f"{doc_id}-rev{sha[:6]}"
+        header_ref = f"{header_ref} (revisão {sha[:6]})"
 
     # peça já catalogada publicamente em documents.json → publicidade verificada
     if sha in known:
         public = "verified_public"
     elif row and row["doc_id"] == doc_id:
         public = c.execute("SELECT public_access FROM docs WHERE doc_id=?", (doc_id,)).fetchone()["public_access"]
+    else:
+        public = "pending"
 
     ts = now()
     c.execute(
@@ -101,11 +111,14 @@ def run() -> int:
     files = discover()
     known = known_public_hashes()
     ids = []
-    for f in files:
+    for i, f in enumerate(files, 1):
         try:
             ids.append(index_file(c, f, known))
             c.execute("DELETE FROM docs WHERE doc_id LIKE 'falha-%' AND path=? AND status='failed'", (str(f),))
-            print(f"[inventory] ok: {f.name}")
+            if i % 100 == 0 or i == len(files):
+                print(f"[inventory] progresso: {i}/{len(files)}")
+            else:
+                print(f"[inventory] ok: {f.name}")
         except Exception as e:  # isolamento de falha por documento (§22)
             c.execute(
                 "INSERT INTO docs(doc_id,path,filename,ext,bytes,sha256,pages,header_ref,doc_kind,public_access,status,error,mtime,created_at,updated_at)"
