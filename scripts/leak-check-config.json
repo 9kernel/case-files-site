@@ -18,7 +18,30 @@
   "angelojbgama",
   "gmail.com/angelo"
  ],
- "scan_extensions": [".md", ".json", ".html", ".js", ".css", ".txt", ".xml", ".yaml", ".yml", ".svg"],
- "skip_paths": [".git", "node_modules", "data/cache", "data/review", ".pipeline", "pdf_pf", ".documents"],
- "skip_files": ["scripts/leak-check-config.json", "scripts/check-email-leak.mjs"]
+ "scan_extensions": [
+  ".md",
+  ".json",
+  ".html",
+  ".js",
+  ".css",
+  ".txt",
+  ".xml",
+  ".yaml",
+  ".yml",
+  ".svg"
+ ],
+ "skip_paths": [
+  ".git",
+  "node_modules",
+  "data/cache",
+  "data/review",
+  ".pipeline",
+  "pdf_pf",
+  ".documents",
+  ".tmp-curate"
+ ],
+ "skip_files": [
+  "scripts/leak-check-config.json",
+  "scripts/check-email-leak.mjs"
+ ]
 }
