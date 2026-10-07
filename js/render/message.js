@@ -223,7 +223,7 @@ export function renderMessage(m, ctx) {
     : '';
   const noTime = m.time == null ? ' no-time' : '';
 
-  return `<div class="msg-row ${out ? 'out' : 'in'}" id="msg-${esc(m.id)}" data-msg-id="${esc(m.id)}">
+  return `<div class="msg-row ${out ? 'out' : 'in'}" id="msg-${esc(m.id)}" data-msg-id="${esc(m.id)}" data-sender="${esc(m.sender_id)}">
     <div class="bubble-col">
       <div class="bubble${noTime}">
         ${kindTagHtml(m)}${senderLabel}${quoteFor(m, ctx)}${fwdAttributionHtml(m)}${bodyFor(m, ctx)}

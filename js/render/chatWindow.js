@@ -102,11 +102,31 @@ function updateSentinels() {
   els.bottomSentinel.style.display = rendered.end < filtered.length ? '' : 'none';
 }
 
+/**
+ * Marca blocos de mensagens consecutivas do mesmo remetente (padrão
+ * WhatsApp): g-first na primeira do bloco, g-last na última. Separadores
+ * de data e eventos editoriais quebram o bloco. Reaplicada após cada
+ * chunk porque a vizinhança nas bordas do chunk muda.
+ */
+function applyGrouping() {
+  const rows = els.list.children;
+  for (let i = 0; i < rows.length; i++) {
+    const row = rows[i];
+    if (!row.classList.contains('msg-row')) continue;
+    const prev = rows[i - 1];
+    const next = rows[i + 1];
+    const same = (el) => el?.classList.contains('msg-row') && el.dataset.sender === row.dataset.sender;
+    row.classList.toggle('g-first', !same(prev));
+    row.classList.toggle('g-last', !same(next));
+  }
+}
+
 function renderAt(start) {
   const to = Math.min(filtered.length, start + CHUNK);
   const lastDay = start > 0 ? dayKey(filtered[start - 1]) : null;
   els.list.innerHTML = renderRange(start, to, lastDay);
   rendered = { start, end: to };
+  applyGrouping();
   updateSentinels();
 }
 
@@ -116,6 +136,7 @@ function appendNext() {
   const lastDay = dayKey(filtered[rendered.end - 1]);
   els.list.insertAdjacentHTML('beforeend', renderRange(rendered.end, to, lastDay));
   rendered = { ...rendered, end: to };
+  applyGrouping();
   updateSentinels();
 }
 
@@ -127,6 +148,7 @@ function prependPrev() {
   const prevTop = els.scroll.scrollTop;
   els.list.insertAdjacentHTML('afterbegin', frag);
   rendered = { ...rendered, start };
+  applyGrouping();
   els.scroll.scrollTop = prevTop + (els.scroll.scrollHeight - prevHeight);
   updateSentinels();
 }
@@ -387,10 +409,13 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
         <h2>${esc(title)}</h2>
         <p>${esc(participantsLine)}</p>
       </div>
-      <button type="button" class="icon-btn only-desktop" disabled title="Chamadas não fazem parte do arquivo" aria-label="Chamada (indisponível no arquivo)">${icons.phoneHeader}</button>
-      <button type="button" class="icon-btn only-desktop" disabled title="Videochamadas não fazem parte do arquivo" aria-label="Videochamada (indisponível no arquivo)">${icons.videocam}</button>
-      <button type="button" class="icon-btn" id="btn-filters" aria-expanded="false" aria-controls="filter-bar" title="Filtros">
-        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16"/><path d="M7 12h10"/><path d="M10 18h4"/></svg>
+      <button type="button" class="icon-btn" disabled title="Videochamadas não fazem parte do arquivo" aria-label="Videochamada (indisponível no arquivo)">${icons.videocam}</button>
+      <button type="button" class="icon-btn" disabled title="Chamadas não fazem parte do arquivo" aria-label="Chamada (indisponível no arquivo)">${icons.phoneHeader}</button>
+      <button type="button" class="icon-btn" id="btn-filters" aria-expanded="false" aria-controls="filter-bar" title="Buscar nesta conversa (filtros)">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+      </button>
+      <button type="button" class="icon-btn" id="btn-thread-menu" title="Fontes e processo desta conversa" aria-label="Fontes e processo desta conversa">
+        <svg viewBox="0 0 24 24" width="20" height="20" fill="currentColor" aria-hidden="true"><circle cx="12" cy="5" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="12" cy="19" r="1.8"/></svg>
       </button>
     </header>
     <div class="filter-bar" id="filter-bar" hidden>${filterBarHtml()}</div>
@@ -403,9 +428,11 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
       </div>
     </div>
     <div class="chat-inputbar" aria-label="Arquivo somente leitura">
-      <button type="button" class="icon-btn" disabled title="Emoji (indisponível no arquivo)" aria-label="Emoji (indisponível no arquivo)">${icons.smiley}</button>
-      <button type="button" class="icon-btn" disabled title="Anexar (indisponível no arquivo)" aria-label="Anexar (indisponível no arquivo)">${icons.clip}</button>
-      <div class="chat-input-fake">Arquivo somente leitura — mensagens reproduzidas com fonte citada</div>
+      <div class="chat-input-pill">
+        <button type="button" class="icon-btn" disabled title="Emoji (indisponível no arquivo)" aria-label="Emoji (indisponível no arquivo)">${icons.smiley}</button>
+        <span class="chat-input-fake">Arquivo somente leitura — mensagens reproduzidas com fonte citada</span>
+        <button type="button" class="icon-btn" disabled title="Anexar (indisponível no arquivo)" aria-label="Anexar (indisponível no arquivo)">${icons.clip}</button>
+      </div>
       <button type="button" class="icon-btn input-mic" disabled title="Gravar áudio (indisponível no arquivo)" aria-label="Gravar áudio (indisponível no arquivo)">${icons.mic}</button>
     </div>
   </section>`;
@@ -428,6 +455,11 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
     const willOpen = els.filterBar.hidden;
     els.filterBar.hidden = !willOpen;
     btnFilters.setAttribute('aria-expanded', String(willOpen));
+  });
+
+  // ⋮ — fontes e processo da conversa (diálogo de proveniência)
+  container.querySelector('#btn-thread-menu')?.addEventListener('click', () => {
+    openSourceDialog(null, threadData);
   });
 
   const applyFiltersFromInputs = () => {
