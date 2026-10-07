@@ -10,6 +10,7 @@ import { renderHome } from './render/home.js';
 import { renderChatWindow } from './render/chatWindow.js';
 import { renderPolicy } from './render/policy.js';
 import { setActiveThread } from './render/chatList.js';
+import { closeDocPanel } from './render/docPanel.js';
 import { CONFIG } from './config.js';
 
 const view = () => document.getElementById('view');
@@ -57,6 +58,9 @@ async function route() {
 
   // estado visual global da rota
   setActiveThread(name === 'thread' ? params.id : null);
+  // o painel do documento só existe dentro de uma conversa: qualquer
+  // navegação para fora o fecha (abre APENAS por clique na evidência)
+  if (name !== 'thread') closeDocPanel();
   window.dispatchEvent(new CustomEvent('routechange', { detail: { name, params } }));
 
   try {

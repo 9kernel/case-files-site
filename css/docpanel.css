@@ -1,5 +1,9 @@
 /* docpanel.css — painel do documento original (§17-19) */
 
+/* display:flex acima sobrepõe o display:none do atributo hidden —
+   sem isto o painel nascia aberto em todo carregamento */
+.doc-panel[hidden] { display: none; }
+
 .doc-panel {
   position: fixed;
   top: var(--topbar-h);
