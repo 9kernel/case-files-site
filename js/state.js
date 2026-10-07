@@ -10,8 +10,6 @@ export const state = {
     to: '',
     types: new Set(), // subconjunto dos tipos permitidos
   },
-  /** termo digitado no filtro lateral da ChatList */
-  chatListQuery: '',
 };
 
 export function freshFilters() {

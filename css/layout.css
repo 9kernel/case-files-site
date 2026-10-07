@@ -66,51 +66,6 @@ body {
   position: relative;
 }
 
-.sidebar {
-  width: var(--sidebar-w);
-  flex: 0 0 auto;
-  display: flex;
-  flex-direction: column;
-  min-height: 0;
-  background: var(--panel);
-  border-right: 1px solid var(--line);
-  z-index: 25;
-}
-
-.sidebar-head {
-  padding: 8px 10px;
-  background: var(--panel);
-  border-bottom: 1px solid #E9EDEF;
-}
-
-.sidebar-head input {
-  width: 100%;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 7px 12px;
-  font-size: 16.2px;
-  background: var(--panel-alt);
-}
-
-.sidebar-head input:focus {
-  outline: none;
-  border-color: var(--wa-teal-light);
-}
-
-.chatlist {
-  flex: 1;
-  overflow-y: auto;
-  min-height: 0;
-}
-
-.sidebar-foot {
-  padding: 8px 12px;
-  font-size: 13.2px;
-  color: var(--ink-3);
-  border-top: 1px solid #E9EDEF;
-  background: var(--panel);
-}
-
 .view {
   flex: 1;
   min-width: 0;
@@ -122,16 +77,12 @@ body {
 
 .view > * { min-height: 0; }
 
-.scrim {
-  display: none;
-}
-
-/* ---------- Mobile: drawer ---------- */
+/* ---------- Mobile ---------- */
 @media (max-width: 767px) {
   .only-mobile { display: inline-flex; }
   .only-desktop { display: none !important; }
 
-  /* topbar: marca truncável */
+  /* marca truncável */
   .brand {
     overflow: hidden;
     flex: 0 1 auto;
@@ -140,36 +91,6 @@ body {
   .brand strong {
     overflow: hidden;
     text-overflow: ellipsis;
-  }
-
-  .sidebar {
-    position: absolute;
-    inset: 0 auto 0 0;
-    width: min(86vw, 360px);
-    transform: translateX(-102%);
-    transition: transform 180ms ease;
-    box-shadow: none;
-  }
-
-  .sidebar.open {
-    transform: translateX(0);
-    box-shadow: var(--shadow-pop);
-  }
-
-  .scrim {
-    display: block;
-    position: absolute;
-    inset: 0;
-    background: rgba(11, 20, 26, 0.45);
-    z-index: 20;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 180ms ease;
-  }
-
-  .scrim.visible {
-    opacity: 1;
-    pointer-events: auto;
   }
 }
 

@@ -1,9 +1,32 @@
-// home.js — rota #/: apresentação, legenda de proveniência e fontes.
-// Sem seções de destaques/citação: a lista lateral já dá acesso às conversas.
+// home.js — rota #/: apresentação, lista de conversas, legenda de proveniência
+// e fontes. A lista substitui a antiga barra lateral de navegação.
 
-import { escapeHtml as esc } from '../utils.js';
+import { getThreadIndex } from '../api.js';
+import { escapeHtml as esc, formatDateBR } from '../utils.js';
 
 export async function renderHome(container) {
+  let threads = [];
+  try {
+    threads = [...(await getThreadIndex())].sort((a, b) =>
+      String(b.last_message_date || '').localeCompare(String(a.last_message_date || '')));
+  } catch {
+    threads = [];
+  }
+
+  const convList = threads
+    .map((t) => {
+      const date = t.last_message_date ? formatDateBR(t.last_message_date) : '';
+      const count = t.message_count ?? 0;
+      return `<li>
+        <a class="conv-item" href="#/thread/${esc(t.id)}">
+          <span class="conv-title">${esc(t.title)}</span>
+          <span class="conv-meta">${count === 1 ? '1 mensagem' : `${count} mensagens`}${date ? ` · última em ${esc(date)}` : ''}</span>
+          <span class="conv-note">${esc(t.note || '')}</span>
+        </a>
+      </li>`;
+    })
+    .join('');
+
   container.innerHTML = `
   <div class="home">
     <div class="home-inner">
@@ -14,6 +37,11 @@ export async function renderHome(container) {
            As conversas aparecem como no aparelho — as mensagens do banqueiro à direita —
            e cada mensagem indica <strong>exatamente de onde veio e com que grau de
            verificação</strong>. Feito para jornalistas, advogados e público geral.</p>
+      </section>
+
+      <h2 class="section-title">Conversas</h2>
+      <section class="howto" aria-label="Lista de conversas">
+        <ul class="conv-list">${convList || '<li class="conv-empty">Nenhuma conversa publicada.</li>'}</ul>
       </section>
 
       <h2 class="section-title">Como ler este arquivo</h2>
