@@ -311,6 +311,30 @@ commit, rastreável no Git (`added_in` marca o commit de inserção).
 4. **VERSIONAMENTO** — lote = commit; índice atualizado.
 5. **CI** — validador + testes; Pages publica no merge.
 
+### 14.1 Importação em massa (`scripts/import_pipeline/`)
+
+Para o acervo grande de PDFs PF/STF em `pdf_pf/` (incremental — novos
+arquivos entram nos próximos lotes sozinhos):
+
+```bash
+python -m scripts.import_pipeline.batch --docs 30   # retomada exata
+```
+
+- **Inventário** (hash SHA-256, páginas, identificação da peça, publicidade)
+  → `data/audit/pf-inventory.json`; estado/checkpoint em `.pipeline/import.db`
+  (SQLite, gitignored) + `data/audit/import-state.json`.
+- **Extração**: texto por página com cache (`data/cache/`); citações literais
+  entre aspas na narrativa policial com pista de remetente/data/hora/figura;
+  eventos com timestamp; referências de mídia (prints/áudios).
+- **Candidatos** em `data/review/` (gitignored — **nunca** no build público).
+  Peça sem publicidade verificada não publica conteúdo, ponto (missão §24).
+- **Promoção**: revisor marca `"approved": true` + `"target"` no candidato e
+  roda `python -m scripts.import_pipeline.importer` — o registro entra na
+  thread como `pending_review` (invisível na renderização pública) até
+  verificação humana promover o nível.
+- Relatórios: `BATCH-NNNN.md` por lote + `PF-MASS-IMPORT-REPORT.md`
+  consolidado. Deps: `python -m pip install pdfplumber pypdf`.
+
 ## 15. Regras editoriais (hard rules)
 
 - Proibido parafrasear, resumir, "corrigir" português, expandir abreviações,
