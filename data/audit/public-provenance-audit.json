@@ -22,7 +22,7 @@
    "public_access_basis": "Levantamento de sigilo pelo STF em 01/09/2026 (PET 16.662, Min. André Mendonça), com divulgação pública do relatório (R7/Poder360); a pasta Pet16662 integra o pacote público «Arquivos Pet 16704» do STF. A cópia conferida é a reprodução jornalística do Poder360 (SHA-256 calculado localmente) — não o byte-stream original do tribunal.",
    "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
    "public_copy_url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "hosted_copy_url": "public/docs/pf-ipja-3298613-2026.pdf",
+   "hosted_copy_url": null,
    "messages_using": 103,
    "events_using": 35
   },

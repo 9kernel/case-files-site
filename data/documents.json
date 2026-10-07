@@ -12,10 +12,8 @@
   "edoc": null,
   "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
   "public_copy_url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-  "hosted_copy_url": "public/docs/pf-ipja-3298613-2026.pdf",
   "copy_kind": "public_reproduction",
-  "copy_note": "Cópia pública disponibilizada pelo Poder360 (veículo de imprensa). O documento de origem é oficial da Polícia Federal e integra os autos da PET 16662/STF; este PDF hospedado journalisticamente NÃO é o arquivo original assinado do tribunal.",
-  "hosted_note": "Cópia hospedada pelo próprio projeto em public/docs/ (mesmo SHA-256 da cópia pública) para leitura em alta resolução no painel documental; a origem pública registrada permanece em public_copy_url.",
+  "copy_note": "Cópia pública disponibilizada pelo Poder360 (veículo de imprensa). O documento de origem é oficial da Polícia Federal e integra os autos da PET 16662/STF; este PDF de reprodução jornalística NÃO é o arquivo original assinado do tribunal. DECISÃO link-only (07/10/2026, plano de risco §2.3): o projeto não redistribui peças dos autos — a cópia antes hospedada em public/docs/ foi removida; a leitura é feita pela origem pública externa ou pelo pacote oficial do STF.",
   "public_access_verified": true,
   "public_access_date": "2026-09-01",
   "public_access_basis": "Levantamento de sigilo pelo STF em 01/09/2026 (PET 16.662, Min. André Mendonça), com divulgação pública do relatório (R7/Poder360); a pasta Pet16662 integra o pacote público «Arquivos Pet 16704» do STF. A cópia conferida é a reprodução jornalística do Poder360 (SHA-256 calculado localmente) — não o byte-stream original do tribunal.",
@@ -23,7 +21,7 @@
   "sha256": "30e24f6d8abd6c033c50594ff2658a4ad72b2ac818f312ea3fe54e80a5d052d7",
   "bytes": 5537944,
   "local_copy": null,
-  "hash_note": "SHA-256 calculado localmente após download da cópia pública em 2026-10-06."
+  "hash_note": "SHA-256 da cópia pública externa (Poder360), calculado localmente em 2026-10-06 — registro de integridade da cópia conferida; o projeto não mantém mais cópia hospedada (link-only)."
  },
  {
   "id": "stf-inq-5070",
@@ -67,13 +65,41 @@
   "public_access_date": "2026-09-15",
   "public_access_basis": "Levantamento de sigilo decidido em 10/09/2026 pelo Min. André Mendonça (STF), a pedido do Presidente Fachin, alcançando a PET 15.978; peça íntegra disponibilizada no pacote público «Arquivos Pet 16704» (documentado em 15/09/2026). Verificação de 07/10/2026: bytes idênticos ao arquivo local como peça 3 de PET 15.978, peça 3 de PET 15.976, peça 3 de PET 15.977, peça 3 de PET 16019, peça 3 de PET 15563 e peça 3 de PET 15562; nome de arquivo idêntico ao inventário local na pasta Pet 15556 (peça 4).",
   "public_locations": [
-   { "case": "PET 15978", "piece": 3, "match": "bytes idênticos (11.857.704)" },
-   { "case": "PET 15556", "piece": 4, "match": "arquivo de nome idêntico ao inventário local" },
-   { "case": "PET 15976", "piece": 3, "match": "bytes idênticos" },
-   { "case": "PET 15977", "piece": 3, "match": "bytes idênticos" },
-   { "case": "PET 16019", "piece": 3, "match": "bytes idênticos" },
-   { "case": "PET 15563", "piece": 3, "match": "bytes idênticos" },
-   { "case": "PET 15562", "piece": 3, "match": "bytes idênticos" }
+   {
+    "case": "PET 15978",
+    "piece": 3,
+    "match": "bytes idênticos (11.857.704)"
+   },
+   {
+    "case": "PET 15556",
+    "piece": 4,
+    "match": "arquivo de nome idêntico ao inventário local"
+   },
+   {
+    "case": "PET 15976",
+    "piece": 3,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15977",
+    "piece": 3,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 16019",
+    "piece": 3,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15563",
+    "piece": 3,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15562",
+    "piece": 3,
+    "match": "bytes idênticos"
+   }
   ],
   "public_package_url": "https://docspublicos.stf.jus.br/processos-publicos/Pet16704/Pet16704.7z",
   "public_folder_url": "https://stfjusbr.sharepoint.com/:f:/s/STI--CRCS/IgDNcXLZ-Q0SQaDPoCO8FWPyAX1MERPDqK0aWoll9fKADYc",
@@ -103,14 +129,46 @@
   "public_access_date": "2026-09-15",
   "public_access_basis": "Levantamento de sigilo decidido em 10/09/2026 pelo Min. André Mendonça (STF), a pedido do Presidente Fachin, alcançando a PET 15.978; peça íntegra disponibilizada no pacote público «Arquivos Pet 16704» (documentado em 15/09/2026). Verificação de 07/10/2026: bytes idênticos ao arquivo local como peça 4 de PET 15.978, peça 4 de PET 15.976, peça 4 de PET 15.977, peça 4 de PET 16019, peça 2 de PET 15499, peça 2 de PET 15563 e peça 2 de PET 15562; nome de arquivo idêntico ao inventário local na pasta Pet 15556 (peça 3).",
   "public_locations": [
-   { "case": "PET 15978", "piece": 4, "match": "bytes idênticos (17.019.042)" },
-   { "case": "PET 15556", "piece": 3, "match": "arquivo de nome idêntico ao inventário local" },
-   { "case": "PET 15499", "piece": 2, "match": "bytes idênticos" },
-   { "case": "PET 15976", "piece": 4, "match": "bytes idênticos" },
-   { "case": "PET 15977", "piece": 4, "match": "bytes idênticos" },
-   { "case": "PET 16019", "piece": 4, "match": "bytes idênticos" },
-   { "case": "PET 15563", "piece": 2, "match": "bytes idênticos" },
-   { "case": "PET 15562", "piece": 2, "match": "bytes idênticos" }
+   {
+    "case": "PET 15978",
+    "piece": 4,
+    "match": "bytes idênticos (17.019.042)"
+   },
+   {
+    "case": "PET 15556",
+    "piece": 3,
+    "match": "arquivo de nome idêntico ao inventário local"
+   },
+   {
+    "case": "PET 15499",
+    "piece": 2,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15976",
+    "piece": 4,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15977",
+    "piece": 4,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 16019",
+    "piece": 4,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15563",
+    "piece": 2,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15562",
+    "piece": 2,
+    "match": "bytes idênticos"
+   }
   ],
   "public_package_url": "https://docspublicos.stf.jus.br/processos-publicos/Pet16704/Pet16704.7z",
   "public_folder_url": "https://stfjusbr.sharepoint.com/:f:/s/STI--CRCS/IgDNcXLZ-Q0SQaDPoCO8FWPyAX1MERPDqK0aWoll9fKADYc",
@@ -139,10 +197,26 @@
   "public_access_date": "2026-09-15",
   "public_access_basis": "Levantamento de sigilo decidido em 10/09/2026 pelo Min. André Mendonça (STF), a pedido do Presidente Fachin, alcançando a PET 15.978; peça íntegra disponibilizada no pacote público «Arquivos Pet 16704» (documentado em 15/09/2026). Verificação de 07/10/2026: SHA-256 do arquivo local (1a23d4f0…310563) idêntico ao da peça 14 de PET 15.978, confirmado por download e recálculo do hash na origem pública; também presente como peça 14 de PET 15.976, PET 15.977 e PET 16019.",
   "public_locations": [
-   { "case": "PET 15978", "piece": 14, "match": "SHA-256 idêntico (verificado por download)" },
-   { "case": "PET 15976", "piece": 14, "match": "bytes idênticos" },
-   { "case": "PET 15977", "piece": 14, "match": "bytes idênticos" },
-   { "case": "PET 16019", "piece": 14, "match": "bytes idênticos" }
+   {
+    "case": "PET 15978",
+    "piece": 14,
+    "match": "SHA-256 idêntico (verificado por download)"
+   },
+   {
+    "case": "PET 15976",
+    "piece": 14,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15977",
+    "piece": 14,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 16019",
+    "piece": 14,
+    "match": "bytes idênticos"
+   }
   ],
   "public_package_url": "https://docspublicos.stf.jus.br/processos-publicos/Pet16704/Pet16704.7z",
   "public_folder_url": "https://stfjusbr.sharepoint.com/:f:/s/STI--CRCS/IgDNcXLZ-Q0SQaDPoCO8FWPyAX1MERPDqK0aWoll9fKADYc",
@@ -170,7 +244,11 @@
   "public_access_date": "2026-09-15",
   "public_access_basis": "Levantamento de sigilo decidido em 10/09/2026 pelo Min. André Mendonça (STF), a pedido do Presidente Fachin, alcançando a PET 15.977; o pacote público «Arquivos Pet 16704» (documentado em 15/09/2026) contém esta peça íntegra como peça 2 da PET 15.977. Verificação de 07/10/2026: SHA-256 do arquivo local (36d991a8…4e1cbf99) idêntico ao da peça pública, confirmado por download e recálculo do hash na origem.",
   "public_locations": [
-   { "case": "PET 15977", "piece": 2, "match": "SHA-256 idêntico (verificado por download)" }
+   {
+    "case": "PET 15977",
+    "piece": 2,
+    "match": "SHA-256 idêntico (verificado por download)"
+   }
   ],
   "public_package_url": "https://docspublicos.stf.jus.br/processos-publicos/Pet16704/Pet16704.7z",
   "public_folder_url": "https://stfjusbr.sharepoint.com/:f:/s/STI--CRCS/IgDNcXLZ-Q0SQaDPoCO8FWPyAX1MERPDqK0aWoll9fKADYc",
@@ -199,10 +277,26 @@
   "public_access_date": "2026-09-15",
   "public_access_basis": "Levantamento de sigilo decidido em 10/09/2026 pelo Min. André Mendonça (STF), a pedido do Presidente Fachin, alcançando o INQ 5.026 e demais procedimentos do pacote; peça íntegra disponibilizada no pacote público «Arquivos Pet 16704» (documentado em 15/09/2026). Verificação de 07/10/2026: arquivo de nome idêntico ao inventário local na pasta Inq 5026 (peça 792, 28.496.484 bytes) e bytes idênticos como peça 10 das PETs 15771, 15772 e 15773.",
   "public_locations": [
-   { "case": "INQ 5026", "piece": 792, "match": "arquivo de nome idêntico ao inventário local" },
-   { "case": "PET 15771", "piece": 10, "match": "bytes idênticos" },
-   { "case": "PET 15772", "piece": 10, "match": "bytes idênticos" },
-   { "case": "PET 15773", "piece": 10, "match": "bytes idênticos" }
+   {
+    "case": "INQ 5026",
+    "piece": 792,
+    "match": "arquivo de nome idêntico ao inventário local"
+   },
+   {
+    "case": "PET 15771",
+    "piece": 10,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15772",
+    "piece": 10,
+    "match": "bytes idênticos"
+   },
+   {
+    "case": "PET 15773",
+    "piece": 10,
+    "match": "bytes idênticos"
+   }
   ],
   "public_package_url": "https://docspublicos.stf.jus.br/processos-publicos/Pet16704/Pet16704.7z",
   "public_folder_url": "https://stfjusbr.sharepoint.com/:f:/s/STI--CRCS/IgDNcXLZ-Q0SQaDPoCO8FWPyAX1MERPDqK0aWoll9fKADYc",

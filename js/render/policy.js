@@ -83,10 +83,30 @@ export function renderPolicy(container) {
               que não sejam essenciais ao registro documental de fatos públicos, pelo canal
               oficial do projeto (divulgado abaixo assim que implantado). Resposta em até
               <strong>15 dias</strong> contados do recebimento.</li>
-          <li>O PDF hospedado em <code>public/docs/</code> (cópia pública de peça oficial)
-              está coberto por esta mesma política.</li>
+          <li><strong>Política link-only (07/10/2026):</strong> o projeto não redistribui
+              peças dos autos — nenhuma cópia de documento é hospedada; toda leitura é
+              feita na origem pública externa ou no pacote oficial do STF, por deep-link
+              com a página da mensagem.</li>
         </ul>
         <p style="margin-top:10px">${contactHtml}</p>
+      </section>
+
+      <section class="howto" aria-label="Mídia">
+        <h2 class="section-title">Mídia (imagens, áudios e vídeos)</h2>
+        <ul style="list-style:disc; padding-left:20px; display:grid; gap:6px">
+          <li><strong>Nenhuma mídia dos autos é publicada</strong> sem revisão
+              individual — hoje o site publica zero arquivos de imagem, áudio ou
+              vídeo; as conversas chegam por transcrição/citação das peças.</li>
+          <li>As figuras (prints) catalogadas nos relatórios permanecem
+              <em>não publicadas</em>: qualquer publicação futura exigirá revisão
+              caso a caso de dados pessoais visíveis (terceiros não-envolvidos,
+              menores, dados sensíveis), registro da decisão e motivação.</li>
+          <li><strong>Áudios</strong> nunca são baixados ou re-hospedados: quando
+              existem, são ouvidos no player da origem jornalística que os publicou
+              (link externo), com a transcrição disponível devidamente atribuída.</li>
+          <li>Nenhuma mídia de pessoas não-envolvidas nas conversas documentadas
+              é publicada sob qualquer hipótese.</li>
+        </ul>
       </section>
 
       <p class="howto" style="margin-top:4px">

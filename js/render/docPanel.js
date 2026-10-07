@@ -38,19 +38,25 @@ export function openDocPanel(doc, page, figure) {
 
   const frameHost = p.querySelector('#dp-frame');
   const url = documentPageUrl(doc, page);
-  if (url) {
+  const embedable = url && !/^https?:\/\//.test(url); // só cópia same-origin é embutida
+  if (url && embedable) {
     // o visualizador nativo do navegador cuida de zoom, rolagem e busca;
     // #page=N abre direto na página da mensagem
     frameHost.innerHTML = `<iframe src="${esc(url)}" title="${esc(doc.title)} — página ${page || '?'}"></iframe>`;
     p.querySelector('#dp-empty').hidden = true;
   } else {
-    // peça sem cópia pública hospedada: orientação sem vazar caminho local
+    // link-only (plano de risco §2.3): peça externa não é embutida nem
+    // redistribuída pelo projeto — abre na origem pública em nova aba
     frameHost.innerHTML = '';
     p.querySelector('#dp-empty').hidden = false;
-    p.querySelector('#dp-empty').innerHTML = `
-      <p><strong>Cópia pública não hospedada.</strong></p>
+    p.querySelector('#dp-empty').innerHTML = url ? `
+      <p><strong>Cópia pública externa.</strong></p>
+      <p>O projeto não redistribui peças dos autos (política link-only).
+      Abra o documento na origem pública, direto na página da mensagem:</p>
+      <p><a class="btn" href="${esc(url)}" target="_blank" rel="noopener">Abrir na origem (fl. ${page})</a></p>` : `
+      <p><strong>Cópia pública não catalogada.</strong></p>
       <p>Este documento ainda não possui URL pública catalogada para
-      exibição integrada. Consulte a peça na origem oficial do processo
+      exibição. Consulte a peça na origem oficial do processo
       (ver diálogo de fontes da conversa).</p>`;
   }
   setHeader(doc, page, figure);
