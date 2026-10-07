@@ -1,279 +1,279 @@
 {
-  "id": "viviane-de-moraes-daniel-vorcaro",
-  "title": "Viviane de Moraes",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "viviane-de-moraes"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 28–34, 157–159, 164–166, 192",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Contato salvo como “Vivi Moraes”; contrato de prestação de serviços do Escritório Barci de Moraes com o Banco Master."
+ "id": "viviane-de-moraes-daniel-vorcaro",
+ "title": "Viviane de Moraes",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "viviane-de-moraes"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 28–34, 157–159, 164–166, 192",
+  "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Contato salvo como “Vivi Moraes”; contrato de prestação de serviços do Escritório Barci de Moraes com o Banco Master."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-01-11",
+   "time": "16:48",
+   "timestamp_precision": "minute",
+   "sender_id": "viviane-de-moraes",
+   "content_kind": "verbatim_excerpt",
+   "content": "Conforme conversamos, estou enviando minuta de contrato de prestação de serviços para sua análise",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 29,
+    "figure": 25
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 29,
+    "figure": 25,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 29,
+     "figure": 25,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 29 · fig. 25",
+   "added_in": "ingest-ipja-20261006"
   },
-  "messages": [
-    {
-      "id": "m-00001",
-      "date": "2024-01-11",
-      "time": "16:48",
-      "timestamp_precision": "minute",
-      "sender_id": "viviane-de-moraes",
-      "content_kind": "verbatim_excerpt",
-      "content": "Conforme conversamos, estou enviando minuta de contrato de prestação de serviços para sua análise",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 29,
-        "figure": 25
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 29,
-        "figure": 25,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 29,
-          "figure": 25,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 29 · fig. 25",
-      "added_in": "ingest-ipja-20261006"
+  {
+   "id": "m-00002",
+   "date": "2024-01-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "media",
+   "content": "",
+   "editorial_note": "Devolve o contrato com marcas de revisão feitas por Leonardo Palhares, advogado de Vorcaro, segundo o relatório.",
+   "media": {
+    "id": "media-doc-minuta-20240115",
+    "status": "media_reference_only",
+    "type": "document",
+    "local_file": null,
+    "external_url": null,
+    "sha256": null,
+    "verified": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 31,
+    "figure": 29
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 31,
+    "figure": 29,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 31,
+     "figure": 29,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00002",
-      "date": "2024-01-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "media",
-      "content": "",
-      "editorial_note": "Devolve o contrato com marcas de revisão feitas por Leonardo Palhares, advogado de Vorcaro, segundo o relatório.",
-      "media": {
-        "id": "media-doc-minuta-20240115",
-        "status": "media_reference_only",
-        "type": "document",
-        "local_file": null,
-        "external_url": null,
-        "sha256": null,
-        "verified": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 31,
-        "figure": 29
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 31,
-        "figure": 29,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 31,
-          "figure": 29,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 31 · fig. 29",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 31 · fig. 29",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-01-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "viviane-de-moraes",
+   "content_kind": "media",
+   "content": "",
+   "editorial_note": "Retorna a versão final do contrato — de R$ 3 milhões mensais, conforme a legenda da figura.",
+   "media": {
+    "id": "media-doc-contrato-final-20240117",
+    "status": "media_reference_only",
+    "type": "document",
+    "local_file": null,
+    "external_url": null,
+    "sha256": null,
+    "verified": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 32,
+    "figure": 31
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 32,
+    "figure": 31,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 32,
+     "figure": 31,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00003",
-      "date": "2024-01-17",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "viviane-de-moraes",
-      "content_kind": "media",
-      "content": "",
-      "editorial_note": "Retorna a versão final do contrato — de R$ 3 milhões mensais, conforme a legenda da figura.",
-      "media": {
-        "id": "media-doc-contrato-final-20240117",
-        "status": "media_reference_only",
-        "type": "document",
-        "local_file": null,
-        "external_url": null,
-        "sha256": null,
-        "verified": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 32,
-        "figure": 31
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 32,
-        "figure": 31,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 32,
-          "figure": 31,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 32 · fig. 31",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ],
-  "timeline_events": [
-    {
-      "id": "e-00001",
-      "date": "2024-01-11",
-      "time": "16:53",
-      "timestamp_precision": "minute",
-      "content": "O contato “Vivi Moraes” é salvo na agenda de Vorcaro; o relatório registra que não há registro de chamadas entre os dois antes de 11/01/2024.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 29,
-        "figure": 25
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 29,
-        "figure": 25,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 29 · fig. 25",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00002",
-      "date": "2024-01-11",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Metadados da minuta apontam como autor o usuário “Guilherme Benazzi” e última modificação pelo usuário “Ministro Alexandre de Moraes”, às 16:30 (-03:00), segundo o relatório.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 30,
-        "figure": 26
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 30,
-        "figure": 26,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 30 · fig. 26",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00003",
-      "date": "2024-01-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "A versão final da minuta teve última modificação pelo usuário “Ministro Alexandre de Moraes” às 23:04, conforme metadados do documento.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 33,
-        "figure": 32
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 33,
-        "figure": 32,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 33 · fig. 32",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00004",
-      "date": "2024-01-23",
-      "time": "15:15",
-      "timestamp_precision": "minute",
-      "content": "O contrato é assinado por Daniel Vorcaro às 15:15:11 (-03:00) e por Angelo Antonio Ribeiro da Silva às 15:35:38 (-03:00), segundo o relatório.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 34,
-        "figure": 34
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 34,
-        "figure": 34,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 34 · fig. 34",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 32 · fig. 31",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-01-11",
+   "time": "16:53",
+   "timestamp_precision": "minute",
+   "content": "O contato “Vivi Moraes” é salvo na agenda de Vorcaro; o relatório registra que não há registro de chamadas entre os dois antes de 11/01/2024.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 29,
+    "figure": 25
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 29,
+    "figure": 25,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 29 · fig. 25",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-01-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Metadados da minuta apontam como autor o usuário “Guilherme Benazzi” e última modificação pelo usuário “Ministro Alexandre de Moraes”, às 16:30 (-03:00), segundo o relatório.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 30,
+    "figure": 26
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 30,
+    "figure": 26,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 30 · fig. 26",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00003",
+   "date": "2024-01-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "A versão final da minuta teve última modificação pelo usuário “Ministro Alexandre de Moraes” às 23:04, conforme metadados do documento.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 33,
+    "figure": 32
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 33,
+    "figure": 32,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 33 · fig. 32",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00004",
+   "date": "2024-01-23",
+   "time": "15:15",
+   "timestamp_precision": "minute",
+   "content": "O contrato é assinado por Daniel Vorcaro às 15:15:11 (-03:00) e por Angelo Antonio Ribeiro da Silva às 15:35:38 (-03:00), segundo o relatório.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 34,
+    "figure": 34
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 34,
+    "figure": 34,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 34 · fig. 34",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

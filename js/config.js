@@ -7,7 +7,7 @@ export const CONFIG = Object.freeze({
   // Título da home (aba do navegador) — a visão "WhatsApp de Vorcaro".
   HOME_TITLE: 'O WhatsApp de Daniel Vorcaro',
   // Atualizar a cada publicação (formato ISO; exibido em pt-BR na home).
-  LAST_UPDATED: '2026-10-06',
+  LAST_UPDATED: '2026-10-07',
   // Fonte principal do material publicado até agora.
   SOURCE_URL: 'https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/',
   // URL do repositório (usada na home e no README).

@@ -44,7 +44,11 @@
 //                             (name + verified_direct_contact: false)
 //   E_UNKNOWN_DOCUMENT        source.document_id ausente em data/documents.json
 //   E_DOCUMENT_FIELD          entrada inválida em documents.json (inclui o campo
-//                             proibido official_pdf_url; cópia pública sem processo)
+//                             proibido official_pdf_url; cópia pública sem processo;
+//                             publicidade sem campo estruturado public_access_verified)
+//   E_OFFICIAL_UNVERIFIED_PUBLIC  official_document cujo source.document_id aponta
+//                             para documento sem public_access_verified=true — a
+//                             força da afirmação nunca pode superar a evidência
 //   E_TRANSCRIPTION_SHAPE     transcription sem kind/complete/atribuição corretos
 //   E_MEDIA_STATUS            media.status fora da lista; objeto inválido
 //   E_MEDIA_OFFICIAL          official_media sem arquivo+sha256+fonte oficial,
@@ -121,6 +125,7 @@ export function validateData(dataDir, rootDir) {
 
   /* ---------- documents.json (registro central de documentos) ---------- */
   const documentIds = new Set();
+  const documentsById = new Map();
   const docsFile = path.join(dataDir, 'documents.json');
   if (fs.existsSync(docsFile)) {
     let docs;
@@ -144,6 +149,7 @@ export function validateData(dataDir, rootDir) {
         err('E_DOCUMENT_FIELD', 'data/documents.json', `id de documento duplicado: "${d.id}"`);
       }
       documentIds.add(d.id);
+      documentsById.set(d.id, d);
       // cópia pública de reprodução jornalística NUNCA é registrada como oficial
       if ('official_pdf_url' in d) {
         err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" usa o campo proibido "official_pdf_url" — use public_copy_url + copy_kind.`);
@@ -153,6 +159,19 @@ export function validateData(dataDir, rootDir) {
       }
       if (d.copy_kind === 'public_reproduction' && !d.official_process_url) {
         err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" é reprodução pública e exige official_process_url (o processo que comprova a origem).`);
+      }
+      // publicidade sempre em campo estruturado (missão §9) — nunca texto vago
+      if (!('public_access_verified' in d)) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" sem o campo estruturado "public_access_verified" (true | false | null) — não usar string vaga como "publicidade em verificação".`);
+      } else if (!(typeof d.public_access_verified === 'boolean' || d.public_access_verified === null)) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": public_access_verified deve ser true/false/null, não texto.`);
+      } else if (d.public_access_verified === true) {
+        if (typeof d.public_access_date !== 'string' || !isValidDate(d.public_access_date)) {
+          err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": public_access_verified=true exige public_access_date (YYYY-MM-DD) — data de levantamento de sigilo/disponibilização.`);
+        }
+        if (typeof d.public_access_basis !== 'string' || !d.public_access_basis.trim()) {
+          err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}": public_access_verified=true exige public_access_basis (fonte oficial da publicidade).`);
+        }
       }
       if (d.sha256 != null && !SHA256_RE.test(d.sha256)) {
         err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" com sha256 inválido (64 hex minúsculos).`);
@@ -366,6 +385,16 @@ export function validateData(dataDir, rootDir) {
         err('E_UNKNOWN_DOCUMENT', where, `source.document_id "${m.source.document_id}" não existe em data/documents.json.`);
       }
 
+      // publicidade da peça (missão §10): official_document exige documento público
+      if (m.verification?.level === 'official_document') {
+        const did = m.source?.document_id;
+        if (did == null) {
+          err('E_OFFICIAL_UNVERIFIED_PUBLIC', where, 'official_document references document with unverified public access: source.document_id ausente (toda mensagem oficial deve citar a peça pública de origem).');
+        } else if (documentsById.has(did) && documentsById.get(did).public_access_verified !== true) {
+          err('E_OFFICIAL_UNVERIFIED_PUBLIC', where, `official_document references document with unverified public access: "${did}" (public_access_verified=${JSON.stringify(documentsById.get(did).public_access_verified) ?? 'ausente'}).`);
+        }
+      }
+
       // transcrição: quem fez e se é completa (§12)
       if (m.transcription != null) {
         const tr = m.transcription;
@@ -464,6 +493,15 @@ export function validateData(dataDir, rootDir) {
           }
           if (ev.source?.document_id != null && !documentIds.has(ev.source.document_id)) {
             err('E_UNKNOWN_DOCUMENT', where, `source.document_id "${ev.source.document_id}" não existe em data/documents.json.`);
+          }
+          // eventos editoriais seguem a mesma regra de publicidade da peça (§10)
+          if (ev.verification?.level === 'official_document') {
+            const did = ev.source?.document_id;
+            if (did == null) {
+              err('E_OFFICIAL_UNVERIFIED_PUBLIC', where, 'official_document references document with unverified public access: source.document_id ausente.');
+            } else if (documentsById.has(did) && documentsById.get(did).public_access_verified !== true) {
+              err('E_OFFICIAL_UNVERIFIED_PUBLIC', where, `official_document references document with unverified public access: "${did}".`);
+            }
           }
           if (ev.added_in == null || String(ev.added_in).trim() === '') {
             err('E_MISSING_ADDED_IN', where, 'Evento editorial sem "added_in".');

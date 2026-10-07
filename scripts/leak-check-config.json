@@ -1,0 +1,23 @@
+{
+ "description": "Configuração do scripts/check-email-leak.mjs — padrões de vazamento de dados pessoais em arquivos publicados. Domínios institucionais públicos e de exemplo são permitidos; qualquer outro e-mail é tratado como potencial dado pessoal. A lista 'forbidden_substrings' cobre marcadores de afiliação corporativa/pessoal sem precisar gravar endços completos.",
+ "allow_email_domains": [
+  "jus.br",
+  "gov.br",
+  "example.org",
+  "example.com",
+  "example.net",
+  "exemplo.org",
+  "exemplo.com",
+  "exemplo.net",
+  "wikipedia.org",
+  "noreply.github.com"
+ ],
+ "forbidden_substrings": [
+  "petrobras",
+  "angelojbgama",
+  "gmail.com/angelo"
+ ],
+ "scan_extensions": [".md", ".json", ".html", ".js", ".css", ".txt", ".xml", ".yaml", ".yml", ".svg"],
+ "skip_paths": [".git", "node_modules", "data/cache", "data/review", ".pipeline", "pdf_pf", ".documents"],
+ "skip_files": ["scripts/leak-check-config.json", "scripts/check-email-leak.mjs"]
+}

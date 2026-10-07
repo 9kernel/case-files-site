@@ -33,6 +33,9 @@ export function renderPolicy(container) {
               qualquer reportagem.</li>
           <li>Nenhum horário, página, número de documento ou e-Doc é inferido ou
               estimado: o que não consta da fonte aparece como não divulgado.</li>
+          <li><strong>Projeto independente. Não afiliado à Polícia Federal, ao STF,
+              ao WhatsApp ou à Meta</strong> — os nomes aparecem apenas como referência
+              às instituições de origem dos documentos e da plataforma reproduzida.</li>
         </ul>
       </section>
 

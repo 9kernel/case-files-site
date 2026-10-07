@@ -1,244 +1,244 @@
 {
-  "id": "romy-banco-master-daniel-vorcaro",
-  "title": "Romy",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "romy-banco-master"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 152–153",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Funcionária de Vorcaro (contato salvo como “Romy Banco Master”)."
+ "id": "romy-banco-master-daniel-vorcaro",
+ "title": "Romy",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "romy-banco-master"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 152–153",
+  "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Funcionária de Vorcaro (contato salvo como “Romy Banco Master”)."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "atrasar um dia",
+   "editorial_note": "Diz que o pagamento ao Escritório Barci de Moraes não pode “atrasar um dia”.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 153,
+    "figure": 152
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 153,
+    "figure": 152,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 153,
+     "figure": 152,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
+   "added_in": "ingest-ipja-20261006"
   },
-  "messages": [
-    {
-      "id": "m-00001",
-      "date": "2024-03-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "atrasar um dia",
-      "editorial_note": "Diz que o pagamento ao Escritório Barci de Moraes não pode “atrasar um dia”.",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 153,
-        "figure": 152
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 153,
-        "figure": 152,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 153,
-          "figure": 152,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
-      "added_in": "ingest-ipja-20261006"
+  {
+   "id": "m-00002",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "É op pgto mais importante que temos",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 153,
+    "figure": 152
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 153,
+    "figure": 152,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 153,
+     "figure": 152,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00002",
-      "date": "2024-03-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "É op pgto mais importante que temos",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 153,
-        "figure": 152
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 153,
-        "figure": 152,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 153,
-          "figure": 152,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Pode pagar sempre, sem nota",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 153,
+    "figure": 152
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 153,
+    "figure": 152,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 153,
+     "figure": 152,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00003",
-      "date": "2024-03-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Pode pagar sempre, sem nota",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 153,
-        "figure": 152
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 153,
-        "figure": 152,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 153,
-          "figure": 152,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Do jeito que for",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 153,
+    "figure": 152
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 153,
+    "figure": 152,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 153,
+     "figure": 152,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00004",
-      "date": "2024-03-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Do jeito que for",
-      "editorial_note": null,
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 153,
-        "figure": 152
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 153,
-        "figure": 152,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 153,
-          "figure": 152,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
-      "added_in": "ingest-ipja-20261006"
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "romy-banco-master",
+   "content_kind": "media",
+   "content": "",
+   "editorial_note": "Envia documento de registro de transferência do Banco Master ao Escritório de Viviane de Moraes no valor de R$ 3.422.268,14, segundo o relatório.",
+   "media": {
+    "id": "media-receipt-romy-20240315",
+    "status": "media_reference_only",
+    "type": "receipt",
+    "local_file": null,
+    "external_url": null,
+    "sha256": null,
+    "verified": false
+   },
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 153,
+    "figure": 152
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 153,
+    "figure": 152,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 153,
+     "figure": 152,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
     },
-    {
-      "id": "m-00005",
-      "date": "2024-03-15",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "romy-banco-master",
-      "content_kind": "media",
-      "content": "",
-      "editorial_note": "Envia documento de registro de transferência do Banco Master ao Escritório de Viviane de Moraes no valor de R$ 3.422.268,14, segundo o relatório.",
-      "media": {
-        "id": "media-receipt-romy-20240315",
-        "status": "media_reference_only",
-        "type": "receipt",
-        "local_file": null,
-        "external_url": null,
-        "sha256": null,
-        "verified": false
-      },
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 153,
-        "figure": 152
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 153,
-        "figure": 152,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": {
-          "type": "official_document",
-          "document_id": "pf-ipja-3298613-2026",
-          "authority": "Polícia Federal",
-          "court": "STF",
-          "case": "PET 16662",
-          "document": "IPJ-A nº 3298613/2026",
-          "page": 153,
-          "figure": 152,
-          "url": null
-        },
-        "secondary": []
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 153 · fig. 152",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

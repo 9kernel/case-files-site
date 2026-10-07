@@ -1,72 +1,72 @@
 {
-  "id": "alberto-felix-daniel-vorcaro",
-  "title": "Alberto Felix",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "alberto-felix"
-  ],
-  "source": {
-    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 155–157",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Orientações de pagamento ao Escritório Barci de Moraes (sem citações literais no trecho)."
+ "id": "alberto-felix-daniel-vorcaro",
+ "title": "Alberto Felix",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "alberto-felix"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 155–157",
+  "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Orientações de pagamento ao Escritório Barci de Moraes (sem citações literais no trecho)."
+ },
+ "messages": [],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-07-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Diálogo registra pagamento ao Escritório de Viviane de Moraes no valor de R$ 3.422.268,14; Vorcaro orienta Alberto Felix sobre o pagamento, segundo o relatório.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 156,
+    "figure": 155
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 156,
+    "figure": 155,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 156 · fig. 155",
+   "added_in": "ingest-ipja-20261006"
   },
-  "messages": [],
-  "timeline_events": [
-    {
-      "id": "e-00001",
-      "date": "2025-07-14",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Diálogo registra pagamento ao Escritório de Viviane de Moraes no valor de R$ 3.422.268,14; Vorcaro orienta Alberto Felix sobre o pagamento, segundo o relatório.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 156,
-        "figure": 155
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 156,
-        "figure": 155,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 156 · fig. 155",
-      "added_in": "ingest-ipja-20261006"
-    },
-    {
-      "id": "e-00002",
-      "date": "2025-10-01",
-      "time": null,
-      "timestamp_precision": "date",
-      "content": "Alberto Felix informa que o Barci de Moraes foi pago; Vorcaro orienta que os valores ao escritório não devem ser pagos por PIX.",
-      "event_kind": "editorial_context",
-      "source": {
-        "document_id": "pf-ipja-3298613-2026",
-        "page": 157,
-        "figure": 156
-      },
-      "verification": {
-        "level": "official_document",
-        "origin": "PF extraction",
-        "authority": "Polícia Federal",
-        "court": "STF",
-        "case": "PET 16662",
-        "document": "IPJ-A nº 3298613/2026",
-        "page": 157,
-        "figure": 156,
-        "official_url": null,
-        "primary_document_located": true,
-        "verified_at": "2026-10-06"
-      },
-      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 157 · fig. 156",
-      "added_in": "ingest-ipja-20261006"
-    }
-  ]
+  {
+   "id": "e-00002",
+   "date": "2025-10-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Alberto Felix informa que o Barci de Moraes foi pago; Vorcaro orienta que os valores ao escritório não devem ser pagos por PIX.",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 157,
+    "figure": 156
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 157,
+    "figure": 156,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 157 · fig. 156",
+   "added_in": "ingest-ipja-20261006"
+  }
+ ]
 }

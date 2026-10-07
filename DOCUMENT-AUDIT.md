@@ -2,6 +2,11 @@
 
 Versão legível por máquina: [`data/audit/document-audit.json`](data/audit/document-audit.json).
 
+> **Atualização 2026-10-07** — verificação de publicidade das peças adicionada
+> (seção 10 abaixo, obrigatória após a importação dos IPJ/IPJ-A); números de
+> teste atualizados na seção 11. As seções 1–9 preservam o registro da etapa
+> original (2026-10-06).
+
 **Regra máxima aplicada em tudo abaixo**: nunca inferir o que não está
 documentalmente demonstrado; a existência de uma transcrição não autoriza afirmar
 que possuímos o arquivo de áudio original; reprodução jornalística de documento
@@ -116,7 +121,73 @@ marcadas como tal).
    relatório diz que **podem indicar** Andrei Passos (DG/PF) e Paulo Gonet (PGR) —
    mantida a formulação condicional do documento.
 
-## 9. Resultado dos testes
+## 9. Resultado dos testes (etapa 2026-10-06)
 
 `validate.mjs`: **0 erros / 0 warnings** (21 threads, 206 mensagens, 40 eventos).
 `test-validate.mjs`: **100 casos verdes**, incluindo as 10 regras de mídia do §35.
+
+---
+
+## 10. Verificação de publicidade das peças (2026-10-07)
+
+Verificação individual de cada peça usada como fonte `official_document`,
+contra o **pacote público «Arquivos Pet 16704»** que o STF disponibilizou
+após o levantamento de sigilo decidido em **10/09/2026** pelo Min. André
+Mendonça, a pedido do Presidente Fachin (alcançando PET 15.556 e 14
+procedimentos, entre eles PET 15.978, PET 15.977, PET 15.499 e INQ 5.026),
+com disponibilização documentada publicamente em **15/09/2026**.
+Método: cruzamento de nome de arquivo e contagem de bytes do inventário
+local com a listagem oficial, e **recálculo de SHA-256 na origem pública**
+nos dois casos sem correspondência nominal (1752768 e Representação 15.499).
+
+### IPJ-A 1070759/2026
+- Processo: **PET 15.978** (incidente 7576893; também anexada às PETs 15.556 peça 4 — origem do arquivo local —, 15.976, 15.977, 16.019, 15.563 e 15.562, todas peça 3)
+- e-Doc: **3** (na PET 15.978)
+- Publicidade: **confirmada** (15/09/2026)
+- Fonte: pacote público «Arquivos Pet 16704», pasta Pet15978 — bytes idênticos (11.857.704) ao arquivo local; URL oficial do processo registrada em `documents.json`
+
+### IPJ-A 1020625/2026
+- Processo: **PET 15.978** (incidente 7576893; também PET 15.556 peça 3 — origem do arquivo local —, PET 15.499 peça 2, PETs 15.976/15.977/16.019 peça 4, PETs 15.563/15.562 peça 2)
+- e-Doc: **4** (na PET 15.978)
+- Publicidade: **confirmada** (15/09/2026)
+- Fonte: pacote público «Arquivos Pet 16704» — bytes idênticos (17.019.042) em todas as localizações listadas
+
+### IPJ 1752768/2026
+- Processo: **PET 15.978** (incidente 7576893; também PETs 15.976, 15.977 e 16.019, peça 14). *Correção: a associação anterior a «PET 15.562» não se sustentou — a peça não consta da pasta pública dessa petição.*
+- e-Doc: **14** (na PET 15.978) — referência prévia confirmada
+- Publicidade: **confirmada** (15/09/2026)
+- Fonte: pacote público «Arquivos Pet 16704», pasta Pet15978, peça 14 — **SHA-256 `1a23d4f0…310563` idêntico ao arquivo local, recalculado na origem pública em 07/10/2026**
+
+### Representação PET 15.499
+- Processo: **PET 15.499** (incidente 7509111) / INQ 5.026; a pasta pública da PET 15.499 (72 peças) **não** contém este PDF como arquivo discreto
+- e-Doc: não localizado na própria PET 15.499; a peça íntegra é pública como **peça 2 da PET 15.977** (incidente 7576885)
+- Publicidade: **confirmada** (15/09/2026)
+- Fonte: pacote público «Arquivos Pet 16704», pasta Pet15977, peça 2 — **SHA-256 `36d991a8…4e1cbf99` idêntico ao arquivo local, recalculado na origem pública em 07/10/2026**
+
+### IPJ-A 1252786/2026
+- Processo: **INQ 5.026** (incidente 7473347 — apuração da tentativa de compra do Banco Master pelo BRB; também PETs 15771/15772/15773, peça 10). *Correção: o registro anterior falava em «pacote OneDrive da Pet 16704» — a Pet 16704 é o veículo oficial de disponibilização do STF, não um processo distinto.*
+- e-Doc: **792** (no INQ 5.026)
+- Publicidade: **confirmada** (15/09/2026)
+- Fonte: pacote público «Arquivos Pet 16704», pasta Inq 5026 — arquivo de nome idêntico ao inventário local (`00792 Peticao_fb21ef11.pdf`, 28.496.484 bytes)
+
+### IPJ-A 3298613/2026 (reverificação)
+- Processo: PET 16.662 (incidente 7681133)
+- Publicidade: **confirmada** (01/09/2026, desclassificação; pasta Pet16662 também presente no pacote público)
+- Fonte: cópia pública Poder360 (SHA-256 conferido localmente — reprodução jornalística, registrada como `public_reproduction`); a peça oficial no pacote público tem byte-stream distinto da reprodução
+
+### INQ 5070
+- Pasta Inq5070 presente no pacote público (Parte 2, 94 itens), mas nenhuma peça específica localizada/atribuída — `public_access_verified: null`; nenhuma mensagem o cita como fonte primária.
+
+**Consequência**: as 232 mensagens `official_document` do acervo apontam,
+todas, para peças com publicidade confirmada. Nenhuma mensagem precisou ser
+rebaixada; os metadados (processo/e-Doc/URL oficial) foram preenchidos onde
+estavam nulos. Detalhe por mensagem: [`PUBLIC-PROVENANCE-AUDIT.md`](PUBLIC-PROVENANCE-AUDIT.md).
+
+## 11. Resultado dos testes (atualizado 2026-10-07)
+
+`validate.mjs`: **0 erros / 0 warnings** (25 threads, 335 mensagens, 48 eventos;
+232 `official_document` · 74 `public_investigation` · 29 `secondary_source` ·
+0 `pending_review` visível).
+`test-validate.mjs`: **114 casos verdes** (inclui `E_OFFICIAL_UNVERIFIED_PUBLIC`
+e o schema estruturado de `public_access_*`).
+`audit-public-provenance.mjs`: **383/383 registros OK**. `check-email-leak.mjs`: OK.
