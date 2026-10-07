@@ -135,6 +135,8 @@ def main() -> int:
     pending = [dict(r) for r in c.execute(
         "SELECT doc_id,status,pages,header_ref,public_access FROM docs"
         " WHERE status IN ('discovered','indexed','parsed')"
+        " AND (text_layer IS NULL OR text_layer != 'no')"
+        " AND COALESCE(pages,0) >= 8"
         " ORDER BY COALESCE(pages, 999999) ASC, updated_at LIMIT ?",
         (args.docs,))]
     if args.dry_run:
