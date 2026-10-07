@@ -1,0 +1,170 @@
+{
+  "id": "angelo-silva-daniel-vorcaro",
+  "title": "Angelo Silva",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "angelo-silva"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 149–155",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Pagamentos do primeiro contrato do Escritório Barci de Moraes."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2024-02-08",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "angelo-silva",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Envia comprovante de transferência do Banco Master ao Escritório Barci de Moraes Sociedade de Advocacia (conta no Itaú), no valor de R$ 3.422.268,14, segundo o relatório.",
+      "media": {
+        "id": "media-receipt-barci-20240208",
+        "status": "media_reference_only",
+        "type": "receipt",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 150,
+        "figure": 149
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 150,
+        "figure": 149,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 150,
+          "figure": 149,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 150 · fig. 149",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2024-03-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "angelo-silva",
+      "content_kind": "verbatim_excerpt",
+      "content": "pagar antecipado e depois pegamos a NF",
+      "editorial_note": "Afirma que o pagamento ao escritório será feito antecipado, antes do envio da nota fiscal, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 154,
+        "figure": 153
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 154,
+        "figure": 153,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 154,
+          "figure": 153,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 154 · fig. 153",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2024-03-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Imediatamente após a cobrança de Fábio Faria (15:07:11, -03:00), Vorcaro diz a Angelo Silva que o contrato Barci de Moraes é o mais importante e manda pagar imediatamente, segundo o relatório.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 152,
+        "figure": 151
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 152,
+        "figure": 151,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 152 · fig. 151",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00002",
+      "date": "2025-04-01",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Vorcaro orienta Angelo Silva que ninguém deve ter acesso ao contrato com o Escritório Barci de Moraes.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 155,
+        "figure": 154
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 155,
+        "figure": 154,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 155 · fig. 154",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

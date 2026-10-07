@@ -1,0 +1,1165 @@
+{
+  "id": "fabio-faria-daniel-vorcaro",
+  "title": "Fábio Faria",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "fabio-faria"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 17–36, 149–151, 173–176, 187–188, 198, 211–213",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial; conversa direta demonstrada no relatório. Citações literais conforme transcritas pela PF; trechos só narrativos aparecem como eventos editoriais."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2023-12-21",
+      "time": "09:55",
+      "timestamp_precision": "minute",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim_excerpt",
+      "content": "autorizar a segurança a acompanhar na garagem",
+      "editorial_note": "Fábio Faria encaminha pedido de informações sobre placa e carro de ambos, segundo o relatório (fl. 19).",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 19,
+        "figure": 14
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 19,
+        "figure": 14,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 19,
+          "figure": 14,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 19 · fig. 14",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2023-12-21",
+      "time": "10:42",
+      "timestamp_precision": "minute",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Chego 11 cravado?",
+      "editorial_note": "Pergunta a que horas chega e informa que enviará em seguida os dados do veículo.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 19,
+        "figure": 14
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 19,
+        "figure": 14,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 19,
+          "figure": 14,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 19 · fig. 14",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00003",
+      "date": "2023-12-21",
+      "time": "10:44",
+      "timestamp_precision": "minute",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Range Rover Vogue",
+      "editorial_note": "Encaminha as informações do veículo solicitadas; a placa não é reproduzida no relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 19,
+        "figure": 14
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 19,
+        "figure": 14,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 19,
+          "figure": 14,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 19 · fig. 14",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00004",
+      "date": "2023-12-21",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "audio_transcript",
+      "content": "Fala, irmão, tudo bem? Quando saímos de lá, ele perguntou se eu tava sozinho, ele me ligou. Aí perguntou, mais ou menos, o que eu achava. Eu falei: “Cara, fica livre aí, dentro do que ele falou”, e tal. Ele falou: “Pô, gostei da conversa. Vou montar um negócio bacana demais e, já logo na terça-feira, eu quero marcar.” Então, eu te ligo aí pra ver o horário, pra vocês voltarem aqui na terça, tá bom? Então, tudo certo. Foi bom demais. E vamos ver se amanhã a gente encontra algum horário. Eu queria ver se conseguia ir lá no prédio, lá, naquele que você falou. Tô livre geral. Só tenho um almoço com o Alexandre no CADE, meio-dia. Tô livre antes e depois. De repente, se você não conseguir, não. É só liberar lá para eu ir. Não tenho nada para fazer, tá? Estou mais tranquilo. Me avisa aí. Um abraço. Valeu.",
+      "editorial_note": "Áudio transcrito na íntegra pelo relatório; menciona “almoço com o Alexandre no CADE”. O arquivo de áudio não está anexado ao texto público.",
+      "media": {
+        "id": "media-audio-fabio-faria-20231221",
+        "status": "media_reference_only",
+        "type": "audio",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "transcription_complete": true,
+      "transcription": {
+        "kind": "document_transcription",
+        "document": "IPJ-A nº 3298613/2026",
+        "complete": true
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 21,
+        "figure": 17
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 21,
+        "figure": 17,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 21,
+          "figure": 17,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 21 · fig. 17",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2023-12-26",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Mesmo esquema entrar na garagem correto",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 22,
+        "figure": 18
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 22,
+        "figure": 18,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 22,
+          "figure": 18,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2023-12-26",
+      "time": "11:43",
+      "timestamp_precision": "minute",
+      "sender_id": "fabio-faria",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Compartilha contatos salvos como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone (não reproduzido no relatório).",
+      "media": {
+        "id": "media-contact-fabio-20231226",
+        "status": "media_reference_only",
+        "type": "contact_card",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 23,
+        "figure": 19
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 23,
+        "figure": 19,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 23,
+          "figure": 19,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 23 · fig. 19",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00007",
+      "date": "2024-01-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim_excerpt",
+      "content": "Respondeu a Vivi",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 32,
+        "figure": 30
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 32,
+        "figure": 30,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 32,
+          "figure": 30,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 32 · fig. 30",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00008",
+      "date": "2024-01-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "fechou 3 anos",
+      "editorial_note": "Pergunta se Fábio Faria “fechou 3 anos” no contrato do escritório Barci de Moraes.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 32,
+        "figure": 30
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 32,
+        "figure": 30,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 32,
+          "figure": 30,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 32 · fig. 30",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00009",
+      "date": "2024-01-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim_excerpt",
+      "content": "pode fazer 3",
+      "editorial_note": "Responde que o contrato foi fechado por 4 anos, mas “pode fazer 3”, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 32,
+        "figure": 30
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 32,
+        "figure": 30,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 32,
+          "figure": 30,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 32 · fig. 30",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00010",
+      "date": "2024-03-15",
+      "time": "15:07",
+      "timestamp_precision": "minute",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim_excerpt",
+      "content": "O careca não pode atrasar",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 151,
+        "figure": 150
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 151,
+        "figure": 150,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 151,
+          "figure": 150,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 151 · fig. 150",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00011",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "forwarded_message",
+      "content": "O que acha de eu convidar o DPF Andrei",
+      "editorial_note": "Mensagem encaminhada de interlocutor não identificado, segundo o relatório.",
+      "forwarded_attribution": {
+        "name": null,
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00012",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "forwarded_message",
+      "content": "Aí fechamos o PGR e o DPF",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": null,
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00013",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim",
+      "content": "Acho ótimo",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00014",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim",
+      "content": "Pode convidar",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00015",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "forwarded_message",
+      "content": "Podem entrar em contato lá na PF. Ele aceitou",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": null,
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00016",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim",
+      "content": "Vc avisa pro Marcio entrar em contato com o Andrei?",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00017",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "forwarded_message",
+      "content": "Seu amigo Esteves vai dar pulos de raiva",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": null,
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 212,
+        "figure": 224
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 212,
+        "figure": 224,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 212,
+          "figure": 224,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 212 · fig. 224",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00018",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "verbatim_excerpt",
+      "content": "Marcio fazer o convite formal ao delegado geral",
+      "editorial_note": "Reforça o pedido, lembrando o convite formal ao delegado-geral.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 213,
+        "figure": 225
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 213,
+        "figure": 225,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 213,
+          "figure": 225,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 213 · fig. 225",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00019",
+      "date": "2024-04-03",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Vai fazer agora",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 213,
+        "figure": 225
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 213,
+        "figure": 225,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 213,
+          "figure": 225,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 213 · fig. 225",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00020",
+      "date": "2024-04-06",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "fabio-faria",
+      "content_kind": "forwarded_message",
+      "content": "18h na casa do Alexandre",
+      "editorial_note": "Encaminha mensagem de interlocutor identificado no relatório apenas como “Alexandre” agendando reunião na segunda-feira; a próxima segunda após 06/04/2024 é 10/04/2024.",
+      "forwarded_attribution": {
+        "name": "Alexandre",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 183,
+        "figure": 189
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 183,
+        "figure": 189,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 183,
+          "figure": 189,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 183 · fig. 189",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2023-12-26",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Pela manhã, Fábio Faria e Daniel Vorcaro trocam mensagens informando que estão chegando à reunião.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 22,
+        "figure": 18
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 22,
+        "figure": 18,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00002",
+      "date": "2023-12-27",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Fábio Faria menciona “Alex” e almoço “no dia 30”; Vorcaro envia a localização do Hotel Six Senses Botanique, em Campos do Jordão/SP, e o contato de sua funcionária “Thatiane Prime”.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 24,
+        "figure": 20
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 24,
+        "figure": 20,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 24 · fig. 20",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00003",
+      "date": "2024-01-17",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Fábio Faria informa que confirmou jantar com “o Careca” para 02/02/2024.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 33,
+        "figure": 33
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 33,
+        "figure": 33,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 33 · fig. 33",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00004",
+      "date": "2024-01-23",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Fábio Faria informa que têm jantar agendado “com o Alex” no dia 02, sexta-feira.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 35,
+        "figure": 35
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 35,
+        "figure": 35,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 35 · fig. 35",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00005",
+      "date": "2024-01-30",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Fábio Faria cita “Alex” em conversa sobre alteração do local do jantar.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 35,
+        "figure": 36
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 35,
+        "figure": 36,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 35 · fig. 36",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00006",
+      "date": "2024-02-02",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "No dia do encontro, Fábio Faria envia endereço em Brasília/DF; o endereço não é reproduzido no relatório (minimizado).",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 36,
+        "figure": 37
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 36,
+        "figure": 37,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 36 · fig. 37",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00007",
+      "date": "2024-04-18",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Fábio Faria e Daniel Vorcaro conversam sobre o evento de Londres, em especial sobre veto de “Alexandre” a participante.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 188,
+        "figure": 195
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 188,
+        "figure": 195,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 188 · fig. 195",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00008",
+      "date": "2024-04-26",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Daniel Vorcaro pede a Fábio Faria que verifique com “alexandre” notícia publicada no Brazil Journal.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 198,
+        "figure": 207
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 198,
+        "figure": 207,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 198 · fig. 207",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "id": "ciro-soares-daniel-vorcaro",
+  "title": "Ciro Soares",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "ciro-soares"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 201–211",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Advogado identificado no relatório; mensagens de “Gonet” chegam sempre ENCAMINHADAS por Ciro — contato direto com Paulo Gonet não está demonstrado."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Amizade é tudo viu irmão",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 202,
+        "figure": 211
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 202,
+        "figure": 211,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 202,
+          "figure": 211,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 202 · fig. 211",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Gonet é firme",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 202,
+        "figure": 211
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 202,
+        "figure": 211,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 202,
+          "figure": 211,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 202 · fig. 211",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00003",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "",
+      "editorial_note": "Encaminha mensagem de interlocutor identificado como “Jarbas”, com agradecimento a Paulo Gonet; o teor não é transcrito no relatório.",
+      "media": {
+        "id": "media-fwd-jarbas-20240414",
+        "status": "media_reference_only",
+        "type": "forwarded_image",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "forwarded_attribution": {
+        "name": "Jarbas",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 203,
+        "figure": 212
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 203,
+        "figure": 212,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 203,
+          "figure": 212,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 203 · fig. 212",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00004",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Jarbas escreveu",
+      "editorial_note": "Confirma a autoria da mensagem encaminhada.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 203,
+        "figure": 213
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 203,
+        "figure": 213,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 203,
+          "figure": 213,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 203 · fig. 213",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "O cara largou?",
+      "editorial_note": "Pergunta sobre a desistência de candidatura; o advogado responde positivamente, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 204,
+        "figure": 214
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 204,
+        "figure": 214,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 204,
+          "figure": 214,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 204 · fig. 214",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2024-04-14",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "audio_transcript",
+      "content": "Cara, eu pedi o Gonet ontem, ele me ligou falar um assunto, aí eu falei, Gonet, pede o cara para tirar a candidatura, pede o cara que o cara vai tomar uma porrada arretada. Aí o Gonet me ligou ontem à noite e falou: Ciro, acabei de ligar para ele, ele vai desistir.",
+      "editorial_note": "Áudio transcrito na íntegra pelo relatório, sobre a possível desistência de candidatura em favor de “Jarbas”.",
+      "media": {
+        "id": "media-audio-ciro-20240414",
+        "status": "media_reference_only",
+        "type": "audio",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "transcription_complete": true,
+      "transcription": {
+        "kind": "document_transcription",
+        "document": "IPJ-A nº 3298613/2026",
+        "complete": true
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 204,
+        "figure": 215
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 204,
+        "figure": 215,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 204,
+          "figure": 215,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 204 · fig. 215",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00007",
+      "date": "2025-03-15",
+      "time": "14:13",
+      "timestamp_precision": "minute",
+      "sender_id": "ciro-soares",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Envia foto acompanhado de Paulo Gonet, segundo o relatório.",
+      "media": {
+        "id": "media-photo-ciro-gonet-20250315",
+        "status": "media_reference_only",
+        "type": "photo",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 205,
+        "figure": 216
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 205,
+        "figure": 216,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 205,
+          "figure": 216,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 205 · fig. 216",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00008",
+      "date": "2025-03-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Liga aqui",
+      "editorial_note": "Enviada entre 14:13 e 14:23 (-03:00), antes da sequência de chamadas registrada abaixo.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 205,
+        "figure": 216
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 205,
+        "figure": 216,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 205,
+          "figure": 216,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 205 · fig. 216",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00009",
+      "date": "2025-03-15",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Ele quer falar com você",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 205,
+        "figure": 216
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 205,
+        "figure": 216,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 205,
+          "figure": 216,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 205 · fig. 216",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00010",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "Que bom! Estamos na torcida por vocês!",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": "Gonet",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 206,
+        "figure": 217
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 206,
+        "figure": 217,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 206,
+          "figure": 217,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 206 · fig. 217",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00011",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "Já estou com saudades de você! Estou embarcando para Roma.",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": "Gonet",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 206,
+        "figure": 217
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 206,
+        "figure": 217,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 206,
+          "figure": 217,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 206 · fig. 217",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00012",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "Manda essa mensagem para ele",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": "Gonet",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 206,
+        "figure": 217
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 206,
+        "figure": 217,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 206,
+          "figure": 217,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 206 · fig. 217",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00013",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Lhe adora",
+      "editorial_note": "Sobre “Gonet”, na sequência do agradecimento de Vorcaro às mensagens encaminhadas (texto do agradecimento não reproduzido no relatório).",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 206,
+        "figure": 217
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 206,
+        "figure": 217,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 206,
+          "figure": 217,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 206 · fig. 217",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00014",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Ele vai para Londres com a gente",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 206,
+        "figure": 217
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 206,
+        "figure": 217,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 206,
+          "figure": 217,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 206 · fig. 217",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00015",
+      "date": "2025-03-28",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "Oba!!! Tomara que tenha charuto e macalan!",
+      "editorial_note": "Mensagem encaminhada de interlocutor não identificado no relatório.",
+      "forwarded_attribution": {
+        "name": null,
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 207,
+        "figure": 218
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 207,
+        "figure": 218,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 207,
+          "figure": 218,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 207 · fig. 218",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00016",
+      "date": "2025-03-29",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Gonet perguntou se o filho dele pode ir com a gente para Londres",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 207,
+        "figure": 219
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 207,
+        "figure": 219,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 207,
+          "figure": 219,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 207 · fig. 219",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00017",
+      "date": "2025-03-29",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Obvio ne",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 207,
+        "figure": 219
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 207,
+        "figure": 219,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 207,
+          "figure": 219,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 207 · fig. 219",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00018",
+      "date": "2025-03-29",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "forwarded_message",
+      "content": "Você é uma máquina",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": "Gonet",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 208,
+        "figure": 220
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 208,
+        "figure": 220,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 208,
+          "figure": 220,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 208 · fig. 220",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00019",
+      "date": "2025-03-29",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Gonet mandou",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 208,
+        "figure": 220
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 208,
+        "figure": 220,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 208,
+          "figure": 220,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 208 · fig. 220",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00020",
+      "date": "2025-04-07",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Preciso falar com vc",
+      "editorial_note": "No contexto de discussão sobre matéria jornalística referente à operação do BRB junto ao Banco Master, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 210,
+        "figure": 222
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 210,
+        "figure": 222,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 210,
+          "figure": 222,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 210 · fig. 222",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00021",
+      "date": "2025-04-07",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "Estou indo no PG agora",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 210,
+        "figure": 222
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 210,
+        "figure": 222,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 210,
+          "figure": 222,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 210 · fig. 222",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00022",
+      "date": "2025-06-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim",
+      "content": "PG confirmou a ida pra Londres",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 211,
+        "figure": 223
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 211,
+        "figure": 223,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 211,
+          "figure": 223,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 211 · fig. 223",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00023",
+      "date": "2025-06-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ciro-soares",
+      "content_kind": "verbatim_excerpt",
+      "content": "Pedrinho filho do PG pode ir com a gente",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 211,
+        "figure": 223
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 211,
+        "figure": 223,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 211,
+          "figure": 223,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 211 · fig. 223",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00024",
+      "date": "2025-06-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Obvio",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 211,
+        "figure": 223
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 211,
+        "figure": 223,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 211,
+          "figure": 223,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 211 · fig. 223",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-03-15",
+      "time": "14:23",
+      "timestamp_precision": "minute",
+      "content": "A partir das 14:23:10 (-03:00) são completadas quatro chamadas de voz entre Vorcaro e Ciro Soares, com durações de 57 s, 27 s, 17 s e 3 min 49 s, nessa sequência.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 205,
+        "figure": 216
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 205,
+        "figure": 216,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 205 · fig. 216",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "id": "pf-ipja-3298613-2026",
+    "title": "IPJ-A nº 3298613/2026 — Informação de Polícia Judiciária de Análise",
+    "authority": "Polícia Federal",
+    "unit": "NADIP/DFIN/CGRC/DICOR/PF",
+    "date": "2026-08-27",
+    "court": "STF",
+    "case": "PET 16662",
+    "reporting_judge": "Min. André Mendonça",
+    "pages": 218,
+    "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "public_copy_url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "copy_kind": "public_reproduction",
+    "copy_note": "Cópia pública disponibilizada pelo Poder360 (veículo de imprensa). O documento de origem é oficial da Polícia Federal e integra os autos da PET 16662/STF; este PDF hospedado journalisticamente NÃO é o arquivo original assinado do tribunal.",
+    "sha256": "30e24f6d8abd6c033c50594ff2658a4ad72b2ac818f312ea3fe54e80a5d052d7",
+    "bytes": 5537944,
+    "local_copy": null,
+    "hash_note": "SHA-256 calculado localmente após download da cópia pública em 2026-10-06."
+  },
+  {
+    "id": "stf-inq-5070",
+    "title": "INQ 5070 — Processo Eletrônico Público Criminal (número único 0181367-57.2026.1.00.0000)",
+    "authority": "Supremo Tribunal Federal",
+    "unit": null,
+    "date": null,
+    "court": "STF",
+    "case": "INQ 5070",
+    "reporting_judge": null,
+    "pages": null,
+    "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7661993",
+    "public_copy_url": null,
+    "copy_kind": null,
+    "sha256": null,
+    "bytes": null,
+    "local_copy": null,
+    "hash_note": "Processo de referência (inquérito Dark Horse). Peças com mídia original ainda não localizadas; monitorar pacotes públicos do STF (nota à imprensa 47: ~25,3 GB / ~4.000 arquivos da PET 15556 e correlatos)."
+  }
+]

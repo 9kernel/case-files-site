@@ -407,7 +407,9 @@
       "editorial_note": null,
       "media": {
         "kind": "image",
-        "filename": "Imagem da cláusula do acordo Havengate (conteúdo não divulgado pela reportagem)"
+        "filename": "Imagem da cláusula do acordo Havengate (conteúdo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-thiago-miranda-daniel-vorcaro-m-00012"
       },
       "verification": {
         "level": "public_investigation",
@@ -586,7 +588,9 @@
       "editorial_note": null,
       "media": {
         "kind": "document",
-        "filename": "Funding Schedule - Havengate Dev Fund (planilha encaminhada — arquivo não divulgado pela reportagem)"
+        "filename": "Funding Schedule - Havengate Dev Fund (planilha encaminhada — arquivo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-thiago-miranda-daniel-vorcaro-m-00017"
       },
       "verification": {
         "level": "public_investigation",

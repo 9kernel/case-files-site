@@ -12,6 +12,76 @@
   },
   "messages": [
     {
+      "id": "m-10002",
+      "date": "2024-12-11",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Eu to numa ligação te chamo em seguida",
+      "editorial_note": "Sequência registrada pela reportagem do Intercept logo após o áudio das 18:24; horário não divulgado.",
+      "verification": {
+        "level": "secondary_source",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "The Intercept Brasil",
+            "date": "2026-05-19",
+            "url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "The Intercept Brasil, 19/05/2026",
+      "added_in": "ingest-intercept-20261006"
+    },
+    {
+      "id": "m-10003",
+      "date": "2024-12-11",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "mario-frias",
+      "content_kind": "verbatim",
+      "content": "Blz",
+      "editorial_note": null,
+      "verification": {
+        "level": "secondary_source",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "The Intercept Brasil",
+            "date": "2026-05-19",
+            "url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "The Intercept Brasil, 19/05/2026",
+      "added_in": "ingest-intercept-20261006"
+    },
+    {
       "id": "m-00002",
       "date": "2024-12-11",
       "time": "17:59",
@@ -85,6 +155,54 @@
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
+      "id": "m-10001",
+      "date": "2024-12-11",
+      "time": "18:24",
+      "timestamp_precision": "minute",
+      "sender_id": "mario-frias",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Áudio de WhatsApp publicado pelo Intercept (player na reportagem); não localizado nos autos públicos e não re-hospedado. Sem transcrição publicada.",
+      "media": {
+        "id": "media-audio-frias-20241211-1824",
+        "status": "secondary_media",
+        "type": "audio",
+        "publisher": "The Intercept Brasil",
+        "external_url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/",
+        "local_file": null,
+        "sha256": null,
+        "official_media_located": false,
+        "media_representation": "publisher_reproduction",
+        "original_file": false,
+        "verified": false
+      },
+      "verification": {
+        "level": "secondary_source",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "The Intercept Brasil",
+            "date": "2026-05-19",
+            "url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "The Intercept Brasil, 19/05/2026",
+      "added_in": "ingest-intercept-20261006"
+    },
+    {
       "id": "m-00004",
       "date": "2024-12-11",
       "time": "18:30",
@@ -95,8 +213,15 @@
       "editorial_note": null,
       "transcription_complete": false,
       "media": {
-        "filename": "Áudio de voz (17 s — transcrição parcial publicada pela reportagem)",
-        "duration_sec": 17
+        "id": "media-audio-frias-20241211-1830",
+        "status": "transcript_only",
+        "type": "audio",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "duration_seconds": 17,
+        "official_media_located": false,
+        "verified": false
       },
       "verification": {
         "level": "public_investigation",
@@ -122,7 +247,12 @@
         ]
       },
       "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
+      "added_in": "ingest-bm-piaui-20261006",
+      "transcription": {
+        "kind": "publisher_transcription",
+        "source": "Revista piauí",
+        "complete": false
+      }
     },
     {
       "id": "m-00005",
@@ -161,6 +291,44 @@
       },
       "source_ref": "piauí, 01/10/2026",
       "added_in": "ingest-bm-piaui-20261006"
+    },
+    {
+      "id": "m-10004",
+      "date": "2024-12-11",
+      "time": "19:06",
+      "timestamp_precision": "minute",
+      "sender_id": "mario-frias",
+      "content_kind": "call",
+      "content": "Chamada de voz",
+      "editorial_note": "Chamada de voz de aproximadamente 2 minutos às 19:06, conforme a reportagem.",
+      "call_info": {
+        "direction": "in"
+      },
+      "verification": {
+        "level": "secondary_source",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "The Intercept Brasil",
+            "date": "2026-05-19",
+            "url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "The Intercept Brasil, 19/05/2026",
+      "added_in": "ingest-intercept-20261006"
     },
     {
       "id": "m-00006",

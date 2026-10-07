@@ -40,6 +40,21 @@
 //   E_AUDIO_NEEDS_FLAGS       audio_transcript sem transcription_complete
 //   E_EDITORIAL_BRACKETS      [colchetes] editoriais em content_kind verbatim/
 //                             verbatim_excerpt sem literal_brackets: true
+//   E_FORWARDED_ATTR          forwarded_message sem forwarded_attribution válida
+//                             (name + verified_direct_contact: false)
+//   E_UNKNOWN_DOCUMENT        source.document_id ausente em data/documents.json
+//   E_DOCUMENT_FIELD          entrada inválida em documents.json (inclui o campo
+//                             proibido official_pdf_url; cópia pública sem processo)
+//   E_TRANSCRIPTION_SHAPE     transcription sem kind/complete/atribuição corretos
+//   E_MEDIA_STATUS            media.status fora da lista; objeto inválido
+//   E_MEDIA_OFFICIAL          official_media sem arquivo+sha256+fonte oficial,
+//                             ou com publisher (URL jornalística não gera oficial)
+//   E_MEDIA_SECONDARY         secondary_media sem publisher/official_media_located
+//   E_MEDIA_TRANSCRIPT_ONLY   transcript_only apontando arquivo ou sem transcrição
+//   E_MEDIA_REFERENCE         media_reference_only com local_file
+//   E_MEDIA_LOCAL_HASH        mídia local sem sha256/bytes; derivada sem derived_from
+//   E_MEDIA_ORIGINAL_FILE     original_file: true sem source_document_id
+//   E_MEDIA_MISSING           audio_transcript sem objeto media
 //   E_BAD_REPLY_TO            reply_to aponta para mensagem inexistente na thread
 //   E_MISSING_MEDIA_FILE      media.url aponta para arquivo inexistente em /public
 //   E_MISSING_VERIFICATION    sem objeto verification
@@ -58,10 +73,13 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
-const ALLOWED_KINDS = new Set(['verbatim', 'verbatim_excerpt', 'audio_transcript', 'media', 'call', 'editorial_event', 'system']);
+const ALLOWED_KINDS = new Set(['verbatim', 'verbatim_excerpt', 'audio_transcript', 'media', 'call', 'forwarded_message', 'editorial_event', 'system']);
 const ALLOWED_LEVELS = new Set(['official_document', 'public_investigation', 'secondary_source', 'pending_review']);
 const ALLOWED_PRECISIONS = new Set(['minute', 'date', 'month', 'approximate']);
 const ALLOWED_EVENT_KINDS = new Set(['editorial_context', 'system']);
+const ALLOWED_MEDIA_STATUS = new Set(['official_media', 'secondary_media', 'embedded_media', 'transcript_only', 'media_reference_only']);
+const ALLOWED_TRANSCRIPTION_KINDS = new Set(['publisher_transcription', 'document_transcription', 'project_transcription']);
+const SHA256_RE = /^[0-9a-f]{64}$/;
 /** content_kinds que não são fala de pessoa ( dispensam sender_id ) */
 const NO_SENDER_KINDS = new Set(['editorial_event', 'system']);
 /** campos do schema antigo — sua presença é erro de regressão */
@@ -99,6 +117,47 @@ export function validateData(dataDir, rootDir) {
 
   rootDir = rootDir || path.resolve(dataDir, '..');
   const threadsDir = path.join(dataDir, 'threads');
+
+  /* ---------- documents.json (registro central de documentos) ---------- */
+  const documentIds = new Set();
+  const docsFile = path.join(dataDir, 'documents.json');
+  if (fs.existsSync(docsFile)) {
+    let docs;
+    try {
+      docs = JSON.parse(fs.readFileSync(docsFile, 'utf8'));
+    } catch (e) {
+      err('E_JSON_PARSE', 'data/documents.json', `JSON inválido: ${e.message}`);
+      docs = [];
+    }
+    if (!Array.isArray(docs)) {
+      err('E_DOCUMENT_FIELD', 'data/documents.json', 'documents.json deve ser um array.');
+      docs = [];
+    }
+    for (const d of docs) {
+      if (!d || typeof d.id !== 'string' || !d.id || typeof d.title !== 'string' || !d.title ||
+          typeof d.authority !== 'string' || !d.authority) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', 'Documento sem id/title/authority válidos.');
+        continue;
+      }
+      if (documentIds.has(d.id)) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `id de documento duplicado: "${d.id}"`);
+      }
+      documentIds.add(d.id);
+      // cópia pública de reprodução jornalística NUNCA é registrada como oficial
+      if ('official_pdf_url' in d) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" usa o campo proibido "official_pdf_url" — use public_copy_url + copy_kind.`);
+      }
+      if (d.public_copy_url && d.copy_kind !== 'public_reproduction' && d.copy_kind !== 'official_original') {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" com public_copy_url exige copy_kind (public_reproduction | official_original).`);
+      }
+      if (d.copy_kind === 'public_reproduction' && !d.official_process_url) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" é reprodução pública e exige official_process_url (o processo que comprova a origem).`);
+      }
+      if (d.sha256 != null && !SHA256_RE.test(d.sha256)) {
+        err('E_DOCUMENT_FIELD', 'data/documents.json', `Documento "${d.id}" com sha256 inválido (64 hex minúsculos).`);
+      }
+    }
+  }
 
   /* ---------- participants.json ---------- */
   let participants;
@@ -265,11 +324,44 @@ export function validateData(dataDir, rootDir) {
       // texto editorial jamais dentro de fala literal (§1/§19): colchetes são
       // sinalizadores de inserção editorial; salvo literal_brackets explícito
       // para os casos raros em que os colchetes existem no original
-      if ((kind === 'verbatim' || kind === 'verbatim_excerpt') && !m.literal_brackets &&
+      if ((kind === 'verbatim' || kind === 'verbatim_excerpt' || kind === 'forwarded_message') && !m.literal_brackets &&
           /[[\]]/.test(String(m.content ?? ''))) {
         err('E_EDITORIAL_BRACKETS', where,
           `content contém [colchetes] em content_kind "${kind}" — mova o texto editorial para editorial_note (ou declare literal_brackets: true se os colchetes constam do original).`);
       }
+
+      // encaminhada: atribuição de terceiro NUNCA vira contato direto
+      if (kind === 'forwarded_message') {
+        const fa = m.forwarded_attribution;
+        if (!fa || typeof fa !== 'object' || Array.isArray(fa) ||
+            !(fa.name === null || typeof fa.name === 'string') ||
+            fa.verified_direct_contact !== false) {
+          err('E_FORWARDED_ATTR', where,
+            'content_kind "forwarded_message" exige forwarded_attribution { name: string|null, verified_direct_contact: false } — atribuição não comprovada documentalmente.');
+        }
+      }
+
+      // referência ao documento central (§25): o id precisa existir
+      if (m.source?.document_id != null && !documentIds.has(m.source.document_id)) {
+        err('E_UNKNOWN_DOCUMENT', where, `source.document_id "${m.source.document_id}" não existe em data/documents.json.`);
+      }
+
+      // transcrição: quem fez e se é completa (§12)
+      if (m.transcription != null) {
+        const tr = m.transcription;
+        if (typeof tr !== 'object' || Array.isArray(tr) || !ALLOWED_TRANSCRIPTION_KINDS.has(tr.kind) ||
+            typeof tr.complete !== 'boolean') {
+          err('E_TRANSCRIPTION_SHAPE', where,
+            `"transcription" exige { kind: ${[...ALLOWED_TRANSCRIPTION_KINDS].join('|')}, complete: boolean }.`);
+        } else if (tr.kind === 'publisher_transcription' && (typeof tr.source !== 'string' || !tr.source)) {
+          err('E_TRANSCRIPTION_SHAPE', where, 'transcription.kind "publisher_transcription" exige "source" (veículo).');
+        } else if (tr.kind === 'document_transcription' && (typeof tr.document !== 'string' || !tr.document)) {
+          err('E_TRANSCRIPTION_SHAPE', where, 'transcription.kind "document_transcription" exige "document".');
+        }
+      }
+
+      // mídia: cadeia de proveniência (§28-§35)
+      checkMedia(m, where, err);
 
       // campos obrigatórios de rastreabilidade
       if (m.source_ref == null || String(m.source_ref).trim() === '') {
@@ -349,6 +441,9 @@ export function validateData(dataDir, rootDir) {
           }
           if (ev.source_ref == null || String(ev.source_ref).trim() === '') {
             err('E_MISSING_SOURCE_REF', where, 'Evento editorial sem "source_ref".');
+          }
+          if (ev.source?.document_id != null && !documentIds.has(ev.source.document_id)) {
+            err('E_UNKNOWN_DOCUMENT', where, `source.document_id "${ev.source.document_id}" não existe em data/documents.json.`);
           }
           if (ev.added_in == null || String(ev.added_in).trim() === '') {
             err('E_MISSING_ADDED_IN', where, 'Evento editorial sem "added_in".');
@@ -452,6 +547,88 @@ function checkOrder(prev, cur, where, err) {
   }
 }
 
+/* ---------- mídia: cadeia de proveniência (§6-§8, §28-§35) ---------- */
+
+function checkMedia(m, where, err) {
+  const media = m.media;
+  if (!media) {
+    // transcrição de áudio exige registro de mídia (id ou justificativa transcript_only)
+    if (m.content_kind === 'audio_transcript') {
+      err('E_MEDIA_MISSING', where, 'content_kind "audio_transcript" exige objeto "media" (com id, ou status transcript_only como justificativa) — a transcrição nunca substitui o registro do áudio.');
+    }
+    return;
+  }
+  if (typeof media !== 'object' || Array.isArray(media)) {
+    err('E_MEDIA_STATUS', where, '"media" deve ser um objeto.');
+    return;
+  }
+  if (!ALLOWED_MEDIA_STATUS.has(media.status)) {
+    err('E_MEDIA_STATUS', where, `media.status "${media.status}" inválido (${[...ALLOWED_MEDIA_STATUS].join(', ')}).`);
+    return;
+  }
+
+  // mídia local exige hash/bytes (§33); derivada exige origem (§34)
+  if (media.local_file) {
+    if (!SHA256_RE.test(String(media.sha256 || ''))) {
+      err('E_MEDIA_LOCAL_HASH', where, 'media.local_file exige media.sha256 (SHA-256 calculado localmente).');
+    }
+    if (typeof media.bytes !== 'number' || media.bytes < 1) {
+      err('E_MEDIA_LOCAL_HASH', where, 'media.local_file exige media.bytes.');
+    }
+    if (String(media.local_file).includes('/derived/') && media.derived_from == null) {
+      err('E_MEDIA_DERIVED', where, 'mídia derivada (local_file em /derived/) exige "derived_from" com o id do original.');
+    }
+  }
+
+  switch (media.status) {
+    case 'official_media':
+      // somente com arquivo dos autos públicos / pacote oficial / URL institucional
+      if (!media.local_file || !SHA256_RE.test(String(media.sha256 || ''))) {
+        err('E_MEDIA_OFFICIAL', where, 'media.status "official_media" exige arquivo local + sha256 (evidência baixada de origem pública oficial).');
+      }
+      if (!(media.source_document_id || (media.source_authority && media.source_process))) {
+        err('E_MEDIA_OFFICIAL', where, 'media.status "official_media" exige fonte oficial (source_document_id ou source_authority + source_process).');
+      }
+      if (media.publisher) {
+        // URL/veículo jornalístico jamais gera official_media (§7/§35.9)
+        err('E_MEDIA_OFFICIAL', where, 'media.status "official_media" não pode ter "publisher" — origem jornalística é secondary_media.');
+      }
+      break;
+    case 'secondary_media':
+      if (typeof media.publisher !== 'string' || !media.publisher.trim()) {
+        err('E_MEDIA_SECONDARY', where, 'media.status "secondary_media" exige "publisher" (veículo que publicou o arquivo).');
+      }
+      if (media.official_media_located !== false) {
+        err('E_MEDIA_SECONDARY', where, 'media.status "secondary_media" exige official_media_located: false.');
+      }
+      break;
+    case 'transcript_only':
+      // só há transcrição: jamais aponta arquivo (§35.4) nem apaga o texto (§35.10)
+      if (media.local_file || media.external_url) {
+        err('E_MEDIA_TRANSCRIPT_ONLY', where, 'media.status "transcript_only" não pode ter local_file/external_url — existe apenas a transcrição.');
+      }
+      if (typeof m.content !== 'string' || !m.content.trim()) {
+        err('E_MEDIA_TRANSCRIPT_ONLY', where, 'media.status "transcript_only" exige transcrição em content — ausência de mídia nunca apaga a transcrição.');
+      }
+      break;
+    case 'media_reference_only':
+      if (media.local_file) {
+        err('E_MEDIA_REFERENCE', where, 'media.status "media_reference_only" não pode ter local_file — o arquivo não foi obtido; referencie a página/figura.');
+      }
+      break;
+    default:
+      break;
+  }
+
+  if (media.original_file === true && media.source_document_id == null) {
+    // original_file=true exige evidência documental (§31/§35.5)
+    err('E_MEDIA_ORIGINAL_FILE', where, 'media.original_file: true exige source_document_id — arquivo só é "original" quando identificável nos autos.');
+  }
+  if (media.duration_seconds != null && typeof media.duration_seconds !== 'number') {
+    err('E_MEDIA_STATUS', where, 'media.duration_seconds deve ser número ou null.');
+  }
+}
+
 /* ---------- verification / sources ---------- */
 
 function checkVerification(m, where, err, { isMessage }) {
@@ -482,10 +659,12 @@ function checkVerification(m, where, err, { isMessage }) {
     if (v.primary_document_located !== true) {
       err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige primary_document_located = true.');
     }
-    const primary = m.sources?.primary;
-    if (!primary || typeof primary !== 'object' || typeof primary.document !== 'string' || !primary.document ||
-        typeof primary.page !== 'number') {
-      err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige sources.primary com document e page.');
+    if (isMessage) {
+      const primary = m.sources?.primary;
+      if (!primary || typeof primary !== 'object' || typeof primary.document !== 'string' || !primary.document ||
+          typeof primary.page !== 'number') {
+        err('E_VERIFICATION_SHAPE', where, 'verification.level "official_document" exige sources.primary com document e page.');
+      }
     }
   } else if (v.primary_document_located === true) {
     err('E_VERIFICATION_SHAPE', where, `verification.level "${v.level}" não pode ter primary_document_located = true.`);

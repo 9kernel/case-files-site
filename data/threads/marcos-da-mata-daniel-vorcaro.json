@@ -1,0 +1,433 @@
+{
+  "id": "marcos-da-mata-daniel-vorcaro",
+  "title": "Marcos da Mata",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "marcos-da-mata"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 164–169",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Contato salvo como “Marcos Prime”; a Prime You é dos proprietários Marcus Vinicius da Mata e Vorcaro, segundo o relatório."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "ja era pra ter resolvido",
+      "editorial_note": "Sobre pendência nas cotas dos ativos do contrato entre a Viking e o Escritório Barci de Moraes.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Eles nao estao usando",
+      "editorial_note": "Questiona se os ativos do contrato não estão sendo usados.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00003",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "verbatim_excerpt",
+      "content": "terá mudança de empresa",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00004",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "verbatim_excerpt",
+      "content": "não será mais a Barci",
+      "editorial_note": "Esclarece que haverá mudança de empresa no contrato; os ativos estariam liberados “desde quando me pediu”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "verbatim",
+      "content": "Já usaram aviões e helicópteros",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "verbatim_excerpt",
+      "content": "devido mudança de contrato de Barci para a outra empresa deles Lux",
+      "editorial_note": "Explica por que não cobrou o valor variável do contrato, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 168,
+        "figure": 167
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 168,
+        "figure": 167,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 168,
+          "figure": 167,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 168 · fig. 167",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00007",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "forwarded_message",
+      "content": "estão gostando da utilização das cotas de vcs",
+      "editorial_note": "Recorte da conversa de Marcos com Viviane de Moraes; a legenda da mensagem traz a sigla “PSC” (provavelmente “para seu conhecimento”, segundo o relatório). Na resposta, Viviane escreve a frase abaixo.",
+      "forwarded_attribution": {
+        "name": "Viviane de Moraes",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 169,
+        "figure": 168
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 169,
+        "figure": 168,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 169,
+          "figure": 168,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 169 · fig. 168",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00008",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "marcos-da-mata",
+      "content_kind": "forwarded_message",
+      "content": "Sim, estamos gostando muito",
+      "editorial_note": null,
+      "forwarded_attribution": {
+        "name": "Viviane de Moraes",
+        "verified_direct_contact": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 169,
+        "figure": 168
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 169,
+        "figure": 168,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 169,
+          "figure": 168,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 169 · fig. 168",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-05-09",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Vorcaro conversa por chamada de voz com “Marcos Prime” e em seguida pede que ele envie a Viviane de Moraes brochura da Prime You sobre o Legacy 650 e o EC 155 B1 — os mesmos bens da minuta enviada por Palhares, segundo o relatório.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 165,
+        "figure": 164
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 165,
+        "figure": 164,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 165 · fig. 164",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00002",
+      "date": "2025-05-09",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Conforme a brochura, a cota do Legacy 650 custaria US$ 5.512.951,89 e a do EC 155 B1, US$ 1.335.014,01 — “possivelmente enviados” por Marcos a Viviane, conforme a legenda.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 166,
+        "figure": 165
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 166,
+        "figure": 165,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 166 · fig. 165",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

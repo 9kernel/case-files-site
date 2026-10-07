@@ -8,3 +8,8 @@ __pycache__/
 # Sistema / editor
 .DS_Store
 Thumbs.db
+
+# cópias de trabalho de documentos baixados para análise (nunca publicadas)
+.documents/
+.tmp-curate/
+pdf_pf/

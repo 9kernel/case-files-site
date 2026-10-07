@@ -205,6 +205,100 @@ ok = runCase('evento com id fora do padrão', (t) => { t.timeline_events[0].id =
 ok = runCase('evento com event_kind inválido', (t) => { t.timeline_events[0].event_kind = 'palpite'; }, ['E_BAD_EVENT_KIND']) && ok;
 ok = runCase('evento com content vazio', (t) => { t.timeline_events[0].content = '  '; }, ['E_BAD_CONTENT']) && ok;
 
+/* mídia: cadeia de proveniência (§35) */
+const media = (over = {}) => ({ status: 'media_reference_only', ...over });
+ok = runCase('official_media sem fonte oficial', (t) => {
+  t.messages[0].media = media({ status: 'official_media', local_file: 'public/media/original/a.ogg', sha256: 'a'.repeat(64), bytes: 10 });
+}, ['E_MEDIA_OFFICIAL']) && ok;
+ok = runCase('official_media sem hash/arquivo', (t) => {
+  t.messages[0].media = media({ status: 'official_media', source_document_id: 'pf-ipja-3298613-2026' });
+}, ['E_MEDIA_OFFICIAL']) && ok;
+ok = runCase('official_media com publisher jornalístico', (t) => {
+  t.messages[0].media = media({ status: 'official_media', publisher: 'Poder360', local_file: 'public/media/original/a.ogg', sha256: 'a'.repeat(64), bytes: 10, source_authority: 'STF', source_process: 'INQ 5070' });
+}, ['E_MEDIA_OFFICIAL']) && ok;
+ok = runCase('official_media válido passa', (t) => {
+  t.messages[0].media = media({ status: 'official_media', id: 'media-1', type: 'audio', local_file: 'public/media/original/a.ogg', sha256: 'a'.repeat(64), bytes: 10, source_document_id: 'stf-inq-5070' });
+}, []) && ok;
+ok = runCase('secondary_media sem publisher', (t) => {
+  t.messages[0].media = media({ status: 'secondary_media', external_url: 'https://exemplo.org/audio' });
+}, ['E_MEDIA_SECONDARY']) && ok;
+ok = runCase('transcript_only com arquivo local', (t) => {
+  t.messages[0].media = media({ status: 'transcript_only', local_file: 'public/media/a.ogg' });
+}, ['E_MEDIA_TRANSCRIPT_ONLY']) && ok;
+ok = runCase('transcript_only sem transcrição (mídia ausente não apaga o texto)', (t) => {
+  t.messages[0].content = '';
+  t.messages[0].media = media({ status: 'transcript_only' });
+}, ['E_MEDIA_TRANSCRIPT_ONLY']) && ok;
+ok = runCase('mídia local sem sha256', (t) => {
+  t.messages[0].media = media({ status: 'media_reference_only', local_file: 'public/media/a.ogg', bytes: 10 });
+}, ['E_MEDIA_LOCAL_HASH', 'E_MEDIA_REFERENCE']) && ok;
+ok = runCase('mídia derivada sem derived_from', (t) => {
+  t.messages[0].media = media({ status: 'media_reference_only', local_file: 'public/media/derived/a.mp3', sha256: 'a'.repeat(64), bytes: 10 });
+}, ['E_MEDIA_DERIVED', 'E_MEDIA_REFERENCE']) && ok;
+ok = runCase('original_file=true sem evidência documental', (t) => {
+  t.messages[0].media = media({ original_file: true });
+}, ['E_MEDIA_ORIGINAL_FILE']) && ok;
+ok = runCase('áudio transcrito sem registro de mídia', (t) => {
+  t.messages[0].content_kind = 'audio_transcript';
+  t.messages[0].transcription_complete = false;
+}, ['E_MEDIA_MISSING']) && ok;
+ok = runCase('áudio com media id passa', (t) => {
+  t.messages[0].content_kind = 'audio_transcript';
+  t.messages[0].transcription_complete = false;
+  t.messages[0].media = media({ status: 'transcript_only', id: 'media-audio-1' });
+}, []) && ok;
+ok = runCase('secondary_media válido (áudio do Intercept) passa', (t) => {
+  t.messages[0].content_kind = 'media';
+  t.messages[0].media = media({
+    status: 'secondary_media', id: 'media-audio-2', type: 'audio',
+    publisher: 'The Intercept Brasil', external_url: 'https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/',
+    official_media_located: false, original_file: false, media_representation: 'publisher_reproduction',
+  });
+}, []) && ok;
+
+/* encaminhadas e transcrição */
+ok = runCase('forwarded_message sem atribuição', (t) => {
+  t.messages[0].content_kind = 'forwarded_message';
+  t.messages[0].content = 'Você é uma máquina';
+}, ['E_FORWARDED_ATTR']) && ok;
+ok = runCase('forwarded_message com verified_direct_contact=true é rejeitado', (t) => {
+  t.messages[0].content_kind = 'forwarded_message';
+  t.messages[0].content = 'Você é uma máquina';
+  t.messages[0].forwarded_attribution = { name: 'Gonet', verified_direct_contact: true };
+}, ['E_FORWARDED_ATTR']) && ok;
+ok = runCase('forwarded_message válido passa', (t) => {
+  t.messages[0].content_kind = 'forwarded_message';
+  t.messages[0].content = 'Você é uma máquina';
+  t.messages[0].forwarded_attribution = { name: 'Gonet', verified_direct_contact: false };
+}, []) && ok;
+ok = runCase('transcription sem fonte do veículo', (t) => {
+  t.messages[0].content_kind = 'audio_transcript';
+  t.messages[0].transcription_complete = false;
+  t.messages[0].media = media({ status: 'transcript_only' });
+  t.messages[0].transcription = { kind: 'publisher_transcription', complete: false };
+}, ['E_TRANSCRIPTION_SHAPE']) && ok;
+ok = runCase('transcription document_transcription sem documento', (t) => {
+  t.messages[0].content_kind = 'audio_transcript';
+  t.messages[0].transcription_complete = true;
+  t.messages[0].media = media({ status: 'transcript_only' });
+  t.messages[0].transcription = { kind: 'document_transcription', complete: true };
+}, ['E_TRANSCRIPTION_SHAPE']) && ok;
+
+/* documents.json */
+ok = runCase('document_id desconhecido', (t) => {
+  t.messages[0].source = { document_id: 'doc-fantasma', page: 10 };
+}, ['E_UNKNOWN_DOCUMENT']) && ok;
+{
+  const docsBad = [{ id: 'doc-x', title: 'X', authority: 'PF', official_pdf_url: 'https://ex.org/x.pdf' }];
+  fs.writeFileSync(path.join(dataDir, 'documents.json'), JSON.stringify(docsBad));
+  writeData(baseThread());
+  const { errors } = validateData(dataDir, tmpRoot);
+  const has = errors.some((e) => e.code === 'E_DOCUMENT_FIELD' && /official_pdf_url/.test(e.message));
+  console.log(has ? '✓ documents.json com official_pdf_url → E_DOCUMENT_FIELD' : '✗ official_pdf_url não detectado');
+  ok = has && ok;
+  fs.rmSync(path.join(dataDir, 'documents.json'));
+}
+
 /* JSON inválido */
 writeData(baseThread());
 fs.writeFileSync(path.join(dataDir, 'threads', 'quebrado.json'), '{ isto não é json ');

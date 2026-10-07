@@ -1,0 +1,207 @@
+{
+  "generated_at": "2026-10-06",
+  "documents": {
+    "consulted": [
+      {
+        "id": "pf-ipja-3298613-2026",
+        "title": "IPJ-A nº 3298613/2026 (PET 16662/STF)",
+        "authority": "Polícia Federal",
+        "pages": 218,
+        "sha256": "30e24f6d8abd6c033c50594ff2658a4ad72b2ac818f312ea3fe54e80a5d052d7",
+        "bytes": 5537944,
+        "copy_kind": "public_reproduction",
+        "public_copy_url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+        "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+        "hash_method": "sha256 calculado localmente após download; hash CONFIRMADO por coincidência com cópia baixada independentemente pelo editor (pdf_pf/) — mesmo valor 30e24f6d…"
+      },
+      {
+        "id": "stf-inq-5070",
+        "title": "INQ 5070 (0181367-57.2026.1.00.0000)",
+        "authority": "STF",
+        "sha256": null,
+        "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7661993",
+        "status": "processo de referência; peças com mídia original não localizadas"
+      }
+    ],
+    "accessibility": {
+      "portal.stf.jus.br (PET 16662 e INQ 5070)": "HTTP 403 para cliente automatizado — URLs registradas a partir da referência do projeto; acesso por navegador necessário",
+      "static.poder360.com.br (PDF do IPJ-A)": "acessível (200); baixado e hasheado",
+      "novelo-master.fausel.adv.br (catálogo)": "acessível (200); fonte auxiliar, não usada como prova",
+      "noticias.stf.jus.br (notas à imprensa)": "acessível (200)",
+      "arkanto.company (índices Romy/Ana Matos)": "acessível (200); fontes AUXILIARES de navegação — toda publicação veio do PDF primário",
+      "www.intercept.com.br (áudio Frias)": "HTTP 403 para cliente automatizado — URL e dados registrados conforme a referência do projeto; conteúdo não verificado por bot",
+      "www.poder360.com.br (áudio Flávio)": "acessível (200)"
+    }
+  },
+  "counts": {
+    "threads": 21,
+    "messages": 206,
+    "timeline_events": 40,
+    "by_verification_level": {
+      "official_document": 103,
+      "public_investigation": 74,
+      "secondary_source": 29
+    },
+    "by_content_kind": {
+      "verbatim_excerpt": 60,
+      "verbatim": 102,
+      "media": 15,
+      "forwarded_message": 16,
+      "audio_transcript": 4,
+      "call": 9
+    },
+    "forwarded_messages": 16,
+    "by_media_status": {
+      "media_reference_only": 18,
+      "secondary_media": 2,
+      "transcript_only": 1
+    }
+  },
+  "threads_added": [
+    "fabio-faria-daniel-vorcaro",
+    "viviane-de-moraes-daniel-vorcaro",
+    "ana-matos-daniel-vorcaro",
+    "ciro-soares-daniel-vorcaro",
+    "leonardo-palhares-daniel-vorcaro",
+    "angelo-silva-daniel-vorcaro",
+    "marcos-da-mata-daniel-vorcaro",
+    "romy-banco-master-daniel-vorcaro",
+    "alberto-felix-daniel-vorcaro",
+    "marcio-conjur-daniel-vorcaro",
+    "luiz-renno-daniel-vorcaro",
+    "geraldo-brazil-journal-daniel-vorcaro",
+    "paulo-sergio-daniel-vorcaro",
+    "ana-claudia-financeiro-daniel-vorcaro"
+  ],
+  "moraes_reverification": {
+    "checked_against_document": [
+      "m-00002 fl.49/fig.48 13:33",
+      "m-00007 fl.61/fig.60 17:41",
+      "m-00008 fl.127/fig.126 22:12",
+      "m-00006 fl.129/fig.128 22:28",
+      "m-00009 fl.141/fig.140 17:22",
+      "m-00005 fl.143/fig.142 17:26",
+      "m-00010 fl.147/fig.146 20:48"
+    ],
+    "result": "7/7 referências conferidas nas tabelas de ações da PF (horários UTC-3 batem); nenhum texto alterado",
+    "new_documented_events": "10 eventos do IPJ-A adicionados (salvamento do contato 26/12/2023; mensagens de 17/11/2025 em modo visualização única — figs. 38-40; encontros 2024-2025 com pessoas privadas minimizadas)"
+  },
+  "audios": [
+    {
+      "thread": "ciro-soares-daniel-vorcaro",
+      "id": "m-00006",
+      "media_id": "media-audio-ciro-20240414",
+      "status": "media_reference_only",
+      "publisher": null,
+      "external_url": null,
+      "duration_seconds": null,
+      "official_media_located": null
+    },
+    {
+      "thread": "fabio-faria-daniel-vorcaro",
+      "id": "m-00004",
+      "media_id": "media-audio-fabio-faria-20231221",
+      "status": "media_reference_only",
+      "publisher": null,
+      "external_url": null,
+      "duration_seconds": null,
+      "official_media_located": null
+    },
+    {
+      "thread": "flavio-bolsonaro-daniel-vorcaro",
+      "id": "m-00008",
+      "media_id": "media-audio-flavio-20250908",
+      "status": "secondary_media",
+      "publisher": "Poder360",
+      "external_url": "https://www.poder360.com.br/poder-congresso/ouca-flavio-pedindo-dinheiro-a-vorcaro-para-filme-de-jair-bolsonaro/",
+      "duration_seconds": 97,
+      "official_media_located": false
+    },
+    {
+      "thread": "mario-frias-daniel-vorcaro",
+      "id": "m-10001",
+      "media_id": "media-audio-frias-20241211-1824",
+      "status": "secondary_media",
+      "publisher": "The Intercept Brasil",
+      "external_url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/",
+      "duration_seconds": null,
+      "official_media_located": false
+    },
+    {
+      "thread": "mario-frias-daniel-vorcaro",
+      "id": "m-00004",
+      "media_id": "media-audio-frias-20241211-1830",
+      "status": "transcript_only",
+      "publisher": null,
+      "external_url": null,
+      "duration_seconds": 17,
+      "official_media_located": false
+    }
+  ],
+  "official_media": [],
+  "secondary_media": [
+    {
+      "thread": "flavio-bolsonaro-daniel-vorcaro",
+      "id": "m-00008",
+      "media_id": "media-audio-flavio-20250908",
+      "status": "secondary_media",
+      "publisher": "Poder360",
+      "external_url": "https://www.poder360.com.br/poder-congresso/ouca-flavio-pedindo-dinheiro-a-vorcaro-para-filme-de-jair-bolsonaro/",
+      "duration_seconds": 97,
+      "official_media_located": false
+    },
+    {
+      "thread": "mario-frias-daniel-vorcaro",
+      "id": "m-10001",
+      "media_id": "media-audio-frias-20241211-1824",
+      "status": "secondary_media",
+      "publisher": "The Intercept Brasil",
+      "external_url": "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/",
+      "duration_seconds": null,
+      "official_media_located": false
+    }
+  ],
+  "not_located": [
+    "arquivo original do áudio de Mário Frias 11/12/2024 18:24 (Intercept só tem player; INQ 5070 não aberto para pesquisa automatizada)",
+    "arquivo original do áudio de Flávio Bolsonaro 08/09/2025 (Poder360/Terra com player; PF negou ser a origem do vazamento — UOL 21/07/2026; INQ 5070 não aberto para pesquisa automatizada)",
+    "áudios transcritos no IPJ-A (Fábio Faria 21/12/2023; Ciro Soares 14/04/2024) — arquivos não anexados ao texto público do relatório",
+    "pacote STF ~25,3 GB / ~4.000 arquivos da PET 15556 e correlatos (nota à imprensa 47) — localização e download não realizados nesta etapa"
+  ],
+  "duration_divergences": [],
+  "forwarded_classified": 16,
+  "privacy_minimization": {
+    "threads_not_created": [
+      "Martha Graeff (namorada — conteúdo pessoal; encontros com o ministro registrados como eventos minimizados na thread Moraes)",
+      "Gustavo Motorista (motorista — logístico)",
+      "Motorista Brasilia Sidney (motorista — logístico)",
+      "Michael (funcionário do hotel — logístico)",
+      "Thatiane Prime (funcionária — conteúdo disponível nas figs. 21/171; fora da lista de prioridades)",
+      "Stella (filha — familiar)",
+      "Fabiano Zettel (cunhado — fora das prioridades; citações identificadas na fl. 149)"
+    ],
+    "data_withheld": [
+      "placas de veículos",
+      "endereço residencial do encontro de 02/02/2024",
+      "números de telefone (terminais)",
+      "nome da filha de Alexandre de Moraes (evento minimizado)",
+      "dados de contatos privados"
+    ],
+    "undated_figures_not_published": [
+      "figs. 172-176 (recortes/remarques de Fábio Faria sem data documental)",
+      "figs. 192-193, 196-201, 205-206 (Ana Matos sem data documental)",
+      "fig. 178 (Sidney, sem data)"
+    ]
+  },
+  "broken_urls": [
+    "https://www.intercept.com.br/2026/05/19/audio-mario-frias-daniel-vorcaro/ (403 para bot — verificar em navegador)",
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133 (403 para bot)",
+    "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7661993 (403 para bot)"
+  ],
+  "human_review_needed": [
+    "conferir em navegador as páginas STF (PET 16662, INQ 5070) e a matéria do Intercept",
+    "localizar mídias originais nos pacotes públicos do STF (nota 47) para promover secondary_media -> official_media",
+    "figuras sem data documental (lista acima) podem virar registros se datadas por revisão humana",
+    "identidade civil de “Marcio Conjur” e de “Fábio Faria” não estabelecida no documento — não inferir",
+    "possível identidade entre “Angelo Silva” (contato) e “Angelo Antonio Ribeiro da Silva” (assinante do contrato, fl. 34) NÃO foi afirmada"
+  ]
+}

@@ -1,0 +1,807 @@
+{
+  "id": "leonardo-palhares-daniel-vorcaro",
+  "title": "Leonardo Palhares",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "leonardo-palhares"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 159–167, 170–171",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Advogado de Vorcaro; segundo contrato do Escritório Barci de Moraes (Vikings Participações / dação em pagamento de aeronaves)."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2025-05-13",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Envia o contrato entre a Vikings Participações e o Escritório Barci de Moraes (datado de 12/05/2025, segundo o relatório).",
+      "media": {
+        "id": "media-doc-viking-20250513",
+        "status": "media_reference_only",
+        "type": "document",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 159,
+        "figure": 159
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 159,
+        "figure": 159,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 159,
+          "figure": 159,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 159 · fig. 159",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2025-05-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim_excerpt",
+      "content": "duas minutas para vc escolher o deal",
+      "editorial_note": "Informa que fez duas minutas; o relatório descreve as duas opções estruturais apresentadas.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 161,
+        "figure": 160
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 161,
+        "figure": 160,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 161,
+          "figure": 160,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 161 · fig. 160",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00003",
+      "date": "2025-05-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Opcao 1 não é o negocio",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 161,
+        "figure": 160
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 161,
+        "figure": 160,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 161,
+          "figure": 160,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 161 · fig. 160",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00004",
+      "date": "2025-05-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Os ativos sao deles...ja",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 161,
+        "figure": 160
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 161,
+        "figure": 160,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 161,
+          "figure": 160,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 161 · fig. 160",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2025-05-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "media",
+      "content": "",
+      "editorial_note": "Envia Termo de Acordo e Dação em Pagamento do contrato da Viking com o Escritório, por ele elaborado, segundo o relatório.",
+      "media": {
+        "id": "media-doc-termo-dacao-20250519",
+        "status": "media_reference_only",
+        "type": "document",
+        "local_file": null,
+        "external_url": null,
+        "sha256": null,
+        "verified": false
+      },
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 162,
+        "figure": 161
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 162,
+        "figure": 161,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 162,
+          "figure": 161,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 162 · fig. 161",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2025-05-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim_excerpt",
+      "content": "escritório deles não pode ser parte do contrato, não pode ter participação em empresas",
+      "editorial_note": "Segundo Palhares, explicando restrição relatada por “Guilherme”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 162,
+        "figure": 161
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 162,
+        "figure": 161,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 162,
+          "figure": 161,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 162 · fig. 161",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00007",
+      "date": "2025-05-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim",
+      "content": "Ele queria que escritório fosse dono direto da cota, sem ser sócio das SPEs",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 162,
+        "figure": 161
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 162,
+        "figure": 161,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 162,
+          "figure": 161,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 162 · fig. 161",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00008",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim",
+      "content": "A gente precisa iniciar o fluxo de pagamentos do escritório Biaci",
+      "editorial_note": "O relatório registra que “Biaci” parece ser erro de digitação.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 167,
+        "figure": 166
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 167,
+        "figure": 166,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 167,
+          "figure": 166,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 167 · fig. 166",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00009",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "num volume maior",
+      "editorial_note": "Responde que o fluxo de pagamentos será feito “num volume maior”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 167,
+        "figure": 166
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 167,
+        "figure": 166,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 167,
+          "figure": 166,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 167 · fig. 166",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00010",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Faz urgente",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 167,
+        "figure": 166
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 167,
+        "figure": 166,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 167,
+          "figure": 166,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 167 · fig. 166",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00011",
+      "date": "2025-07-24",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "ta trocando contrato barco?",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 171,
+        "figure": 170
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 171,
+        "figure": 170,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 171,
+          "figure": 170,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 171 · fig. 170",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00012",
+      "date": "2025-07-24",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Barci",
+      "editorial_note": "Corrige: “Barci”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 171,
+        "figure": 170
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 171,
+        "figure": 170,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 171,
+          "figure": 170,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 171 · fig. 170",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00013",
+      "date": "2025-07-24",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim_excerpt",
+      "content": "Guilherme na semana passada",
+      "editorial_note": "Diz que esteve com “Guilherme na semana passada” e que falou com “MArcos”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 171,
+        "figure": 170
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 171,
+        "figure": 170,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 171,
+          "figure": 170,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 171 · fig. 170",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00014",
+      "date": "2025-07-24",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim",
+      "content": "Eles queriam que a empresa que fosse dona do ativo fosse uma que os sócios estão muito visíveis e haveria risco reputacional grande",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 171,
+        "figure": 170
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 171,
+        "figure": 170,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 171,
+          "figure": 170,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 171 · fig. 170",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00015",
+      "date": "2025-07-24",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "leonardo-palhares",
+      "content_kind": "verbatim",
+      "content": "O Guilherme está conferindo com a chefe dele se vão adotar uma estrutura diferente para a propriedade dos ativos ou não",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 171,
+        "figure": 170
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 171,
+        "figure": 170,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 171,
+          "figure": 170,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 171 · fig. 170",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-05-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Palhares apresenta duas opções estruturais: entrega dos ativos com transferência imediata das cotas (com recompra por R$ 1,00 em caso de descumprimento) ou transferência apenas após o cumprimento do contrato, segundo o relatório.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 161,
+        "figure": 160
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 161,
+        "figure": 160,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 161 · fig. 160",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00002",
+      "date": "2025-05-19",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Os ativos referidos são uma cota do avião Legacy 650 (prefixo PP-NLR, da F24) e o helicóptero EC 155 B1 em aquisição pela F53, segundo o relatório.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 162,
+        "figure": 161
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 162,
+        "figure": 161,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 162 · fig. 161",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00003",
+      "date": "2025-05-20",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Palhares sugere alternativas para a transação dos ativos; Vorcaro recusa e pede que ele vá ao banco.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 164,
+        "figure": 163
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 164,
+        "figure": 163,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 164 · fig. 163",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "e-00004",
+      "date": "2025-07-16",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Palhares sugere formas de pagamento do fluxo do escritório.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 167,
+        "figure": 166
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 167,
+        "figure": 166,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 167 · fig. 166",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

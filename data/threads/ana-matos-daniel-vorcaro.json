@@ -1,0 +1,441 @@
+{
+  "id": "ana-matos-daniel-vorcaro",
+  "title": "Ana Matos",
+  "participants_ids": [
+    "daniel-vorcaro",
+    "ana-matos"
+  ],
+  "source": {
+    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 186–197, 208–209, 215–216",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+    "pages": "Cópia pública (reprodução jornalística) do documento oficial. Funcionária de Vorcaro (contato salvo como “Ana Matos Mkt”); organização dos Fóruns de Londres."
+  },
+  "messages": [
+    {
+      "id": "m-00001",
+      "date": "2025-04-11",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ana-matos",
+      "content_kind": "verbatim_excerpt",
+      "content": "estão aprovados por vc para irem pra Londres com despesas pagas por nós",
+      "editorial_note": "Questiona se os nomes de uma lista estão aprovados; Vorcaro não concorda com a lista, mas ressalva que “Pedro e ciro ok” teriam despesas pagas — em menção a Pedro Gonet e Ciro Soares, segundo o relatório.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 209,
+        "figure": 221
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 209,
+        "figure": 221,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 209,
+          "figure": 221,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00002",
+      "date": "2025-04-11",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "Pedro e ciro ok",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 209,
+        "figure": 221
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 209,
+        "figure": 221,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 209,
+          "figure": 221,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00003",
+      "date": "2025-07-10",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ana-matos",
+      "content_kind": "verbatim",
+      "content": "O Andrei PF precisa de um Convite formal para aceitar Londres",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 216,
+        "figure": 228
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 216,
+        "figure": 228,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 216,
+          "figure": 228,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00004",
+      "date": "2025-07-10",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ana-matos",
+      "content_kind": "verbatim_excerpt",
+      "content": "Grupo Voto pode mandar dele e demais?",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 216,
+        "figure": 228
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 216,
+        "figure": 228,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 216,
+          "figure": 228,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00005",
+      "date": "2025-07-10",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Pode",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 216,
+        "figure": 228
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 216,
+        "figure": 228,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 216,
+          "figure": 228,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00006",
+      "date": "2025-07-18",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "De jeito nenhum",
+      "editorial_note": "Sobre colocar Antonio Rueda como moderador de painel; na sequência complementa a frase abaixo.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 193,
+        "figure": 202
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 193,
+        "figure": 202,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 193,
+          "figure": 202,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00007",
+      "date": "2025-07-18",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Alexandre morre se vc fizer isso",
+      "editorial_note": null,
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 193,
+        "figure": 202
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 193,
+        "figure": 202,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 193,
+          "figure": 202,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00008",
+      "date": "2025-07-21",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim_excerpt",
+      "content": "reclamou MUITO do evento",
+      "editorial_note": "Diz que o ministro Alexandre de Moraes “reclamou MUITO do evento”.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 194,
+        "figure": 203
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 194,
+        "figure": 203,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 194,
+          "figure": 203,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 194 · fig. 203",
+      "added_in": "ingest-ipja-20261006"
+    },
+    {
+      "id": "m-00009",
+      "date": "2025-07-22",
+      "time": null,
+      "timestamp_precision": "date",
+      "sender_id": "ana-matos",
+      "content_kind": "verbatim_excerpt",
+      "content": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
+      "editorial_note": "Diz que passou o dia com “Vivi Moraes e o ministro” fechando o programa do evento.",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 195,
+        "figure": 204
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 195,
+        "figure": 204,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "sources": {
+        "primary": {
+          "type": "official_document",
+          "document_id": "pf-ipja-3298613-2026",
+          "authority": "Polícia Federal",
+          "court": "STF",
+          "case": "PET 16662",
+          "document": "IPJ-A nº 3298613/2026",
+          "page": 195,
+          "figure": 204,
+          "url": null
+        },
+        "secondary": []
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 195 · fig. 204",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-07-18",
+      "time": null,
+      "timestamp_precision": "date",
+      "content": "Ana Matos envia lista de painelistas e comenta sobre “Rueda” (Antonio Rueda), indicando não colocá-lo como moderador; Vorcaro responde com as mensagens ao lado.",
+      "event_kind": "editorial_context",
+      "source": {
+        "document_id": "pf-ipja-3298613-2026",
+        "page": 193,
+        "figure": 202
+      },
+      "verification": {
+        "level": "official_document",
+        "origin": "PF extraction",
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
+        "document": "IPJ-A nº 3298613/2026",
+        "page": 193,
+        "figure": 202,
+        "official_url": null,
+        "primary_document_located": true,
+        "verified_at": "2026-10-06"
+      },
+      "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
+      "added_in": "ingest-ipja-20261006"
+    }
+  ]
+}

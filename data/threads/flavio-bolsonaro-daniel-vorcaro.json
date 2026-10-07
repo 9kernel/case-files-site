@@ -130,7 +130,9 @@
       "editorial_note": null,
       "media": {
         "kind": "image",
-        "filename": "Imagem enviada em visualização única (conteúdo não divulgado pela reportagem)"
+        "filename": "Imagem enviada em visualização única (conteúdo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-flavio-bolsonaro-daniel-vorcaro-m-00004"
       },
       "verification": {
         "level": "public_investigation",
@@ -239,7 +241,9 @@
       "editorial_note": null,
       "media": {
         "kind": "video",
-        "filename": "IMG_5262 (vídeo encaminhado — arquivo não divulgado pela reportagem)"
+        "filename": "IMG_5262 (vídeo encaminhado — arquivo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-flavio-bolsonaro-daniel-vorcaro-m-00007"
       },
       "verification": {
         "level": "public_investigation",
@@ -275,10 +279,22 @@
       "sender_id": "flavio-bolsonaro",
       "content_kind": "audio_transcript",
       "content": "Irmão, preferi te mandar o áudio aqui para você ouvir com calma. […] eu fico sem graça de ficar te cobrando, tá? […] Imagina a gente dando calote num Jim Caviezel, num Cyrus [Nowrasteh]. […] tem muita conta para pagar esse mês. […] na reta final [não podemos perder] ator, diretor, equipe. […] Desculpa o áudio longo aí, tá? Um abração, fica com Deus, cara.",
-      "editorial_note": null,
+      "editorial_note": "Áudio publicado pelo Poder360 e pelo Terra; a PF negou publicamente ter sido a origem do vazamento (UOL, 21/07/2026). O arquivo não foi localizado nos autos públicos — ouça na origem; a transcrição parcial é da piauí.",
       "transcription_complete": false,
       "media": {
-        "filename": "Áudio de voz longo (transcrição parcial publicada pela reportagem)"
+        "id": "media-audio-flavio-20250908",
+        "status": "secondary_media",
+        "type": "audio",
+        "publisher": "Poder360",
+        "external_url": "https://www.poder360.com.br/poder-congresso/ouca-flavio-pedindo-dinheiro-a-vorcaro-para-filme-de-jair-bolsonaro/",
+        "local_file": null,
+        "sha256": null,
+        "duration_seconds": 97,
+        "official_media_located": false,
+        "media_representation": "publisher_reproduction",
+        "original_file": false,
+        "verified": false,
+        "note": "Player público do Poder360 (~1min37s); o Terra também publicou. Não localizado nos autos públicos; não re-hospedado."
       },
       "verification": {
         "level": "public_investigation",
@@ -304,7 +320,12 @@
         ]
       },
       "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
+      "added_in": "ingest-bm-piaui-20261006",
+      "transcription": {
+        "kind": "publisher_transcription",
+        "source": "Revista piauí",
+        "complete": false
+      }
     },
     {
       "id": "m-00009",
@@ -891,7 +912,9 @@
       "editorial_note": null,
       "media": {
         "kind": "image",
-        "filename": "Duas imagens enviadas em visualização única (conteúdo não divulgado pela reportagem)"
+        "filename": "Duas imagens enviadas em visualização única (conteúdo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-flavio-bolsonaro-daniel-vorcaro-m-00025"
       },
       "verification": {
         "level": "public_investigation",
@@ -930,7 +953,9 @@
       "editorial_note": null,
       "media": {
         "kind": "image",
-        "filename": "Foto enviada em resposta, em visualização única (conteúdo não divulgado pela reportagem)"
+        "filename": "Foto enviada em resposta, em visualização única (conteúdo não divulgado pela reportagem)",
+        "status": "media_reference_only",
+        "id": "media-flavio-bolsonaro-daniel-vorcaro-m-00026"
       },
       "verification": {
         "level": "public_investigation",

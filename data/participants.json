@@ -161,5 +161,209 @@
         "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
       }
     ]
+  },
+  {
+    "id": "fabio-faria",
+    "name": "Fábio Faria",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [
+      "FABIO FARIA"
+    ],
+    "summary": "Interlocutor registrado no dispositivo de Vorcaro como “Fábio Faria”. Segundo o IPJ-A, compartilhou com Vorcaro, em 26/12/2023, os contatos salvos como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone (não reproduzido no relatório). A identidade civil completa não é estabelecida no documento.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "viviane-de-moraes",
+    "name": "Viviane de Moraes",
+    "role": "Advogada (Escritório Barci de Moraes)",
+    "aliases": [
+      "Vivi Moraes",
+      "BARCI DE MORAES"
+    ],
+    "summary": "Contato salvo como “Vivi Moraes”. Segundo o IPJ-A, seu escritório de advocacia (Barci de Moraes Sociedade de Advocacia) firmou com o Banco Master contrato de prestação de serviços descrito no relatório como de R$ 3 milhões mensais, assinado em 23/01/2024; os metadados da minuta apontam última modificação pelo usuário “Ministro Alexandre de Moraes”.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ana-matos",
+    "name": "Ana Matos",
+    "role": "Funcionária de Vorcaro (eventos)",
+    "aliases": [
+      "Ana Matos Mkt"
+    ],
+    "summary": "Funcionária de Vorcaro, contato salvo como “Ana Matos Mkt”. Segundo o IPJ-A, tratou da organização dos Fóruns de Londres (2024 e 2025, o segundo cancelado), incluindo listas de convidados e passagens.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ciro-soares",
+    "name": "Ciro Soares",
+    "role": "Advogado",
+    "aliases": [
+      "Ciro"
+    ],
+    "summary": "Advogado, contato salvo como “Ciro Soares”. Segundo o IPJ-A, encaminhou a Vorcaro mensagens e áudios atribuídos a “Gonet” — contato direto entre Vorcaro e Paulo Gonet não está demonstrado no documento; as mensagens do PGR chegam sempre por encaminhamento de Ciro.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "leonardo-palhares",
+    "name": "Leonardo Palhares",
+    "role": "Advogado de Vorcaro",
+    "aliases": [
+      "Palhares"
+    ],
+    "summary": "Advogado de Vorcaro. Segundo o IPJ-A, elaborou revisões e o Termo de Acordo e Dação em Pagamento do segundo contrato do Escritório Barci de Moraes (Vikings Participações), com dação de cotas de aeronaves.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "angelo-silva",
+    "name": "Angelo Silva",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [],
+    "summary": "Contato salvo como “Angelo Silva”. Segundo o IPJ-A, enviou a Vorcaro o comprovante do primeiro pagamento do Banco Master ao Escritório Barci de Moraes (R$ 3.422.268,14) e tratou de pagamentos posteriores. O contrato do escritório foi assinado por um “Angelo Antonio Ribeiro da Silva” (fl. 34); a identificação entre os dois nomes não é afirmada pelo documento.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "marcos-da-mata",
+    "name": "Marcos da Mata",
+    "role": "Proprietário da Prime You",
+    "aliases": [
+      "Marcos Prime",
+      "Marcus Vinicius da Mata"
+    ],
+    "summary": "Contato salvo como “Marcos Prime”. Segundo o IPJ-A, a Prime You é dos proprietários Marcus Vinicius da Mata e Vorcaro; Marcos intermediou brochura de aeronaves enviada a Viviane de Moraes e tratou da mudança de empresa no contrato (da “Barci” para “Lux”).",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "romy-banco-master",
+    "name": "Romy",
+    "role": "Funcionária de Vorcaro",
+    "aliases": [
+      "Romy Banco Master"
+    ],
+    "summary": "Funcionária de Vorcaro, contato salvo como “Romy Banco Master”. Segundo o IPJ-A, executava os pagamentos ao Escritório Barci de Moraes determinados por Vorcaro.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "alberto-felix",
+    "name": "Alberto Felix",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [
+      "Alberto Félix"
+    ],
+    "summary": "Contato salvo como “Alberto Felix”. Segundo o IPJ-A, informou pagamentos ao Escritório Barci de Moraes e recebeu de Vorcaro a orientação de não pagar o escritório por PIX.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "marcio-conjur",
+    "name": "Marcio Conjur",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [],
+    "summary": "Contato salvo como “Marcio Conjur”, nome usado exatamente como registrado no aparelho. Segundo o IPJ-A, tratou do convite do ministro Alexandre de Moraes para o evento de Londres e do convite ao Diretor-Geral da PF. A identidade civil completa não é estabelecida no documento.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "luiz-renno",
+    "name": "Luiz Rennó",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [],
+    "summary": "Contato salvo como “Luiz Rennó”. Segundo o IPJ-A, recebeu de Vorcaro, em 19/04/2024, a informação de que organizava um “evento super exclusivo com alexandre de moraes em londres”.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "geraldo-brazil-journal",
+    "name": "Geraldo (Brazil Journal)",
+    "role": "Interlocutor no celular de Vorcaro",
+    "aliases": [
+      "GERALDO BRAZIL JOURNAL"
+    ],
+    "summary": "Contato salvo como “Geraldo Brazil Journal”. Segundo o IPJ-A, recebeu de Vorcaro, em 26/04/2024, o repasse de pedido atribuído ao ministro Alexandre de Moraes para incluir informação sobre encontro de ministros do STF com Tony Blair em matéria jornalística.",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "paulo-sergio",
+    "name": "Paulo Sergio",
+    "role": "Diretor do Banco Central (segundo o IPJ-A)",
+    "aliases": [],
+    "summary": "Identificado no IPJ-A como Diretor do Banco Central. Em 19/03/2025, Vorcaro escreveu-lhe que estava “com Moraes aqui”. Não confundir com o “Paulo” citado nas notas de Vorcaro, que o relatório associa a Paulo Gonet (PGR).",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
+  },
+  {
+    "id": "ana-claudia-financeiro",
+    "name": "Ana Claudia",
+    "role": "Interlocutora no celular de Vorcaro (financeiro)",
+    "aliases": [
+      "Ana Claudia Financeiro1"
+    ],
+    "summary": "Contato salvo como “Ana Claudia Financeiro1”. Segundo o IPJ-A, informou Vorcaro, em 24/07/2025, do pedido de pagamento da fatura do Escritório Barci de Moraes emitida à Viking (R$ 22.815.120,95).",
+    "profile_sources": [
+      {
+        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+      }
+    ]
   }
 ]
