@@ -1,30 +1,18 @@
 /* components.css — bolhas, badges, busca, timeline, diálogos, toasts */
 
-/* ============ Lista de conversas (home) ============ */
-.conv-list {
-  display: grid;
-  gap: 8px;
-}
-
-.conv-item {
+/* ============ ChatList (lista lateral) ============ */
+.chat-item {
   display: flex;
-  flex-direction: column;
-  gap: 3px;
-  padding: 10px 12px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius-sm);
-  background: var(--panel);
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  padding: 10px 14px;
+  border-bottom: 1px solid #F0F2F5;
+  text-align: left;
 }
 
-.conv-item:hover { border-color: var(--wa-teal-light); background: #fff; }
-
-.conv-title { font-size: 16.8px; font-weight: 600; color: var(--ink); }
-
-.conv-meta { font-size: 13.2px; color: var(--ink-muted); }
-
-.conv-note { font-size: 13.8px; color: var(--ink-2); line-height: 1.4; }
-
-.conv-empty { padding: 16px; text-align: center; color: var(--ink-muted); }
+.chat-item:hover { background: #F7F8FA; }
+.chat-item.active { background: var(--panel-alt); }
 
 .avatar {
   display: inline-flex;
@@ -39,6 +27,78 @@
   font-size: 20.4px;
   font-weight: 600;
   user-select: none;
+}
+
+.avatar.small { width: 38px; height: 38px; font-size: 16.8px; }
+
+.chat-item-main {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.chat-item-top,
+.chat-item-bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-width: 0;
+}
+
+.chat-item-title {
+  font-size: 17.4px;
+  font-weight: 500;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chat-item-preview {
+  font-size: 15.4px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chat-item-sub {
+  font-size: 15px;
+  color: var(--ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.chat-item-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+  flex: 0 0 auto;
+}
+
+.chat-item-date {
+  font-size: 13.8px;
+  color: var(--ink-3);
+}
+
+.badge-count {
+  font-size: 13.2px;
+  color: var(--ink-2);
+  background: #E1E7EA;
+  border-radius: 999px;
+  padding: 1px 8px;
+}
+
+.chatlist-empty {
+  padding: 28px 16px;
+  text-align: center;
+  color: var(--ink-muted);
+  font-size: 15.6px;
 }
 
 /* ============ ChatWindow ============ */
