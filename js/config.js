@@ -13,7 +13,8 @@ export const CONFIG = Object.freeze({
   // Quantidade de mensagens renderizadas por chunk (renderização progressiva).
   CHUNK_SIZE: 100,
   // Canal de correções exibido na página "Política de correções e fontes"
-  // (#/policy). PLACEHOLDER: não inventar e-mail — preencher quando o
-  // responsável definir o canal (ex.: 'correcoes@exemplo.org').
-  CORRECTIONS_CONTACT: null,
+  // (#/policy) — canal oficial do projeto para contestação e direitos do
+  // titular (LGPD art. 18). PENDÊNCIA OPERACIONAL: criar a caixa/redireção
+  // correcoes@zapdovorcaro.com no provedor de e-mail do domínio.
+  CORRECTIONS_CONTACT: 'correcoes@zapdovorcaro.com',
 });
