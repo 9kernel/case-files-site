@@ -10,8 +10,6 @@ export const CONFIG = Object.freeze({
   LAST_UPDATED: '2026-10-07',
   // Fonte principal do material publicado até agora.
   SOURCE_URL: 'https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/',
-  // URL do repositório (usada na home e no README).
-  REPO_URL: 'https://github.com/usuario/case-files-site',
   // Quantidade de mensagens renderizadas por chunk (renderização progressiva).
   CHUNK_SIZE: 100,
   // Canal de correções exibido na página "Política de correções e fontes"

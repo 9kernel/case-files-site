@@ -163,8 +163,8 @@ A fixture é **gitignored** (teste local). Busca < 200 ms e scroll fluido
 Tipografia ampliada (~20%) para leitura confortável em baixa visão.
 
 Placeholders a substituir antes de domínio público: `js/config.js`
-(`CASE_NAME`, `LAST_UPDATED`, `REPO_URL`, `CORRECTIONS_CONTACT`),
-`index.html` (title/og), `sitemap.xml`/`robots.txt` (domínio).
+(`CORRECTIONS_CONTACT`). Domínio oficial já aplicado em `index.html`
+(og:url/canonical), `sitemap.xml` e `robots.txt`: **https://zapdovorcaro.com/**.
 
 ## 10. Estrutura
 
