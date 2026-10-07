@@ -113,5 +113,24 @@
   "bytes": 28921170,
   "local_copy": null,
   "hash_note": null
+ },
+ {
+  "id": "pf-ipja-1252786-2026",
+  "title": "IPJ-A nº 1252786/2026 — Análise de conversa entre Vorcaro e Paulo Henrique (BRB)",
+  "authority": "Polícia Federal",
+  "unit": "NADIP/DFIN/CGRC/DICOR/PF",
+  "date": null,
+  "court": "STF",
+  "case": "Pet 16704 (pacote OneDrive)",
+  "reporting_judge": null,
+  "pages": 228,
+  "official_process_url": null,
+  "public_copy_url": null,
+  "copy_kind": null,
+  "copy_note": "Peça do pacote Pet 16704 obtido pelo editor do projeto em 2026-10-07; publicidade em verificação — sem cópia hospedada. Mensagens que a citam trazem página/figura verificadas contra este arquivo (SHA-256 registrado).",
+  "sha256": "470ec1662c458bf19c3af749bdb669a8c2807fbfb12ffb0be410166c8238eb3a",
+  "bytes": 28496484,
+  "local_copy": null,
+  "hash_note": null
  }
 ]

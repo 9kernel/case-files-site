@@ -222,9 +222,9 @@
    "daniel-vorcaro",
    "angelo-silva"
   ],
-  "message_count": 2,
+  "message_count": 5,
   "last_message_date": "2024-03-15",
-  "last_message_preview": "pagar antecipado e depois pegamos a NF",
+  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq outra vinculação.",
   "featured": false,
   "note": "Comprovantes e execução dos pagamentos ao Escritório Barci de Moraes.",
   "source": {
@@ -412,5 +412,17 @@
   "last_message_preview": "acho que tem que ser os dois",
   "featured": false,
   "note": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53)."
+ },
+ {
+  "id": "paulo-henrique-daniel-vorcaro",
+  "title": "Paulo Henrique (BRB)",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "paulo-henrique"
+  ],
+  "message_count": 15,
+  "last_message_preview": "Se mandarmos alguém para a Bahia no final de semana para ver com eles, não funci",
+  "featured": false,
+  "note": "Então presidente do BRB segundo o IPJ-A 1252786/2026. Tratativas de operações entre BRB e Banco Master: cessão de carteiras, FIP, XP. Citações literais com página/figura."
  }
 ]

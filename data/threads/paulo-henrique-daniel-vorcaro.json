@@ -1,0 +1,735 @@
+{
+ "id": "paulo-henrique-daniel-vorcaro",
+ "title": "Paulo Henrique (BRB)",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "paulo-henrique"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 1252786/2026 — Análise de conteúdo (conversa Vorcaro × Paulo Henrique/BRB) (pacote Pet 16704)",
+  "url": "",
+  "pages": "Conversa declarada nos 'trechos do bate-papo entre VORCARO e PAULO HENRIQUE' ao longo do relatório. Paulo Henrique Costa era o então presidente do BRB, segundo o próprio documento. Citações literais conforme a narrativa; datas apenas quando documentadas."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-07-04",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bom dia, Daniel. Quando enviar a lista de ativos, por favor, dê um sinal aqui. Abs",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 5,
+     "figure": 2,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-07-04",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bom dia tudo bem? Vou te mandar por aqui agora pra dar uma olhada. Ai depois envio o email formal. A taxa de curva já está atrativa, então fica a seu critério negociarmos em seguida um desagio, ou uma operação de swap garantindo uma outra taxa",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 5,
+     "figure": 2,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-09-18",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu também. Muito.",
+   "editorial_note": "Após chamada de voz de 1min03s; a mensagem seguinte («Só penso em comprarmos a XP.») é do dia seguinte, 19/09/2024, conforme o relatório.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 10,
+    "figure": 7
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 10,
+    "figure": 7,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 10,
+     "figure": 7,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 10 · fig. 7",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-09-19",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Só penso em comprarmos a XP.",
+   "editorial_note": "A camada de texto do PDF não fecha as aspas após esta frase; o corte foi feito na fronteira de sentença — o trecho seguinte é narrativa da PF.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 10,
+    "figure": 7
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 10,
+    "figure": 7,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 10,
+     "figure": 7,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 10 · fig. 7",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-10-31",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amigo, estamos juntos agora",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 227,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 227,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 227,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 227",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-10-31",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos enfrentar muita coisa ainda em conjunto",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 227,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 227,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 227,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 227",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-10-31",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos juntos mesmo para a vida",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 227,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 227,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 227,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 227",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-11-12",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim",
+   "editorial_note": "Resposta de Vorcaro após o envio de reportagem sobre devolução de carteiras de crédito consignado pelo BRB e imagem de visualização única (fl. 77).",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 77,
+    "figure": 78
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 77,
+    "figure": 78,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 77,
+     "figure": 78,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 77 · fig. 78",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00009",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fechado",
+   "editorial_note": "Resposta de Paulo Henrique à apresentação de Vorcaro; na sequência encaminha e-mail institucional com modelo de ofício do BRB (fl. 5).",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 5,
+     "figure": 2,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00010",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou usar esse fip especifico para isso, embaixo de um fim nosso",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 6,
+    "figure": 3
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 6,
+    "figure": 3,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 6,
+     "figure": 3,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 6 · fig. 3",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00011",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ótimo. É um veículo excelente. Já estamos analisando as carteiras de CRI e CCB. A equipe também vai abrir discussão sobre aquisição de carteiras de consignado e cartão consignado benefícios. Vc prefere indicar alguém ou seguimos com os canais que já temos abertos?",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 6,
+    "figure": 3
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 6,
+    "figure": 3,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 6,
+     "figure": 3,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 6 · fig. 3",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00012",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sobre aquisição carteira e consignado vou te passar uma pessoa pra tratar no banco",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 7,
+    "figure": 4
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 7,
+    "figure": 4,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 7,
+     "figure": 4,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7 · fig. 4",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00013",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bom demais. Estou animado",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 10,
+    "figure": 7
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 10,
+    "figure": 7,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 10,
+     "figure": 7,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 10 · fig. 7",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00014",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "precisaria dar menos explicação",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 13,
+    "figure": 10
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 13,
+    "figure": 10,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 13,
+     "figure": 10,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 13 · fig. 10",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00015",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se mandarmos alguém para a Bahia no final de semana para ver com eles, não funciona?",
+   "editorial_note": "Citação literal conforme transcrita na narrativa do IPJ-A.",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 36,
+    "figure": 32
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 36,
+    "figure": 32,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 36,
+     "figure": 32,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 36 · fig. 32",
+   "added_in": "ingest-pf2-20261007"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "Paulo Henrique encaminha e-mail institucional e modelo de ofício de compromisso de investimento em ações do BRB, após a apresentação inicial de Vorcaro (fl. 5, fig. 2).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Vorcaro encaminha o contato de Alberto Felix para tratar aquisição de carteira e consignado no banco — ver conversa com Alberto Felix neste arquivo (fl. 7, fig. 4).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 7,
+    "figure": 4
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 7,
+    "figure": 4,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7 · fig. 4",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "e-00003",
+   "date": "2024-07-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Paulo Henrique comunica a Vorcaro que o NPL fora fechado naquele dia (fl. 7).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 7,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 7,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7",
+   "added_in": "ingest-pf2-20261007"
+  }
+ ]
+}
