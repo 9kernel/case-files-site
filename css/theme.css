@@ -5,8 +5,11 @@
   --wa-teal-dark: #054D44;
   --wa-teal-light: #128C7E;
   --wa-teal-lighter: #25D366;
-  --wa-chat-bg: #ECE5DD;
-  --wa-bubble-out: #DCF8C6;
+  /* Verde de ação do WhatsApp atual — superfícies (botão enviar, míc.);
+     NÃO usar em texto: #00A884 reprova contraste AA sobre branco */
+  --wa-green: #00A884;
+  --wa-chat-bg: #EFEAE2;
+  --wa-bubble-out: #D9FDD3;
   --wa-bubble-in: #FFFFFF;
 
   /* Token pedido pela especificação (uso decorativo: bordas, acentos) */

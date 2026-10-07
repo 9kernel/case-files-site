@@ -208,7 +208,7 @@
 }
 
 .btn-primary {
-  background: var(--wa-teal-light);
+  background: var(--wa-green);
   color: #fff;
 }
 
@@ -779,7 +779,7 @@ a.doc-card:hover { background: #fff; }
 }
 
 .chat-inputbar .input-mic {
-  background: var(--wa-teal-light);
+  background: var(--wa-green);
   color: #fff;
   border-radius: 50%;
 }
