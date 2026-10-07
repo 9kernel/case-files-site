@@ -14,7 +14,9 @@ export const CONFIG = Object.freeze({
   CHUNK_SIZE: 100,
   // Canal de correções exibido na página "Política de correções e fontes"
   // (#/policy) — canal oficial do projeto para contestação e direitos do
-  // titular (LGPD art. 18). PENDÊNCIA OPERACIONAL: criar a caixa/redireção
-  // correcoes@zapdovorcaro.com no provedor de e-mail do domínio.
-  CORRECTIONS_CONTACT: 'correcoes@zapdovorcaro.com',
+  // titular (LGPD art. 18). Mantido null até a caixa/redireção existir de
+  // fato (correcoes@zapdovorcaro.com no provedor do domínio): publicar um
+  // canal que não recebe e-mail é agravante, não mitigação. Quando criar a
+  // caixa, basta preencher aqui e publicar.
+  CORRECTIONS_CONTACT: null,
 });

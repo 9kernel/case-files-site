@@ -78,10 +78,11 @@ export function renderPolicy(container) {
               documental (telefones, CPF, contas) nunca são publicados, mesmo quando
               constem dos originais; pessoas não investigadas citadas na narrativa
               aparecem apenas por iniciais.</li>
-          <li><strong>Direitos do titular:</strong> qualquer pessoa citada pode solicitar,
-              pelo canal abaixo, <strong>acesso, correção, anonimização ou exclusão</strong>
-              de dados pessoais que não sejam essenciais ao registro documental de fatos
-              públicos. Resposta em até <strong>15 dias</strong>.</li>
+          <li><strong>Direitos do titular:</strong> qualquer pessoa citada pode solicitar
+              <strong>acesso, correção, anonimização ou exclusão</strong> de dados pessoais
+              que não sejam essenciais ao registro documental de fatos públicos, pelo canal
+              oficial do projeto (divulgado abaixo assim que implantado). Resposta em até
+              <strong>15 dias</strong> contados do recebimento.</li>
           <li>O PDF hospedado em <code>public/docs/</code> (cópia pública de peça oficial)
               está coberto por esta mesma política.</li>
         </ul>
