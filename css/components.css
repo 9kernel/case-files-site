@@ -336,7 +336,7 @@
   max-width: 100%;
   background: var(--wa-bubble-in);
   border-radius: var(--radius);
-  padding: 6px 9px 24px;
+  padding: 6px 9px 8px;
   box-shadow: var(--shadow-bubble);
   font-size: 17px;
   line-height: 1.38;
@@ -377,9 +377,8 @@
 .msg-text { white-space: normal; }
 
 .bubble-meta {
-  position: absolute;
-  right: 8px;
-  bottom: 4px;
+  float: right;
+  margin: 8px -2px -4px 10px;
   display: inline-flex;
   align-items: center;
   gap: 3px;
