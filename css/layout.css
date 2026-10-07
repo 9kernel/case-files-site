@@ -83,18 +83,23 @@ body {
   border-bottom: 1px solid #E9EDEF;
 }
 
+/* busca em pílula cinza com lupa, como no WhatsApp Web */
 .sidebar-head input {
   width: 100%;
-  border: 1px solid var(--line);
-  border-radius: 8px;
-  padding: 7px 12px;
+  border: 1px solid transparent;
+  border-radius: 999px;
+  padding: 8px 14px 8px 40px;
   font-size: 16.2px;
-  background: var(--panel-alt);
+  background: var(--panel-alt) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2354656F' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cpath d='M20 20l-3.5-3.5'/%3E%3C/svg%3E") no-repeat 13px center / 17px 17px;
+  color: var(--ink);
 }
+
+.sidebar-head input::placeholder { color: var(--ink-muted); }
 
 .sidebar-head input:focus {
   outline: none;
-  border-color: var(--wa-teal-light);
+  background-color: #fff;
+  border-color: var(--wa-green);
 }
 
 .chatlist {

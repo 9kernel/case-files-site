@@ -2,17 +2,39 @@
 
 /* ============ ChatList (lista lateral) ============ */
 .chat-item {
+  position: relative;
   display: flex;
   align-items: center;
   gap: 12px;
   width: 100%;
-  padding: 10px 14px;
-  border-bottom: 1px solid #F0F2F5;
+  padding: 9px 12px;
   text-align: left;
 }
 
+/* separador começa depois do avatar, como no WhatsApp */
+.chat-item::after {
+  content: "";
+  position: absolute;
+  left: 73px; /* 12 padding + 49 avatar + 12 gap */
+  right: 0;
+  bottom: 0;
+  height: 1px;
+  background: #F0F2F5;
+}
+
 .chat-item:hover { background: #F7F8FA; }
+
+/* item ativo: fundo claro + barrinha verde vertical (WhatsApp Web atual) */
 .chat-item.active { background: var(--panel-alt); }
+.chat-item.active::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: var(--wa-green);
+}
 
 .avatar {
   position: relative;
@@ -20,13 +42,13 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 46px;
-  height: 46px;
+  width: 49px;
+  height: 49px;
   flex: 0 0 auto;
   border-radius: 50%;
   background: var(--av-color, #6A7D8A);
   color: #fff;
-  font-size: 20.4px;
+  font-size: 21px;
   font-weight: 600;
   user-select: none;
 }
@@ -148,6 +170,20 @@
   text-overflow: ellipsis;
 }
 
+/* no celular, o cabeçalho do chat continua a barra teal do app —
+   lê-se como uma barra só com a da marca (padrão WhatsApp mobile) */
+@media (max-width: 767px) {
+  .chat-header {
+    background: var(--wa-teal);
+    border-bottom: 0;
+  }
+
+  .chat-title h2 { color: #fff; }
+  .chat-title p { color: rgba(255, 255, 255, 0.82); }
+  .chat-header .icon-btn { color: rgba(255, 255, 255, 0.85); }
+  .chat-header .icon-btn:disabled { opacity: 0.5; }
+}
+
 /* barra de filtros (recolhível) */
 .filter-bar {
   flex: 0 0 auto;
@@ -242,7 +278,7 @@
   padding: 14px 0 20px;
   background-color: var(--wa-chat-bg);
   /* padrão de "doodles" sutil, como no WhatsApp */
-  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='260' height='260' viewBox='0 0 260 260'%3E%3Cg fill='none' stroke='%233b4a54' stroke-opacity='.05' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='42' cy='42' r='10'/%3E%3Cpath d='M126 26c4-9 17-7 17 2 0 7-9 11-17 18-8-7-17-11-17-18 0-9 13-11 17-2z'/%3E%3Cpath d='M206 44l6 13 14 2-10 10 2 14-12-7-13 7 3-14-10-10 14-2z'/%3E%3Crect x='30' y='150' width='22' height='22' rx='5'/%3E%3Cpath d='M112 158h32M112 168h22'/%3E%3Ccircle cx='212' cy='162' r='13'/%3E%3Cpath d='M38 222c9-11 25-11 34 0'/%3E%3Cpath d='M152 212l12 12m0-12l-12 12'/%3E%3Ccircle cx='236' cy='226' r='7'/%3E%3Cpath d='M70 96c6-4 12-4 18 0'/%3E%3C/g%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220' viewBox='0 0 220 220'%3E%3Cg fill='none' stroke='%233b4a54' stroke-opacity='.07' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='36' cy='36' r='9'/%3E%3Cpath d='M104 22c3.4-7.6 14.4-6 14.4 1.7 0 6-7.6 9.3-14.4 15.2-6.8-6-14.4-9.3-14.4-15.2 0-7.6 11-9.3 14.4-1.7z'/%3E%3Cpath d='M172 36l5 11 11 1.7-8 8 1.9 11-10-5.4-10 5.4 2-11-8-8 11-1.7z'/%3E%3Crect x='24' y='126' width='19' height='19' rx='4'/%3E%3Cpath d='M92 134h27M92 142h19'/%3E%3Ccircle cx='178' cy='137' r='11'/%3E%3Cpath d='M32 188c7.6-9.3 21-9.3 28.6 0'/%3E%3Cpath d='M128 180l10 10m0-10l-10 10'/%3E%3Ccircle cx='198' cy='190' r='6'/%3E%3Cpath d='M58 80c5-3.4 10-3.4 15 0'/%3E%3C/g%3E%3C/svg%3E");
   scrollbar-width: thin;
   scrollbar-color: rgba(11, 20, 26, 0.22) transparent;
 }
@@ -284,14 +320,12 @@
 }
 
 .date-sep span {
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.92);
   color: var(--ink-3);
-  font-size: 13.8px;
-  text-transform: uppercase;
+  font-size: 12.6px;
   letter-spacing: 0.02em;
-  padding: 6px 12px;
-  border-radius: var(--radius-sm);
-  box-shadow: var(--shadow-bubble);
+  padding: 6px 10px;
+  border-radius: var(--radius);
 }
 
 .sys-row {
@@ -316,8 +350,13 @@
 
 .msg-row {
   display: flex;
-  padding: 2px 14px;
+  padding: 1px 14px;
 }
+
+/* bloco de mensagens consecutivas do mesmo remetente (g-first/g-last):
+   2px dentro do bloco, ~8px entre blocos */
+.msg-row.g-first { padding-top: 5px; }
+.msg-row.g-last { padding-bottom: 3px; }
 
 .msg-row.out { justify-content: flex-end; }
 
@@ -346,6 +385,15 @@
 }
 
 .msg-row.out .bubble { background: var(--wa-bubble-out); }
+
+/* empilhamento: rabinho apenas na primeira do bloco */
+.msg-row:not(.g-first) .bubble::before { display: none; }
+
+/* cantos internos do bloco menos arredondados, como no WhatsApp */
+.msg-row.in:not(.g-first) .bubble { border-top-left-radius: 3px; }
+.msg-row.in:not(.g-last) .bubble { border-bottom-left-radius: 3px; }
+.msg-row.out:not(.g-first) .bubble { border-top-right-radius: 3px; }
+.msg-row.out:not(.g-last) .bubble { border-bottom-right-radius: 3px; }
 
 /* rabinho da bolha */
 .bubble::before {
@@ -785,13 +833,21 @@ a.doc-card:hover { background: #fff; }
 }
 .chat-inputbar .input-mic:disabled { opacity: 0.85; }
 
+/* pílula branca da digitação: emoji e clipe dentro, mic verde fora (WA atual) */
+.chat-input-pill {
+  flex: 1;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--panel);
+  border-radius: 999px;
+  padding: 4px 8px;
+}
+
 .chat-input-fake {
   flex: 1;
   min-width: 0;
-  background: var(--panel);
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 9px 16px;
   font-size: 15.6px;
   color: var(--ink-muted);
   white-space: nowrap;
@@ -1125,8 +1181,13 @@ a.doc-card:hover { background: #fff; }
   box-shadow: 0 0 0 3px rgba(18, 140, 126, 0.35);
 }
 
-/* avatar no header da conversa */
-.chat-header .avatar { flex: 0 0 auto; }
+/* avatar no header da conversa (40px, como no WhatsApp Web) */
+.chat-header .avatar {
+  flex: 0 0 auto;
+  width: 40px;
+  height: 40px;
+  font-size: 17.6px;
+}
 
 /* ============ Diálogo de fonte ============ */
 .source-dialog {
