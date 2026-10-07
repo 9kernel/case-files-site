@@ -2,7 +2,7 @@
 """Etapa 1 do pipeline: inventário incremental.
 
 Idempotente: reexecutar só reprocessa arquivo novo ou cujo sha256 mudou.
-Gera data/audit/pf-inventory.json (resumo público, sem conteúdo) e
+Gera data/audit/pf-inventory.json (índice interno — gitignored, NUNCA publicado:
 data/audit/import-state.json (checkpoint exigido pela missão, §4).
 """
 
