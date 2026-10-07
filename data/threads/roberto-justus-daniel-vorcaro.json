@@ -8,7 +8,7 @@
   "source": {
     "document": "Terra / Poder360 — “Mensagens extraídas do celular de Vorcaro mostram cobranças de Roberto Justus por aporte” (02/10/2026)",
     "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html",
-    "pages": "Reportagem da Terra com base no Poder360, sobre extração da PF de 18/11/2025. Trata da relação de Vorcaro com a SteelCorp (aportes de ~R$ 80 milhões e R$ 143 milhões em notas comerciais). Horários não divulgados; usamos 12:00 como aproximação. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+    "pages": "Reportagem da Terra com base no Poder360, sobre extração da PF de 18/11/2025. Trata da relação de Vorcaro com a SteelCorp (aportes de ~R$ 80 milhões e R$ 143 milhões em notas comerciais). Horários não divulgados pela reportagem: exibimos “horário não divulgado”. Notas editoriais aparecem fora das bolhas; “…” indica corte na citação."
   },
   "messages": [
     {
@@ -157,9 +157,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "content_kind": "verbatim",
-      "content": "[Ameaçando pedir recuperação judicial da SteelCorp se a dívida seguisse no balanço:] Vale a pena? Poxa….",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "Vale a pena? Poxa….",
+      "editorial_note": "Segundo a reportagem, a mensagem ameaçava pedir recuperação judicial da SteelCorp se a dívida seguisse no balanço.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",
@@ -192,9 +192,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "…falta de empatia de sua parte absurda… [diz ter cumprido] a duras penas tudo que combinamos dos aportes…",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "…falta de empatia de sua parte absurda… a duras penas tudo que combinamos dos aportes…",
+      "editorial_note": "Segundo a reportagem, Vorcaro disse ter cumprido, a duras penas, tudo que foi combinado dos aportes.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",
@@ -262,9 +262,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "roberto-justus",
-      "content_kind": "verbatim",
-      "content": "[A empresa estaria] incapaz de honrar compromissos financeiros",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "incapaz de honrar compromissos financeiros",
+      "editorial_note": "Segundo a reportagem, escreveu que a empresa estaria incapaz de honrar compromissos financeiros.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",

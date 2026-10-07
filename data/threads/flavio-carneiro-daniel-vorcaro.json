@@ -8,7 +8,7 @@
   "source": {
     "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
     "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
-    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; quando não divulgados, exibimos “horário não divulgado”. Notas editoriais e contexto da reportagem aparecem fora das bolhas de mensagem; “…” indica corte na citação."
   },
   "messages": [
     {
@@ -122,9 +122,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "[Thiago Miranda insistia em juntá-lo com] o meu xará e o pai",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "o meu xará e o pai",
+      "editorial_note": "Segundo a reportagem, no contexto, Thiago Miranda insistia em juntá-lo com o seu xará e o pai deste.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",
@@ -262,9 +262,9 @@
       "time": "20:00",
       "timestamp_precision": "minute",
       "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "[Respondeu estar] morrendo de medo",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "morrendo de medo",
+      "editorial_note": "Segundo a reportagem, respondeu estar morrendo de medo.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",
@@ -297,9 +297,9 @@
       "time": "20:00",
       "timestamp_precision": "minute",
       "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "[Comentou ter] receio do xará",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "receio do xará",
+      "editorial_note": "Segundo a reportagem, comentou ter receio do xará.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",
@@ -332,9 +332,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "[Perguntou se a entrevista do presidente à Leo Dias TV havia sido] boa pro bolso",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "boa pro bolso",
+      "editorial_note": "Segundo a reportagem, perguntou se a entrevista do presidente à Leo Dias TV havia sido boa pro bolso.",
       "verification": {
         "level": "secondary_source",
         "origin": "PF extraction",

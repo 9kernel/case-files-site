@@ -8,7 +8,7 @@
   "source": {
     "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
     "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
-    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; quando não divulgados, exibimos “horário não divulgado”. Notas editoriais e contexto da reportagem aparecem fora das bolhas de mensagem; “…” indica corte na citação."
   },
   "messages": [
     {
@@ -347,9 +347,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "[Pedindo desculpas:] semana passada foi muito dificil pra mim",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "semana passada foi muito dificil pra mim",
+      "editorial_note": "Segundo a reportagem, a mensagem foi enviada em tom de pedido de desculpas.",
       "verification": {
         "level": "public_investigation",
         "origin": "PF extraction",
@@ -600,9 +600,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "flavio-bolsonaro",
-      "content_kind": "verbatim",
-      "content": "[Convite para jantar com o ator Jim Caviezel e o diretor Cyrus Nowrasteh,] totalmente reservado",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "totalmente reservado",
+      "editorial_note": "Segundo a reportagem, tratava-se de um convite para jantar com o ator Jim Caviezel e o diretor Cyrus Nowrasteh.",
       "verification": {
         "level": "public_investigation",
         "origin": "PF extraction",

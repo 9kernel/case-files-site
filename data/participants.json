@@ -20,6 +20,16 @@
         "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
         "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
       }
+    ],
+    "profile_verification": [
+      {
+        "claim": "Preso em flagante em 18/11/2025, na Operação Compliance Zero",
+        "source": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro (04/03/2026), linkado em profile_sources"
+      },
+      {
+        "claim": "O Banco Central decretou a liquidação extrajudicial do grupo no mesmo dia da primeira prisão",
+        "source": "g1 (04/03/2026), linkado em profile_sources"
+      }
     ]
   },
   {
@@ -38,6 +48,16 @@
       {
         "label": "Rádio Guaíba / R7 — PF revela pedidos de Vorcaro a Moraes (01/09/2026)",
         "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+      }
+    ],
+    "profile_verification": [
+      {
+        "claim": "Ministro do STF desde 2017",
+        "source": "Wikipédia — Alexandre de Moraes, linkado em profile_sources"
+      },
+      {
+        "claim": "O contato estava salvo como “Alexandre de Moraes BRASILIA” no celular de Vorcaro",
+        "source": "Rádio Guaíba / R7 (01/09/2026), linkado em profile_sources"
       }
     ]
   },

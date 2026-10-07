@@ -8,7 +8,7 @@
   "source": {
     "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
     "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
-    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; onde não indicados, usamos 12:00. Texto entre [colchetes] é conectivo editorial e “…” indica corte na citação."
+    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; quando não divulgados, exibimos “horário não divulgado”. Notas editoriais e contexto da reportagem aparecem fora das bolhas de mensagem; “…” indica corte na citação."
   },
   "messages": [
     {
@@ -487,9 +487,9 @@
       "time": null,
       "timestamp_precision": "date",
       "sender_id": "mario-frias",
-      "content_kind": "verbatim",
-      "content": "[Dizendo que aquele era um filme de] justiça divina… 2026 é do Brasil",
-      "editorial_note": null,
+      "content_kind": "verbatim_excerpt",
+      "content": "justiça divina… 2026 é do Brasil",
+      "editorial_note": "Segundo a reportagem, dizia que aquele era um filme de justiça divina.",
       "verification": {
         "level": "public_investigation",
         "origin": "PF extraction",
@@ -523,7 +523,7 @@
       "date": "2024-12-11",
       "time": "17:59",
       "timestamp_precision": "minute",
-      "content": "[A partir das 17h59, o deputado fez seis chamadas não atendidas ao banqueiro, segundo a reportagem]",
+      "content": "A partir das 17h59, o deputado fez seis chamadas não atendidas ao banqueiro, segundo a reportagem.",
       "event_kind": "editorial_context",
       "verification": {
         "level": "secondary_source",
