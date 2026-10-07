@@ -90,7 +90,8 @@ function renderRange(from, to, initialLastDay = null) {
     const item = filtered[i];
     const dk = dayKey(item);
     if (dk !== last) {
-      html += dateSepHtml(dk);
+      // registro sem data documentada: sem separador (nada é inferido)
+      if (dk) html += dateSepHtml(dk);
       last = dk;
     }
     html += renderMessage(item, ctx);

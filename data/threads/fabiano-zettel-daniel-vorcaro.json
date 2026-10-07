@@ -1,0 +1,340 @@
+{
+ "id": "fabiano-zettel-daniel-vorcaro",
+ "title": "Fabiano Zettel",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "fabiano-zettel"
+ ],
+ "source": {
+  "document": "PF · Representação PF (PET 15.499/STF) e IPJ-A nº 1020625/2026 (conversas declaradas no texto e nas legendas)",
+  "url": "",
+  "pages": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53)."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-06-05",
+   "timestamp_precision": "date",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Angra resolvido. Ao vivo te conto detalhes",
+   "editorial_note": "Contexto do relatório: POLÍCIA FEDERAL COORDENAÇÃO DE INQUÉRITOS NOS TRIBUNAIS SUPERIORES - CINQ/CGRC/DICOR/PF Cumpre registrar que, em conversa entre FABIANO ZETTEL e DANIEL VORCARO no dia 05/06/2024, FABIANO ZETTEL afirma que “Angra resolvido. Ao vivo te conto detalhes”. Em seguida, DANIEL VORCARO pergunta “vc foi? 100% resolvido? Os dois ",
+   "source": {
+    "document_id": "pf-repr-pet15-499",
+    "page": 46,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 15.499/STF",
+    "document": "Representação PF (PET 15.499/STF)",
+    "page": 46,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-repr-pet15-499",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 15.499/STF",
+     "document": "Representação PF (PET 15.499/STF)",
+     "page": 46,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · Representação PF (PET 15.499/STF) · fl. 46",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-06-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "vc foi? 100% resolvido? Os dois caras?",
+   "editorial_note": "Contexto do relatório: OS TRIBUNAIS SUPERIORES - CINQ/CGRC/DICOR/PF Cumpre registrar que, em conversa entre FABIANO ZETTEL e DANIEL VORCARO no dia 05/06/2024, FABIANO ZETTEL afirma que “Angra resolvido. Ao vivo te conto detalhes”. Em seguida, DANIEL VORCARO pergunta “vc foi? 100% resolvido? Os dois caras?”, ao que FABIANO ZETTEL responde “10",
+   "source": {
+    "document_id": "pf-repr-pet15-499",
+    "page": 46,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 15.499/STF",
+    "document": "Representação PF (PET 15.499/STF)",
+    "page": 46,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-repr-pet15-499",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 15.499/STF",
+     "document": "Representação PF (PET 15.499/STF)",
+     "page": 46,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · Representação PF (PET 15.499/STF) · fl. 46",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-06-05",
+   "timestamp_precision": "date",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "100% resolvido",
+   "editorial_note": "Contexto do relatório: versa entre FABIANO ZETTEL e DANIEL VORCARO no dia 05/06/2024, FABIANO ZETTEL afirma que “Angra resolvido. Ao vivo te conto detalhes”. Em seguida, DANIEL VORCARO pergunta “vc foi? 100% resolvido? Os dois caras?”, ao que FABIANO ZETTEL responde “100% resolvido” e, especificamente em relação à mensagem “os dois caras?”, ",
+   "source": {
+    "document_id": "pf-repr-pet15-499",
+    "page": 46,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 15.499/STF",
+    "document": "Representação PF (PET 15.499/STF)",
+    "page": 46,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-repr-pet15-499",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 15.499/STF",
+     "document": "Representação PF (PET 15.499/STF)",
+     "page": 46,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · Representação PF (PET 15.499/STF) · fl. 46",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00004",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem tudo. Já levantou tudo.",
+   "editorial_note": "Contexto do relatório: e no ex capitão do barco de VORCARO. Na conversa entre DANIEL BUENO VORCARO e FABIANO ZETTEL, em resposta à mensagem enviada por aquele, este afirma: “Que FDP!. Sicário tem os nomes e onde achar?” (grifo nosso), ao que DANIEL BUENO VORCARO responde: “Tem tudo. Já levantou tudo.” Em seguida, FABIANO ZETTEL sinaliza posi",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 49,
+    "figure": 57
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 49,
+    "figure": 57,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 49,
+     "figure": 57,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 49 · fig. 57",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00005",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "mas nao da pra deixar ele solo. Vc tem que ir pra contemporizar",
+   "editorial_note": "Contexto do relatório: or aquele, este afirma: “Que FDP!. Sicário tem os nomes e onde achar?” (grifo nosso), ao que DANIEL BUENO VORCARO responde: “Tem tudo. Já levantou tudo.” Em seguida, FABIANO ZETTEL sinaliza positivamente, momento em que DANIEL BUENO VORCARO complementa: “mas nao da pra deixar ele solo. Vc tem que ir pra contemporizar”.",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 49,
+    "figure": 57
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 49,
+    "figure": 57,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 49,
+     "figure": 57,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 49 · fig. 57",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00006",
+   "date": null,
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Que FDP!. Sicário tem os nomes e onde achar?",
+   "editorial_note": "Contexto do relatório: O, FABIANO ZETTEL e FELIPE MOURAO onde eles combinam para colocar uma “pressão” no ex chefe de cozinha e no ex capitão do barco de VORCARO. Na conversa entre DANIEL BUENO VORCARO e FABIANO ZETTEL, em resposta à mensagem enviada por aquele, este afirma: “Que FDP!. Sicário tem os nomes e onde achar?” (grifo nosso), ao qu",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 49,
+    "figure": 57
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 49,
+    "figure": 57,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 49,
+     "figure": 57,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 49 · fig. 57",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00007",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "acho que tem que ser os dois",
+   "editorial_note": "Contexto do relatório: RCARO. Em outro trecho da conversa, FELIPE MOURAO afirma que irá com FABIANO ZETTEL e comenta que “vai ser PF mesmo”. Em seguida, acrescenta: “se vc quiser vou com o pessoal do rio eles tbm é so chamar que vao na hora”. DANIEL BUENO VORCARO responde: “acho que tem que ser os dois” e complementa: “O bom de dar sacode no",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 50,
+    "figure": 58
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 50,
+    "figure": 58,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 50,
+     "figure": 58,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 50 · fig. 58",
+   "added_in": "ingest-pf-20261007"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "A PF descreve combinação de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro envolvendo Vorcaro, Zettel e Mourão (fls. 48-50, figs. 56-58).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 49,
+    "figure": 57
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 49,
+    "figure": 57,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 49 · fig. 57",
+   "added_in": "ingest-pf-20261007"
+  }
+ ]
+}

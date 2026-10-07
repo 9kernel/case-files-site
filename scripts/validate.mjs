@@ -521,6 +521,16 @@ export function validateData(dataDir, rootDir) {
 
 function checkTemporal(m, where, err) {
   const precision = m.timestamp_precision;
+  // timestamp integralmente não divulgado: data/hora/precisão todas null
+  // ("na dúvida, null" — § horários nunca são estimados). Exige coerência:
+  // qualquer campo presente ativa a checagem completa.
+  if (precision == null && m.date == null && m.time == null) {
+    if ('timestamp_precision' in m || 'time' in m) {
+      err('E_BAD_PRECISION', where, 'timestamp sem data divulgada deve omitir precision/time (todos null).');
+      return false;
+    }
+    return true;
+  }
   if (precision == null || !ALLOWED_PRECISIONS.has(precision)) {
     err('E_BAD_PRECISION', where, `timestamp_precision "${precision}" inválida (use ${[...ALLOWED_PRECISIONS].join(', ')}).`);
     return false;

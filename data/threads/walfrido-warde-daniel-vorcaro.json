@@ -1,0 +1,731 @@
+{
+ "id": "walfrido-warde-daniel-vorcaro",
+ "title": "Walfrido Warde",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "walfrido-warde"
+ ],
+ "source": {
+  "document": "PF · IPJ-A nº 1020625/2026, fls. 103-119 (conversa declarada nas legendas das figuras)",
+  "url": "",
+  "pages": "Advogado de Vorcaro, segundo o relatório. A conversa retomada no dia 17/11/2025 — data da prisão — acompanha a protocolização da petição e o encaminhamento de reportagens, conforme a análise da PF."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-11-17",
+   "time": "09:42",
+   "timestamp_precision": "minute",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "me liga",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 109,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 109,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 109,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 109",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bom dia",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 106,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 106,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 106,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 106",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Me liga",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 106,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 106,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 106,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 106",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Qual Hangar?",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 108,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 108,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 108,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 108",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "mudou algo",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 108,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 108,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 108,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 108",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Será que decola??",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 109,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 109,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 109,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 109",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "estão protocolando",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 115,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 115,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 115,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 115",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "já estão se falando",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 115,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 115,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 115,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 115",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "tudo em curso",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 115,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 115,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 115,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 115",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "me liga",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 118,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 118,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 118,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 118",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mandamos pro juiz também",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 119,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 119,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 119,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 119",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos infernizando o cara",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 119,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 119,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 119,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 119",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Voar 1",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 108,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 108,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 108,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 108",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00014",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Saindo de Congonhas 11:30 fica tarde?",
+   "editorial_note": "Contexto do relatório: em êxito, enviando a mensagem “Me liga”. VORCARO então retorna a ligação, conversando com o advogado por 2min43s. Pouco mais de dez minutos depois, é VORCARO quem tenta novo contato, mas WARDE não atende. Nesse momento, VORCARO questiona: “Saindo de Congonhas 11:30 fica tarde?” e, na sequência, solicita: “Me chama aqui",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 107,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 107,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 107,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 107",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00015",
+   "date": null,
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ou marcamos amanha",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 107,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 107,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 107,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 107",
+   "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00016",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao marca mais a reuniao pq agora mudei o roteiro",
+   "editorial_note": "Contexto do relatório: Conversa de Vorcaro com seu advogado na seção das fls. 106-119 (17/11/2025, data da prisão).",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 107,
+    "figure": null
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 107,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": null,
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 107,
+     "figure": null,
+     "url": null
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 107",
+   "added_in": "ingest-pf-20261007"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "No dia da prisão de Vorcaro, Warde acompanha a protocolização da petição e o encaminhamento das reportagens, segundo o relatório (fls. 112-119).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 116,
+    "figure": 133
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": null,
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 116,
+    "figure": 133,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 116 · fig. 133",
+   "added_in": "ingest-pf-20261007"
+  }
+ ]
+}

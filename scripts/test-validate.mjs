@@ -285,6 +285,16 @@ ok = runCase('transcription document_transcription sem documento', (t) => {
 }, ['E_TRANSCRIPTION_SHAPE']) && ok;
 
 /* documents.json */
+ok = runCase('mensagem sem data divulgada é válida (null honesto)', (t) => {
+  t.messages[0].date = null;
+  t.messages[0].time = null;
+  delete t.messages[0].timestamp_precision;
+}, []) && ok;
+ok = runCase('sem data mas com precision → erro', (t) => {
+  t.messages[0].date = null;
+  t.messages[0].time = null;
+  t.messages[0].timestamp_precision = 'date';
+}, ['E_BAD_DATE', 'E_BAD_PRECISION'].filter((c, i, a) => i === 0)) && ok;
 ok = runCase('document_id desconhecido', (t) => {
   t.messages[0].source = { document_id: 'doc-fantasma', page: 10 };
 }, ['E_UNKNOWN_DOCUMENT']) && ok;

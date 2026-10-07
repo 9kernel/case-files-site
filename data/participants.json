@@ -1,391 +1,423 @@
 [
-  {
-    "id": "daniel-vorcaro",
-    "name": "Daniel Vorcaro",
-    "photo": null,
-    "role": "Ex-controlador do Banco Master",
-    "aliases": [
-      "Vorcaro"
-    ],
-    "summary": "Banqueiro, controlador do Banco Master, conglomerado originado da Máxima Corretora (1974) e classificado pelo BC como de pequeno porte (0,57% dos ativos do SFN). Preso em flagrante em 18/11/2025, na Operação Compliance Zero, ao tentar embarcar no Aeroporto de Guarulhos; solto pelo TRF-1 em 29/11/2025 e preso novamente em 04/03/2026, por decisão do STF. No mesmo dia da primeira prisão, o Banco Central decretou a liquidação extrajudicial do grupo. Este arquivo reproduz as conversas do WhatsApp dele conforme a extração forense da PF de 18/11/2025 divulgada pelas reportagens linkadas: as mensagens dele aparecem à direita, como no aparelho.",
-    "profile_sources": [
-      {
-        "label": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro e o colapso do Banco Master (04/03/2026)",
-        "url": "https://g1.globo.com/economia/noticia/2026/03/04/o-que-voce-precisa-saber-sobre-a-prisao-de-daniel-vorcaro-e-o-colapso-do-banco-master.ghtml"
-      },
-      {
-        "label": "Wikipédia — Daniel Vorcaro",
-        "url": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
-      },
-      {
-        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
-        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-      }
-    ],
-    "profile_verification": [
-      {
-        "claim": "Preso em flagante em 18/11/2025, na Operação Compliance Zero",
-        "source": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro (04/03/2026), linkado em profile_sources"
-      },
-      {
-        "claim": "O Banco Central decretou a liquidação extrajudicial do grupo no mesmo dia da primeira prisão",
-        "source": "g1 (04/03/2026), linkado em profile_sources"
-      }
-    ]
-  },
-  {
-    "id": "alexandre-moraes",
-    "name": "Alexandre de Moraes",
-    "photo": null,
-    "role": "Ministro do STF",
-    "aliases": [
-      "Moraes"
-    ],
-    "summary": "Ministro do Supremo Tribunal Federal desde 2017 e ex-ministro da Justiça. No celular de Vorcaro, o contato estava salvo como “Alexandre de Moraes BRASILIA”. Segundo relatório da PF desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7, o banqueiro lhe enviou pedidos ligados a apurações da PF e da PGR; as mensagens do lado do ministro tinham exclusão automática de 24 horas (ativada em 17/09/2025) e não sobreviveram à extração.",
-    "profile_sources": [
-      {
-        "label": "Wikipédia — Alexandre de Moraes",
-        "url": "https://pt.wikipedia.org/wiki/Alexandre_de_Moraes"
-      },
-      {
-        "label": "Rádio Guaíba / R7 — PF revela pedidos de Vorcaro a Moraes (01/09/2026)",
-        "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
-      }
-    ],
-    "profile_verification": [
-      {
-        "claim": "Ministro do STF desde 2017",
-        "source": "Wikipédia — Alexandre de Moraes, linkado em profile_sources"
-      },
-      {
-        "claim": "O contato estava salvo como “Alexandre de Moraes BRASILIA” no celular de Vorcaro",
-        "source": "Rádio Guaíba / R7 (01/09/2026), linkado em profile_sources"
-      }
-    ]
-  },
-  {
-    "id": "flavio-bolsonaro",
-    "name": "Flávio Bolsonaro",
-    "photo": null,
-    "role": "Senador (PL-RJ)",
-    "aliases": [
-      "Flávio",
-      "Flavio B"
-    ],
-    "summary": "Senador da República e pré-candidato ao Planalto em 2026. Nas mensagens, tratou com Vorcaro da cinebiografia sobre o atentado sofrido por Jair Bolsonaro e dos repasses ao fundo Havengate. Segundo a piauí, negou publicamente proximidade com o banqueiro.",
-    "profile_sources": [
-      {
-        "label": "Wikipédia — Flávio Bolsonaro",
-        "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
-      },
-      {
-        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
-        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-      }
-    ]
-  },
-  {
-    "id": "thiago-miranda",
-    "name": "Thiago Miranda",
-    "photo": null,
-    "role": "Publicitário e lobista",
-    "aliases": [
-      "Miranda"
-    ],
-    "summary": "Publicitário e lobista, então presidente do Portal Leo Dias; intermediou os contatos de Vorcaro com Flávio Bolsonaro, Mário Frias e os produtores do filme, conforme a reportagem da piauí.",
-    "profile_sources": [
-      {
-        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
-        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-      }
-    ]
-  },
-  {
-    "id": "mario-frias",
-    "name": "Mário Frias",
-    "photo": null,
-    "role": "Deputado federal (PL-SP)",
-    "aliases": [
-      "Frias"
-    ],
-    "summary": "Deputado federal e ator, ex-secretário de Cultura do governo Jair Bolsonaro; produtor executivo da cinebiografia sobre o atentado a Jair Bolsonaro, conforme a reportagem da piauí.",
-    "profile_sources": [
-      {
-        "label": "Wikipédia — Mário Frias",
-        "url": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias"
-      },
-      {
-        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
-        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-      }
-    ]
-  },
-  {
-    "id": "flavio-carneiro",
-    "name": "Flávio Carneiro",
-    "photo": null,
-    "role": "Empresário",
-    "aliases": [
-      "Carneiro"
-    ],
-    "summary": "Empresário, amigo próximo e conselheiro frequente de Vorcaro; chama o senador Flávio Bolsonaro de “meu xará”, segundo a reportagem da piauí.",
-    "profile_sources": [
-      {
-        "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
-        "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-      }
-    ]
-  },
-  {
-    "id": "roberto-justus",
-    "name": "Roberto Justus",
-    "photo": null,
-    "role": "Empresário",
-    "aliases": [
-      "Justus"
-    ],
-    "summary": "Empresário e apresentador; à época, sócio da SteelCorp, empresa que tinha aportes e notas comerciais emitidas pelo Banco Master, conforme Terra/Poder360.",
-    "profile_sources": [
-      {
-        "label": "Terra / Poder360 — cobranças de Roberto Justus por aporte (02/10/2026)",
-        "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
-      },
-      {
-        "label": "Wikipédia — Roberto Justus",
-        "url": "https://pt.wikipedia.org/wiki/Roberto_Justus"
-      }
-    ]
-  },
-  {
-    "id": "vanessa-souza",
-    "name": "Vanessa Souza",
-    "photo": null,
-    "role": "Advogada",
-    "aliases": [],
-    "summary": "Advogada que atuava nos Estados Unidos, indicada a Vorcaro pelo pastor André Valadão, segundo o Correio Braziliense/O Globo.",
-    "profile_sources": [
-      {
-        "label": "Correio Braziliense / O Globo — Vorcaro disse que Haddad era um de seus ‘maiores opositores’ (03/10/2026)",
-        "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
-      }
-    ]
-  },
-  {
-    "id": "fabio-faria",
-    "name": "Fábio Faria",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [
-      "FABIO FARIA"
-    ],
-    "summary": "Interlocutor registrado no dispositivo de Vorcaro como “Fábio Faria”. Segundo o IPJ-A, compartilhou com Vorcaro, em 26/12/2023, os contatos salvos como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone (não reproduzido no relatório). A identidade civil completa não é estabelecida no documento.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "viviane-de-moraes",
-    "name": "Viviane de Moraes",
-    "photo": null,
-    "role": "Advogada (Escritório Barci de Moraes)",
-    "aliases": [
-      "Vivi Moraes",
-      "BARCI DE MORAES"
-    ],
-    "summary": "Contato salvo como “Vivi Moraes”. Segundo o IPJ-A, seu escritório de advocacia (Barci de Moraes Sociedade de Advocacia) firmou com o Banco Master contrato de prestação de serviços descrito no relatório como de R$ 3 milhões mensais, assinado em 23/01/2024; os metadados da minuta apontam última modificação pelo usuário “Ministro Alexandre de Moraes”.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "ana-matos",
-    "name": "Ana Matos",
-    "photo": null,
-    "role": "Funcionária de Vorcaro (eventos)",
-    "aliases": [
-      "Ana Matos Mkt"
-    ],
-    "summary": "Funcionária de Vorcaro, contato salvo como “Ana Matos Mkt”. Segundo o IPJ-A, tratou da organização dos Fóruns de Londres (2024 e 2025, o segundo cancelado), incluindo listas de convidados e passagens.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "ciro-soares",
-    "name": "Ciro Soares",
-    "photo": null,
-    "role": "Advogado",
-    "aliases": [
-      "Ciro"
-    ],
-    "summary": "Advogado, contato salvo como “Ciro Soares”. Segundo o IPJ-A, encaminhou a Vorcaro mensagens e áudios atribuídos a “Gonet” — contato direto entre Vorcaro e Paulo Gonet não está demonstrado no documento; as mensagens do PGR chegam sempre por encaminhamento de Ciro.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "leonardo-palhares",
-    "name": "Leonardo Palhares",
-    "photo": null,
-    "role": "Advogado de Vorcaro",
-    "aliases": [
-      "Palhares"
-    ],
-    "summary": "Advogado de Vorcaro. Segundo o IPJ-A, elaborou revisões e o Termo de Acordo e Dação em Pagamento do segundo contrato do Escritório Barci de Moraes (Vikings Participações), com dação de cotas de aeronaves.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "angelo-silva",
-    "name": "Angelo Silva",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [],
-    "summary": "Contato salvo como “Angelo Silva”. Segundo o IPJ-A, enviou a Vorcaro o comprovante do primeiro pagamento do Banco Master ao Escritório Barci de Moraes (R$ 3.422.268,14) e tratou de pagamentos posteriores. O contrato do escritório foi assinado por um “Angelo Antonio Ribeiro da Silva” (fl. 34); a identificação entre os dois nomes não é afirmada pelo documento.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "marcos-da-mata",
-    "name": "Marcos da Mata",
-    "photo": null,
-    "role": "Proprietário da Prime You",
-    "aliases": [
-      "Marcos Prime",
-      "Marcus Vinicius da Mata"
-    ],
-    "summary": "Contato salvo como “Marcos Prime”. Segundo o IPJ-A, a Prime You é dos proprietários Marcus Vinicius da Mata e Vorcaro; Marcos intermediou brochura de aeronaves enviada a Viviane de Moraes e tratou da mudança de empresa no contrato (da “Barci” para “Lux”).",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "romy-banco-master",
-    "name": "Romy",
-    "photo": null,
-    "role": "Funcionária de Vorcaro",
-    "aliases": [
-      "Romy Banco Master"
-    ],
-    "summary": "Funcionária de Vorcaro, contato salvo como “Romy Banco Master”. Segundo o IPJ-A, executava os pagamentos ao Escritório Barci de Moraes determinados por Vorcaro.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "alberto-felix",
-    "name": "Alberto Felix",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [
-      "Alberto Félix"
-    ],
-    "summary": "Contato salvo como “Alberto Felix”. Segundo o IPJ-A, informou pagamentos ao Escritório Barci de Moraes e recebeu de Vorcaro a orientação de não pagar o escritório por PIX.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "marcio-conjur",
-    "name": "Marcio Conjur",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [],
-    "summary": "Contato salvo como “Marcio Conjur”, nome usado exatamente como registrado no aparelho. Segundo o IPJ-A, tratou do convite do ministro Alexandre de Moraes para o evento de Londres e do convite ao Diretor-Geral da PF. A identidade civil completa não é estabelecida no documento.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "luiz-renno",
-    "name": "Luiz Rennó",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [],
-    "summary": "Contato salvo como “Luiz Rennó”. Segundo o IPJ-A, recebeu de Vorcaro, em 19/04/2024, a informação de que organizava um “evento super exclusivo com alexandre de moraes em londres”.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "geraldo-brazil-journal",
-    "name": "Geraldo (Brazil Journal)",
-    "photo": null,
-    "role": "Interlocutor no celular de Vorcaro",
-    "aliases": [
-      "GERALDO BRAZIL JOURNAL"
-    ],
-    "summary": "Contato salvo como “Geraldo Brazil Journal”. Segundo o IPJ-A, recebeu de Vorcaro, em 26/04/2024, o repasse de pedido atribuído ao ministro Alexandre de Moraes para incluir informação sobre encontro de ministros do STF com Tony Blair em matéria jornalística.",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "paulo-sergio",
-    "name": "Paulo Sergio",
-    "photo": null,
-    "role": "Diretor do Banco Central (segundo o IPJ-A)",
-    "aliases": [],
-    "summary": "Identificado no IPJ-A como Diretor do Banco Central. Em 19/03/2025, Vorcaro escreveu-lhe que estava “com Moraes aqui”. Não confundir com o “Paulo” citado nas notas de Vorcaro, que o relatório associa a Paulo Gonet (PGR).",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  },
-  {
-    "id": "ana-claudia-financeiro",
-    "name": "Ana Claudia",
-    "photo": null,
-    "role": "Interlocutora no celular de Vorcaro (financeiro)",
-    "aliases": [
-      "Ana Claudia Financeiro1"
-    ],
-    "summary": "Contato salvo como “Ana Claudia Financeiro1”. Segundo o IPJ-A, informou Vorcaro, em 24/07/2025, do pedido de pagamento da fatura do Escritório Barci de Moraes emitida à Viking (R$ 22.815.120,95).",
-    "profile_sources": [
-      {
-        "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-        "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-      }
-    ]
-  }
+ {
+  "id": "daniel-vorcaro",
+  "name": "Daniel Vorcaro",
+  "photo": null,
+  "role": "Ex-controlador do Banco Master",
+  "aliases": [
+   "Vorcaro"
+  ],
+  "summary": "Banqueiro, controlador do Banco Master, conglomerado originado da Máxima Corretora (1974) e classificado pelo BC como de pequeno porte (0,57% dos ativos do SFN). Preso em flagrante em 18/11/2025, na Operação Compliance Zero, ao tentar embarcar no Aeroporto de Guarulhos; solto pelo TRF-1 em 29/11/2025 e preso novamente em 04/03/2026, por decisão do STF. No mesmo dia da primeira prisão, o Banco Central decretou a liquidação extrajudicial do grupo. Este arquivo reproduz as conversas do WhatsApp dele conforme a extração forense da PF de 18/11/2025 divulgada pelas reportagens linkadas: as mensagens dele aparecem à direita, como no aparelho.",
+  "profile_sources": [
+   {
+    "label": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro e o colapso do Banco Master (04/03/2026)",
+    "url": "https://g1.globo.com/economia/noticia/2026/03/04/o-que-voce-precisa-saber-sobre-a-prisao-de-daniel-vorcaro-e-o-colapso-do-banco-master.ghtml"
+   },
+   {
+    "label": "Wikipédia — Daniel Vorcaro",
+    "url": "https://pt.wikipedia.org/wiki/Daniel_Vorcaro"
+   },
+   {
+    "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Preso em flagante em 18/11/2025, na Operação Compliance Zero",
+    "source": "g1 — O que você precisa saber sobre a prisão de Daniel Vorcaro (04/03/2026), linkado em profile_sources"
+   },
+   {
+    "claim": "O Banco Central decretou a liquidação extrajudicial do grupo no mesmo dia da primeira prisão",
+    "source": "g1 (04/03/2026), linkado em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "alexandre-moraes",
+  "name": "Alexandre de Moraes",
+  "photo": null,
+  "role": "Ministro do STF",
+  "aliases": [
+   "Moraes"
+  ],
+  "summary": "Ministro do Supremo Tribunal Federal desde 2017 e ex-ministro da Justiça. No celular de Vorcaro, o contato estava salvo como “Alexandre de Moraes BRASILIA”. Segundo relatório da PF desclassificado pelo ministro André Mendonça (01/09/2026) e revelado pelo R7, o banqueiro lhe enviou pedidos ligados a apurações da PF e da PGR; as mensagens do lado do ministro tinham exclusão automática de 24 horas (ativada em 17/09/2025) e não sobreviveram à extração.",
+  "profile_sources": [
+   {
+    "label": "Wikipédia — Alexandre de Moraes",
+    "url": "https://pt.wikipedia.org/wiki/Alexandre_de_Moraes"
+   },
+   {
+    "label": "Rádio Guaíba / R7 — PF revela pedidos de Vorcaro a Moraes (01/09/2026)",
+    "url": "https://guaiba.com.br/politica/mendonca-tira-sigilo-e-pf-revela-pedidos-de-vorcaro-a-moraes"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Ministro do STF desde 2017",
+    "source": "Wikipédia — Alexandre de Moraes, linkado em profile_sources"
+   },
+   {
+    "claim": "O contato estava salvo como “Alexandre de Moraes BRASILIA” no celular de Vorcaro",
+    "source": "Rádio Guaíba / R7 (01/09/2026), linkado em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "flavio-bolsonaro",
+  "name": "Flávio Bolsonaro",
+  "photo": null,
+  "role": "Senador (PL-RJ)",
+  "aliases": [
+   "Flávio",
+   "Flavio B"
+  ],
+  "summary": "Senador da República e pré-candidato ao Planalto em 2026. Nas mensagens, tratou com Vorcaro da cinebiografia sobre o atentado sofrido por Jair Bolsonaro e dos repasses ao fundo Havengate. Segundo a piauí, negou publicamente proximidade com o banqueiro.",
+  "profile_sources": [
+   {
+    "label": "Wikipédia — Flávio Bolsonaro",
+    "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+   },
+   {
+    "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+   }
+  ]
+ },
+ {
+  "id": "thiago-miranda",
+  "name": "Thiago Miranda",
+  "photo": null,
+  "role": "Publicitário e lobista",
+  "aliases": [
+   "Miranda"
+  ],
+  "summary": "Publicitário e lobista, então presidente do Portal Leo Dias; intermediou os contatos de Vorcaro com Flávio Bolsonaro, Mário Frias e os produtores do filme, conforme a reportagem da piauí.",
+  "profile_sources": [
+   {
+    "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+   }
+  ]
+ },
+ {
+  "id": "mario-frias",
+  "name": "Mário Frias",
+  "photo": null,
+  "role": "Deputado federal (PL-SP)",
+  "aliases": [
+   "Frias"
+  ],
+  "summary": "Deputado federal e ator, ex-secretário de Cultura do governo Jair Bolsonaro; produtor executivo da cinebiografia sobre o atentado a Jair Bolsonaro, conforme a reportagem da piauí.",
+  "profile_sources": [
+   {
+    "label": "Wikipédia — Mário Frias",
+    "url": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias"
+   },
+   {
+    "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+   }
+  ]
+ },
+ {
+  "id": "flavio-carneiro",
+  "name": "Flávio Carneiro",
+  "photo": null,
+  "role": "Empresário",
+  "aliases": [
+   "Carneiro"
+  ],
+  "summary": "Empresário, amigo próximo e conselheiro frequente de Vorcaro; chama o senador Flávio Bolsonaro de “meu xará”, segundo a reportagem da piauí.",
+  "profile_sources": [
+   {
+    "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
+    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+   }
+  ]
+ },
+ {
+  "id": "roberto-justus",
+  "name": "Roberto Justus",
+  "photo": null,
+  "role": "Empresário",
+  "aliases": [
+   "Justus"
+  ],
+  "summary": "Empresário e apresentador; à época, sócio da SteelCorp, empresa que tinha aportes e notas comerciais emitidas pelo Banco Master, conforme Terra/Poder360.",
+  "profile_sources": [
+   {
+    "label": "Terra / Poder360 — cobranças de Roberto Justus por aporte (02/10/2026)",
+    "url": "https://www.terra.com.br/noticias/justica/mensagens-extraidas-do-celular-de-vorcaro-mostram-cobrancas-de-roberto-justus-por-aporte-diz-site,194f7d93247c6509ad2ce2b12e3aeb47egbsfyq7.html"
+   },
+   {
+    "label": "Wikipédia — Roberto Justus",
+    "url": "https://pt.wikipedia.org/wiki/Roberto_Justus"
+   }
+  ]
+ },
+ {
+  "id": "vanessa-souza",
+  "name": "Vanessa Souza",
+  "photo": null,
+  "role": "Advogada",
+  "aliases": [],
+  "summary": "Advogada que atuava nos Estados Unidos, indicada a Vorcaro pelo pastor André Valadão, segundo o Correio Braziliense/O Globo.",
+  "profile_sources": [
+   {
+    "label": "Correio Braziliense / O Globo — Vorcaro disse que Haddad era um de seus ‘maiores opositores’ (03/10/2026)",
+    "url": "https://www.correiobraziliense.com.br/politica/2026/10/7513807-vorcaro-disse-que-haddad-era-um-de-seus-maiores-opositores-revelam-mensagens.html"
+   }
+  ]
+ },
+ {
+  "id": "fabio-faria",
+  "name": "Fábio Faria",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [
+   "FABIO FARIA"
+  ],
+  "summary": "Interlocutor registrado no dispositivo de Vorcaro como “Fábio Faria”. Segundo o IPJ-A, compartilhou com Vorcaro, em 26/12/2023, os contatos salvos como “Alexandre de Moraes BRASILIA”, “Novo”, “STF TSE NOVO” e “Eu STF”, todos com o mesmo número de telefone (não reproduzido no relatório). A identidade civil completa não é estabelecida no documento.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "viviane-de-moraes",
+  "name": "Viviane de Moraes",
+  "photo": null,
+  "role": "Advogada (Escritório Barci de Moraes)",
+  "aliases": [
+   "Vivi Moraes",
+   "BARCI DE MORAES"
+  ],
+  "summary": "Contato salvo como “Vivi Moraes”. Segundo o IPJ-A, seu escritório de advocacia (Barci de Moraes Sociedade de Advocacia) firmou com o Banco Master contrato de prestação de serviços descrito no relatório como de R$ 3 milhões mensais, assinado em 23/01/2024; os metadados da minuta apontam última modificação pelo usuário “Ministro Alexandre de Moraes”.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ana-matos",
+  "name": "Ana Matos",
+  "photo": null,
+  "role": "Funcionária de Vorcaro (eventos)",
+  "aliases": [
+   "Ana Matos Mkt"
+  ],
+  "summary": "Funcionária de Vorcaro, contato salvo como “Ana Matos Mkt”. Segundo o IPJ-A, tratou da organização dos Fóruns de Londres (2024 e 2025, o segundo cancelado), incluindo listas de convidados e passagens.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ciro-soares",
+  "name": "Ciro Soares",
+  "photo": null,
+  "role": "Advogado",
+  "aliases": [
+   "Ciro"
+  ],
+  "summary": "Advogado, contato salvo como “Ciro Soares”. Segundo o IPJ-A, encaminhou a Vorcaro mensagens e áudios atribuídos a “Gonet” — contato direto entre Vorcaro e Paulo Gonet não está demonstrado no documento; as mensagens do PGR chegam sempre por encaminhamento de Ciro.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "leonardo-palhares",
+  "name": "Leonardo Palhares",
+  "photo": null,
+  "role": "Advogado de Vorcaro",
+  "aliases": [
+   "Palhares"
+  ],
+  "summary": "Advogado de Vorcaro. Segundo o IPJ-A, elaborou revisões e o Termo de Acordo e Dação em Pagamento do segundo contrato do Escritório Barci de Moraes (Vikings Participações), com dação de cotas de aeronaves.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "angelo-silva",
+  "name": "Angelo Silva",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [],
+  "summary": "Contato salvo como “Angelo Silva”. Segundo o IPJ-A, enviou a Vorcaro o comprovante do primeiro pagamento do Banco Master ao Escritório Barci de Moraes (R$ 3.422.268,14) e tratou de pagamentos posteriores. O contrato do escritório foi assinado por um “Angelo Antonio Ribeiro da Silva” (fl. 34); a identificação entre os dois nomes não é afirmada pelo documento.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "marcos-da-mata",
+  "name": "Marcos da Mata",
+  "photo": null,
+  "role": "Proprietário da Prime You",
+  "aliases": [
+   "Marcos Prime",
+   "Marcus Vinicius da Mata"
+  ],
+  "summary": "Contato salvo como “Marcos Prime”. Segundo o IPJ-A, a Prime You é dos proprietários Marcus Vinicius da Mata e Vorcaro; Marcos intermediou brochura de aeronaves enviada a Viviane de Moraes e tratou da mudança de empresa no contrato (da “Barci” para “Lux”).",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "romy-banco-master",
+  "name": "Romy",
+  "photo": null,
+  "role": "Funcionária de Vorcaro",
+  "aliases": [
+   "Romy Banco Master"
+  ],
+  "summary": "Funcionária de Vorcaro, contato salvo como “Romy Banco Master”. Segundo o IPJ-A, executava os pagamentos ao Escritório Barci de Moraes determinados por Vorcaro.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "alberto-felix",
+  "name": "Alberto Felix",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [
+   "Alberto Félix"
+  ],
+  "summary": "Contato salvo como “Alberto Felix”. Segundo o IPJ-A, informou pagamentos ao Escritório Barci de Moraes e recebeu de Vorcaro a orientação de não pagar o escritório por PIX.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "marcio-conjur",
+  "name": "Marcio Conjur",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [],
+  "summary": "Contato salvo como “Marcio Conjur”, nome usado exatamente como registrado no aparelho. Segundo o IPJ-A, tratou do convite do ministro Alexandre de Moraes para o evento de Londres e do convite ao Diretor-Geral da PF. A identidade civil completa não é estabelecida no documento.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "luiz-renno",
+  "name": "Luiz Rennó",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [],
+  "summary": "Contato salvo como “Luiz Rennó”. Segundo o IPJ-A, recebeu de Vorcaro, em 19/04/2024, a informação de que organizava um “evento super exclusivo com alexandre de moraes em londres”.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "geraldo-brazil-journal",
+  "name": "Geraldo (Brazil Journal)",
+  "photo": null,
+  "role": "Interlocutor no celular de Vorcaro",
+  "aliases": [
+   "GERALDO BRAZIL JOURNAL"
+  ],
+  "summary": "Contato salvo como “Geraldo Brazil Journal”. Segundo o IPJ-A, recebeu de Vorcaro, em 26/04/2024, o repasse de pedido atribuído ao ministro Alexandre de Moraes para incluir informação sobre encontro de ministros do STF com Tony Blair em matéria jornalística.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "paulo-sergio",
+  "name": "Paulo Sergio",
+  "photo": null,
+  "role": "Diretor do Banco Central (segundo o IPJ-A)",
+  "aliases": [],
+  "summary": "Identificado no IPJ-A como Diretor do Banco Central. Em 19/03/2025, Vorcaro escreveu-lhe que estava “com Moraes aqui”. Não confundir com o “Paulo” citado nas notas de Vorcaro, que o relatório associa a Paulo Gonet (PGR).",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "ana-claudia-financeiro",
+  "name": "Ana Claudia",
+  "photo": null,
+  "role": "Interlocutora no celular de Vorcaro (financeiro)",
+  "aliases": [
+   "Ana Claudia Financeiro1"
+  ],
+  "summary": "Contato salvo como “Ana Claudia Financeiro1”. Segundo o IPJ-A, informou Vorcaro, em 24/07/2025, do pedido de pagamento da fatura do Escritório Barci de Moraes emitida à Viking (R$ 22.815.120,95).",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
+ },
+ {
+  "id": "felipe-mourao",
+  "name": "Felipe Mourão",
+  "photo": null,
+  "role": "Interlocutor de Vorcaro identificado no relatório da PF como agente cooptador (tese da PF)",
+  "aliases": [
+   "Sicário"
+  ],
+  "summary": "Apelidado de 'Sicário' nas conversas, conforme registra o relatório. A PF atribui a ele a execução de demandas de Vorcaro junto ao núcleo que o documento chama de 'Os Meninos'. Perfil resumido exclusivamente a partir dos documentos linkados; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "walfrido-warde",
+  "name": "Walfrido Warde",
+  "photo": null,
+  "role": "Advogado de Daniel Vorcaro",
+  "aliases": [
+   "Walfidro",
+   "Warde"
+  ],
+  "summary": "Advogado de Vorcaro que, segundo o relatório, não mantinha contato com o cliente desde 03/08/2025 e retomou a comunicação no dia 17/11/2025, data da prisão, acompanhando a protocolização de petição e o encaminhamento de reportagens. Perfil resumido exclusivamente a partir dos documentos linkados."
+ },
+ {
+  "id": "fabiano-zettel",
+  "name": "Fabiano Zettel",
+  "photo": null,
+  "role": "Cunhado de Vorcaro; identificado no relatório como operador financeiro (tese da PF)",
+  "aliases": [
+   "F.Z.",
+   "Fabiano"
+  ],
+  "summary": "Citado na conversa com Fábio Faria ('OK para F.Z') e nas análises da PF, que descrevem sua atuação em ações descritas como 'pressão' e em pagamentos por empresa ligada a ele. Perfil resumido exclusivamente a partir dos documentos linkados; não constitui acusação nem conclusão sobre responsabilidade individual."
+ }
 ]
