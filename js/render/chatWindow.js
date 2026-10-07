@@ -380,7 +380,7 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   container.innerHTML = `
   <section class="chat">
     <header class="chat-header">
-      <button type="button" class="avatar avatar-btn only-desktop" id="hdr-avatar" data-profile="${esc(contactId)}"
+      <button type="button" class="avatar avatar-btn" id="hdr-avatar" data-profile="${esc(contactId)}"
         aria-label="Ver perfil de ${esc(contactName)}" title="Ver perfil de ${esc(contactName)}"
         style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}${avatarPhotoHtml(contact)}</button>
       <div class="chat-title">
