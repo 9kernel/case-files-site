@@ -21,17 +21,17 @@
       "content": "G e os diretores estão na pressão máxima",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -56,17 +56,17 @@
       "content": "É importante reforçar com Andrei e Paulo pra não deixar ninguém de baixo fazer uma sacanagem",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -91,17 +91,17 @@
       "content": "Alguma novidade? Conseguiu ter notícia ou bloquear?",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -126,17 +126,17 @@
       "content": "E o Galípolo quem está pressionando isso pra fazer intervenção?",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -161,17 +161,17 @@
       "content": "Mas pedido deferido por parte deles? Algo que dê para bloquear?",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -196,17 +196,17 @@
       "content": "E com Andrei dá pra segurar?",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -231,17 +231,17 @@
       "content": "[Sobre jornalistas apurando transações do BRB, diz ter feito] uma correria aqui pra tentar salvar [a situação, o que poderia] inibir [o avanço das apurações]",
       "editorial_note": null,
       "verification": {
-        "level": "pending_review",
+        "level": "public_investigation",
         "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
+        "authority": "Polícia Federal",
+        "court": "STF",
+        "case": "PET 16662",
         "document": null,
         "page": null,
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "sources": {
         "primary": null,
@@ -266,7 +266,7 @@
       "content": "[O contato “Alexandre de Moraes BRASILIA” ativou mensagens temporárias de 24 horas em 17/09/2025. As respostas do ministro não sobreviveram à extração; o lado do banqueiro ficou preservado em rascunhos e capturas de tela, conforme o relatório da PF desclassificado pelo STF.]",
       "event_kind": "editorial_context",
       "verification": {
-        "level": "pending_review",
+        "level": "secondary_source",
         "origin": "PF extraction",
         "authority": null,
         "court": null,
@@ -276,7 +276,7 @@
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
       "added_in": "ingest-bm-r7-20261006"
@@ -289,7 +289,7 @@
       "content": "[Perguntas recuperadas pela perícia sem data individual — agrupadas conforme a ordem do relatório da PF]",
       "event_kind": "editorial_context",
       "verification": {
-        "level": "pending_review",
+        "level": "secondary_source",
         "origin": "PF extraction",
         "authority": null,
         "court": null,
@@ -299,7 +299,7 @@
         "figure": null,
         "official_url": null,
         "primary_document_located": false,
-        "verified_at": null
+        "verified_at": "2026-10-06"
       },
       "source_ref": "R7 · PF (relatório desclassificado), 01/09/2026",
       "added_in": "ingest-bm-r7-20261006"
