@@ -93,5 +93,18 @@ sob licenças livres, com atribuição obrigatória conforme abaixo (ordem alfab
 - **Licença:** CC BY 3.0
 - **Origem:** https://commons.wikimedia.org/wiki/Special:FilePath/Yasmin_Brunet_at_De_Lado_com_a_Loba_2024_02.jpg
 
+## fabiano-zettel
+- **Arquivo:** `fabiano-zettel.jpg`
+- **Autor:** Editor Luiz
+- **Licença:** CC BY-SA 2.0
+- **Origem:** https://commons.wikimedia.org/wiki/File:Fabiano_Zettel.jpg
+
+## paulo-henrique
+- **Arquivo:** `paulo-henrique.jpg`
+- **Autor:** Sam Barnes/Web Summit via Sportsfile
+- **Licença:** CC BY 2.0
+- **Origem:** https://commons.wikimedia.org/wiki/File:Web_Summit_Rio_2025_-_0815_(54485619548).jpg
+- **Nota:** foto individual em palco; legenda original nomeia “Paulo Henrique Costa, Presidente Banco de Brasília BRB”. Um recorte anterior de foto de grupo da Agência Brasília foi descartado por não permitir identificação segura.
+
 Pessoas sem foto livre verificada permanecem com as iniciais no avatar — o projeto
 nunca usa foto sem direito de publicação (ver `README.md` desta pasta).
