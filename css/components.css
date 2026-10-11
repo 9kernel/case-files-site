@@ -1435,3 +1435,40 @@ a.doc-card:hover { background: #fff; }
   color: var(--ink-3, #8696A0);
   margin: 8px 2px 0;
 }
+
+/* ============ Mobile: textos quebram em 2 linhas em vez de cortar com … ============ */
+@media (max-width: 767px) {
+  .chat-item-title,
+  .chat-item-preview,
+  .chat-item-sub {
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.25;
+    hyphens: auto;
+  }
+
+  .chat-item-top { align-items: flex-start; }
+  .chat-item-date { margin-top: 2px; }
+
+  .chat-title h2,
+  .chat-title p {
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.22;
+  }
+
+  .quote span {
+    white-space: normal;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    line-height: 1.25;
+  }
+}

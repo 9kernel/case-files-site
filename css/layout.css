@@ -141,6 +141,11 @@ body {
   }
 
   .sidebar {
-    width: clamp(148px, 42vw, 320px);
+    width: clamp(168px, 46vw, 330px);
   }
+}
+
+/* celular estreito: subtítulo da marca some em vez de cortar com … */
+@media (max-width: 459px) {
+  .brand span { display: none; }
 }

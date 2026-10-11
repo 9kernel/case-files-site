@@ -126,12 +126,30 @@ export async function renderNetwork(container) {
     } else {
       svgEl('text', { class: 'net-initials', 'text-anchor': 'middle', dy: '0.35em' }, g).textContent = initials(c.name);
     }
-    const lx = Math.cos(p.a) * 26, ly = Math.sin(p.a) * 26;
+    const lx = Math.cos(p.a) * 28, ly = Math.sin(p.a) * 28;
     const anchor = Math.abs(Math.cos(p.a)) < 0.3 ? 'middle' : (Math.cos(p.a) > 0 ? 'start' : 'end');
     const label = svgEl('text', {
       class: 'net-label', x: lx, y: ly, 'text-anchor': anchor, dy: '0.35em',
     }, g);
-    label.textContent = c.name.length > 16 ? c.name.slice(0, 15) + '…' : c.name;
+    // nomes longos quebram em duas linhas (tspan) em vez de cortar com …
+    const words = c.name.split(' ');
+    if (c.name.length > 15 && words.length > 1) {
+      let best = 1, diff = Infinity;
+      for (let i = 1; i < words.length; i++) {
+        const a = words.slice(0, i).join(' ').length;
+        const b = words.slice(i).join(' ').length;
+        if (Math.abs(a - b) < diff) { diff = Math.abs(a - b); best = i; }
+      }
+      const l1 = words.slice(0, best).join(' ');
+      let l2 = words.slice(best).join(' ');
+      if (l2.length > 18) l2 = l2.slice(0, 17) + '…';
+      const t1 = svgEl('tspan', { x: lx, dy: '-0.45em' }, label);
+      t1.textContent = l1;
+      const t2 = svgEl('tspan', { x: lx, dy: '1.15em' }, label);
+      t2.textContent = l2;
+    } else {
+      label.textContent = c.name;
+    }
     return g;
   };
 
