@@ -1261,3 +1261,37 @@ a.doc-card:hover { background: #fff; }
   color: var(--ink-2);
   box-shadow: var(--shadow-bubble);
 }
+
+/* ============ Lista lateral em coluna estreita (mobile) ============ */
+@media (max-width: 767px) {
+  .chat-item {
+    gap: 10px;
+    padding: 8px 10px;
+  }
+
+  .chat-item .avatar {
+    width: 42px;
+    height: 42px;
+    font-size: 18px;
+  }
+
+  /* separador após o avatar: 10 padding + 42 avatar + 10 gap */
+  .chat-item::after {
+    left: 62px;
+  }
+
+  .chat-item-title { font-size: 15.6px; }
+  .chat-item-preview { font-size: 13.6px; }
+  .chat-item-date { font-size: 12.2px; }
+
+  .sidebar-head { padding: 6px 8px; }
+
+  .sidebar-head input {
+    padding: 7px 12px 7px 34px;
+    font-size: 14.6px;
+    background-position: 10px center;
+    background-size: 15px 15px;
+  }
+
+  .sidebar-foot { font-size: 11.8px; padding: 6px 10px; }
+}

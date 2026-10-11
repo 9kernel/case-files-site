@@ -1,4 +1,4 @@
-// chatList.js — lista lateral de conversas (coluna no desktop, drawer no mobile).
+// chatList.js — lista lateral de conversas (coluna sempre visível).
 // Busca instantânea local por título/participante (não usa o índice invertido).
 
 import { getThreadIndex, getParticipants, participantMap } from '../api.js';

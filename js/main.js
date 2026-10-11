@@ -14,23 +14,7 @@ function errorCardHtml(err) {
 }
 
 function wireTopbar() {
-  // drawer mobile
-  const sidebar = document.getElementById('sidebar');
-  const scrim = document.getElementById('scrim');
-  const setDrawer = (open) => {
-    sidebar.classList.toggle('open', open);
-    scrim.classList.toggle('visible', open);
-    scrim.setAttribute('aria-hidden', String(!open));
-  };
-  document.getElementById('btn-menu')?.addEventListener('click', () => setDrawer(!sidebar.classList.contains('open')));
-  scrim?.addEventListener('click', () => setDrawer(false));
-  window.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape' && sidebar.classList.contains('open')) setDrawer(false);
-  });
-  // fecha o drawer ao navegar para uma conversa
-  window.addEventListener('routechange', () => setDrawer(false));
-
-  // filtro da lista lateral
+  // filtro da lista lateral (coluna sempre visível — sem drawer no mobile)
   initChatListSearch();
 }
 

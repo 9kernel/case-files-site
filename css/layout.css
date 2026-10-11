@@ -1,4 +1,4 @@
-/* layout.css — shell de 2 colunas no desktop / drawer no mobile */
+/* layout.css — shell de 2 colunas: lista de conversas sempre visível */
 
 html, body {
   overflow: hidden;
@@ -127,15 +127,8 @@ body {
 
 .view > * { min-height: 0; }
 
-.scrim {
-  display: none;
-}
-
-/* ---------- Mobile: drawer ---------- */
+/* ---------- Mobile: coluna estreita, sempre visível ---------- */
 @media (max-width: 767px) {
-  .only-mobile { display: inline-flex; }
-  .only-desktop { display: none !important; }
-
   /* topbar: marca truncável */
   .brand {
     overflow: hidden;
@@ -148,37 +141,6 @@ body {
   }
 
   .sidebar {
-    position: absolute;
-    inset: 0 auto 0 0;
-    width: min(86vw, 360px);
-    transform: translateX(-102%);
-    transition: transform 180ms ease;
-    box-shadow: none;
+    width: clamp(148px, 42vw, 320px);
   }
-
-  .sidebar.open {
-    transform: translateX(0);
-    box-shadow: var(--shadow-pop);
-  }
-
-  .scrim {
-    display: block;
-    position: absolute;
-    inset: 0;
-    background: rgba(11, 20, 26, 0.45);
-    z-index: 20;
-    opacity: 0;
-    pointer-events: none;
-    transition: opacity 180ms ease;
-  }
-
-  .scrim.visible {
-    opacity: 1;
-    pointer-events: auto;
-  }
-}
-
-@media (min-width: 768px) {
-  .only-mobile { display: none !important; }
-  .only-desktop { display: inline-flex; }
 }
