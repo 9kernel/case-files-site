@@ -10,3 +10,9 @@ Para exibir a **foto** de uma pessoa no lugar das iniciais do avatar:
 Sem foto (`"photo": null`) o avatar mostra as iniciais — nunca é usada foto
 inventada, gerada ou sem direito de publicação. Se a imagem falhar ao carregar,
 as iniciais voltam automaticamente.
+
+## Créditos e licenças
+
+As fotos usadas vêm do Wikimedia Commons sob licenças livres (CC BY, CC BY-SA,
+CC0). A atribuição obrigatória de cada uma está em [`CREDITS.md`](CREDITS.md) e
+também aparece no card de perfil da pessoa, no site.

@@ -2,7 +2,7 @@
  {
   "id": "daniel-vorcaro",
   "name": "Daniel Vorcaro",
-  "photo": null,
+  "photo": "daniel-vorcaro.jpg",
   "role": "Ex-controlador do Banco Master",
   "aliases": [
    "Vorcaro"
@@ -31,12 +31,13 @@
     "claim": "O Banco Central decretou a liquidação extrajudicial do grupo no mesmo dia da primeira prisão",
     "source": "g1 (04/03/2026), linkado em profile_sources"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Márcio Gustavo Vasconcelos · CC0 · via Wikimedia Commons"
  },
  {
   "id": "alexandre-moraes",
   "name": "Alexandre de Moraes",
-  "photo": null,
+  "photo": "alexandre-moraes.jpg",
   "role": "Ministro do STF",
   "aliases": [
    "Moraes"
@@ -61,12 +62,13 @@
     "claim": "O contato estava salvo como “Alexandre de Moraes BRASILIA” no celular de Vorcaro",
     "source": "Rádio Guaíba / R7 (01/09/2026), linkado em profile_sources"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Isac Nóbrega/Agência Senado · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "flavio-bolsonaro",
   "name": "Flávio Bolsonaro",
-  "photo": null,
+  "photo": "flavio-bolsonaro.jpg",
   "role": "Senador da República (PL-RJ) e candidato à Presidência no segundo turno das Eleições 2026",
   "aliases": [
    "Flávio",
@@ -92,7 +94,8 @@
     "claim": "Candidato à Presidência da República no segundo turno das Eleições 2026",
     "source": "TSE — Flávio Bolsonaro (PL) e Lula (PT) vão disputar o 2º turno para a Presidência da República, linkado em profile_sources"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Geraldo Magela/Agência Senado · CC BY-SA 4.0 · via Wikimedia Commons"
  },
  {
   "id": "thiago-miranda",
@@ -113,7 +116,7 @@
  {
   "id": "mario-frias",
   "name": "Mário Frias",
-  "photo": null,
+  "photo": "mario-frias.jpg",
   "role": "Deputado federal (PL-SP)",
   "aliases": [
    "Frias"
@@ -128,7 +131,8 @@
     "label": "piauí — As 96 mensagens entre Flávio e Vorcaro (01/10/2026)",
     "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Isac Nóbrega/PR · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "flavio-carneiro",
@@ -149,7 +153,7 @@
  {
   "id": "roberto-justus",
   "name": "Roberto Justus",
-  "photo": null,
+  "photo": "roberto-justus.jpg",
   "role": "Empresário",
   "aliases": [
    "Justus"
@@ -164,7 +168,8 @@
     "label": "Wikipédia — Roberto Justus",
     "url": "https://pt.wikipedia.org/wiki/Roberto_Justus"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Governo do Estado de São Paulo · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "vanessa-souza",
@@ -183,7 +188,7 @@
  {
   "id": "fabio-faria",
   "name": "Fábio Faria",
-  "photo": null,
+  "photo": "fabio-faria.jpg",
   "role": "Interlocutor no celular de Vorcaro",
   "aliases": [
    "FABIO FARIA"
@@ -194,7 +199,8 @@
     "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
     "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Palácio do Planalto · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "viviane-de-moraes",
@@ -444,7 +450,7 @@
  {
   "id": "luciano-huck",
   "name": "Luciano Huck",
-  "photo": null,
+  "photo": "luciano-huck.jpg",
   "role": "Apresentador e empresário",
   "aliases": [
    "Huck"
@@ -455,12 +461,13 @@
     "label": "Poder360 — “Leia as mensagens entre Luciano Huck e Daniel Vorcaro”",
     "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Romério Cunha · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "joao-doria",
   "name": "João Doria",
-  "photo": null,
+  "photo": "joao-doria.jpg",
   "role": "Ex-governador de São Paulo",
   "aliases": [
    "Doria"
@@ -471,12 +478,13 @@
     "label": "CNN Brasil — “Em mensagem, Doria se diz preocupado com Vorcaro…”",
     "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Governo do Estado de São Paulo · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "hugo-motta",
   "name": "Hugo Motta",
-  "photo": null,
+  "photo": "hugo-motta.jpg",
   "role": "Deputado federal (PB), presidente da Câmara",
   "aliases": [
    "Motta",
@@ -488,12 +496,13 @@
     "label": "CNN/Jornal Grande Bahia — 202 ligações e 19 encontros",
     "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Carlos Moura/Agência Senado · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "roberto-campos-neto",
   "name": "Roberto Campos Neto",
-  "photo": null,
+  "photo": "roberto-campos-neto.jpg",
   "role": "Ex-presidente do Banco Central (2019-2024)",
   "aliases": [
    "Campos Neto"
@@ -504,7 +513,8 @@
     "label": "C-Level/Folha — convite para encontro em casa",
     "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Pedro França/Agência Senado · CC BY 3.0 (Attribution) · via Wikimedia Commons"
  },
  {
   "id": "rodrigo-fux",
@@ -525,7 +535,7 @@
  {
   "id": "davi-alcolumbre",
   "name": "Davi Alcolumbre",
-  "photo": null,
+  "photo": "davi-alcolumbre.jpg",
   "role": "Senador (AP), presidente do Senado",
   "aliases": [
    "Alcolumbre",
@@ -537,12 +547,13 @@
     "label": "CNN Brasil — relação de amizade (orig. Veja)",
     "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Senado Federal · CC BY 3.0 (Attribution) · via Wikimedia Commons"
  },
  {
   "id": "iraja",
   "name": "Irajá",
-  "photo": null,
+  "photo": "iraja.jpg",
   "role": "Senador (PSD-TO)",
   "aliases": [
    "Irajá Abreu"
@@ -553,12 +564,13 @@
     "label": "UOL/O Globo — mensagens de Irajá para Vorcaro",
     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Senado Federal · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "nikolas-ferreira",
   "name": "Nikolas Ferreira",
-  "photo": null,
+  "photo": "nikolas-ferreira.jpg",
   "role": "Deputado federal (PL-MG)",
   "aliases": [
    "Nikolas"
@@ -569,7 +581,8 @@
     "label": "g1/GloboNews — áudio e transcrição",
     "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Pablo Valadares/Câmara dos Deputados · CC BY 3.0 · via Wikimedia Commons"
  },
  {
   "id": "antonio-rueda",
@@ -594,7 +607,7 @@
  {
   "id": "yasmin-brunet",
   "name": "Yasmin Brunet",
-  "photo": null,
+  "photo": "yasmin-brunet.jpg",
   "role": "Modelo e empresária",
   "aliases": [
    "Yasmin"
@@ -605,12 +618,13 @@
     "label": "Veja — mensagens da PF",
     "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Multishow · CC BY 3.0 · via Wikimedia Commons"
  },
  {
   "id": "cezinha-de-madureira",
   "name": "Cezinha de Madureira",
-  "photo": null,
+  "photo": "cezinha-de-madureira.jpg",
   "role": "Deputado federal (PL-SP)",
   "aliases": [
    "Cezinha"
@@ -621,7 +635,8 @@
     "label": "CartaCapital — encontro de Vorcaro com André Mendonça",
     "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Zeca Ribeiro/Câmara dos Deputados · CC BY 3.0 · via Wikimedia Commons"
  },
  {
   "id": "marcus-vinicius",

@@ -28,6 +28,14 @@ export function openProfileDialog(participant) {
 
   dlg.querySelector('#pf-summary').textContent = participant.summary || '';
 
+  const photoCredit = dlg.querySelector('#pf-photo-credit');
+  if (participant.photo && participant.photo_credit) {
+    photoCredit.hidden = false;
+    photoCredit.textContent = participant.photo_credit;
+  } else {
+    photoCredit.hidden = true;
+  }
+
   const sources = participant.profile_sources || [];
   const ul = dlg.querySelector('#pf-sources');
   ul.innerHTML = sources
