@@ -1,0 +1,225 @@
+{
+ "id": "davi-alcolumbre-daniel-vorcaro",
+ "title": "Davi Alcolumbre",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "davi-alcolumbre"
+ ],
+ "source": {
+  "document": "CNN Brasil (blog Matheus Teixeira) — “Mensagens apontam relação de amizade entre Vorcaro e Alcolumbre” (25/09/2026; orig. Veja)",
+  "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/",
+  "pages": "Reportagem original da Veja confirmada pela CNN (25/09/2026). A presidência do Senado classificou as “supostas mensagens” como de teor pessoal, falou em “falsas acusações” e anunciou medidas judiciais. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-02-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "davi-alcolumbre",
+   "content_kind": "verbatim",
+   "content": "Fela meu amor! Muito obrigado por tudo, em especial pelo seu carinho e amizade fraterna! Gratidão!",
+   "editorial_note": "Resposta à parabenização de Vorcaro pela eleição para a presidência do Senado. “Fela” conforme transcrito pelo veículo (grafia provável de “Fala”); erros de digitação são mantidos.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "davi-alcolumbre",
+   "content_kind": "verbatim",
+   "content": "Sou seu irmão!!!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "davi-alcolumbre",
+   "content_kind": "verbatim",
+   "content": "Pra vida toda!!!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "A qualquer tempo pra qualquer coisa. Nunca vou esquecer",
+   "editorial_note": "Na reportagem, precedido de “E eu seu [irmão]” — colchete editorial do veículo; o texto integral desse trecho não foi divulgado. A mensagem veio acompanhada de emojis de coração.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Fala irmãozão! Se tiver notícias do nosso amigo me chame! Abração",
+   "editorial_note": "A reportagem registra que não há identificação do “amigo” citado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "davi-alcolumbre",
+   "content_kind": "verbatim",
+   "content": "Estou em cima. Pressão!!!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

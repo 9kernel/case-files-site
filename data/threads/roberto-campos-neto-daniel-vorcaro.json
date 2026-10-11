@@ -1,0 +1,188 @@
+{
+ "id": "roberto-campos-neto-daniel-vorcaro",
+ "title": "Roberto Campos Neto",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "roberto-campos-neto"
+ ],
+ "source": {
+  "document": "C-Level/Folha — “Mensagens mostram que Campos Neto convidou Vorcaro para encontro em casa quando presidia BC” (01/10/2026)",
+  "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml",
+  "pages": "Reportagens da coluna Lauro Jardim (O Globo, 30/09/2026) e C-Level/Folha (01/10/2026) sobre mensagens extraídas pela PF. O encontro de dezembro/2023 foi cancelado e substituído por reunião na sede do BC (Av. Paulista), das 17h às 18h, fechada à imprensa. Horários das mensagens não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-11-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "apresentar o trabalho que estamos desenvolvendo no banco e nossas perspectivas",
+   "editorial_note": "Vorcaro pedia encontro; o trecho entre aspas é reproduzido pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "C-Level/Folha",
+      "date": "2026-10-01",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml"
+     }
+    ]
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-03-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Merecido! Parabéns!",
+   "editorial_note": "Resposta a uma imagem não recuperada pela reportagem; coincide com o BC ser eleito banco central do ano (Central Banking Awards 2024).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "C-Level/Folha",
+      "date": "2026-10-01",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml"
+     }
+    ]
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "roberto-campos-neto",
+   "content_kind": "verbatim",
+   "content": "Muito obrigado, Daniel. Um grande abraço e sucesso",
+   "editorial_note": "Agradecimento do então presidente do BC.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "C-Level/Folha",
+      "date": "2026-10-01",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml"
+     }
+    ]
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2023-12-20",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Campos Neto propõe encontro em 22/12 (presencial ou por vídeo) ou na semana seguinte na Fazenda Boa Vista, em Porto Feliz (SP), onde estaria com a família, e diz que depois passaria o endereço.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2023-12-21",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Na véspera, Campos Neto confirma o convite e menciona morar no mesmo condomínio de um diretor da XP; o encontro em casa foi cancelado por causa de dedetização do imóvel.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00003",
+   "date": "2023-12-22",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Reunião substituída por encontro na sede do BC na Av. Paulista (São Paulo), das 17h às 18h, fechada à imprensa.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "C-Level/Folha, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

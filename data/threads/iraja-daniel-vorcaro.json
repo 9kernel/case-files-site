@@ -1,0 +1,608 @@
+{
+ "id": "iraja-daniel-vorcaro",
+ "title": "Irajá",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "iraja"
+ ],
+ "source": {
+  "document": "UOL / coluna Lauro Jardim (O Globo) — “Mensagens: senador do PSD-TO para Vorcaro” (30/09/2026)",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm",
+  "pages": "Reportagem do UOL com base na coluna de Lauro Jardim (O Globo, 30/09/2026), sobre mensagens obtidas pela PF no celular apreendido de Vorcaro em 17/11/2025. O gabinete do senador afirma que o único assunto tratado foi o PL 2.234/2022, do qual é relator. Erros de digitação mantidos conforme divulgados. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-10-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Cadê nossas norueguesas!? Rs",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-10-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Hehe. Vamos ter que mandar alguém la buscar",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Eu busco. Mande contato. Ou vc não tem prestígio suficiente? Rs",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-10-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Oi líder conseguiu viajar!?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-10-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Fala hermano. Yes. Bora pra dubai?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-10-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Muito obrigado pelo convite, queria muito, mas tenho q voltar amanhã.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-10-18",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Líder chegou bem de Dubai? Se puder te incluir aqui um grupo de zap de amigos me avise",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-10-18",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Bora",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Bom dia líder",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Fala irmão. Joia? Vamos encontrar?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Vc conseguiria passar em casa? Estou com agenda louca aqui e depois ja volto sp.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Queria ter a honra de recebê-lo aqui no gabinete mas passo aí caso não possa.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-04-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Estamos num momento bem complicado aqui",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00014",
+   "date": "2025-04-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Compreendo e estou a disposição p ajudar inclusive",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00015",
+   "date": "2025-04-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "iraja",
+   "content_kind": "verbatim",
+   "content": "Vem terça ou quarta!? Preciso muito da sua orientação naquela agenda, até hoje nada e suspenso total, tá me prejudicando demais...",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / coluna Lauro Jardim (O Globo)",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-03-13",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Vorcaro envia o endereço de sua casa no Lago Sul (Brasília) e, a pedido do senador, o contato de “Reinaldo Master Investimento”. Irajá envia link do PL 2.234/2022, do qual é relator (jogos de azar).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2025-07",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Conversa de julho/2025 menciona viagem e encontro em Saint-Tropez (França).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00003",
+   "date": "2025-08",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Irajá desiste da reeleição, alegando preterição pelo PSD no Tocantins.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL / coluna Lauro Jardim (O Globo), 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

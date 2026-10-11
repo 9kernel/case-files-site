@@ -1,0 +1,289 @@
+{
+ "id": "luciano-huck-daniel-vorcaro",
+ "title": "Luciano Huck",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "luciano-huck"
+ ],
+ "source": {
+  "document": "Poder360 — “Leia as mensagens entre Luciano Huck e Daniel Vorcaro” (30/09/2026)",
+  "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/",
+  "pages": "Reportagem do Poder360 (30/09/2026) com acesso ao conteúdo da conversa extraída da PF. Citações em texto conforme publicadas; mensagens divulgadas apenas em imagem pela reportagem aparecem como eventos editoriais, sem transcrição. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-08-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luciano-huck",
+   "content_kind": "verbatim",
+   "content": "Alguma chance de usar o seu Falcon para fazer um bate e volta em Varsóvia?",
+   "editorial_note": "Pedido ligado à viagem em que Huck foi a Varsóvia e Kiev entrevistar o presidente Zelensky, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-10-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luciano-huck",
+   "content_kind": "verbatim",
+   "content": "Boa conversa ontem. Cabeça pensando muito aqui. Bora seguir construindo as ideias",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Gostei demais também! Vamos avançar!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-10-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luciano-huck",
+   "content_kind": "verbatim_excerpt",
+   "content": "começando um capítulo relevante na construção de uma marca que os brasileiros vão admirar",
+   "editorial_note": "Trecho da mensagem enviada após um jantar, conforme reproduzido pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2023-11-05",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Início da conversa entre Huck e Vorcaro, com registro de encontro, conforme a reportagem (transcrição não publicada).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-05-04",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Huck convida Vorcaro para o show de Madonna, no Rio (divulgado em imagem, sem transcrição).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00003",
+   "date": "2024-05-06",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Huck pede avião para viagem a Canoas (RS); novo pedido em 09/05/2024 (imagens, sem transcrição).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00004",
+   "date": "2024-12-14",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Huck convida Vorcaro para uma pizza com Ronaldo Fenômeno (imagem, sem transcrição).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00005",
+   "date": "2025-10-28",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Huck cita R$ 83 milhões ligados ao Will Bank e R$ 26 milhões de “contrato pessoal” (imagem, sem transcrição).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00006",
+   "date": "2025-11-17",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Última mensagem da conversa registrada pela reportagem: parabéns de Huck pela compra do Master pelo grupo Fictor, no dia da prisão de Vorcaro (imagem, sem transcrição).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Poder360, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "id": "nikolas-ferreira-daniel-vorcaro",
+ "title": "Nikolas Ferreira",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "nikolas-ferreira"
+ ],
+ "source": {
+  "document": "g1/GloboNews — “Nikolas e Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre as mensagens” (04/09/2026)",
+  "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml",
+  "pages": "Transcrição do áudio pela GloboNews e publicada pelo g1 (04/09/2026). Nikolas nega irregularidade e afirma que a negociação não prosperou; houve tentativa de retirada do ar de reportagens (TRE-MG) e a Justiça liberou a veiculação. Não reproduzimos transcrições contestadas judicialmente. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "nikolas-ferreira",
+   "content_kind": "audio_transcript",
+   "content": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo que o senhor, assim, pode o ajudar a resolver o problema do ativo dele, né? O que ele tá tentando resolver com a Justiça, com o TSE… Porque assim, ele já ganhou um processo na eleição, na Justiça Eleitoral, e aí assim, esse ativo ficou retido, né, e tá travado. Ele tem um processo no Tribunal Superior Eleitoral e, se for possível o senhor interceder por ele, dar um apoio, ajudar a resolver, ele vai ficar muito grato. Não é nem uma coisa assim, vamos dizer, ilegal, se for pra fazer algo que não é correto, eu não estaria te pedindo, lógico. Então, o que ele precisa é de um apoio, alguém que conhece as pessoas lá, que possa acelerar, que possa, de fato, dar uma luz nesse processo pra ele, né? E é isso, se for possível o senhor ajudar, ele vai ficar eternamente grato, vai ficar grato comigo também porque eu tô intermediando aqui.",
+   "editorial_note": "Áudio de 30/03/2025; pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria. Transcrição integral publicada pela GloboNews/g1.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "g1/GloboNews",
+      "date": "2026-09-04",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml"
+     }
+    ]
+   },
+   "source_ref": "g1/GloboNews, 04/09/2026",
+   "added_in": "ingest-imprensa-20261011",
+   "transcription": {
+    "kind": "publisher_transcription",
+    "source": "GloboNews (via g1)",
+    "complete": true
+   },
+   "transcription_complete": true,
+   "media": {
+    "status": "transcript_only",
+    "official_media_located": false
+   }
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Amém, irmão. Estamos na guerra juntos",
+   "editorial_note": "Resposta ao áudio, em mensagem de visualização única; a data não foi divulgada pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "g1/GloboNews",
+      "date": "2026-09-04",
+      "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml"
+     }
+    ]
+   },
+   "source_ref": "g1/GloboNews, 04/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-04-01",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Nikolas avisa que Thiago Rodrigues de Faria estaria em Brasília.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "g1/GloboNews, 04/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-04",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "g1/GloboNews, 04/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

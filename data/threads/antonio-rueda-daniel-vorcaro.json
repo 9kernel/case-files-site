@@ -1,0 +1,444 @@
+{
+ "id": "antonio-rueda-daniel-vorcaro",
+ "title": "Antonio Rueda",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "antonio-rueda"
+ ],
+ "source": {
+  "document": "UOL / O Globo — “Mensagens mostram Vorcaro cedendo avião a Rueda em viagem a Miami e colocando aeronave à disposição” (01/10/2026)",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm",
+  "pages": "Reportagem do UOL com base no jornal O Globo (01/10/2026). Erros de digitação mantidos conforme divulgados. A menção de Vorcaro e Ana Matos a Rueda em evento de Londres (18/07/2025) está documentada no IPJ-A nº 3298613/2026 (peça pública) e aparece na thread de Ana Matos. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-12-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Cara do avião. Pra marcar todo voo",
+   "editorial_note": "Mensagem entre 20 e 22/12/2023, acompanhada do envio do contato de um piloto para agendamentos.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2023-12-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Resolvi ir de comercial p Miami. Obrigado. Precisando te aviso",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2023-12-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Já tinha deixado até reservado! Usa como seu",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-03-12",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Duro. Firme. Cuida de mim",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-05-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Me dá notícias do roteiro",
+   "editorial_note": "Viagem Rio–Miami para o GP de Fórmula 1.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-05-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "O outro avião já tá no Galeão esperando vocês!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00007",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Nos vamos amanhã cedo lá, e vamos juntos pra corrida. Abração",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-05-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Me livro de um BO gigante levando as minhas duas malinhas.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-05-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Eu tô aqui na alfândega",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-06-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Vc manda príncipe dos príncipes",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-06-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Irmão minha filha é minha esposa pode pegar uma carona c vc?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-07-18",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Em conversa com Ana Matos sobre o evento de Londres, Vorcaro descarta Rueda como moderador de painel: “De jeito nenhum” e “Alexandre morre se vc fazer isso” — documento oficial IPJ-A nº 3298613/2026 (PET 16662/STF), fl. 192; ver thread de Ana Matos.",
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 192,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": true,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL / O Globo, 01/10/2026",
+   "added_in": "ingest-imprensa-20261011",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 192
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 192,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": [
+     {
+      "publication": "UOL / O Globo",
+      "date": "2026-10-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm"
+     }
+    ]
+   }
+  }
+ ]
+}

@@ -1,23 +1,5 @@
 [
  {
-  "id": "thiago-miranda-daniel-vorcaro",
-  "title": "Thiago Miranda",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "thiago-miranda"
-  ],
-  "message_count": 33,
-  "last_message_preview": "Cara, desculpa te perturbar com esse tema…",
-  "featured": false,
-  "note": "O intermediário (publicitário e lobista, então presidente do Portal Leo Dias) articulando encontros, contrato do filme e cobrando pagamentos.",
-  "source": {
-   "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
-   "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
-   "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
-  },
-  "last_message_date": "2025-11-12"
- },
- {
   "id": "alexandre-moraes-daniel-vorcaro",
   "title": "Alexandre de Moraes",
   "participants_ids": [
@@ -52,6 +34,24 @@
    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
   },
   "last_message_date": "2025-11-16"
+ },
+ {
+  "id": "thiago-miranda-daniel-vorcaro",
+  "title": "Thiago Miranda",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "thiago-miranda"
+  ],
+  "message_count": 33,
+  "last_message_preview": "Cara, desculpa te perturbar com esse tema…",
+  "featured": false,
+  "note": "O intermediário (publicitário e lobista, então presidente do Portal Leo Dias) articulando encontros, contrato do filme e cobrando pagamentos.",
+  "source": {
+   "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+   "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+   "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
+  },
+  "last_message_date": "2025-11-12"
  },
  {
   "id": "vanessa-souza-daniel-vorcaro",
@@ -90,6 +90,204 @@
   "last_message_date": "2025-09-11"
  },
  {
+  "id": "leonardo-palhares-daniel-vorcaro",
+  "title": "Leonardo Palhares",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "leonardo-palhares"
+  ],
+  "message_count": 15,
+  "last_message_date": "2025-07-24",
+  "last_message_preview": "O Guilherme está conferindo com a chefe dele se vão adotar uma estrutura diferente para a ",
+  "featured": false,
+  "note": "Advogado de Vorcaro no segundo contrato do escritório (Vikings / dação em pagamento de aeronaves).",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "ana-claudia-financeiro-daniel-vorcaro",
+  "title": "Ana Claudia",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "ana-claudia-financeiro"
+  ],
+  "message_count": 1,
+  "last_message_date": "2025-07-24",
+  "last_message_preview": "está pedindo para pagar",
+  "featured": false,
+  "note": "Fatura do Escritório Barci de Moraes à Viking: R$ 22.815.120,95.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "ana-matos-daniel-vorcaro",
+  "title": "Ana Matos",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "ana-matos"
+  ],
+  "message_count": 9,
+  "last_message_date": "2025-07-22",
+  "last_message_preview": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
+  "featured": false,
+  "note": "Organização dos Fóruns de Londres: listas, convites e reclamações atribuídas a “Alexandre”.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "hugo-motta-daniel-vorcaro",
+  "title": "Hugo Motta",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "hugo-motta"
+  ],
+  "message_count": 4,
+  "last_message_preview": "seria uma reunião demorada",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "CNN Brasil / Jornal Grande Bahia — “Hugo Motta e Daniel Vorcaro trocaram 202 ligações e marcaram 19 encontros…” (30/09/2026)",
+   "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/",
+   "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados."
+  },
+  "last_message_date": "2025-07-17"
+ },
+ {
+  "id": "davi-alcolumbre-daniel-vorcaro",
+  "title": "Davi Alcolumbre",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "davi-alcolumbre"
+  ],
+  "message_count": 6,
+  "last_message_preview": "Estou em cima. Pressão!!!",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "CNN Brasil (blog Matheus Teixeira) — “Mensagens apontam relação de amizade entre Vorcaro e Alcolumbre” (25/09/2026; orig. Veja)",
+   "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/",
+   "pages": "Reportagem original da Veja confirmada pela CNN (25/09/2026). A presidência do Senado classificou as “supostas mensagens” como de teor pessoal, falou em “falsas acusações” e anunciou medidas judiciais. Horários não divulgados."
+  },
+  "last_message_date": "2025-07-17"
+ },
+ {
+  "id": "marcos-da-mata-daniel-vorcaro",
+  "title": "Marcos da Mata",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "marcos-da-mata"
+  ],
+  "message_count": 8,
+  "last_message_date": "2025-07-16",
+  "last_message_preview": "Sim, estamos gostando muito",
+  "featured": false,
+  "note": "Prime You: brochura de aeronaves para Viviane de Moraes e mudança de empresa no contrato.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "ciro-soares-daniel-vorcaro",
+  "title": "Ciro Soares",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "ciro-soares"
+  ],
+  "message_count": 24,
+  "last_message_date": "2025-06-19",
+  "last_message_preview": "Obvio",
+  "featured": false,
+  "note": "Mensagens e áudios atribuídos a “Gonet”, sempre ENCAMINHADOS por Ciro — contato direto com o PGR não demonstrado no documento.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "iraja-daniel-vorcaro",
+  "title": "Irajá",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "iraja"
+  ],
+  "message_count": 15,
+  "last_message_preview": "Vem terça ou quarta!? Preciso muito da sua orientação naq…",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "UOL / coluna Lauro Jardim (O Globo) — “Mensagens: senador do PSD-TO para Vorcaro” (30/09/2026)",
+   "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/30/mensagens-senador-do-psd-to-para-vorcaro.ghtm",
+   "pages": "Reportagem do UOL com base na coluna de Lauro Jardim (O Globo, 30/09/2026), sobre mensagens obtidas pela PF no celular apreendido de Vorcaro em 17/11/2025. O gabinete do senador afirma que o único assunto tratado foi o PL 2.234/2022, do qual é relator. Erros de digitação mantidos conforme divulgados. Horários não divulgados."
+  },
+  "last_message_date": "2025-04-17"
+ },
+ {
+  "id": "nikolas-ferreira-daniel-vorcaro",
+  "title": "Nikolas Ferreira",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "nikolas-ferreira"
+  ],
+  "message_count": 2,
+  "last_message_preview": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu a…",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "g1/GloboNews — “Nikolas e Vorcaro: ouça ÁUDIO, leia transcrição e veja o que deputado falou sobre as mensagens” (04/09/2026)",
+   "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml",
+   "pages": "Transcrição do áudio pela GloboNews e publicada pelo g1 (04/09/2026). Nikolas nega irregularidade e afirma que a negociação não prosperou; houve tentativa de retirada do ar de reportagens (TRE-MG) e a Justiça liberou a veiculação. Não reproduzimos transcrições contestadas judicialmente. Horários não divulgados."
+  },
+  "last_message_date": "2025-03-30"
+ },
+ {
+  "id": "paulo-sergio-daniel-vorcaro",
+  "title": "Paulo Sergio",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "paulo-sergio"
+  ],
+  "message_count": 1,
+  "last_message_date": "2025-03-19",
+  "last_message_preview": "com Moraes aqui",
+  "featured": false,
+  "note": "Diretor do Banco Central: “com Moraes aqui”.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "cezinha-de-madureira-daniel-vorcaro",
+  "title": "Cezinha de Madureira",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "cezinha-de-madureira"
+  ],
+  "message_count": 8,
+  "last_message_preview": "Ministro já está te esperando.",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "CartaCapital — “Mensagens indicam encontro entre Vorcaro e André Mendonça em São Paulo” (02/09/2026; orig. Paulo Motoryn)",
+   "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/",
+   "pages": "Reportagem da CartaCapital (02/09/2026) sobre material obtido pela newsletter de Paulo Motoryn. O encontro com o ministro André Mendonça ocorreu em 14/03/2025 no Instituto ITER (Alameda Santos, 647, São Paulo); Vorcaro permaneceu cerca de duas horas, segundo a sequência divulgada. O gabinete de Mendonça afirma que o recebeu uma única vez, por iniciativa do empresário, tratando da STP 976. Horários das mensagens conforme divulgados."
+  },
+  "last_message_date": "2025-03-14"
+ },
+ {
   "id": "flavio-carneiro-daniel-vorcaro",
   "title": "Flávio Carneiro",
   "participants_ids": [
@@ -126,179 +324,71 @@
   "last_message_date": "2024-12-22"
  },
  {
-  "id": "fabio-faria-daniel-vorcaro",
-  "title": "Fábio Faria",
+  "id": "rodrigo-fux-daniel-vorcaro",
+  "title": "Rodrigo Fux",
   "participants_ids": [
    "daniel-vorcaro",
-   "fabio-faria"
-  ],
-  "message_count": 20,
-  "last_message_date": "2024-04-06",
-  "last_message_preview": "18h na casa do Alexandre",
-  "featured": false,
-  "note": "Compartilhou com Vorcaro os contatos salvos como “Alexandre de Moraes BRASILIA”; áudio de 21/12/2023 transcrito integralmente pela PF.",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "viviane-de-moraes-daniel-vorcaro",
-  "title": "Viviane de Moraes",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "viviane-de-moraes"
-  ],
-  "message_count": 3,
-  "last_message_date": "2024-01-17",
-  "last_message_preview": "Mídia registrada no documento",
-  "featured": false,
-  "note": "Minuta e versão final do primeiro contrato do Escritório Barci de Moraes com o Banco Master (R$ 3 milhões mensais, conforme o relatório).",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "ana-matos-daniel-vorcaro",
-  "title": "Ana Matos",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "ana-matos"
-  ],
-  "message_count": 9,
-  "last_message_date": "2025-07-22",
-  "last_message_preview": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
-  "featured": false,
-  "note": "Organização dos Fóruns de Londres: listas, convites e reclamações atribuídas a “Alexandre”.",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "ciro-soares-daniel-vorcaro",
-  "title": "Ciro Soares",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "ciro-soares"
-  ],
-  "message_count": 24,
-  "last_message_date": "2025-06-19",
-  "last_message_preview": "Obvio",
-  "featured": false,
-  "note": "Mensagens e áudios atribuídos a “Gonet”, sempre ENCAMINHADOS por Ciro — contato direto com o PGR não demonstrado no documento.",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "leonardo-palhares-daniel-vorcaro",
-  "title": "Leonardo Palhares",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "leonardo-palhares"
-  ],
-  "message_count": 15,
-  "last_message_date": "2025-07-24",
-  "last_message_preview": "O Guilherme está conferindo com a chefe dele se vão adotar uma estrutura diferente para a ",
-  "featured": false,
-  "note": "Advogado de Vorcaro no segundo contrato do escritório (Vikings / dação em pagamento de aeronaves).",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "angelo-silva-daniel-vorcaro",
-  "title": "Angelo Silva",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "angelo-silva"
+   "rodrigo-fux"
   ],
   "message_count": 5,
-  "last_message_date": "2024-03-15",
-  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq outra vinculação.",
+  "last_message_preview": "Quero te chamar para me ajudar num caso",
   "featured": false,
-  "note": "Comprovantes e execução dos pagamentos ao Escritório Barci de Moraes.",
+  "note": null,
   "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
+   "document": "Jovem Pan (com UOL) — “‘Tapete vermelho, irmão’: filho de Fux trocou mensagens e participou de eventos com Vorcaro” (15/09/2026)",
+   "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/",
+   "pages": "Reportagem do UOL reproduzida pela Jovem Pan (15/09/2026): mensagens de maio/2024 a agosto/2025, com encontros combinados em Brasília, Rio e São Paulo. Os registros não confirmam, em todos os casos, se os encontros ocorreram. Horários das mensagens não divulgados (horários citados no corpo das mensagens são conteúdo literal)."
+  },
+  "last_message_date": "2024-11-05"
  },
  {
-  "id": "marcos-da-mata-daniel-vorcaro",
-  "title": "Marcos da Mata",
+  "id": "luciano-huck-daniel-vorcaro",
+  "title": "Luciano Huck",
   "participants_ids": [
    "daniel-vorcaro",
-   "marcos-da-mata"
+   "luciano-huck"
   ],
-  "message_count": 8,
-  "last_message_date": "2025-07-16",
-  "last_message_preview": "Sim, estamos gostando muito",
+  "message_count": 4,
+  "last_message_preview": "começando um capítulo relevante na construção de uma marc…",
   "featured": false,
-  "note": "Prime You: brochura de aeronaves para Viviane de Moraes e mudança de empresa no contrato.",
+  "note": null,
   "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
+   "document": "Poder360 — “Leia as mensagens entre Luciano Huck e Daniel Vorcaro” (30/09/2026)",
+   "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro/",
+   "pages": "Reportagem do Poder360 (30/09/2026) com acesso ao conteúdo da conversa extraída da PF. Citações em texto conforme publicadas; mensagens divulgadas apenas em imagem pela reportagem aparecem como eventos editoriais, sem transcrição. Horários não divulgados."
+  },
+  "last_message_date": "2024-10-29"
  },
  {
-  "id": "romy-banco-master-daniel-vorcaro",
-  "title": "Romy",
+  "id": "antonio-rueda-daniel-vorcaro",
+  "title": "Antonio Rueda",
   "participants_ids": [
    "daniel-vorcaro",
-   "romy-banco-master"
+   "antonio-rueda"
   ],
-  "message_count": 5,
-  "last_message_date": "2024-03-15",
-  "last_message_preview": "Mídia registrada no documento",
+  "message_count": 11,
+  "last_message_preview": "Irmão minha filha é minha esposa pode pegar uma carona c vc?",
   "featured": false,
-  "note": "Orientações de Vorcaro para o pagamento “sempre, sem nota” ao escritório.",
+  "note": null,
   "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
+   "document": "UOL / O Globo — “Mensagens mostram Vorcaro cedendo avião a Rueda em viagem a Miami e colocando aeronave à disposição” (01/10/2026)",
+   "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm",
+   "pages": "Reportagem do UOL com base no jornal O Globo (01/10/2026). Erros de digitação mantidos conforme divulgados. A menção de Vorcaro e Ana Matos a Rueda em evento de Londres (18/07/2025) está documentada no IPJ-A nº 3298613/2026 (peça pública) e aparece na thread de Ana Matos. Horários não divulgados."
+  },
+  "last_message_date": "2024-06-13"
  },
  {
-  "id": "alberto-felix-daniel-vorcaro",
-  "title": "Alberto Felix",
+  "id": "geraldo-brazil-journal-daniel-vorcaro",
+  "title": "Geraldo (Brazil Journal)",
   "participants_ids": [
    "daniel-vorcaro",
-   "alberto-felix"
+   "geraldo-brazil-journal"
   ],
-  "message_count": 0,
-  "last_message_date": null,
-  "last_message_preview": "",
+  "message_count": 1,
+  "last_message_date": "2024-04-26",
+  "last_message_preview": "os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro",
   "featured": false,
-  "note": "Orientações de pagamento ao escritório (incluindo proibição de PIX).",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
-  "id": "marcio-conjur-daniel-vorcaro",
-  "title": "Marcio Conjur",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "marcio-conjur"
-  ],
-  "message_count": 6,
-  "last_message_date": "2024-04-03",
-  "last_message_preview": "Todas as despesas bancadas por nós",
-  "featured": false,
-  "note": "Convites do evento de Londres, inclusive ao Diretor-Geral da PF (nome do contato como salvo no aparelho).",
+  "note": "Repassa pedido atribuído ao ministro para incluir informação sobre encontro com Tony Blair em matéria jornalística.",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -324,17 +414,17 @@
   }
  },
  {
-  "id": "geraldo-brazil-journal-daniel-vorcaro",
-  "title": "Geraldo (Brazil Journal)",
+  "id": "fabio-faria-daniel-vorcaro",
+  "title": "Fábio Faria",
   "participants_ids": [
    "daniel-vorcaro",
-   "geraldo-brazil-journal"
+   "fabio-faria"
   ],
-  "message_count": 1,
-  "last_message_date": "2024-04-26",
-  "last_message_preview": "os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro",
+  "message_count": 20,
+  "last_message_date": "2024-04-06",
+  "last_message_preview": "18h na casa do Alexandre",
   "featured": false,
-  "note": "Repassa pedido atribuído ao ministro para incluir informação sobre encontro com Tony Blair em matéria jornalística.",
+  "note": "Compartilhou com Vorcaro os contatos salvos como “Alexandre de Moraes BRASILIA”; áudio de 21/12/2023 transcrito integralmente pela PF.",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -342,17 +432,17 @@
   }
  },
  {
-  "id": "paulo-sergio-daniel-vorcaro",
-  "title": "Paulo Sergio",
+  "id": "marcio-conjur-daniel-vorcaro",
+  "title": "Marcio Conjur",
   "participants_ids": [
    "daniel-vorcaro",
-   "paulo-sergio"
+   "marcio-conjur"
   ],
-  "message_count": 1,
-  "last_message_date": "2025-03-19",
-  "last_message_preview": "com Moraes aqui",
+  "message_count": 6,
+  "last_message_date": "2024-04-03",
+  "last_message_preview": "Todas as despesas bancadas por nós",
   "featured": false,
-  "note": "Diretor do Banco Central: “com Moraes aqui”.",
+  "note": "Convites do evento de Londres, inclusive ao Diretor-Geral da PF (nome do contato como salvo no aparelho).",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -360,17 +450,107 @@
   }
  },
  {
-  "id": "ana-claudia-financeiro-daniel-vorcaro",
-  "title": "Ana Claudia",
+  "id": "angelo-silva-daniel-vorcaro",
+  "title": "Angelo Silva",
   "participants_ids": [
    "daniel-vorcaro",
-   "ana-claudia-financeiro"
+   "angelo-silva"
   ],
-  "message_count": 1,
-  "last_message_date": "2025-07-24",
-  "last_message_preview": "está pedindo para pagar",
+  "message_count": 5,
+  "last_message_date": "2024-03-15",
+  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq outra vinculação.",
   "featured": false,
-  "note": "Fatura do Escritório Barci de Moraes à Viking: R$ 22.815.120,95.",
+  "note": "Comprovantes e execução dos pagamentos ao Escritório Barci de Moraes.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "romy-banco-master-daniel-vorcaro",
+  "title": "Romy",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "romy-banco-master"
+  ],
+  "message_count": 5,
+  "last_message_date": "2024-03-15",
+  "last_message_preview": "Mídia registrada no documento",
+  "featured": false,
+  "note": "Orientações de Vorcaro para o pagamento “sempre, sem nota” ao escritório.",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "roberto-campos-neto-daniel-vorcaro",
+  "title": "Roberto Campos Neto",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "roberto-campos-neto"
+  ],
+  "message_count": 3,
+  "last_message_preview": "Muito obrigado, Daniel. Um grande abraço e sucesso",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "C-Level/Folha — “Mensagens mostram que Campos Neto convidou Vorcaro para encontro em casa quando presidia BC” (01/10/2026)",
+   "url": "https://c-level.folha.uol.com.br/financas/2026/10/mensagens-mostram-que-campos-neto-convidou-vorcaro-para-encontro-em-casa-quando-presidia-bc.shtml",
+   "pages": "Reportagens da coluna Lauro Jardim (O Globo, 30/09/2026) e C-Level/Folha (01/10/2026) sobre mensagens extraídas pela PF. O encontro de dezembro/2023 foi cancelado e substituído por reunião na sede do BC (Av. Paulista), das 17h às 18h, fechada à imprensa. Horários das mensagens não divulgados."
+  },
+  "last_message_date": "2024-03-13"
+ },
+ {
+  "id": "viviane-de-moraes-daniel-vorcaro",
+  "title": "Viviane de Moraes",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "viviane-de-moraes"
+  ],
+  "message_count": 3,
+  "last_message_date": "2024-01-17",
+  "last_message_preview": "Mídia registrada no documento",
+  "featured": false,
+  "note": "Minuta e versão final do primeiro contrato do Escritório Barci de Moraes com o Banco Master (R$ 3 milhões mensais, conforme o relatório).",
+  "source": {
+   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
+   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
+   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "yasmin-brunet-daniel-vorcaro",
+  "title": "Yasmin Brunet",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "yasmin-brunet"
+  ],
+  "message_count": 16,
+  "last_message_preview": "Desculpa não ter falado do BBB, mas não podia falar pra n…",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "Veja — “Mensagens da PF revelam amizade cheia de aventuras de Vorcaro com Yasmin Brunet” (02/10/2026)",
+   "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/",
+   "pages": "Reportagem da Veja (02/10/2026), com citações truncadas pela própria revista (marcação “…” onde houve corte). Aplicamos minimização editorial: trechos de teor estritamente pessoal e ofensas a terceiros não são reproduzidos. Horários não divulgados."
+  },
+  "last_message_date": "2023-12-31"
+ },
+ {
+  "id": "alberto-felix-daniel-vorcaro",
+  "title": "Alberto Felix",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "alberto-felix"
+  ],
+  "message_count": 0,
+  "last_message_date": null,
+  "last_message_preview": "",
+  "featured": false,
+  "note": "Orientações de pagamento ao escritório (incluindo proibição de PIX).",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -424,5 +604,41 @@
   "last_message_preview": "Se mandarmos alguém para a Bahia no final de semana para ver com eles, não funci",
   "featured": false,
   "note": "Então presidente do BRB segundo o IPJ-A 1252786/2026. Tratativas de operações entre BRB e Banco Master: cessão de carteiras, FIP, XP. Citações literais com página/figura."
+ },
+ {
+  "id": "joao-doria-daniel-vorcaro",
+  "title": "João Doria",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "joao-doria"
+  ],
+  "message_count": 6,
+  "last_message_preview": "",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "CNN Brasil (blog Gustavo Uribe) — “Em mensagem, Doria se diz preocupado com Vorcaro e pede conversa reservada” (05/03/2026)",
+   "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/",
+   "pages": "Reportagem da CNN (05/03/2026): o diálogo consta no relatório da PF de 218 páginas (IPJ-A nº 3298613/2026, peça pública do PET 16662/STF); a página específica não foi divulgada. Data de maio/2025 conforme a assessoria de Doria. Horários não divulgados."
+  },
+  "last_message_date": null
+ },
+ {
+  "id": "marcus-vinicius-daniel-vorcaro",
+  "title": "Marcus Vinicius (advogado)",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "marcus-vinicius"
+  ],
+  "message_count": 1,
+  "last_message_preview": "O André Mendonça me convidou pra ir pra casa dele na terç…",
+  "featured": false,
+  "note": null,
+  "source": {
+   "document": "UOL/Folha — “Diálogos de Vorcaro que citam filhos de ministros vazam antes de julgamento” (15/09/2026)",
+   "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/15/dialogos-de-vorcaro-que-citam-filhos-de-ministros-vazam-antes-de-julgamento.htm",
+   "pages": "Reportagem do UOL/Folha (15/09/2026) sobre diálogos que citam filhos de ministros. O contato é identificado nas mensagens apenas como “Marcus Vinicius”, advogado; sobrenome e identidade civil não são divulgados — nada além disso é inferido aqui. Horários não divulgados."
+  },
+  "last_message_date": null
  }
 ]

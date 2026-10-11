@@ -1,0 +1,343 @@
+{
+ "id": "hugo-motta-daniel-vorcaro",
+ "title": "Hugo Motta",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "hugo-motta"
+ ],
+ "source": {
+  "document": "CNN Brasil / Jornal Grande Bahia — “Hugo Motta e Daniel Vorcaro trocaram 202 ligações e marcaram 19 encontros…” (30/09/2026)",
+  "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/",
+  "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-01-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "audio_transcript",
+   "content": "desejando saúde para continuarem cada vez mais juntos",
+   "editorial_note": "Trecho do áudio de réveillon transcrito pela reportagem; transcrição parcial do que foi divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil / Jornal Grande Bahia",
+      "date": "2026-09-30",
+      "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011",
+   "transcription": {
+    "kind": "publisher_transcription",
+    "source": "CNN/Jornal Grande Bahha",
+    "complete": false
+   },
+   "transcription_complete": false,
+   "media": {
+    "status": "transcript_only",
+    "official_media_located": false
+   }
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Perguntei Davi mas ele também não sabe",
+   "editorial_note": "Sobre a tentativa de compra do Banco Master pelo BRB, vetada pelo BC; na mesma data, Motta menciona que Galípolo iria à casa de Alcolumbre — o BC negou a reunião.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim",
+   "content": "Galípolo ficou de ir lá para casa de Davi quando encerrasse a reunião",
+   "editorial_note": "Continuação do trecho anterior; o BC negou ao veículo que houve reunião entre Galípolo e Alcolumbre naquele dia.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim",
+   "content": "seria uma reunião demorada",
+   "editorial_note": "Complemento da mesma sequência, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Matheus Teixeira)",
+      "date": "2026-09-25",
+      "url": "https://www.cnnbrasil.com.br/blogs/matheus-teixeira/politica/mensagens-apontam-relacao-de-amizade-entre-vorcaro-e-alcolumbre/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-03-09",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta menciona “formato de sociedade” em operação de área em João Pessoa (PB), conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-03-15",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta agradece a Vorcaro pela confiança e parceria; Vorcaro se refere ao início de uma parceria duradoura (paráfrase da reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00003",
+   "date": "2024-11-06",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Trocas sobre a articulação da eleição para a presidência da Câmara; Motta explica que falaria individualmente com os parlamentares após negociar com os partidos.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00004",
+   "date": "2024-11-19",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta diz que estava obtendo o texto do mercado de carbono aprovado no Senado para encaminhar a Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00005",
+   "date": "2025-02-01",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta é eleito presidente da Câmara com 444 votos; no mesmo dia Vorcaro parabeniza Alcolumbre (ver thread de Alcolumbre).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00006",
+   "date": "2025-03-01",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Registros de ingressos de Carnaval e uso de casa de Vorcaro em Brasília citados na reportagem (sem transcrição divulgada).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00007",
+   "date": "2025-03-23",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta pede estudo sobre o FGC (Fundo Garantidor de Créditos) e sugere conversa em Brasília; a reportagem cita a assistência de R$ 5,7 bilhões ao Master e R$ 40,6 bilhões em garantias.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00008",
+   "date": "2025-05-08",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Motta pergunta sobre o formato de uma reunião de caráter social; outros diálogos citam reunião na “Fazenda”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

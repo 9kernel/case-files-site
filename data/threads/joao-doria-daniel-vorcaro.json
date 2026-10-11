@@ -1,0 +1,210 @@
+{
+ "id": "joao-doria-daniel-vorcaro",
+ "title": "João Doria",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "joao-doria"
+ ],
+ "source": {
+  "document": "CNN Brasil (blog Gustavo Uribe) — “Em mensagem, Doria se diz preocupado com Vorcaro e pede conversa reservada” (05/03/2026)",
+  "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/",
+  "pages": "Reportagem da CNN (05/03/2026): o diálogo consta no relatório da PF de 218 páginas (IPJ-A nº 3298613/2026, peça pública do PET 16662/STF); a página específica não foi divulgada. Data de maio/2025 conforme a assessoria de Doria. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "joao-doria",
+   "content_kind": "verbatim",
+   "content": "Amigo Daniel, boa tarde. Estou preocupado com você. Tenho escutado coisas que vão precisar de reação sua. Sempre com equilíbrio e ponderação. Mas jamais com o silêncio. Vamos agendar um café?",
+   "editorial_note": "Data de maio/2025 divulgada pela assessoria de Doria; a reportagem não informa dia nem horário.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Com relação a que?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "joao-doria",
+   "content_kind": "verbatim",
+   "content": "A você, ao Maurício, ao banco. Reservadamente",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Não entendi bem, quer me ligar?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "joao-doria",
+   "content_kind": "verbatim",
+   "content": "Ligo já",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "sender_id": "joao-doria",
+   "content_kind": "call",
+   "content": "Chamada de voz",
+   "editorial_note": "Pela sequência divulgada, Doria ligou e a chamada não foi atendida; Vorcaro retornou em seguida.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil (blog Gustavo Uribe)",
+      "date": "2026-03-05",
+      "url": "https://www.cnnbrasil.com.br/blogs/gustavo-uribe/politica/em-mensagem-doria-se-diz-preocupado-com-vorcaro-e-pede-conversa-reservada/"
+     }
+    ]
+   },
+   "source_ref": "CNN Brasil (blog Gustavo Uribe), 05/03/2026",
+   "added_in": "ingest-imprensa-20261011",
+   "call_info": {
+    "direction": "in"
+   }
+  }
+ ]
+}

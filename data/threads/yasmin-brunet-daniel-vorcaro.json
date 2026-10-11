@@ -1,0 +1,580 @@
+{
+ "id": "yasmin-brunet-daniel-vorcaro",
+ "title": "Yasmin Brunet",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "yasmin-brunet"
+ ],
+ "source": {
+  "document": "Veja — “Mensagens da PF revelam amizade cheia de aventuras de Vorcaro com Yasmin Brunet” (02/10/2026)",
+  "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/",
+  "pages": "Reportagem da Veja (02/10/2026), com citações truncadas pela própria revista (marcação “…” onde houve corte). Aplicamos minimização editorial: trechos de teor estritamente pessoal e ofensas a terceiros não são reproduzidos. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-12-31",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nossa, desculpa tá falando isso hoje com você e imagino que nem de pra fazer, mas teria alguma chance de ir para o Ri…",
+   "editorial_note": "Pedido de viagem; o trecho foi truncado pela revista.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Pera aí. Deixa eu ver aqui como fazer. São quantas pessoas?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Só eu. Só que teria que parar no internacional (Galeão) porque no Santos Dumont tem fotógrafo",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Quer ir de helicóptero e parar em Jacarepaguá",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Eu tenho um pouco de medo de helicóptero",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Então vai avião mesmo",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, tudo bem? Eu sei que você tem uma equipe muito f… de hacker de segurança, né. Tô indo fazer uma viagem",
+   "editorial_note": "Janeiro/2024; truncado pela revista.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00008",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Sério? O que houve. Me explica",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Desculpa não ter falado do BBB, mas não podia falar pra ninguém",
+   "editorial_note": "Após o confinamento no BBB 25.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00010",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Eu entendo! Você tá bem? Como tá o pós? Aquilo ali é uma guerra psicológica",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00011",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu praticamente não aguentei. Eu surtei. kkkk…",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00012",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Vamoooos. Volto para São Paulo quinta de noite. Aí combinamos!!!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00013",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Fui avisada que vou ter que sair do apartamento. Gostaria de ver se existe a possibilidade de alugar ele para mim",
+   "editorial_note": "Sobre o apartamento de Vorcaro em São Paulo onde morava.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00014",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Claro. Eu consigo negociar lá. Me fala o que precisa",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00015",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "Eu amo esse apartamento muito, muito, muito. Queria muito ficar aqui",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00016",
+   "sender_id": "yasmin-brunet",
+   "content_kind": "verbatim",
+   "content": "O máximo possível que você puder. Continuar morando aqui não tem como?",
+   "editorial_note": "Sem resposta de Vorcaro na sequência divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-02",
+      "url": "https://veja.abril.com.br/brasil/mensagens-da-pf-revelam-amizade-cheia-de-aventuras-de-vorcaro-com-yasmin-brunet/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-01",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Durante o confinamento de Yasmin no BBB, funcionários de Vorcaro monitoravam o programa; um deles relata: “Eu pedi um lance para ver se a gente acelera a votação nela no próximo paredão.” Vorcaro dizia temer a exposição: “Mas não tem como ficar nessa, nesse risco, três meses”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "event_kind": "editorial_context",
+   "content": "A relação — quase dois anos de trocas, com empréstimo de aeronaves, apartamento em São Paulo e festa de aniversário — termina com o despejo do apartamento, segundo a reportagem. A data não foi divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Veja, 02/10/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

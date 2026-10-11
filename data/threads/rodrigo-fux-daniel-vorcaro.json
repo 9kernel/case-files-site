@@ -1,0 +1,268 @@
+{
+ "id": "rodrigo-fux-daniel-vorcaro",
+ "title": "Rodrigo Fux",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "rodrigo-fux"
+ ],
+ "source": {
+  "document": "Jovem Pan (com UOL) — “‘Tapete vermelho, irmão’: filho de Fux trocou mensagens e participou de eventos com Vorcaro” (15/09/2026)",
+  "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/",
+  "pages": "Reportagem do UOL reproduzida pela Jovem Pan (15/09/2026): mensagens de maio/2024 a agosto/2025, com encontros combinados em Brasília, Rio e São Paulo. Os registros não confirmam, em todos os casos, se os encontros ocorreram. Horários das mensagens não divulgados (horários citados no corpo das mensagens são conteúdo literal)."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-11-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Quero te chamar para me ajudar num caso",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan (com UOL)",
+      "date": "2026-09-15",
+      "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "rodrigo-fux",
+   "content_kind": "verbatim",
+   "content": "Será um prazer se eu puder ajudar",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan (com UOL)",
+      "date": "2026-09-15",
+      "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "rodrigo-fux",
+   "content_kind": "verbatim",
+   "content": "Tapete vermelho, irmão",
+   "editorial_note": "Ao combinar uma reunião; a data exata não foi divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan (com UOL)",
+      "date": "2026-09-15",
+      "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "rodrigo-fux",
+   "content_kind": "verbatim",
+   "content": "17:30 tô lá",
+   "editorial_note": "Após receber um endereço em Brasília.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan (com UOL)",
+      "date": "2026-09-15",
+      "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "rodrigo-fux",
+   "content_kind": "verbatim",
+   "content": "Bom dia. 10:30hs tô aí",
+   "editorial_note": "Em mensagem de março/2025, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan (com UOL)",
+      "date": "2026-09-15",
+      "url": "https://jovempan.com.br/politica/tapete-vermelho-irmao-filho-de-fux-trocou-mensagens-e-participou-de-eventos-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-11",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Videochamada sobre um caso e envio de documento para análise; o conteúdo não foi esclarecido pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-12",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Encontros combinados em Brasília, Rio e São Paulo entre dezembro/2024 e março/2025; em um caso, Rodrigo disse que sairia do STJ para se encontrar com Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00003",
+   "date": "2025-02",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Vorcaro oferece área reservada de camarote no Carnaval do Rio; Rodrigo envia dados dele, da esposa e de convidados.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00004",
+   "date": "2025-03",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Rodrigo orienta Vorcaro a enviar e-mail à secretária do ministro Luiz Fux no STF, com cópia para ele.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "Jovem Pan (com UOL), 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

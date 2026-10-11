@@ -1,0 +1,96 @@
+{
+ "id": "marcus-vinicius-daniel-vorcaro",
+ "title": "Marcus Vinicius (advogado)",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "marcus-vinicius"
+ ],
+ "source": {
+  "document": "UOL/Folha — “Diálogos de Vorcaro que citam filhos de ministros vazam antes de julgamento” (15/09/2026)",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/15/dialogos-de-vorcaro-que-citam-filhos-de-ministros-vazam-antes-de-julgamento.htm",
+  "pages": "Reportagem do UOL/Folha (15/09/2026) sobre diálogos que citam filhos de ministros. O contato é identificado nas mensagens apenas como “Marcus Vinicius”, advogado; sobrenome e identidade civil não são divulgados — nada além disso é inferido aqui. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "O André Mendonça me convidou pra ir pra casa dele na terça de noite...",
+   "editorial_note": "Trecho publicado; a continuação da mensagem não foi divulgada na íntegra.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL/Folha",
+      "date": "2026-09-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/15/dialogos-de-vorcaro-que-citam-filhos-de-ministros-vazam-antes-de-julgamento.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL/Folha, 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-04",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Vorcaro conversa com o advogado identificado como Marcus Vinicius sobre uma reunião com o então ministro André Mendonça, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL/Folha, 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-07-09",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Registro de jantar na sequência da conversa divulgada; a reportagem não detalha os participantes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "UOL/Folha, 15/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}

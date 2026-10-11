@@ -1,6 +1,6 @@
 # PUBLIC-PROVENANCE-AUDIT — Auditoria de publicidade e proveniência por mensagem
 
-Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-07**.
+Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-11**.
 Versão legível por máquina: [`data/audit/public-provenance-audit.json`](data/audit/public-provenance-audit.json).
 
 Regra máxima: a força da afirmação do site nunca pode ser maior que a força da
@@ -8,13 +8,13 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 ## Resultado
 
-- 25 threads · 384 registros (335 mensagens + 49 eventos)
-- **384 OK** · **0 com problema**
+- 37 threads · 497 registros (416 mensagens + 81 eventos)
+- **497 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
-| OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 74 |
+| OK_OFFICIAL | 276 |
+| OK_PUBLIC_INVESTIGATION | 186 |
 | OK_SECONDARY | 35 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |
@@ -26,7 +26,7 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 | Documento | Processo | e-Doc/peça | Publicidade | Mensagens | Eventos |
 |---|---|---|---|---|---|
-| `pf-ipja-3298613-2026` | PET 16662 | — | **confirmada** (2026-09-01) | 103 | 35 |
+| `pf-ipja-3298613-2026` | PET 16662 | — | **confirmada** (2026-09-01) | 103 | 36 |
 | `stf-inq-5070` | INQ 5070 | — | desconhecida (null) | 0 | 0 |
 | `pf-ipja-1070759-2026` | PET 15978 | 3 | **confirmada** (2026-09-15) | 1 | 0 |
 | `pf-ipja-1020625-2026` | PET 15978 | 4 | **confirmada** (2026-09-15) | 98 | 5 |

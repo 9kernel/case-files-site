@@ -1,0 +1,319 @@
+{
+ "id": "cezinha-de-madureira-daniel-vorcaro",
+ "title": "Cezinha de Madureira",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "cezinha-de-madureira"
+ ],
+ "source": {
+  "document": "CartaCapital — “Mensagens indicam encontro entre Vorcaro e André Mendonça em São Paulo” (02/09/2026; orig. Paulo Motoryn)",
+  "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/",
+  "pages": "Reportagem da CartaCapital (02/09/2026) sobre material obtido pela newsletter de Paulo Motoryn. O encontro com o ministro André Mendonça ocorreu em 14/03/2025 no Instituto ITER (Alameda Santos, 647, São Paulo); Vorcaro permaneceu cerca de duas horas, segundo a sequência divulgada. O gabinete de Mendonça afirma que o recebeu uma única vez, por iniciativa do empresário, tratando da STP 976. Horários das mensagens conforme divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "cezinha-de-madureira",
+   "content_kind": "verbatim",
+   "content": "Amanhã sexta-feira 17:00 com ministro André em São Paulo.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "cezinha-de-madureira",
+   "content_kind": "verbatim",
+   "content": "Alameda Santos, 647, 16º andar.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Show.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Marcado.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "cezinha-de-madureira",
+   "content_kind": "verbatim",
+   "content": "Estarei lá para te receber.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-03-14",
+   "time": "16:37",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Fala amigo.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-03-14",
+   "time": "16:37",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Estou a caminho.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-03-14",
+   "time": "16:43",
+   "timestamp_precision": "minute",
+   "sender_id": "cezinha-de-madureira",
+   "content_kind": "verbatim",
+   "content": "Ministro já está te esperando.",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-02",
+      "url": "https://www.cartacapital.com.br/justica/mensagens-indicam-encontro-entre-vorcaro-e-andre-mendonca-em-sao-paulo/"
+     }
+    ]
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-03-14",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Pela sequência com o motorista divulgada (16h30 endereço; “Descendo”; “Vamos nesse endereço”; 18h40 “Saindo.”), Vorcaro permaneceu cerca de duas horas no Instituto ITER. O encontro foi articulado ao longo de semanas com o advogado Ciro Rocha Soares, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-11"
+   },
+   "source_ref": "CartaCapital, 02/09/2026",
+   "added_in": "ingest-imprensa-20261011"
+  }
+ ]
+}
