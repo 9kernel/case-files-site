@@ -1295,3 +1295,143 @@ a.doc-card:hover { background: #fff; }
 
   .sidebar-foot { font-size: 11.8px; padding: 6px 10px; }
 }
+
+/* ============ Mapa de conexões (home) ============ */
+.network-wrap {
+  position: relative;
+  margin: 26px 0 8px;
+}
+
+.network-scroll {
+  overflow-x: auto;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+.network-svg {
+  display: block;
+  min-width: 660px;
+  width: 100%;
+  height: auto;
+}
+
+.net-spoke {
+  stroke: #C6D0D6;
+  opacity: 0.55;
+  transition: opacity 120ms;
+}
+
+.net-mention-person {
+  stroke: var(--wa-teal-light, #128C7E);
+  opacity: 0.6;
+}
+
+.net-mention-inst {
+  stroke: #7A93A8;
+  stroke-dasharray: 4 4;
+  opacity: 0.55;
+}
+
+.net-mention.active {
+  stroke: var(--wa-green, #00A884);
+  opacity: 1;
+  stroke-dasharray: none;
+}
+
+.net-hit {
+  stroke: transparent;
+  fill: none;
+  cursor: pointer;
+  pointer-events: stroke;
+}
+
+.net-node { cursor: pointer; }
+
+.net-node.dim, .net-spoke.dim, .net-mention.dim {
+  opacity: 0.12;
+  transition: opacity 120ms;
+}
+
+.net-avatar-bg {
+  fill: #DFE7EB;
+  stroke: #fff;
+  stroke-width: 2;
+}
+
+.net-initials {
+  font-size: 10px;
+  font-weight: 600;
+  fill: #3B4A54;
+  pointer-events: none;
+}
+
+.net-initials-big { font-size: 16px; }
+
+.net-label {
+  font-size: 10.5px;
+  fill: var(--ink, #111);
+  paint-order: stroke;
+  stroke: #fff;
+  stroke-width: 2.6px;
+  stroke-linejoin: round;
+  pointer-events: none;
+  user-select: none;
+}
+
+.net-label-inst { fill: #5A6E7B; font-size: 10px; }
+.net-label-center { font-size: 13px; font-weight: 600; }
+
+.net-inst-box {
+  fill: #EDF2F5;
+  stroke: #B9C7D0;
+  stroke-width: 1.2;
+}
+
+.net-inst-sigla {
+  font-size: 8.5px;
+  font-weight: 700;
+  fill: #4A6070;
+  pointer-events: none;
+}
+
+.net-center-ring {
+  fill: #fff;
+  stroke: var(--wa-teal, #075E54);
+  stroke-width: 3;
+}
+
+.network-tooltip {
+  position: absolute;
+  z-index: 40;
+  width: 280px;
+  max-width: 86%;
+  background: #fff;
+  border: 1px solid var(--line, #E4E9EC);
+  border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(11, 20, 26, 0.18);
+  padding: 10px 12px;
+  font-size: 13.5px;
+  color: var(--ink, #111);
+}
+
+.network-tooltip strong { font-size: 14.5px; }
+.ntt-sub { color: var(--ink-muted, #667781); font-size: 12.5px; }
+.ntt-row { margin-top: 5px; }
+.ntt-small { color: var(--ink-muted, #667781); font-size: 12px; margin-top: 4px; }
+.ntt-link { display: inline-block; margin-top: 7px; color: var(--wa-teal, #075E54); font-weight: 600; text-decoration: none; }
+.ntt-ev {
+  display: block;
+  margin-top: 6px;
+  color: var(--wa-teal, #075E54);
+  text-decoration: none;
+  font-size: 12.5px;
+  border-top: 1px dashed #E4E9EC;
+  padding-top: 5px;
+}
+
+.network-note {
+  font-size: 12.8px;
+  color: var(--ink-3, #8696A0);
+  margin: 8px 2px 0;
+}

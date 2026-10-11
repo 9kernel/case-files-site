@@ -42,6 +42,11 @@ export function getParticipants() {
   return fetchJSON('data/participants.json');
 }
 
+/** Grafo de conexões (gerado por scripts/build-network.mjs) */
+export function getNetwork() {
+  return fetchJSON('data/network.json');
+}
+
 /** Registro central de documentos: data/documents.json (§24) */
 export function getDocuments() {
   return fetchJSON('data/documents.json').catch(() => []);
