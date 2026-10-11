@@ -30,10 +30,19 @@ const domainAllowed = (email) => {
 
 const findings = [];
 
+// skip_paths aceita tanto nome simples ("pdf_pf") quanto caminho relativo
+// com prefixo ("data/cache") — pastas de trabalho gitignored nunca são lidas.
+function isSkippedDir(full) {
+  const rel = path.relative(rootDir, full).replace(/\\/g, '/');
+  return cfg.skip_paths.some((p) =>
+    p.includes('/') ? rel === p || rel.startsWith(p + '/') : path.basename(rel) === p
+  );
+}
+
 function walk(dir) {
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     if (entry.isDirectory()) {
-      if (cfg.skip_paths.includes(entry.name)) continue;
+      if (isSkippedDir(path.join(dir, entry.name))) continue;
       walk(path.join(dir, entry.name));
       continue;
     }
