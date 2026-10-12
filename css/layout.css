@@ -57,8 +57,11 @@ body {
 
 .icon-btn:hover { background: rgba(0, 0, 0, 0.08); }
 
-.topbar-action {
+.topbar-actions {
   margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 2px;
 }
 
 .topbar-action.active {
