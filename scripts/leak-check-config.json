@@ -1,5 +1,5 @@
 {
- "description": "Configuração do scripts/check-email-leak.mjs — padrões de vazamento de dados pessoais em arquivos publicados. Domínios institucionais públicos e de exemplo são permitidos; qualquer outro e-mail é tratado como potencial dado pessoal. A lista 'forbidden_substrings' cobre marcadores de afiliação corporativa/pessoal sem precisar gravar endços completos.",
+ "description": "Configuração do scripts/check-email-leak.mjs — padrões de vazamento de dados pessoais em arquivos publicados. Domínios institucionais públicos e de exemplo são permitidos; qualquer outro e-mail é tratado como potencial dado pessoal. A lista 'forbidden_substrings' cobre marcadores de afiliação corporativa/pessoal sem precisar gravar endços completos. Marcadores pessoais específicos não são gravados: domínios fora da allowlist (inclusive gmail.com) já são bloqueados genericamente.",
  "allow_email_domains": [
   "jus.br",
   "gov.br",
@@ -14,7 +14,7 @@
   "zapdovorcaro.com"
  ],
  "forbidden_substrings": [
-  "petrobras",
+  "petrobras"
  ],
  "scan_extensions": [
   ".md",
