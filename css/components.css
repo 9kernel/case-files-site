@@ -1320,7 +1320,6 @@ a.doc-card:hover { background: #fff; }
 
 .network-svg {
   display: block;
-  min-width: 660px;
   width: 100%;
   height: auto;
 }
@@ -1486,8 +1485,15 @@ a.doc-card:hover { background: #fff; }
 }
 
 .network-page .network-svg {
-  min-width: 760px;
+  width: 100%;
 }
+
+/* geometria compacta (telas estreitas): fontes maiores no viewBox menor
+   compensam a redução e mantêm os rótulos legíveis */
+.net-compact .net-label { font-size: 13px; }
+.net-compact .net-label-inst { font-size: 12px; }
+.net-compact .net-inst-sigla { font-size: 10px; }
+.net-compact .net-initials { font-size: 12px; }
 
 .netpage-list {
   list-style: none;

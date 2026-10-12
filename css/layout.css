@@ -165,6 +165,11 @@ body {
   width: clamp(440px, 58vw, 760px);
 }
 
+/* o mapa de conexões precisa de largura: abaixo de 1024px a lista sai de cena */
+@media (max-width: 1023px) {
+  .route-conexoes .sidebar { display: none; }
+}
+
 /* ---------- Celular: home = lista em tela cheia; páginas = tela cheia p/ conteúdo ---------- */
 @media (max-width: 767px) {
   .route-home .sidebar {

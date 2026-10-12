@@ -43,6 +43,7 @@ export async function renderNetwork(container, opts = {}) {
     </p>`;
 
   const svg = container.querySelector('.network-svg');
+  if (opts.compact) svg.classList.add('net-compact');
   const tooltip = container.querySelector('.network-tooltip');
   const layers = {
     edges: svgEl('g', { class: 'net-edges' }, svg),

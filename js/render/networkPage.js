@@ -42,7 +42,34 @@ export async function renderNetworkPage(container) {
   </div>`;
 
   const mount = container.querySelector('#netpage-mount');
-  await renderNetwork(mount, { w: 1160, h: 1010, cy: 470, rContact: 312, rInst: 466 });
+
+  // geometria responsiva: o grafo cabe na tela sem rolagem horizontal e,
+  // em telas estreitas, usa viewBox menor com fontes maiores (legibilidade)
+  const tier = (px) => (px >= 980 ? 'lg' : px >= 640 ? 'md' : 'sm');
+  const GEOM = {
+    lg: { w: 1160, h: 1010, cy: 470, rContact: 312, rInst: 466 },
+    md: { w: 900,  h: 860,  cy: 400, rContact: 238, rInst: 356 },
+    sm: { w: 660,  h: 740,  cy: 345, rContact: 196, rInst: 300 },
+  };
+  let curTier = tier(Math.min(window.innerWidth, mount.getBoundingClientRect().width || window.innerWidth));
+
+  await draw();
+  async function draw() {
+    mount.innerHTML = '';
+    await renderNetwork(mount, { ...GEOM[curTier], compact: curTier === 'sm' });
+  }
+
+  // redimensionou (ex.: girou o celular) e mudou de faixa → redesenha;
+  // ao sair da página o listener se remove sozinho
+  const onResize = () => {
+    if (!document.body.contains(mount)) {
+      window.removeEventListener('resize', onResize);
+      return;
+    }
+    const t = tier(window.innerWidth);
+    if (t !== curTier) { curTier = t; draw(); }
+  };
+  window.addEventListener('resize', onResize);
 
   const personEdges = net.edges.filter((e) => !instById.has(e.to));
   const instEdges = net.edges.filter((e) => instById.has(e.to));
