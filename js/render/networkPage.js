@@ -47,16 +47,16 @@ export async function renderNetworkPage(container) {
   // em telas estreitas, usa viewBox menor com fontes maiores (legibilidade)
   const tier = (px) => (px >= 980 ? 'lg' : px >= 640 ? 'md' : 'sm');
   const GEOM = {
-    lg: { w: 1160, h: 1010, cy: 470, rContact: 312, rInst: 466 },
-    md: { w: 900,  h: 860,  cy: 400, rContact: 238, rInst: 356 },
-    sm: { w: 660,  h: 740,  cy: 345, rContact: 196, rInst: 300 },
+    lg: { w: 1160, h: 1010, cy: 470, rContact: 320, rInst: 472, nodeR: 26 },
+    md: { w: 900,  h: 880,  cy: 405, rContact: 265, rInst: 390, nodeR: 22 },
+    sm: { w: 680,  h: 780,  cy: 360, rContact: 225, rInst: 336, nodeR: 19 },
   };
-  let curTier = tier(Math.min(window.innerWidth, mount.getBoundingClientRect().width || window.innerWidth));
+  let curTier = tier(window.innerWidth);
 
   await draw();
   async function draw() {
     mount.innerHTML = '';
-    await renderNetwork(mount, { ...GEOM[curTier], compact: curTier === 'sm' });
+    await renderNetwork(mount, { ...GEOM[curTier], compact: curTier === 'sm', orbitSeconds: 240 });
   }
 
   // redimensionou (ex.: girou o celular) e mudou de faixa → redesenha;

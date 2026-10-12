@@ -1,15 +1,14 @@
-// network.js — mapa de conexões da home: Vorcaro no centro, contatos ao redor,
+// network.js — mapa de conexões: Vorcaro no centro, contatos ao redor,
 // arcos de menções (pessoa↔pessoa e pessoa↔instituição) extraídos das
 // mensagens publicadas por scripts/build-network.mjs (data/network.json).
 //
-// Interação: passar o mouse em um nó destaca suas conexões; clicar num contato
-// abre a conversa; clicar numa aresta de menção mostra as mensagens que a
-// fundamentam (deep-link direto #/thread/{id}/{msgId}).
+// A roda inteira gira devagar ao redor do Vorcaro ("ciranda"); avatares e
+// rótulos contra-giram para permanecerem em pé. Ao interagir (mouse/toque)
+// a rotação pausa. Clicar num contato abre a conversa direto (sem modal);
+// conexões e instituições mantêm tooltip com a evidência.
 
 import { getNetwork, getParticipants } from '../api.js';
 import { escapeHtml as esc, initials } from '../utils.js';
-
-const MAX_EVIDENCE = 6;
 
 const svgEl = (tag, attrs = {}, parent = null) => {
   const el = document.createElementNS('http://www.w3.org/2000/svg', tag);
@@ -19,41 +18,48 @@ const svgEl = (tag, attrs = {}, parent = null) => {
 };
 
 export async function renderNetwork(container, opts = {}) {
+  const [net, participants] = await Promise.all([getNetwork(), getParticipants()]);
+  const pmap = new Map(participants.map((p) => [p.id, p]));
+  const instById = new Map(net.institutions.map((i) => [i.id, i]));
+  const reduceMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
+
   const W = opts.w || 900;
   const H = opts.h || 880;
   const CX = W / 2;
   const CY = opts.cy ?? 420;
   const R_CONTACT = opts.rContact || 245;   // anel de contatos
   const R_INST = opts.rInst || 372;         // anel de instituições
-  const [net, participants] = await Promise.all([getNetwork(), getParticipants()]);
-  const pmap = new Map(participants.map((p) => [p.id, p]));
-  const instById = new Map(net.institutions.map((i) => [i.id, i]));
+  const NODE_R = opts.nodeR || 21;          // raio dos avatares
+  const CENTER_R = NODE_R + 16;             // nó central
+  const ORBIT_SEC = opts.orbitSeconds || 240; // duração de uma volta
+  const MAX_EVIDENCE = 6;
 
   container.innerHTML = `
     <div class="network-scroll">
-      <svg class="network-svg" viewBox="0 0 ${W} ${H}" role="img"
+      <svg class="network-svg${opts.compact ? ' net-compact' : ''}" viewBox="0 0 ${W} ${H}" role="img"
            aria-label="Mapa de conexões: Daniel Vorcaro no centro, contatos ao redor e menções entre conversas"></svg>
     </div>
     <div class="network-tooltip" hidden></div>
     <p class="network-note">
-      Menções extraídas automaticamente do texto das mensagens publicadas (normalizadas, sem acento;
-      ambiguidades subtraídas). Não exaustivo — nomes que não aparecem no texto de nenhuma conversa não
-      geram conexão. Clique em um contato para abrir a conversa ou numa conexão para ver as mensagens
-      que a fundamentam.
+      Menções extraídas do texto das mensagens publicadas (normalizadas, sem acento;
+      ambiguidades subtraídas). Não exaustivo. Toque num contato para abrir a conversa;
+      toque numa conexão (linha) para ver as mensagens que a fundamentam.
     </p>`;
 
   const svg = container.querySelector('.network-svg');
-  if (opts.compact) svg.classList.add('net-compact');
   const tooltip = container.querySelector('.network-tooltip');
+
+  svgEl('defs', {}, svg);
+  // roda: raios, arcos e nós giram juntos; o centro fica parado
+  const orbit = svgEl('g', { class: 'net-orbit' }, svg);
   const layers = {
-    edges: svgEl('g', { class: 'net-edges' }, svg),
-    hit: svgEl('g', { class: 'net-hits' }, svg),
-    nodes: svgEl('g', { class: 'net-nodes' }, svg),
+    edges: svgEl('g', { class: 'net-edges' }, orbit),
+    hit: svgEl('g', { class: 'net-hits' }, orbit),
+    nodes: svgEl('g', { class: 'net-nodes' }, orbit),
   };
 
   /* ---------- posições ---------- */
   const pos = new Map();
-  // contatos: ordenados por nº de mensagens (mais volumosas começam no topo, sentido horário)
   const contacts = net.contacts;
   contacts.forEach((c, i) => {
     const a = -Math.PI / 2 + (2 * Math.PI * i) / contacts.length;
@@ -63,9 +69,7 @@ export async function renderNetwork(container, opts = {}) {
     const a = -Math.PI / 2 + (2 * Math.PI * (i + 0.5)) / net.institutions.length;
     pos.set(inst.id, { x: CX + R_INST * Math.cos(a), y: CY + R_INST * Math.sin(a), a });
   });
-  pos.set('daniel-vorcaro', { x: CX, y: CY, a: -Math.PI / 2 });
 
-  /* ---------- dados agregados p/ tooltip ---------- */
   const mentionByNode = new Map();
   for (const e of net.edges) {
     for (const key of [e.from, e.to]) {
@@ -89,50 +93,59 @@ export async function renderNetwork(container, opts = {}) {
     const p1 = pos.get(e.from);
     const p2 = pos.get(e.to);
     if (!p1 || !p2) continue;
-    const isInst = instById.has(e.to);
-    if (isInst) {
+    if (instById.has(e.to)) {
       svgEl('line', {
         class: 'net-mention net-mention-inst', x1: p1.x, y1: p1.y, x2: p2.x, y2: p2.y,
         'stroke-width': 1 + Math.min(2.5, e.count * 0.5), 'data-edge': e.thread + '|' + e.from + '|' + e.to,
         'data-nodes': `${e.from},${e.to}`,
       }, layers.edges);
     } else {
-      // arco curvado para fora do centro
       const mx = (p1.x + p2.x) / 2, my = (p1.y + p2.y) / 2;
       const dx = mx - CX, dy = my - CY;
       const len = Math.hypot(dx, dy) || 1;
       const k = 1 + 90 / len;
-      const cx2 = CX + dx * k, cy2 = CY + dy * k;
       svgEl('path', {
-        class: 'net-mention net-mention-person', d: `M ${p1.x} ${p1.y} Q ${cx2} ${cy2} ${p2.x} ${p2.y}`,
+        class: 'net-mention net-mention-person',
+        d: `M ${p1.x} ${p1.y} Q ${CX + dx * k} ${CY + dy * k} ${p2.x} ${p2.y}`,
         fill: 'none', 'stroke-width': 1.4 + Math.min(3, e.count * 0.55),
         'data-edge': e.thread + '|' + e.from + '|' + e.to, 'data-nodes': `${e.from},${e.to}`,
       }, layers.edges);
     }
   }
 
-  /* ---------- nós ---------- */
+  /* ---------- nós com contra-rotação (conteúdo sempre em pé) ---------- */
+  const spinGroup = (parent) => {
+    const g = svgEl('g', { class: 'net-spin' }, parent);
+    if (!reduceMotion) {
+      svgEl('animateTransform', {
+        attributeName: 'transform', type: 'rotate',
+        from: '0', to: '-360', dur: `${ORBIT_SEC}s`, repeatCount: 'indefinite',
+      }, g);
+    }
+    return g;
+  };
+
   const drawContact = (c) => {
     const p = pos.get(c.id);
     const g = svgEl('g', { class: 'net-node net-contact', 'data-id': c.id, transform: `translate(${p.x},${p.y})` }, layers.nodes);
+    const spin = spinGroup(g);
     const p0 = pmap.get(c.id);
-    svgEl('circle', { r: 17, class: 'net-avatar-bg' }, g);
+    svgEl('circle', { r: NODE_R, class: 'net-avatar-bg' }, spin);
     if (p0?.photo) {
-      const cp = svgEl('clipPath', { id: `netclip-${c.id}` }, svg.querySelector('defs') || svgEl('defs', {}, svg));
-      svgEl('circle', { r: 16, cx: 0, cy: 0 }, cp);
+      const cp = svgEl('clipPath', { id: `netclip-${c.id}` }, svg.querySelector('defs'));
+      svgEl('circle', { r: NODE_R - 1.5, cx: 0, cy: 0 }, cp);
       svgEl('image', {
-        href: `public/media/people/${p0.photo}`, x: -16, y: -16, width: 32, height: 32,
+        href: `public/media/people/${p0.photo}`,
+        x: -(NODE_R - 1.5), y: -(NODE_R - 1.5), width: (NODE_R - 1.5) * 2, height: (NODE_R - 1.5) * 2,
         'clip-path': `url(#netclip-${c.id})`, preserveAspectRatio: 'xMidYMid slice',
-      }, g);
+      }, spin);
     } else {
-      svgEl('text', { class: 'net-initials', 'text-anchor': 'middle', dy: '0.35em' }, g).textContent = initials(c.name);
+      svgEl('text', { class: 'net-initials', 'text-anchor': 'middle', dy: '0.35em' }, spin).textContent = initials(c.name);
     }
-    const lx = Math.cos(p.a) * 28, ly = Math.sin(p.a) * 28;
+    const off = NODE_R + 9;
+    const lx = Math.cos(p.a) * off, ly = Math.sin(p.a) * off;
     const anchor = Math.abs(Math.cos(p.a)) < 0.3 ? 'middle' : (Math.cos(p.a) > 0 ? 'start' : 'end');
-    const label = svgEl('text', {
-      class: 'net-label', x: lx, y: ly, 'text-anchor': anchor, dy: '0.35em',
-    }, g);
-    // nomes longos quebram em duas linhas (tspan) em vez de cortar com …
+    const label = svgEl('text', { class: 'net-label', x: lx, y: ly, 'text-anchor': anchor, dy: '0.35em' }, spin);
     const words = c.name.split(' ');
     if (c.name.length > 15 && words.length > 1) {
       let best = 1, diff = Infinity;
@@ -144,25 +157,11 @@ export async function renderNetwork(container, opts = {}) {
       const l1 = words.slice(0, best).join(' ');
       let l2 = words.slice(best).join(' ');
       if (l2.length > 18) l2 = l2.slice(0, 17) + '…';
-      const t1 = svgEl('tspan', { x: lx, dy: '-0.45em' }, label);
-      t1.textContent = l1;
-      const t2 = svgEl('tspan', { x: lx, dy: '1.15em' }, label);
-      t2.textContent = l2;
+      svgEl('tspan', { x: lx, dy: '-0.45em' }, label).textContent = l1;
+      svgEl('tspan', { x: lx, dy: '1.15em' }, label).textContent = l2;
     } else {
       label.textContent = c.name;
     }
-    return g;
-  };
-
-  const drawInstitution = (inst) => {
-    const p = pos.get(inst.id);
-    const g = svgEl('g', { class: 'net-node net-inst', 'data-id': inst.id, transform: `translate(${p.x},${p.y})` }, layers.nodes);
-    svgEl('rect', { x: -13, y: -10, width: 26, height: 20, rx: 4, class: 'net-inst-box' }, g);
-    svgEl('text', { class: 'net-inst-sigla', 'text-anchor': 'middle', dy: '0.35em' }, g)
-      .textContent = instSigla(inst);
-    const anchor = Math.cos(p.a) >= 0 ? 'start' : 'end';
-    svgEl('text', { class: 'net-label net-label-inst', x: Math.cos(p.a) * 22, y: Math.sin(p.a) * 22, 'text-anchor': anchor, dy: '0.35em' }, g)
-      .textContent = inst.label;
     return g;
   };
 
@@ -171,22 +170,57 @@ export async function renderNetwork(container, opts = {}) {
     return map[inst.id] || inst.label.slice(0, 2).toUpperCase();
   };
 
+  const drawInstitution = (inst) => {
+    const p = pos.get(inst.id);
+    const g = svgEl('g', { class: 'net-node net-inst', 'data-id': inst.id, transform: `translate(${p.x},${p.y})` }, layers.nodes);
+    const spin = spinGroup(g);
+    const bw = NODE_R + 12, bh = NODE_R - 2;
+    svgEl('rect', { x: -bw / 2, y: -bh / 2, width: bw, height: bh, rx: 5, class: 'net-inst-box' }, spin);
+    svgEl('text', { class: 'net-inst-sigla', 'text-anchor': 'middle', dy: '0.35em' }, spin)
+      .textContent = instSigla(inst);
+    const off = NODE_R + 14;
+    const anchor = Math.cos(p.a) >= 0 ? 'start' : 'end';
+    svgEl('text', { class: 'net-label net-label-inst', x: Math.cos(p.a) * off, y: Math.sin(p.a) * off, 'text-anchor': anchor, dy: '0.35em' }, spin)
+      .textContent = inst.label;
+    return g;
+  };
+
   for (const inst of net.institutions) drawInstitution(inst);
   for (const c of contacts) drawContact(c);
 
-  /* ---------- centro (Vorcaro) ---------- */
-  const centerG = svgEl('g', { class: 'net-node net-center', 'data-id': 'daniel-vorcaro', transform: `translate(${CX},${CY})` }, layers.nodes);
-  svgEl('circle', { r: 34, class: 'net-center-ring' }, centerG);
+  /* ---------- centro (Vorcaro) — parado ---------- */
+  const centerG = svgEl('g', { class: 'net-node net-center', 'data-id': 'daniel-vorcaro', transform: `translate(${CX},${CY})` }, svg);
+  svgEl('circle', { r: CENTER_R, class: 'net-center-ring' }, centerG);
   const vPhoto = pmap.get('daniel-vorcaro')?.photo;
   if (vPhoto) {
-    const cp = svgEl('clipPath', { id: 'netclip-center' }, svg.querySelector('defs') || svgEl('defs', {}, svg));
-    svgEl('circle', { r: 30, cx: 0, cy: 0 }, cp);
-    svgEl('image', { href: `public/media/people/${vPhoto}`, x: -30, y: -30, width: 60, height: 60, 'clip-path': 'url(#netclip-center)', preserveAspectRatio: 'xMidYMid slice' }, centerG);
+    const cp = svgEl('clipPath', { id: 'netclip-center' }, svg.querySelector('defs'));
+    svgEl('circle', { r: CENTER_R - 4, cx: 0, cy: 0 }, cp);
+    svgEl('image', {
+      href: `public/media/people/${vPhoto}`,
+      x: -(CENTER_R - 4), y: -(CENTER_R - 4), width: (CENTER_R - 4) * 2, height: (CENTER_R - 4) * 2,
+      'clip-path': 'url(#netclip-center)', preserveAspectRatio: 'xMidYMid slice',
+    }, centerG);
   } else {
     svgEl('text', { class: 'net-initials net-initials-big', 'text-anchor': 'middle', dy: '0.35em' }, centerG).textContent = 'DV';
   }
-  svgEl('text', { class: 'net-label net-label-center', y: 52, 'text-anchor': 'middle' }, centerG)
+  svgEl('text', { class: 'net-label net-label-center', y: CENTER_R + 18, 'text-anchor': 'middle' }, centerG)
     .textContent = net.center_name;
+
+  /* ---------- a ciranda ---------- */
+  if (!reduceMotion) {
+    svgEl('animateTransform', {
+      attributeName: 'transform', type: 'rotate',
+      from: `0 ${CX} ${CY}`, to: `360 ${CX} ${CY}`,
+      dur: `${ORBIT_SEC}s`, repeatCount: 'indefinite',
+    }, orbit);
+    // pausa enquanto o usuário interage — precisão de hover e clique
+    svg.addEventListener('mouseenter', () => svg.pauseAnimations());
+    svg.addEventListener('mouseleave', () => svg.unpauseAnimations());
+    svg.addEventListener('touchstart', () => svg.pauseAnimations(), { passive: true });
+    const resumeSoon = () => setTimeout(() => svg.unpauseAnimations(), 3000);
+    svg.addEventListener('touchend', resumeSoon);
+    svg.addEventListener('click', resumeSoon);
+  }
 
   /* ---------- camada de clique das arestas ---------- */
   for (const e of net.edges) {
@@ -195,7 +229,7 @@ export async function renderNetwork(container, opts = {}) {
     if (!visual) continue;
     const hitEl = visual.cloneNode(false);
     hitEl.setAttribute('class', 'net-hit');
-    hitEl.setAttribute('stroke-width', 14);
+    hitEl.setAttribute('stroke-width', 16);
     hitEl.setAttribute('data-edge', key);
     hitEl.removeAttribute('data-nodes');
     layers.hit.appendChild(hitEl);
@@ -206,9 +240,8 @@ export async function renderNetwork(container, opts = {}) {
   const nameOf = (id) => pmap.get(id)?.name || instById.get(id)?.label || id;
 
   let hideTimer = null;
-  const cancelHide = () => { if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; } };
   const showTooltip = (html, ref) => {
-    cancelHide();
+    if (hideTimer) { clearTimeout(hideTimer); hideTimer = null; }
     tooltip.innerHTML = html;
     tooltip.hidden = false;
     const wrap = container.closest('.network-wrap') || container;
@@ -221,8 +254,8 @@ export async function renderNetwork(container, opts = {}) {
     tooltip.style.top = `${y}px`;
   };
   const hideTooltip = () => { tooltip.hidden = true; };
-  const scheduleHide = () => { cancelHide(); hideTimer = setTimeout(hideTooltip, 180); };
-  tooltip.addEventListener('mouseenter', cancelHide);
+  const scheduleHide = () => { if (hideTimer) clearTimeout(hideTimer); hideTimer = setTimeout(hideTooltip, 180); };
+  tooltip.addEventListener('mouseenter', () => { if (hideTimer) clearTimeout(hideTimer); });
   tooltip.addEventListener('mouseleave', scheduleHide);
 
   const highlight = (idOrPair) => {
@@ -235,24 +268,21 @@ export async function renderNetwork(container, opts = {}) {
     allSvg.forEach((el) => el.classList.toggle('dim', idOrPair ? !want(el) : false));
   };
 
-  // nós
-  layers.nodes.querySelectorAll('.net-node').forEach((node) => {
+  // contatos: clique vai DIRETO para a conversa — sem modal, sem tooltip
+  layers.nodes.querySelectorAll('.net-contact').forEach((node) => {
+    node.addEventListener('mouseenter', () => highlight(node.dataset.id));
+    node.addEventListener('mouseleave', () => highlight(null));
+    node.addEventListener('click', () => {
+      const c = contacts.find((x) => x.id === node.dataset.id);
+      if (c) location.hash = `#/thread/${c.thread}`;
+    });
+  });
+
+  // centro e instituições: resumo no hover
+  svg.querySelectorAll('.net-center, .net-inst').forEach((node) => {
     node.addEventListener('mouseenter', () => {
       highlight(node.dataset.id);
-      const c = contacts.find((x) => x.id === node.dataset.id);
-      if (c) {
-        const ms = mentionByNode.get(c.id) || [];
-        const cited = ms.filter((e) => e.from === c.id).reduce((a, e) => a + e.count, 0);
-        const citedBy = ms.filter((e) => e.to === c.id).reduce((a, e) => a + e.count, 0);
-        showTooltip(`
-          <strong>${esc(c.name)}</strong><br>
-          <span class="ntt-sub">${esc(pmap.get(c.id)?.role || '')}</span>
-          <div class="ntt-row">Conversa: ${c.msg_count} mensagem(ns)</div>
-          <div class="ntt-row">Citou outros/instituições: ${cited} menção(ões)</div>
-          <div class="ntt-row">Citado em outras conversas: ${citedBy} menção(ões)</div>
-          <a class="ntt-link" href="#/thread/${esc(c.thread)}">Abrir conversa →</a>
-        `, node);
-      } else if (node.dataset.id === 'daniel-vorcaro') {
+      if (node.dataset.id === 'daniel-vorcaro') {
         showTooltip(`<strong>${esc(net.center_name)}</strong><br><span class="ntt-sub">Centro do arquivo — ${contacts.length} conversas publicadas</span>`, node);
       } else {
         const inst = instById.get(node.dataset.id);
@@ -267,15 +297,9 @@ export async function renderNetwork(container, opts = {}) {
       }
     });
     node.addEventListener('mouseleave', () => { highlight(null); scheduleHide(); });
-    node.addEventListener('click', () => {
-      const c = contacts.find((x) => x.id === node.dataset.id);
-      if (c) location.hash = `#/thread/${c.thread}`;
-    });
   });
 
-  svg.addEventListener('click', () => hideTooltip());
-
-  // arestas
+  // arestas: evidência com deep-link
   layers.hit.querySelectorAll('.net-hit').forEach((hit) => {
     const key = hit.dataset.edge;
     const edge = net.edges.find((e) => e.thread + '|' + e.from + '|' + e.to === key);
@@ -305,4 +329,6 @@ export async function renderNetwork(container, opts = {}) {
       hit.dispatchEvent(new MouseEvent('mouseenter'));
     });
   });
+
+  svg.addEventListener('click', () => hideTooltip());
 }
