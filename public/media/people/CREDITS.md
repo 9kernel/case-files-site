@@ -87,6 +87,18 @@ sob licenças livres, com atribuição obrigatória conforme abaixo (ordem alfab
 - **Licença:** CC BY 2.0
 - **Origem:** https://upload.wikimedia.org/wikipedia/commons/9/91/2024-09-05_Inaugura%C3%A7%C3%A3o_da_F%C3%A1brica_Lightwall_Rio_Claro%2C_09_%28Roberto_Justus%29.jpg
 
+## viviane-de-moraes
+- **Arquivo:** `viviane-de-moraes.jpg`
+- **Autor:** Lula Oficial (Ricardo Stuckert)/Presidência da República
+- **Licença:** CC BY-SA 4.0
+- **Origem:** https://commons.wikimedia.org/wiki/Special:FilePath/Alexandre_de_Moraes_and_Viviane_Barci,_August_2022_(cropped).jpg
+
+## walfrido-warde
+- **Arquivo:** `walfrido-warde.jpg`
+- **Autor:** Roque de Sá/Agência Senado
+- **Licença:** CC BY 2.0
+- **Origem:** https://commons.wikimedia.org/wiki/Special:FilePath/CPICC_-_CPI_dos_cart%C3%B5es_de_cr%C3%A9dito_(26834502287).jpg
+
 ## yasmin-brunet
 - **Arquivo:** `yasmin-brunet.jpg`
 - **Autor:** Multishow

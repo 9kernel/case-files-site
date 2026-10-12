@@ -205,7 +205,7 @@
  {
   "id": "viviane-de-moraes",
   "name": "Viviane de Moraes",
-  "photo": null,
+  "photo": "viviane-de-moraes.jpg",
   "role": "Advogada (Escritório Barci de Moraes)",
   "aliases": [
    "Vivi Moraes",
@@ -217,7 +217,8 @@
     "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
     "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
    }
-  ]
+  ],
+  "photo_credit": "Foto: Lula Oficial (Ricardo Stuckert) · CC BY-SA 4.0 · via Wikimedia Commons"
  },
  {
   "id": "ana-matos",
@@ -417,13 +418,14 @@
  {
   "id": "walfrido-warde",
   "name": "Walfrido Warde",
-  "photo": null,
+  "photo": "walfrido-warde.jpg",
   "role": "Advogado de Daniel Vorcaro",
   "aliases": [
    "Walfidro",
    "Warde"
   ],
-  "summary": "Advogado de Vorcaro que, segundo o relatório, não mantinha contato com o cliente desde 03/08/2025 e retomou a comunicação no dia 17/11/2025, data da prisão, acompanhando a protocolização de petição e o encaminhamento de reportagens. Perfil resumido exclusivamente a partir dos documentos linkados."
+  "summary": "Advogado de Vorcaro que, segundo o relatório, não mantinha contato com o cliente desde 03/08/2025 e retomou a comunicação no dia 17/11/2025, data da prisão, acompanhando a protocolização de petição e o encaminhamento de reportagens. Perfil resumido exclusivamente a partir dos documentos linkados.",
+  "photo_credit": "Foto: Roque de Sá/Agência Senado · CC BY 2.0 · via Wikimedia Commons"
  },
  {
   "id": "fabiano-zettel",
