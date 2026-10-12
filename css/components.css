@@ -1574,3 +1574,23 @@ a.doc-card:hover { background: #fff; }
   flex-wrap: wrap;
   justify-content: center;
 }
+
+/* partidos: caixas âmbar no anel externo (distintam das instituições) */
+.net-party .net-inst-box {
+  fill: #FBF3E2;
+  stroke: #D9BE8C;
+}
+
+.net-party .net-inst-sigla { fill: #8A6D3B; }
+
+.net-affiliation {
+  stroke: #C9AE7E;
+  stroke-dasharray: 2 5;
+  stroke-width: 1.6;
+  opacity: 0.8;
+}
+
+.net-affiliation.active {
+  stroke: #A5822F;
+  opacity: 1;
+}

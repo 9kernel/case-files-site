@@ -308,6 +308,33 @@
    "label": "Câmara dos Deputados"
   }
  ],
+ "parties": [
+  {
+   "id": "pl",
+   "label": "Partido Liberal",
+   "sigla": "PL"
+  },
+  {
+   "id": "psd",
+   "label": "Partido Social Democrático",
+   "sigla": "PSD"
+  },
+  {
+   "id": "uniao-brasil",
+   "label": "União Brasil",
+   "sigla": "UNIÃO"
+  },
+  {
+   "id": "republicanos",
+   "label": "Republicanos",
+   "sigla": "REP"
+  },
+  {
+   "id": "psdb",
+   "label": "PSDB",
+   "sigla": "PSDB"
+  }
+ ],
  "edges": [
   {
    "type": "mention",
@@ -1249,6 +1276,96 @@
      "date": "2024-01-15"
     }
    ]
+  },
+  {
+   "type": "affiliation",
+   "from": "flavio-bolsonaro",
+   "to": "pl",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Fl%C3%A1vio_Bolsonaro"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "mario-frias",
+   "to": "pl",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/M%C3%A1rio_Frias"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "nikolas-ferreira",
+   "to": "pl",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Nikolas_Ferreira"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "cezinha-de-madureira",
+   "to": "pl",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Cezinha_de_Madureira"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "iraja",
+   "to": "psd",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Iraj%C3%A1_Abreu"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "fabio-faria",
+   "to": "psd",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/F%C3%A1bio_Faria_(pol%C3%ADtico)"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "davi-alcolumbre",
+   "to": "uniao-brasil",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Davi_Alcolumbre"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "antonio-rueda",
+   "to": "uniao-brasil",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Antonio_Rueda"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "hugo-motta",
+   "to": "republicanos",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Hugo_Motta"
+   }
+  },
+  {
+   "type": "affiliation",
+   "from": "joao-doria",
+   "to": "psdb",
+   "source": {
+    "label": "Registro público — verbete da pessoa (Wikipédia)",
+    "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Doria"
+   }
   }
  ]
 }

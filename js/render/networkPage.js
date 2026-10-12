@@ -33,7 +33,7 @@ export async function renderNetworkPage(container) {
 
       <h2 class="section-title">Todas as conexões registradas</h2>
       <p class="network-note" style="margin-top:0">
-        ${net.edges.length} conexões extraídas do texto das mensagens publicadas — cada uma com a
+        ${net.edges.filter((e) => e.type === 'mention').length} conexões extraídas do texto das mensagens publicadas — cada uma com a
         mensagem de origem. Menções ambíguas são descartadas na extração (ex.: “Moraes” dentro de
         “Viviane de Moraes” não conta).
       </p>
@@ -71,9 +71,20 @@ export async function renderNetworkPage(container) {
   };
   window.addEventListener('resize', onResize);
 
-  const personEdges = net.edges.filter((e) => !instById.has(e.to));
-  const instEdges = net.edges.filter((e) => instById.has(e.to));
+  const personEdges = net.edges.filter((e) => e.type === 'mention' && !instById.has(e.to));
+  const instEdges = net.edges.filter((e) => e.type === 'mention' && instById.has(e.to));
+  const affilEdges = net.edges.filter((e) => e.type === 'affiliation');
   const ul = container.querySelector('#netpage-list');
+
+  const affilItem = (e) => `
+    <li class="netpage-item">
+      <div class="netpage-head">
+        <span class="netpage-names"><strong>${esc(nameOf(e.from))}</strong>
+          <span class="netpage-arrow">→</span> <strong>${esc(nameOf(e.to))}</strong></span>
+      </div>
+      <div class="netpage-thread">filiação partidária</div>
+      <div class="netpage-evs"><a class="ntt-ev" href="${esc(e.source.url)}" target="_blank" rel="noopener">Fonte: ${esc(e.source.label)} ↗</a></div>
+    </li>`;
 
   const item = (e) => {
     const contact = contactById.get(e.from);
@@ -95,5 +106,7 @@ export async function renderNetworkPage(container) {
     ${personEdges.length ? `<li class="netpage-sep">Entre pessoas</li>` : ''}
     ${personEdges.map(item).join('')}
     ${instEdges.length ? `<li class="netpage-sep">Com instituições</li>` : ''}
-    ${instEdges.map(item).join('')}`;
+    ${instEdges.map(item).join('')}
+    ${affilEdges.length ? `<li class="netpage-sep">Filiações partidárias (registro público)</li>` : ''}
+    ${affilEdges.map(affilItem).join('')}`;
 }

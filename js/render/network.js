@@ -21,6 +21,8 @@ export async function renderNetwork(container, opts = {}) {
   const [net, participants] = await Promise.all([getNetwork(), getParticipants()]);
   const pmap = new Map(participants.map((p) => [p.id, p]));
   const instById = new Map(net.institutions.map((i) => [i.id, i]));
+  const partyById = new Map((net.parties || []).map((i) => [i.id, i]));
+  const outerNodes = [...net.institutions, ...(net.parties || [])];
   const reduceMotion = window.matchMedia?.('(prefers-reduced-motion: reduce)').matches;
 
   const W = opts.w || 900;
@@ -42,8 +44,10 @@ export async function renderNetwork(container, opts = {}) {
     <div class="network-tooltip" hidden></div>
     <p class="network-note">
       Menções extraídas do texto das mensagens publicadas (normalizadas, sem acento;
-      ambiguidades subtraídas). Não exaustivo. Toque num contato para abrir a conversa;
-      toque numa conexão (linha) para ver as mensagens que a fundamentam.
+      ambiguidades subtraídas). Não exaustivo. Partidos (caixas âmbar) ligam-se
+      aos políticos filiados por registro público, não por menção. Toque num
+      contato para abrir a conversa; toque numa conexão (linha) para ver as
+      mensagens que a fundamentam.
     </p>`;
 
   const svg = container.querySelector('.network-svg');
@@ -65,8 +69,8 @@ export async function renderNetwork(container, opts = {}) {
     const a = -Math.PI / 2 + (2 * Math.PI * i) / contacts.length;
     pos.set(c.id, { x: CX + R_CONTACT * Math.cos(a), y: CY + R_CONTACT * Math.sin(a), a });
   });
-  net.institutions.forEach((inst, i) => {
-    const a = -Math.PI / 2 + (2 * Math.PI * (i + 0.5)) / net.institutions.length;
+  outerNodes.forEach((inst, i) => {
+    const a = -Math.PI / 2 + (2 * Math.PI * (i + 0.5)) / outerNodes.length;
     pos.set(inst.id, { x: CX + R_INST * Math.cos(a), y: CY + R_INST * Math.sin(a), a });
   });
 
@@ -93,6 +97,13 @@ export async function renderNetwork(container, opts = {}) {
     const p1 = pos.get(e.from);
     const p2 = pos.get(e.to);
     if (!p1 || !p2) continue;
+    if (e.type === 'affiliation') {
+      svgEl('line', {
+        class: 'net-affiliation', x1: p1.x, y1: p1.y, x2: p2.x, y2: p2.y,
+        'data-edge': `affil|${e.from}|${e.to}`, 'data-nodes': `${e.from},${e.to}`,
+      }, layers.edges);
+      continue;
+    }
     if (instById.has(e.to)) {
       svgEl('line', {
         class: 'net-mention net-mention-inst', x1: p1.x, y1: p1.y, x2: p2.x, y2: p2.y,
@@ -165,14 +176,15 @@ export async function renderNetwork(container, opts = {}) {
     return g;
   };
 
-  const instSigla = (inst) => {
-    const map = { 'bc': 'BC', 'stf': 'STF', 'stj': 'STJ', 'tse': 'TSE', 'banco-master': 'BM', 'will-bank': 'WB', 'fgc': 'FGC', 'brb': 'BRB', 'pf': 'PF', 'senado': 'SEN', 'camara': 'CD' };
-    return map[inst.id] || inst.label.slice(0, 2).toUpperCase();
-  };
+  const instSigla = (inst) => inst.sigla || inst.label.slice(0, 3).toUpperCase();
 
   const drawInstitution = (inst) => {
     const p = pos.get(inst.id);
-    const g = svgEl('g', { class: 'net-node net-inst', 'data-id': inst.id, transform: `translate(${p.x},${p.y})` }, layers.nodes);
+    const isParty = partyById.has(inst.id);
+    const g = svgEl('g', {
+      class: `net-node net-inst${isParty ? ' net-party' : ''}`,
+      'data-id': inst.id, transform: `translate(${p.x},${p.y})`,
+    }, layers.nodes);
     const spin = spinGroup(g);
     const bw = NODE_R + 12, bh = NODE_R - 2;
     svgEl('rect', { x: -bw / 2, y: -bh / 2, width: bw, height: bh, rx: 5, class: 'net-inst-box' }, spin);
@@ -185,7 +197,7 @@ export async function renderNetwork(container, opts = {}) {
     return g;
   };
 
-  for (const inst of net.institutions) drawInstitution(inst);
+  for (const inst of outerNodes) drawInstitution(inst);
   for (const c of contacts) drawContact(c);
 
   /* ---------- centro (Vorcaro) — parado ---------- */
@@ -224,7 +236,9 @@ export async function renderNetwork(container, opts = {}) {
 
   /* ---------- camada de clique das arestas ---------- */
   for (const e of net.edges) {
-    const key = e.thread + '|' + e.from + '|' + e.to;
+    const key = e.type === 'affiliation'
+      ? `affil|${e.from}|${e.to}`
+      : e.thread + '|' + e.from + '|' + e.to;
     const visual = layers.edges.querySelector(`[data-edge="${CSS.escape(key)}"]`);
     if (!visual) continue;
     const hitEl = visual.cloneNode(false);
@@ -284,6 +298,15 @@ export async function renderNetwork(container, opts = {}) {
       highlight(node.dataset.id);
       if (node.dataset.id === 'daniel-vorcaro') {
         showTooltip(`<strong>${esc(net.center_name)}</strong><br><span class="ntt-sub">Centro do arquivo — ${contacts.length} conversas publicadas</span>`, node);
+      } else if (partyById.has(node.dataset.id)) {
+        const party = partyById.get(node.dataset.id);
+        const members = net.edges.filter((e) => e.type === 'affiliation' && e.to === node.dataset.id);
+        showTooltip(`
+          <strong>${esc(party.label)} (${esc(party.sigla)})</strong>
+          <div class="ntt-row">Filiados neste arquivo:</div>
+          ${members.map((e) => `<div class="ntt-row ntt-small">· ${esc(nameOf(e.from))}</div>`).join('')}
+          <div class="ntt-small" style="margin-top:6px">Filiação: registro público (verbete da pessoa).</div>
+        `, node);
       } else {
         const inst = instById.get(node.dataset.id);
         const ms = (mentionByNode.get(node.dataset.id) || []).filter((e) => e.to === node.dataset.id);
@@ -308,6 +331,14 @@ export async function renderNetwork(container, opts = {}) {
     hit.addEventListener('mouseenter', () => {
       highlight(null);
       visual.classList.add('active');
+      if (edge.type === 'affiliation') {
+        showTooltip(`
+          <strong>${esc(nameOf(edge.from))} → ${esc(nameOf(edge.to))}</strong>
+          <div class="ntt-row">Filiação partidária</div>
+          <a class="ntt-ev" href="${esc(edge.source.url)}" target="_blank" rel="noopener">Fonte: ${esc(edge.source.label)} ↗</a>
+        `, hit);
+        return;
+      }
       const contact = contacts.find((c) => c.id === edge.from);
       const evs = edge.evidence.slice(0, MAX_EVIDENCE).map((v) => {
         const d = v.date ? `${v.date.split('-')[2]}/${v.date.split('-')[1]}/${v.date.split('-')[0]}` : 's/ data';

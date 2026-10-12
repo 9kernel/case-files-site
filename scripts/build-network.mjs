@@ -63,6 +63,37 @@ const PEOPLE_PATTERNS = {
   // citado em relatório da PF na conversa do Felipe Mourão.
 };
 
+/* Partidos como entidades — filiação é atributo público do político
+   (fonte: verbete público da pessoa), não menção em mensagem. */
+const PARTIES = {
+  'pl':           { label: 'Partido Liberal', sigla: 'PL' },
+  'psd':          { label: 'Partido Social Democrático', sigla: 'PSD' },
+  'uniao-brasil': { label: 'União Brasil', sigla: 'UNIÃO' },
+  'republicanos': { label: 'Republicanos', sigla: 'REP' },
+  'psdb':         { label: 'PSDB', sigla: 'PSDB' },
+};
+const PARTY_AFFILIATIONS = {
+  'flavio-bolsonaro': 'pl',
+  'mario-frias': 'pl',
+  'nikolas-ferreira': 'pl',
+  'cezinha-de-madureira': 'pl',
+  'iraja': 'psd',
+  'fabio-faria': 'psd',
+  'davi-alcolumbre': 'uniao-brasil',
+  'antonio-rueda': 'uniao-brasil',
+  'hugo-motta': 'republicanos',
+  'joao-doria': 'psdb',
+};
+const partySource = (personId) => ({
+  label: 'Registro público — verbete da pessoa (Wikipédia)',
+  url: `https://pt.wikipedia.org/wiki/${encodeURIComponent(
+    { 'flavio-bolsonaro': 'Flávio_Bolsonaro', 'mario-frias': 'Mário_Frias',
+      'nikolas-ferreira': 'Nikolas_Ferreira', 'cezinha-de-madureira': 'Cezinha_de_Madureira',
+      'iraja': 'Irajá_Abreu', 'fabio-faria': 'Fábio_Faria_(político)',
+      'davi-alcolumbre': 'Davi_Alcolumbre', 'antonio-rueda': 'Antonio_Rueda',
+      'hugo-motta': 'Hugo_Motta', 'joao-doria': 'João_Doria' }[personId] || personId)}`,
+});
+
 const INSTITUTIONS = {
   'bc': { label: 'Banco Central', re: [/banco central/, [/\bbc\b/]] },
   'stf': { label: 'STF', re: [/\bstf\b/, /supremo tribunal/] },
@@ -140,6 +171,18 @@ function addMention(threadId, from, to, msg, n) {
 // fala do Vorcaro citando alguém também conecta (ele é o centro):
 // mantemos a aresta contato↔citado, mas registramos o falante na evidência.
 
+// partidos usados + arestas de filiação
+const usedParties = {};
+const affilEdges = [];
+for (const [personId, partyId] of Object.entries(PARTY_AFFILIATIONS)) {
+  if (!PARTIES[partyId]) continue;
+  usedParties[partyId] = PARTIES[partyId];
+  affilEdges.push({
+    type: 'affiliation', from: personId, to: partyId,
+    source: partySource(personId),
+  });
+}
+
 const out = {
   // sem carimbo de data: a saída é determinística e o CI pode conferir
   // se data/network.json está em sincronia com data/threads (git diff).
@@ -147,13 +190,15 @@ const out = {
   center_name: byId.get('daniel-vorcaro').name,
   contacts: contacts.sort((a, b) => b.msg_count - a.msg_count),
   institutions: Object.entries(INSTITUTIONS).map(([id, d]) => ({ id, label: d.label })),
-  edges: [...mentionEdges.values()].sort((a, b) => b.count - a.count),
+  parties: Object.entries(usedParties).map(([id, d]) => ({ id, label: d.label, sigla: d.sigla })),
+  edges: [...mentionEdges.values(), ...affilEdges].sort((a, b) => (b.count || 0) - (a.count || 0)),
 };
 
 const outFile = path.join(dataDir, 'network.json');
 fs.writeFileSync(outFile, JSON.stringify(out, null, 1) + '\n', 'utf8');
 
-const personEdges = out.edges.filter((e) => !INSTITUTIONS[e.to]).length;
-const instEdges = out.edges.length - personEdges;
-console.log(`[network] ${out.contacts.length} contatos · ${personEdges} arestas pessoa↔pessoa · ${instEdges} pessoa↔instituição`);
+const personEdges = out.edges.filter((e) => e.type === 'mention' && !INSTITUTIONS[e.to]).length;
+const instEdges = out.edges.filter((e) => e.type === 'mention' && INSTITUTIONS[e.to]).length;
+const partyEdges = out.edges.filter((e) => e.type === 'affiliation').length;
+console.log(`[network] ${out.contacts.length} contatos · ${personEdges} pessoa↔pessoa · ${instEdges} pessoa↔instituição · ${partyEdges} filiações partidárias (${out.parties.length} partidos)`);
 console.log(`[network] escrito: data/network.json`);
