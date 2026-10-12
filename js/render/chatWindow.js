@@ -411,8 +411,6 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
         <h2>${esc(title)}</h2>
         <p>${esc(participantsLine)}</p>
       </div>
-      <button type="button" class="icon-btn" disabled title="Videochamadas não fazem parte do arquivo" aria-label="Videochamada (indisponível no arquivo)">${icons.videocam}</button>
-      <button type="button" class="icon-btn" disabled title="Chamadas não fazem parte do arquivo" aria-label="Chamada (indisponível no arquivo)">${icons.phoneHeader}</button>
       <button type="button" class="icon-btn" id="btn-filters" aria-expanded="false" aria-controls="filter-bar" title="Buscar nesta conversa (filtros)">
         <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
       </button>
