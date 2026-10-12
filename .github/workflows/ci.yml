@@ -30,6 +30,10 @@ jobs:
         run: |
           node scripts/build-network.mjs
           git diff --exit-code data/network.json
+      - name: build-search-index.mjs (índice de busca plena em sincronia com as threads)
+        run: |
+          node scripts/build-search-index.mjs
+          git diff --exit-code data/search-index.json
 
   deploy:
     name: Publicar no GitHub Pages (sem build)

@@ -76,6 +76,13 @@ export function getThreadIndex() {
   return fetchJSON('data/threads.json');
 }
 
+/** Índice de busca plena (conteúdo público das mensagens) — build-search-index.mjs. */
+let searchIndexCache = null;
+export function getSearchIndex() {
+  searchIndexCache ??= fetchJSON('data/search-index.json');
+  return searchIndexCache;
+}
+
 /** Thread RAW (inclui registros pending_review) — uso interno/deep-link. */
 export function getThreadRaw(id) {
   // slug simples para evitar traversal de caminho

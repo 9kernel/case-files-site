@@ -1594,3 +1594,27 @@ a.doc-card:hover { background: #fff; }
   stroke: #A5822F;
   opacity: 1;
 }
+
+/* ============ Busca plena: trecho com termo destacado ============ */
+.chat-item-preview .preview-hit {
+  display: block;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: var(--ink-2);
+}
+
+.chat-item-preview mark {
+  background: var(--mark-bg);
+  color: var(--ink);
+  border-radius: 3px;
+  padding: 0 1px;
+  font-weight: 600;
+}
+
+.badge-count.hit {
+  background: rgba(0, 168, 132, 0.14);
+  color: var(--wa-teal-light);
+  font-weight: 600;
+}

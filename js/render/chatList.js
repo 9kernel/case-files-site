@@ -1,7 +1,8 @@
 // chatList.js — lista lateral de conversas (coluna sempre visível).
-// Busca instantânea local por título/participante (não usa o índice invertido).
+// Busca instantânea local por título/participante E, sob demanda, dentro
+// das mensagens públicas (data/search-index.json, build-search-index.mjs).
 
-import { getThreadIndex, getParticipants, participantMap } from '../api.js';
+import { getThreadIndex, getParticipants, participantMap, getSearchIndex } from '../api.js';
 import { state } from '../state.js';
 import { openProfileDialog, wireProfileDialog } from './profile.js';
 import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml } from '../utils.js';
@@ -18,7 +19,59 @@ function matches(entry, pmap, query) {
   });
 }
 
-function itemHtml(entry, pmap, activeId) {
+/**
+ * Busca acento-insensível com mapa de posição: varre o texto bruto dobrando
+ * caractere a caractere (NFD sem diacríticos) e devolve o intervalo do 1º
+ * trecho que casa — os índices referem-se ao texto ORIGINAL, para destacar.
+ */
+function findHit(raw, query) {
+  const folded = [];
+  const map = [];
+  let i = 0;
+  for (const ch of String(raw)) {
+    const f = normalize(ch);
+    for (const c of f) {
+      folded.push(c);
+      map.push(i);
+    }
+    i += 1;
+  }
+  const at = folded.join('').indexOf(query);
+  if (at < 0) return null;
+  const start = map[at];
+  const endRaw = map[Math.min(at + query.length - 1, map.length - 1)] + 1;
+  return { start, end: endRaw };
+}
+
+/**
+ * Procura o termo dentro das mensagens públicas de uma conversa.
+ * Retorna { snippetHtml, hitCount } ou null. O trecho é truncado em torno
+ * da 1ª ocorrência com o termo destacado (<mark>), tudo escapado por partes.
+ */
+function contentSearch(messages, query) {
+  if (!messages?.length) return null;
+  let hitCount = 0;
+  let first = null;
+  for (const raw of messages) {
+    const hit = findHit(raw, query);
+    if (!hit) continue;
+    hitCount += 1;
+    if (!first) first = { raw, hit };
+  }
+  if (!first) return null;
+
+  const { raw, hit } = first;
+  const PAD = 42;
+  const from = Math.max(0, hit.start - PAD);
+  const to = Math.min(raw.length, hit.end + PAD);
+  const prefix = (from > 0 ? '…' : '') + raw.slice(from, hit.start);
+  const term = raw.slice(hit.start, hit.end);
+  const suffix = raw.slice(hit.end, to) + (to < raw.length ? '…' : '');
+  const snippetHtml = `${esc(prefix)}<mark>${esc(term)}</mark>${esc(suffix)}`;
+  return { snippetHtml, hitCount };
+}
+
+function itemHtml(entry, pmap, activeId, searchCtx) {
   const count = entry.message_count ?? 0;
   const date = formatDateBR(entry.last_message_date);
   const preview = entry.last_message_preview || `${count} mensagem${count === 1 ? '' : 's'}`;
@@ -26,6 +79,12 @@ function itemHtml(entry, pmap, activeId) {
   const pids = entry.participants_ids || [];
   const contactId = pids.find((id) => id !== pids[0]) || pids[0] || entry.id;
   const contactName = pmap.get(contactId)?.name || contactId;
+  const previewHtml = searchCtx
+    ? `<span class="preview-hit">${searchCtx.snippetHtml}</span>`
+    : esc(preview);
+  const badge = searchCtx
+    ? `<span class="badge-count hit" title="${searchCtx.hitCount} mensagem(ns) com este termo">${searchCtx.hitCount}</span>`
+    : `<span class="badge-count">${count}</span>`;
   return `<li>
     <a class="chat-item ${entry.id === activeId ? 'active' : ''}" href="#/thread/${esc(entry.id)}" data-thread-id="${esc(entry.id)}">
       <span class="avatar avatar-btn" data-profile="${esc(contactId)}" role="button" tabindex="0"
@@ -37,8 +96,8 @@ function itemHtml(entry, pmap, activeId) {
           <span class="chat-item-date">${date}</span>
         </span>
         <span class="chat-item-bottom">
-          <span class="chat-item-preview">${esc(preview)}</span>
-          <span class="badge-count">${count}</span>
+          <span class="chat-item-preview">${previewHtml}</span>
+          ${badge}
         </span>
       </span>
     </a>
@@ -57,9 +116,30 @@ export async function renderChatList() {
   const query = normalize(state.chatListQuery);
   const activeId = state.threadId;
 
-  const items = index.filter((entry) => matches(entry, participants, query));
+  // índice de conteúdo só entra em cena quando há termo de busca
+  let contentMap = null;
+  if (query) {
+    try {
+      const si = await getSearchIndex();
+      contentMap = new Map((si.threads || []).map((t) => [t.id, t.messages || []]));
+    } catch {
+      contentMap = new Map(); // sem índice: busca cai para nomes/títulos
+    }
+  }
+
+  const ctx = new Map();
+  const items = index.filter((entry) => {
+    if (!query) return true;
+    if (matches(entry, participants, query)) return true;
+    const found = contentSearch(contentMap?.get(entry.id), query);
+    if (found) {
+      ctx.set(entry.id, found);
+      return true;
+    }
+    return false;
+  });
   ul.innerHTML = items.length
-    ? items.map((entry) => itemHtml(entry, participants, activeId)).join('')
+    ? items.map((entry) => itemHtml(entry, participants, activeId, ctx.get(entry.id))).join('')
     : `<li><div class="chatlist-empty">Nenhuma conversa encontrada${state.chatListQuery ? ` para “${esc(state.chatListQuery)}”` : ''}.</div></li>`;
 
   // clique no avatar abre o card de perfil (sem navegar) — ligado uma vez
