@@ -14,12 +14,31 @@ function errorCardHtml(err) {
 }
 
 function wireTopbar() {
-  // filtro da lista lateral (coluna sempre visível — sem drawer no mobile)
+  // filtro da lista lateral
   initChatListSearch();
 
-  // botão do mapa de conexões acende quando a rota está ativa
+  const sidebar = document.getElementById('sidebar');
+  const scrim = document.getElementById('scrim');
+  const btnMenu = document.getElementById('btn-menu');
+  const setDrawer = (open) => {
+    sidebar.classList.toggle('open', open);
+    scrim.classList.toggle('visible', open);
+    scrim.setAttribute('aria-hidden', String(!open));
+  };
+
+  // dentro de uma conversa a lista esconde e vira gaveta (body.thread-mode)
   window.addEventListener('routechange', (e) => {
+    const inThread = e.detail?.name === 'thread';
+    document.body.classList.toggle('thread-mode', inThread);
+    btnMenu.hidden = !inThread;
+    setDrawer(false);
     document.getElementById('btn-network')?.classList.toggle('active', e.detail?.name === 'conexoes');
+  });
+
+  btnMenu?.addEventListener('click', () => setDrawer(!sidebar.classList.contains('open')));
+  scrim?.addEventListener('click', () => setDrawer(false));
+  window.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && sidebar.classList.contains('open')) setDrawer(false);
   });
 }
 
