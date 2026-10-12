@@ -1436,39 +1436,93 @@ a.doc-card:hover { background: #fff; }
   margin: 8px 2px 0;
 }
 
-/* ============ Mobile: textos quebram em 2 linhas em vez de cortar com … ============ */
-@media (max-width: 767px) {
-  .chat-item-title,
-  .chat-item-preview,
-  .chat-item-sub {
-    white-space: normal;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    line-height: 1.25;
-    hyphens: auto;
-  }
+/* ============ Nomes e prévias quebram em 2 linhas (todas as larguras) ============ */
+.chat-item-title,
+.chat-item-preview,
+.chat-item-sub {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.25;
+  hyphens: auto;
+}
 
-  .chat-item-top { align-items: flex-start; }
-  .chat-item-date { margin-top: 2px; }
+.chat-item-top { align-items: flex-start; }
+.chat-item-date { margin-top: 2px; }
 
-  .chat-title h2,
-  .chat-title p {
-    white-space: normal;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    line-height: 1.22;
-  }
+.chat-title h2,
+.chat-title p {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.22;
+}
 
-  .quote span {
-    white-space: normal;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    line-height: 1.25;
-  }
+.quote span {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  line-height: 1.25;
+}
+
+/* ============ Página do mapa de conexões (#/conexoes) ============ */
+.network-page .network-wrap {
+  margin: 18px 0 26px;
+}
+
+.network-page .network-svg {
+  min-width: 760px;
+}
+
+.netpage-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  gap: 14px;
+  margin: 18px 0 30px;
+}
+
+.netpage-item {
+  background: var(--panel, #fff);
+  border: 1px solid var(--line, #E4E9EC);
+  border-radius: var(--radius, 12px);
+  padding: 12px 14px;
+}
+
+.netpage-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.netpage-arrow { color: var(--ink-muted, #667781); margin: 0 2px; }
+
+.netpage-thread {
+  font-size: 13.2px;
+  color: var(--ink-3, #8696A0);
+  margin-top: 3px;
+}
+
+.netpage-evs { margin-top: 4px; }
+
+.netpage-sep {
+  font-size: 13px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-3, #8696A0);
+  margin-top: 10px;
+  list-style: none;
+}
+
+/* página do mapa usa a tela inteira (grafo maior) */
+.network-page {
+  max-width: 1160px;
 }

@@ -16,6 +16,11 @@ function errorCardHtml(err) {
 function wireTopbar() {
   // filtro da lista lateral (coluna sempre visível — sem drawer no mobile)
   initChatListSearch();
+
+  // botão do mapa de conexões acende quando a rota está ativa
+  window.addEventListener('routechange', (e) => {
+    document.getElementById('btn-network')?.classList.toggle('active', e.detail?.name === 'conexoes');
+  });
 }
 
 async function init() {

@@ -1,16 +1,12 @@
-// home.js — rota #/: mapa de conexões, apresentação, legenda de proveniência e fontes.
+// home.js — rota #/: apresentação, legenda de proveniência e fontes.
+// O mapa de conexões tem página própria (#/conexoes), acessada pelo botão da barra.
 
 import { escapeHtml as esc } from '../utils.js';
-import { renderNetwork } from './network.js';
 
 export async function renderHome(container) {
   container.innerHTML = `
   <div class="home">
     <div class="home-inner">
-      <section class="network-wrap" id="network-wrap">
-        <h2 class="section-title">Mapa de conexões</h2>
-        <div id="network-mount"></div>
-      </section>
       <section class="hero">
         <h1>O WhatsApp de Daniel Vorcaro</h1>
         <p>Arquivo documental das conversas do celular de <strong>Daniel Vorcaro</strong>,
@@ -53,14 +49,4 @@ export async function renderHome(container) {
       </section>
     </div>
   </div>`;
-
-  const mount = container.querySelector('#network-mount');
-  if (mount) {
-    try {
-      await renderNetwork(mount);
-    } catch (err) {
-      console.error('[network]', err);
-      mount.closest('.network-wrap').remove();
-    }
-  }
 }

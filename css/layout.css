@@ -56,6 +56,14 @@ body {
 }
 
 .icon-btn:hover { background: rgba(0, 0, 0, 0.08); }
+
+.topbar-action {
+  margin-left: auto;
+}
+
+.topbar-action.active {
+  background: rgba(255, 255, 255, 0.18);
+}
 .topbar .icon-btn:hover { background: rgba(255, 255, 255, 0.14); }
 
 /* ---------- Shell ---------- */

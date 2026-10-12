@@ -9,12 +9,6 @@
 import { getNetwork, getParticipants } from '../api.js';
 import { escapeHtml as esc, initials } from '../utils.js';
 
-const W = 900;
-const H = 880;
-const CX = W / 2;
-const CY = 420;
-const R_CONTACT = 245;   // anel de contatos
-const R_INST = 372;      // anel de instituições
 const MAX_EVIDENCE = 6;
 
 const svgEl = (tag, attrs = {}, parent = null) => {
@@ -24,7 +18,13 @@ const svgEl = (tag, attrs = {}, parent = null) => {
   return el;
 };
 
-export async function renderNetwork(container) {
+export async function renderNetwork(container, opts = {}) {
+  const W = opts.w || 900;
+  const H = opts.h || 880;
+  const CX = W / 2;
+  const CY = opts.cy ?? 420;
+  const R_CONTACT = opts.rContact || 245;   // anel de contatos
+  const R_INST = opts.rInst || 372;         // anel de instituições
   const [net, participants] = await Promise.all([getNetwork(), getParticipants()]);
   const pmap = new Map(participants.map((p) => [p.id, p]));
   const instById = new Map(net.institutions.map((i) => [i.id, i]));
