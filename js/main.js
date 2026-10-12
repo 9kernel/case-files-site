@@ -26,13 +26,18 @@ function wireTopbar() {
     scrim.setAttribute('aria-hidden', String(!open));
   };
 
-  // dentro de uma conversa a lista esconde e vira gaveta (body.thread-mode)
+  // classes de rota no body controlam o layout; thread liga o modo gaveta
+  const ROUTES = ['home', 'thread', 'policy', 'conexoes', 'sobre', 'notfound'];
   window.addEventListener('routechange', (e) => {
-    const inThread = e.detail?.name === 'thread';
+    const name = e.detail?.name || 'home';
+    for (const r of ROUTES) document.body.classList.remove(`route-${r}`);
+    document.body.classList.add(`route-${name}`);
+    const inThread = name === 'thread';
     document.body.classList.toggle('thread-mode', inThread);
     btnMenu.hidden = !inThread;
     setDrawer(false);
-    document.getElementById('btn-network')?.classList.toggle('active', e.detail?.name === 'conexoes');
+    document.getElementById('btn-network')?.classList.toggle('active', name === 'conexoes');
+    document.getElementById('btn-about')?.classList.toggle('active', name === 'sobre');
   });
 
   btnMenu?.addEventListener('click', () => setDrawer(!sidebar.classList.contains('open')));

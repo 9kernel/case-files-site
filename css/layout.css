@@ -157,6 +157,31 @@ body {
   display: none;
 }
 
+/* ---------- Home: lista larga (nomes e prévias sem aperto) ---------- */
+.route-home .sidebar {
+  width: clamp(440px, 58vw, 760px);
+}
+
+/* ---------- Celular: home = lista em tela cheia; páginas = tela cheia p/ conteúdo ---------- */
+@media (max-width: 767px) {
+  .route-home .sidebar {
+    width: 100%;
+    border-right: none;
+  }
+
+  .route-home .view,
+  .route-home .home-empty {
+    display: none;
+  }
+
+  .route-sobre .sidebar,
+  .route-conexoes .sidebar,
+  .route-policy .sidebar,
+  .route-notfound .sidebar {
+    display: none;
+  }
+}
+
 /* ---------- Modo conversa: lista esconde, hamburger abre gaveta ----------
    body.thread-mode é ligado pelo router ao entrar em #/thread/...; em
    qualquer largura de tela a lista vira um drawer sobre o conteúdo. */

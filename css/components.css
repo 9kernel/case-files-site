@@ -1526,3 +1526,39 @@ a.doc-card:hover { background: #fff; }
 .network-page {
   max-width: 1160px;
 }
+
+/* ============ Home vazia (lista em destaque) e página Sobre ============ */
+.home-empty {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 40px 24px;
+  text-align: center;
+  color: var(--ink-3, #8696A0);
+  border-left: 1px solid var(--line, #E4E9EC);
+}
+
+.home-empty svg { color: #C9D4DA; }
+
+.home-empty h2 {
+  font-size: 22px;
+  color: var(--wa-teal, #075E54);
+  margin-top: 2px;
+}
+
+.home-empty p {
+  max-width: 340px;
+  font-size: 15.2px;
+  line-height: 1.45;
+}
+
+.home-empty-actions {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+  justify-content: center;
+}

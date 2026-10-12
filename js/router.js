@@ -10,6 +10,7 @@ import { renderHome } from './render/home.js';
 import { renderChatWindow } from './render/chatWindow.js';
 import { renderPolicy } from './render/policy.js';
 import { renderNetworkPage } from './render/networkPage.js';
+import { renderAbout } from './render/about.js';
 import { setActiveThread } from './render/chatList.js';
 import { closeDocPanel } from './render/docPanel.js';
 import { CONFIG } from './config.js';
@@ -35,6 +36,9 @@ function parseHash() {
   }
   if (parts[0] === 'conexoes') {
     return { name: 'conexoes', params: {} };
+  }
+  if (parts[0] === 'sobre') {
+    return { name: 'sobre', params: {} };
   }
   return { name: 'notfound', params: {} };
 }
@@ -84,6 +88,10 @@ async function route() {
       case 'conexoes':
         document.title = `Mapa de conexões — ${CONFIG.CASE_NAME}`;
         await renderNetworkPage(container);
+        break;
+      case 'sobre':
+        document.title = `Sobre — ${CONFIG.CASE_NAME}`;
+        await renderAbout(container);
         break;
       default:
         document.title = `Página não encontrada — ${CONFIG.CASE_NAME}`;
