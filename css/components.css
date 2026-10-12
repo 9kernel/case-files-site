@@ -180,7 +180,8 @@
 
   .chat-title h2 { color: #fff; }
   .chat-title p { color: rgba(255, 255, 255, 0.82); }
-  .chat-header .icon-btn { color: rgba(255, 255, 255, 0.85); }
+  .chat-header .icon-btn { color: #fff; }
+  .chat-header .icon-btn:hover { background: rgba(255, 255, 255, 0.14); }
   .chat-header .icon-btn:disabled { opacity: 0.5; }
 }
 
@@ -931,10 +932,18 @@ a.doc-card:hover { background: #fff; }
 
 .media-dialog .icon-btn:hover { background: rgba(255, 255, 255, 0.12); }
 
-/* header da conversa: ícones estilo WhatsApp */
-.chat-header .icon-btn { color: var(--ink-3); }
-.chat-header .icon-btn:disabled { opacity: 0.5; cursor: default; }
+/* header da conversa: ícones no teal do projeto, com feedback de toque */
+.chat-header .icon-btn { color: var(--wa-teal); }
+.chat-header .icon-btn:hover { background: rgba(7, 94, 84, 0.10); }
+.chat-header .icon-btn:disabled { opacity: 0.4; cursor: default; }
 .chat-header .icon-btn:disabled:hover { background: transparent; }
+
+/* celular: cabeçalho teal → ícones brancos (especificidade reforçada
+   porque este bloco vem depois da media query do cabeçalho) */
+@media (max-width: 767px) {
+  .chat .chat-header .icon-btn { color: #fff; }
+  .chat .chat-header .icon-btn:hover { background: rgba(255, 255, 255, 0.14); }
+}
 
 /* estado vazio / erro */
 .empty-state,
