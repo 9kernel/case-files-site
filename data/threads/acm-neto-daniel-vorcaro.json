@@ -1,0 +1,488 @@
+{
+ "id": "acm-neto-daniel-vorcaro",
+ "title": "ACM Neto",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "acm-neto"
+ ],
+ "source": {
+  "document": "Revista Oeste — “Vorcaro mantinha conversas com ACM Neto por mensagens” (02/10/2026)",
+  "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/",
+  "pages": "Reportagem de Isabela Jordão; revelação original da coluna de Lauro Jardim (O Globo). Mensagens de 2023–2024 obtidas pela PF no celular de Vorcaro registram encontros, elogios e articulações; ACM Neto chama Vorcaro de “irmão”. Segundo a matéria, empresa ligada a ACM Neto recebeu R$ 3,6 milhões do Master e da gestora Reag, conforme apontamentos enviados ao COAF — ACM Neto nega irregularidades. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Irmão, foi bom demais. Não vou mais tomar falta de jeito nenhum. Rsss",
+   "editorial_note": "Após reunião do “conselho de quartas-feiras”, mencionada por Vorcaro na conversa, em outubro/2023.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2023-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Valeu demais!!!!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2023-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Boa. Vamos juntos. Bom estar contigo, energia boa demais",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim_excerpt",
+   "content": "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois a bolsa de minha esposa rompeu",
+   "editorial_note": "Em julho/2024, cancelando reunião em São Paulo pelo nascimento antecipado do filho; na continuação, diz que não viajaria e que um interlocutor decidiria entre reunir sem ele ou remarcar.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-10-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Irmão, Rueda pousa 18:30. Veja aonde e q hs deseja encontrar e me avise. Abs",
+   "editorial_note": "Combinando encontro com Antônio Rueda em uma tabacaria em São Paulo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-10-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Ja no caruso?",
+   "editorial_note": "Referência à tabacaria Caruso, em São Paulo, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-10-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Isso. Chego em 7 lá",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-10-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Sala privada",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-10-31",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim_excerpt",
+   "content": "as coisas em Brasília estão consolidadas",
+   "editorial_note": "Trecho da mensagem de 31/10/2024 sobre Brasília.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-10-31",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim_excerpt",
+   "content": "felizmente, saiu tudo como desejávamos na política",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-10-31",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Como sei que Rueda confirmou contigo na terça em Brasília, falamos todos juntos lá",
+   "editorial_note": "Referência a Antônio Rueda (União Brasil).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Parabéns pela condução. Você é um monstro, grande homem dessa nação",
+   "editorial_note": "Resposta de Vorcaro, que diz ainda que estariam juntos na terça-feira; a reportagem não indica data específica da mensagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00013",
+   "sender_id": "acm-neto",
+   "content_kind": "verbatim",
+   "content": "Depois, confirma o horário e o local que falamos",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Revista Oeste, 02/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-05-03",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Fernando Mascarenhas, então diretor comercial do Master, agradece a ACM Neto (03/05/2024), em conversa distinta desta: “Irmão, passando pra agradecer mais uma vez o seu apoio incondicional! Lista nova publicada, agora vamos pra cima” — contexto da inclusão do Master na lista de bancos autorizados a captar recursos de RPPS. ACM Neto negou atuar para destravar os investimentos e disse que nunca teve ingerência sobre decisões do governo Lula.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

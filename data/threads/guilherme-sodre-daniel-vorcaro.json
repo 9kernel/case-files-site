@@ -1,0 +1,109 @@
+{
+ "id": "guilherme-sodre-daniel-vorcaro",
+ "title": "Guilherme Sodré (Guiga)",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "guilherme-sodre"
+ ],
+ "source": {
+  "document": "Folha — “Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner” (09/10/2026)",
+  "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
+  "pages": "Guiga Sodré é apontado pela PF como homem de confiança e articulador do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré, enteado do senador e secretário de Meio Ambiente da Bahia. Procurado pela Folha, não se manifestou. A defesa de Wagner (advogado Pablo Domingues) afirmou que não houve conversa com o senador quando o número foi enviado, que Wagner “não tem nenhuma relação com Daniel Vorcaro e nunca atuou a favor dos interesses do Banco Master” e que não pode responder por conversas de terceiros."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Maravilhosas!",
+   "editorial_note": "Reação às informações enviadas por Guiga sobre as obras “Ouro Preto” (Guignard) e “Casamento na Roça” (Portinari), em julho/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, 09/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "guilherme-sodre",
+   "content_kind": "verbatim",
+   "content": "Ao vivo são ainda mais lindas",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, 09/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-08",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Após telefonema de dois minutos com Vorcaro, Guiga encaminha o telefone do senador Jaques Wagner ao banqueiro e lhe deseja boa sorte, em agosto/2024, segundo a reportagem (transcrição da mensagem não publicada).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "Folha, 09/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

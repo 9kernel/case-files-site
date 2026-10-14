@@ -8,9 +8,169 @@
  "source": {
   "document": "PF · IPJ-A nº 1020625/2026, fls. 103-119 (conversa declarada nas legendas das figuras)",
   "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
-  "pages": "IPJ-A nº 1020625/2026 — peça íntegra no pacote público «Arquivos Pet 16704» do STF (PET 15.978, peça 4; PET 15.556, peça 3). Página e figura citadas em cada mensagem."
+  "pages": "IPJ-A nº 1020625/2026 — peça íntegra no pacote público «Arquivos Pet 16704» do STF (PET 15.978, peça 4; PET 15.556, peça 3). Página e figura citadas em cada mensagem. Complementada pelo UOL (08/10/2026): tentativas de aproximação de Lula e de Alexandre de Moraes para proteger o Master."
  },
  "messages": [
+  {
+   "id": "m-00017",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim",
+   "content": "Irmão, deixa te falar, o Guido está em Londres. Só daqui dez dias, mas eu acho que seria o caso de você mandar teu avião",
+   "editorial_note": "Julho/2025: sugestão de enviar avião particular a Londres para buscar o ex-ministro Guido Mantega e viabilizar encontro com o presidente Lula. Na reprodução consultada, a mensagem continua: “lá buscar ele e trazer ele pra encontrar o presidente, veja aí o que você consegue fazer, conversa com ele”. O Planalto confirma encontro intermediado por Mantega em dezembro/2024 e nega contatos posteriores.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     },
+     {
+      "publication": "Blog do BG (reprodução)",
+      "date": "2026-10-08",
+      "url": "https://www.blogdobg.com.br/novas-mensagens-apontam-que-vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master"
+     }
+    ]
+   },
+   "source_ref": "UOL, 08/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim",
+   "content": "É urgente, ele vai falar com você sabe quem no domingo",
+   "editorial_note": "Dois dias depois, sobre videoconferência com Mantega, sem nomear Lula.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     },
+     {
+      "publication": "Blog do BG (reprodução)",
+      "date": "2026-10-08",
+      "url": "https://www.blogdobg.com.br/novas-mensagens-apontam-que-vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master"
+     }
+    ]
+   },
+   "source_ref": "UOL, 08/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Importante call. Vai dar certo",
+   "editorial_note": "Cerca de uma hora após ligação telefônica de 23 minutos entre os três; na reprodução consultada, a saudação inicial da mensagem consta como “Parabéços” (grafia não conferível na origem), por isso o trecho mantido começa em “Importante”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     },
+     {
+      "publication": "Blog do BG (reprodução)",
+      "date": "2026-10-08",
+      "url": "https://www.blogdobg.com.br/novas-mensagens-apontam-que-vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master"
+     }
+    ]
+   },
+   "source_ref": "UOL, 08/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Muito obrigado",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     },
+     {
+      "publication": "Blog do BG (reprodução)",
+      "date": "2026-10-08",
+      "url": "https://www.blogdobg.com.br/novas-mensagens-apontam-que-vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master"
+     }
+    ]
+   },
+   "source_ref": "UOL, 08/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
   {
    "id": "m-00001",
    "date": "2025-11-17",
@@ -726,6 +886,26 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 116 · fig. 133",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "e-00002",
+   "event_kind": "editorial_context",
+   "content": "No fim de 2025, Vorcaro pergunta, em mensagens, se o ministro Alexandre de Moraes conseguira conter as ações do Banco Central contra o Master — chamando-as de “maldades” e “sacanagens” —, teria alterado agenda de viagem para se encontrar com o ministro e pedido que ele intercedesse junto à Polícia Federal, conforme a reportagem (transcrições não publicadas). Mensagens de março/2025 citam possível audiência com presença do senador Jaques Wagner; Mantega fora contratado por R$ 14 milhões como consultor e intermediara a reunião de dezembro/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL, 08/10/2026",
+   "added_in": "ingest-imprensa-20261014"
   }
  ]
 }

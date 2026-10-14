@@ -8,7 +8,7 @@
  "source": {
   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 184–185",
   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-  "pages": "Cópia pública (reprodução jornalística) do documento oficial."
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Complementada pela coluna Mônica Bergamo (Folha, set/2026): diálogos que citam o filho de Kassio Nunes Marques e pagamento de R$ 500 mil/mês via Consult."
  },
  "messages": [
   {
@@ -54,6 +54,181 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 185 · fig. 191",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-10-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim",
+   "content": "Dominado aqui",
+   "editorial_note": "Em 01/10/2024, Rennó repassa a Vorcaro a decisão do STF favorável à destilaria Alcídia (que reconheceu responsabilidade da União por prejuízos a usinas) e envia print com os contatos de Kevin Marques, filho do ministro Nunes Marques, com essa legenda; no julgamento, Nunes Marques declarou-se inicialmente impedido, reviu a posição e desempatou a favor da tese.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha (coluna Mônica Bergamo)",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha (Mônica Bergamo), set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-07-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim",
+   "content": "Esse aqui _ 500 mil mês - mantém? Kkkkkkkkk. Então esse aqui já era, né?",
+   "editorial_note": "Em 04/07/2025, reenviando o print com os contatos de Kevin Marques; segundo a coluna, os pagamentos seriam feitos por meio da Consult Inteligência Tributária, com valores mensais de R$ 500 mil.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha (coluna Mônica Bergamo)",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha (Mônica Bergamo), set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-07-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Kkkkkkk",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha (coluna Mônica Bergamo)",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha (Mônica Bergamo), set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-08-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim",
+   "content": "Dos pagamentos essenciais está faltando a Consult",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha (coluna Mônica Bergamo)",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha (Mônica Bergamo), set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-08-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim",
+   "content": "Aqui. Esse aí. Único ‘meu’ que faltou",
+   "editorial_note": "Reenvia o print com os contatos de Kevin Marques. Em nota, a assessoria de Kevin Marques diz que ele “não prestou serviço ao banco Master nem recebeu dinheiro” de Vorcaro e que recebeu R$ 281,6 mil da Consult por serviços jurídicos tributários administrativos, sem relação com o STF; a assessoria de Nunes Marques afirma que o ministro nunca votou a favor do Banco Master e que o filho nunca recebeu dinheiro de Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha (coluna Mônica Bergamo)",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha (Mônica Bergamo), set/2026",
+   "added_in": "ingest-imprensa-20261014"
   }
  ]
 }

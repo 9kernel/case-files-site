@@ -1,0 +1,211 @@
+{
+ "id": "leonardo-serrano-daniel-vorcaro",
+ "title": "Leonardo Serrano Giunchetti",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "leonardo-serrano"
+ ],
+ "source": {
+  "document": "Revista piauí — “Além do Macallan: os luxos de Vorcaro e autoridades em festas” (04/10/2026)",
+  "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan",
+  "pages": "Serrano, da SL Consulting, era o organizador das viagens internacionais de Vorcaro, incluindo a logística do 1º Fórum Jurídico Brasil de Ideias (Londres, abril/2024, com ~40 autoridades; hospedagem no Hotel The Peninsula) e a viagem de março/2024 (jogo Brasil x Inglaterra em Wembley). A reportagem atribui a ele as mensagens transcritas; datas individuais não divulgadas, salvo indicação. A matéria não registra nota de defesa de Giunchetti."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim",
+   "content": "A gente tá vendo as flores com um cara que arruma para as festas do Di Caprio tbm",
+   "editorial_note": "“Flores” era o código para as acompanhantes no Ciprani/Nikita, conforme a reportagem; grafia conforme o veículo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-04",
+      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+     }
+    ]
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Todos esses upgrades de quartos de autoridades, etc., serão conta nossa. Isso, em teoria, por lei, não pode.",
+   "editorial_note": "Advertência sobre os gastos com autoridades hospedadas, em abril/2024; trecho inicial da mensagem conforme reproduzido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-04",
+      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+     }
+    ]
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que tudo bem, né? Pois quero evitar dar M para vocês depois",
+   "editorial_note": "Sobre a fatura do hotel e o fluxo financeiro do fórum; trecho final da mensagem conforme reproduzido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-04",
+      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+     }
+    ]
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-04-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Master da lista de convidados",
+   "editorial_note": "Em 23/04/2024, véspera do evento, Vorcaro pede que retire o “Master da lista de convidados” e diz ser preciso evitar “a qq custo” a exposição do banco e a sua própria; trechos entre aspas na reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-04",
+      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+     }
+    ]
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "O negócio do pgto do hotel pode dar merda grande. Vc tem que pedir invoice total pra Voto",
+   "editorial_note": "Sobre o pagamento do The Peninsula; a reportagem não transcreve a resposta de Serrano.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-04",
+      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+     }
+    ]
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-04",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Viagem a Londres para o jogo Brasil x Inglaterra em Wembley, em março/2024, organizada por Serrano, e o 1º Fórum Jurídico Brasil de Ideias, em abril/2024, com cerca de 40 autoridades hospedadas no Hotel The Peninsula — contexto das mensagens desta conversa, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "piauí, 04/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

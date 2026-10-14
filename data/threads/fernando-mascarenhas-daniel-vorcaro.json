@@ -1,0 +1,294 @@
+{
+ "id": "fernando-mascarenhas-daniel-vorcaro",
+ "title": "Fernando Mascarenhas",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "fernando-mascarenhas"
+ ],
+ "source": {
+  "document": "UOL — “Master entrou em lista para captar fundos públicos após ação de ACM e Lupi” (12/10/2026)",
+  "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm",
+  "pages": "Reportagem de Cézar Feitoza, Natália Portinari e Fabio Serapião. Mascarenhas era então diretor comercial do Banco Master. Em abril/2024, o Ministério da Previdência publicou a lista exaustiva de bancos autorizados a captar recursos de RPPS sem incluir o Master (que já havia captado R$ 490 milhões); após acionamento de ACM Neto e reunião com o então ministro Carlos Lupi (02/05/2024), o Master foi a única instituição adicionada. Lupi negou interferência política; o ministério afirmou que o Master cumpriu os requisitos legais; a defesa de Vorcaro e Mascarenhas não se manifestaram."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-04-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Colocaram if emissora de ativo de renda fixa na lista!",
+   "editorial_note": "Na reportagem, “if” aparece acompanhado de explicação editorial entre colchetes (instituição financeira), aqui removida; grafia conforme o veículo. Contexto: exclusão do Master da lista exaustiva de RPPS.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-04-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim",
+   "content": "Estamos sendo atacados de verdade! Precisamos contestar isso, eles não tem alçada para fazer isso",
+   "editorial_note": "Sequência da reação à exclusão da lista.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao interessa o bacen pra nos agora. Vc precisa levar a ata da assembleia que o banco ja elegeu. E pedir para eles nos colocarem na lista",
+   "editorial_note": "Trecho da resposta de Vorcaro; a reportagem indica que o trecho final da mensagem não foi reproduzido. Ortografia conforme o veículo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Caixa marcou quinta 10:30 em sp e lupi às 15 hrs em Brasília! Conseguiria o avião pra eu e André",
+   "editorial_note": "Pedido de uso de aeronave para a dupla de reuniões (Caixa em São Paulo e Ministério da Previdência em Brasília); a reportagem indica continuação não transcrita. “André” sem identificação na matéria.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Of cousw",
+   "editorial_note": "Autorização do avião; grafia do inglês com erro de digitação mantida conforme o veículo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-05-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acabamos de receber um retorno da secretaria a respeito da nossa solicitação.",
+   "editorial_note": "Mensagem de 02/05/2024, após a reunião com o ministro Carlos Lupi; a reportagem reproduz a conclusão (“o Banco Master cumpriu…”) com reticências indicando continuação não transcrita.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00007",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Show",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-05-02",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Reunião de Mascarenhas com o então ministro da Previdência, Carlos Lupi, em Brasília, e retorno favorável da secretaria sobre a inclusão do Master na lista; no total, o Master captaria R$ 4,5 bilhões de fundos de previdência até a liquidação, em novembro/2025, sem cobertura do FGC. Em delação rejeitada, Vorcaro afirmava que ACM Neto e Antônio Rueda recebiam 10% dos aportes captados — versão registrada como delação rejeitada pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-05-03",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Mascarenhas a ACM Neto (03/05/2024), em conversa distinta desta: “Irmão, passando pra agradecer mais uma vez o seu apoio incondicional! Lista nova publicada, agora vamos pra cima”. ACM Neto negou atuar para destravar os investimentos e condenou “vazamentos seletivos e manipulados”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL, 12/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

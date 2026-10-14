@@ -1,0 +1,103 @@
+{
+ "id": "martha-graeff-daniel-vorcaro",
+ "title": "Martha Graeff",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "martha-graeff"
+ ],
+ "source": {
+  "document": "Folha — “Vorcaro diz em mensagens que encontro com Lula foi ‘ótimo’” (05/03/2026)",
+  "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml",
+  "pages": "Mensagens obtidas pela CPI mista do INSS, conforme a reportagem; a maioria do conteúdo é descrito em resumo, sem transcrição integral — apenas os trechos abaixo aparecem entre aspas. Martha Graeff é identificada como namorada de Vorcaro e influenciadora. Datas das mensagens não divulgadas."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "foi ótimo",
+   "editorial_note": "Avaliação de Vorcaro, em mensagem à namorada, sobre o encontro com o presidente Lula em dezembro/2024; trecho entre aspas na reportagem, sem transcrição da mensagem integral.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "CPI do INSS",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, 05/03/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "presidente do Banco Central que vai entrar",
+   "editorial_note": "Nas mensagens, Vorcaro diz que Lula chamou o “presidente do Banco Central que vai entrar” — referência a Gabriel Galípolo, então diretor do BC, presente ao encontro; trecho entre aspas na reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "CPI do INSS",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, 05/03/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-12",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Encontro de Vorcaro com o presidente Lula no Palácio do Planalto, revelado por Lauro Jardim (O Globo) em março/2025 e confirmado pela Folha: Vorcaro foi ao Planalto com Guido Mantega e Augusto Lima; Mantega tinha conversa marcada com Marco Aurélio Santana Ribeiro (“Marcola”), chefe de gabinete de Lula, e depois pediu falar com o presidente, que convocou os ministros Rui Costa e Alexandre Silveira, além de Galípolo. Segundo a reportagem, Vorcaro reclamou da concentração bancária e Lula disse que o tema cabia ao BC.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "CPI do INSS",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "Folha, 05/03/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

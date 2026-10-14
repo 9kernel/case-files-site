@@ -24,7 +24,7 @@
    "daniel-vorcaro",
    "flavio-bolsonaro"
   ],
-  "message_count": 27,
+  "message_count": 29,
   "last_message_preview": "Amém!",
   "featured": true,
   "note": "O chat central da extração da PF: do primeiro contato ao dia anterior à prisão — filme, repasses ao fundo Havengate e cobranças.",
@@ -150,8 +150,8 @@
    "daniel-vorcaro",
    "hugo-motta"
   ],
-  "message_count": 4,
-  "last_message_preview": "seria uma reunião demorada",
+  "message_count": 12,
+  "last_message_preview": "tentar encaixar esse assunto",
   "featured": false,
   "note": null,
   "source": {
@@ -402,9 +402,9 @@
    "daniel-vorcaro",
    "luiz-renno"
   ],
-  "message_count": 1,
-  "last_message_date": "2024-04-19",
-  "last_message_preview": "evento super exclusivo com alexandre de moraes em londres",
+  "message_count": 6,
+  "last_message_date": "2025-08-08",
+  "last_message_preview": "Aqui. Esse aí. Único ‘meu’ que faltou",
   "featured": false,
   "note": "“Evento super exclusivo com alexandre de moraes em londres”.",
   "source": {
@@ -576,10 +576,11 @@
    "daniel-vorcaro",
    "walfrido-warde"
   ],
-  "message_count": 16,
+  "message_count": 20,
   "last_message_preview": "Nao marca mais a reuniao pq agora mudei o roteiro",
   "featured": false,
-  "note": "Advogado de Vorcaro, segundo o relatório. A conversa retomada no dia 17/11/2025 — data da prisão — acompanha a protocolização da petição e o encaminhamento de reportagens, conforme a análise da PF."
+  "note": "Advogado de Vorcaro, segundo o relatório. A conversa retomada no dia 17/11/2025 — data da prisão — acompanha a protocolização da petição e o encaminhamento de reportagens, conforme a análise da PF.",
+  "last_message_date": "2025-11-17"
  },
  {
   "id": "fabiano-zettel-daniel-vorcaro",
@@ -640,5 +641,204 @@
    "pages": "Reportagem do UOL/Folha (15/09/2026) sobre diálogos que citam filhos de ministros. O contato é identificado nas mensagens apenas como “Marcus Vinicius”, advogado; sobrenome e identidade civil não são divulgados — nada além disso é inferido aqui. Horários não divulgados."
   },
   "last_message_date": null
+ },
+ {
+  "id": "julio-cezar-daniel-vorcaro",
+  "title": "Júlio Cezar",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "julio-cezar"
+  ],
+  "message_count": 27,
+  "last_message_preview": "Tenho uma estruturação para comprar suas ‘LFs’ dos RPPS que você vende",
+  "featured": false,
+  "note": "Dono de consultoria em Goiânia apontado como operador do grupo de Padilha junto a fundos de pensão: a conversa das boletas que não viraram — do “já estou aqui no palácio” ao rompimento, em agosto/2025.",
+  "source": {
+   "document": "Veja — “Em áudio, operador de propinas do Planalto diz que iria colocar Vorcaro ‘na boca do gol’ no BB” (10/10/2026)",
+   "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/",
+   "pages": "Reportagem de Robson Bonin e Hugo Marques. Segundo a matéria, mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar; a tese da PF de captação de R$ 10 bilhões em fundos de pensão com 10% de “propina” é identificada como tese. Padilha, Lula, Olavo Noleto e Augusto Lima negam as acusações em nota. Horários não divulgados, salvo indicação."
+  },
+  "last_message_date": "2025-10"
+ },
+ {
+  "id": "hamilton-buzelin-daniel-vorcaro",
+  "title": "Hamilton Buzelin",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "hamilton-buzelin"
+  ],
+  "message_count": 5,
+  "last_message_preview": "Daniel, o Júlio já vai indo para o palácio e vai te esperar lá.",
+  "featured": false,
+  "note": "O ex-diretor do Máxima que reapareceu para apresentar Júlio Cezar a Vorcaro e articular o encontro no Planalto.",
+  "source": {
+   "document": "Veja — “Em áudio, operador de propinas do Planalto diz que iria colocar Vorcaro ‘na boca do gol’ no BB” (10/10/2026)",
+   "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/",
+   "pages": "Reportagem de Robson Bonin e Hugo Marques. Buzelin é identificado como ex-diretor de Finanças Corporativas do Banco Máxima. Horários não divulgados."
+  },
+  "last_message_date": "2024-03-01"
+ },
+ {
+  "id": "martha-graeff-daniel-vorcaro",
+  "title": "Martha Graeff",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "martha-graeff"
+  ],
+  "message_count": 2,
+  "last_message_preview": "presidente do Banco Central que vai entrar",
+  "featured": false,
+  "note": "À namorada, Vorcaro contou que o encontro com Lula “foi ótimo” — mensagens obtidas pela CPI do INSS.",
+  "source": {
+   "document": "Folha — “Vorcaro diz em mensagens que encontro com Lula foi ‘ótimo’” (05/03/2026)",
+   "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml",
+   "pages": "Mensagens obtidas pela CPI mista do INSS, conforme a reportagem; a maioria do conteúdo é descrito em resumo, sem transcrição integral — apenas os trechos abaixo aparecem entre aspas. Martha Graeff é identificada como namorada de Vorcaro e influenciadora. Datas das mensagens não divulgadas."
+  }
+ },
+ {
+  "id": "fernando-mascarenhas-daniel-vorcaro",
+  "title": "Fernando Mascarenhas",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "fernando-mascarenhas"
+  ],
+  "message_count": 7,
+  "last_message_preview": "Show",
+  "featured": false,
+  "note": "O então diretor comercial do Master na crise da “lista exaustiva” de RPPS: Caixa, Lupi, avião e o “Show” de volta.",
+  "source": {
+   "document": "UOL — “Master entrou em lista para captar fundos públicos após ação de ACM e Lupi” (12/10/2026)",
+   "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm",
+   "pages": "Reportagem de Cézar Feitoza, Natália Portinari e Fabio Serapião. Mascarenhas era então diretor comercial do Banco Master. Em abril/2024, o Ministério da Previdência publicou a lista exaustiva de bancos autorizados a captar recursos de RPPS sem incluir o Master (que já havia captado R$ 490 milhões); após acionamento de ACM Neto e reunião com o então ministro Carlos Lupi (02/05/2024), o Master foi a única instituição adicionada. Lupi negou interferência política; o ministério afirmou que o Master cumpriu os requisitos legais; a defesa de Vorcaro e Mascarenhas não se manifestaram."
+  },
+  "last_message_date": "2024-05-02"
+ },
+ {
+  "id": "acm-neto-daniel-vorcaro",
+  "title": "ACM Neto",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "acm-neto"
+  ],
+  "message_count": 13,
+  "last_message_preview": "Depois, confirma o horário e o local que falamos",
+  "featured": false,
+  "note": "Encontros, elogios e articulações com o então pré-candidato ao governo da Bahia — da tabacaria Caruso a “as coisas em Brasília estão consolidadas”.",
+  "source": {
+   "document": "Revista Oeste — “Vorcaro mantinha conversas com ACM Neto por mensagens” (02/10/2026)",
+   "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/",
+   "pages": "Reportagem de Isabela Jordão; revelação original da coluna de Lauro Jardim (O Globo). Mensagens de 2023–2024 obtidas pela PF no celular de Vorcaro registram encontros, elogios e articulações; ACM Neto chama Vorcaro de “irmão”. Segundo a matéria, empresa ligada a ACM Neto recebeu R$ 3,6 milhões do Master e da gestora Reag, conforme apontamentos enviados ao COAF — ACM Neto nega irregularidades. Horários não divulgados."
+  },
+  "last_message_date": "2024-10-31"
+ },
+ {
+  "id": "isadora-alencar-daniel-vorcaro",
+  "title": "Isadora Alencar",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "isadora-alencar"
+  ],
+  "message_count": 8,
+  "last_message_preview": "Fiquei muito feliz de estar com vocês! Você merece tudo de bom desse m",
+  "featured": false,
+  "note": "O financiamento da Ecoari, startup da filha do senador Otto Alencar: da apresentação ao repasse e aos agradecimentos.",
+  "source": {
+   "document": "Folha — “Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner” (09/10/2026)",
+   "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
+   "pages": "Reportagem de José Marques e João Gabriel. Isadora Alencar, filha do senador Otto Alencar (PSD-BA), é empreendedora da startup Ecoari, de Salvador. Em nota, Isadora disse tratar-se de “um empréstimo regular” junto ao Master, “dentro das regras previstas em lei”, com conversas de “conteúdo profissional”, e que a aquisição citada não se concretizou; Otto Alencor disse ao O Globo não ter estado com Vorcaro. Datas individuais das mensagens, em geral, não divulgadas."
+  },
+  "last_message_date": "2025-09"
+ },
+ {
+  "id": "guilherme-sodre-daniel-vorcaro",
+  "title": "Guilherme Sodré (Guiga)",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "guilherme-sodre"
+  ],
+  "message_count": 2,
+  "last_message_preview": "Ao vivo são ainda mais lindas",
+  "featured": false,
+  "note": "O articulador de Jaques Wagner com quem Vorcaro negociou obras de Guignard e Portinari — e de quem recebeu o telefone do senador.",
+  "source": {
+   "document": "Folha — “Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner” (09/10/2026)",
+   "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
+   "pages": "Guiga Sodré é apontado pela PF como homem de confiança e articulador do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré, enteado do senador e secretário de Meio Ambiente da Bahia. Procurado pela Folha, não se manifestou. A defesa de Wagner (advogado Pablo Domingues) afirmou que não houve conversa com o senador quando o número foi enviado, que Wagner “não tem nenhuma relação com Daniel Vorcaro e nunca atuou a favor dos interesses do Banco Master” e que não pode responder por conversas de terceiros."
+  },
+  "last_message_date": "2024-07"
+ },
+ {
+  "id": "augusto-lima-daniel-vorcaro",
+  "title": "Augusto Lima",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "augusto-lima"
+  ],
+  "message_count": 6,
+  "last_message_preview": "Vamos vencer",
+  "featured": false,
+  "note": "O ex-sócio a quem Vorcaro reservou o desabafo “Na minha vida só sobrou você mesmo” — e o “Você é foda” da lista exaustiva.",
+  "source": {
+   "document": "Jovem Pan (coluna Bruno Pinheiro) — “Só decepção: em conversa com ex-sócio, Vorcaro desabafou sobre amizades” (25/09/2026); Veja (10/10/2026)",
+   "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/",
+   "pages": "A conversa integra o material reunido pela PF, ao qual a Jovem Pan afirma ter tido acesso; a reportagem ressalta que as mensagens não permitem associar o desabafo a nenhum político ou autoridade. Na Veja, Augusto Lima aparece na troca sobre a “lista exaustiva” (29/04–03/05/2024) — Padilha, Lula, Olavo Noleto e Augusto Lima negam as acusações em nota. Horários não divulgados."
+  },
+  "last_message_date": "2025-01-29"
+ },
+ {
+  "id": "diogo-batista-daniel-vorcaro",
+  "title": "Diogo Batista",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "diogo-batista"
+  ],
+  "message_count": 20,
+  "last_message_preview": "Que loucura. Tiago deve saber. Mas ninguém falou de você",
+  "featured": false,
+  "note": "O promoter do círculo de festas: recrutamento de refugiadas, compra da Allure e a “creche”, na apuração da PF (tese sob investigação).",
+  "source": {
+   "document": "UOL — “Vorcaro era sócio oculto de agência de prostituição e recrutou refugiadas” (13/10/2026); reprodução consultada: Terra",
+   "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm",
+   "pages": "Apuração da coluna Natália Portinari (UOL) sobre investigação da PF: Vorcaro como suposto sócio oculto de rede internacional com investimento de ao menos R$ 4,3 milhões; a Allure Eventos, de modelos, era de Felipe Nisti Cataldo, e Vorcaro comprou 50% por R$ 1,5 milhão (3 parcelas de R$ 500 mil; última via Pix da Super Empreendimentos, dez/2023–mai/2024). Tiago Polo, citado por Diogo, também agenciava modelos; não há mensagens dele transcritas. A defesa de Vorcaro foi procurada, sem retorno até a publicação. Linguagem crua mantida por fidelidade documental; teses da PF identificadas como tese. Datas individuais não divulgadas, salvo indicação."
+  },
+  "last_message_date": "2024-04-15"
+ },
+ {
+  "id": "leonardo-serrano-daniel-vorcaro",
+  "title": "Leonardo Serrano Giunchetti",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "leonardo-serrano"
+  ],
+  "message_count": 5,
+  "last_message_preview": "O negócio do pgto do hotel pode dar merda grande. Vc tem que pedir inv",
+  "featured": false,
+  "note": "A logística das viagens de luxo pela SL Consulting: flores, upgrades de autoridades e o pedido para tirar o Master da lista de convidados.",
+  "source": {
+   "document": "Revista piauí — “Além do Macallan: os luxos de Vorcaro e autoridades em festas” (04/10/2026)",
+   "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan",
+   "pages": "Serrano, da SL Consulting, era o organizador das viagens internacionais de Vorcaro, incluindo a logística do 1º Fórum Jurídico Brasil de Ideias (Londres, abril/2024, com ~40 autoridades; hospedagem no Hotel The Peninsula) e a viagem de março/2024 (jogo Brasil x Inglaterra em Wembley). A reportagem atribui a ele as mensagens transcritas; datas individuais não divulgadas, salvo indicação. A matéria não registra nota de defesa de Giunchetti."
+  },
+  "last_message_date": "2024-04-24"
+ },
+ {
+  "id": "grupo-ciro-daniel-fabio-hugo",
+  "title": "Grupo “Ciro Daniel Fábio Hugo”",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "ciro-nogueira",
+   "hugo-motta",
+   "fabio-faria"
+  ],
+  "message_count": 6,
+  "last_message_preview": "Parabéns irmão",
+  "featured": false,
+  "note": "O grupo criado por Ciro Nogueira com Vorcaro, Hugo Motta e Fábio Faria para combinar encontros — da viagem ao hangar ao “Parabéns irmão” na noite da prisão.",
+  "source": {
+   "document": "UOL — “Grupo de zap para organizar encontros reúne Vorcaro, Ciro, Motta e Faria” (30/09/2026); reprodução consultada: Gazeta do Povo",
+   "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm",
+   "pages": "Grupo criado por Ciro Nogueira em abril/2024, com mensagens até 17/11/2025 — dia da prisão de Vorcaro em Guarulhos —, para combinar encontros, jantares e viagens. Assessorias de Hugo Motta e Ciro Nogueira disseram que os parlamentares não vão se pronunciar; a defesa de Vorcaro foi procurada; a de Fábio Faria não foi encontrada. Na reprodução consultada, “(sic)” marca grafias originais, aqui reproduzidas sem o marcador. Horários não divulgados."
+  },
+  "last_message_date": "2025-11-17"
  }
 ]

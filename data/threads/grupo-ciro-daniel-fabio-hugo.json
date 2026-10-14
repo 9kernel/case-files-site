@@ -1,0 +1,275 @@
+{
+ "id": "grupo-ciro-daniel-fabio-hugo",
+ "title": "Grupo “Ciro Daniel Fábio Hugo”",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "ciro-nogueira",
+  "hugo-motta",
+  "fabio-faria"
+ ],
+ "source": {
+  "document": "UOL — “Grupo de zap para organizar encontros reúne Vorcaro, Ciro, Motta e Faria” (30/09/2026); reprodução consultada: Gazeta do Povo",
+  "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm",
+  "pages": "Grupo criado por Ciro Nogueira em abril/2024, com mensagens até 17/11/2025 — dia da prisão de Vorcaro em Guarulhos —, para combinar encontros, jantares e viagens. Assessorias de Hugo Motta e Ciro Nogueira disseram que os parlamentares não vão se pronunciar; a defesa de Vorcaro foi procurada; a de Fábio Faria não foi encontrada. Na reprodução consultada, “(sic)” marca grafias originais, aqui reproduzidas sem o marcador. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-08-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-nogueira",
+   "content_kind": "verbatim",
+   "content": "Acho que encima do Beto",
+   "editorial_note": "Ao enviar notícia sobre a Operação Carbono Oculto; “Beto” refere-se a Beto Louco, suspeito de comandar esquema no setor de combustíveis, conforme a reportagem. Na reprodução consultada, “(sic)” após “encima” marca a grafia original. Sem resposta no grupo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-08-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-nogueira",
+   "content_kind": "verbatim",
+   "content": "Avisa quando tiverem ido hangar",
+   "editorial_note": "Sobre viagem em aeronave de Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-08-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim",
+   "content": "To indo agora",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "ciro-nogueira",
+   "content_kind": "verbatim",
+   "content": "Amigos acho qeu eu e hugo vamos ter problemas no jantar quinta",
+   "editorial_note": "Sobre jantar adiado pela posse de Carlos Brandão no STJ; “qeu” conforme a grafia original marcada com “(sic)” na reprodução consultada. Hugo Motta responde: “Verdade. Tinha esquecido”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim",
+   "content": "Verdade. Tinha esquecido",
+   "editorial_note": "Resposta à mensagem anterior.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim",
+   "content": "Parabéns irmão",
+   "editorial_note": "Na noite de 17/11/2025, ao enviar reportagem sobre a proposta do grupo Fictor de comprar o Banco Master; Ciro Nogueira respondeu com uma figurinha. Cerca de três horas depois, Vorcaro foi preso.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-30",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo",
+      "date": "2026-09-30",
+      "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+     }
+    ]
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-04",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Criação do grupo de WhatsApp por Ciro Nogueira, reunindo além dele Vorcaro, Hugo Motta e Fábio Faria, para organizar encontros, jantares e viagens; as mensagens seguem até 17/11/2025, dia da prisão de Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL/Gazeta do Povo, 30/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

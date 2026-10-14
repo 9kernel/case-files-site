@@ -657,5 +657,274 @@
     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/15/dialogos-de-vorcaro-que-citam-filhos-de-ministros-vazam-antes-de-julgamento.htm"
    }
   ]
+ },
+ {
+  "id": "julio-cezar",
+  "name": "Júlio Cezar",
+  "photo": null,
+  "role": "Consultor apontado como operador junto a fundos de pensão",
+  "aliases": [
+   "Júlio"
+  ],
+  "summary": "Dono de consultoria em Goiânia, identificado pela reportagem da Veja como operador do grupo do então ministro Alexandre Padilha junto a fundos de pensão. A conversa com Vorcaro soma mais de 450 mensagens e 180 telefonemas; a tese da PF de captação de R$ 10 bilhões com 10% de propina é registrada como tese da investigação. Padilha nega as acusações.",
+  "profile_sources": [
+   {
+    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
+    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Mais de 450 mensagens e 180 telefonemas com Vorcaro",
+    "source": "Veja (10/10/2026), linkada em profile_sources"
+   },
+   {
+    "claim": "Apontado como operador do grupo de Padilha junto a fundos de pensão (tese da investigação; Padilha nega)",
+    "source": "Veja (10/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "hamilton-buzelin",
+  "name": "Hamilton Buzelin",
+  "photo": null,
+  "role": "Ex-diretor de Finanças Corporativas do Banco Máxima",
+  "aliases": [
+   "Buzelin"
+  ],
+  "summary": "Ex-diretor de Finanças Corporativas do Banco Máxima. Retomou contato com Vorcaro em fevereiro/2024 e articulou o encontro de Vorcaro com Júlio Cezar no Planalto, em março/2024, conforme a reportagem da Veja.",
+  "profile_sources": [
+   {
+    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
+    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Ex-diretor de Finanças Corporativas do Banco Máxima",
+    "source": "Apresentação dele na própria conversa, reproduzida pela Veja (10/10/2026)"
+   }
+  ]
+ },
+ {
+  "id": "martha-graeff",
+  "name": "Martha Graeff",
+  "photo": null,
+  "role": "Namorada de Daniel Vorcaro; influenciadora",
+  "aliases": [
+   "Martha"
+  ],
+  "summary": "Identificada pela Folha como namorada de Vorcaro e influenciadora. A ela Vorcaro teria escrito, em mensagens obtidas pela CPI mista do INSS, que o encontro com o presidente Lula (dezembro/2024) “foi ótimo”.",
+  "profile_sources": [
+   {
+    "label": "Folha — “Vorcaro diz em mensagens que encontro com Lula foi ‘ótimo’” (05/03/2026)",
+    "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Destinatária das mensagens sobre o encontro com Lula",
+    "source": "Folha (05/03/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "fernando-mascarenhas",
+  "name": "Fernando Mascarenhas",
+  "photo": null,
+  "role": "Então diretor comercial do Banco Master",
+  "aliases": [
+   "Mascarenhas"
+  ],
+  "summary": "Diretor comercial do Banco Master em 2024. Trocou com Vorcaro mensagens sobre a exclusão do banco da “lista exaustiva” de instituições autorizadas a captar recursos de RPPS e sobre a agenda de reuniões com Caixa e com o então ministro Carlos Lupi. Procurado, não se manifestou.",
+  "profile_sources": [
+   {
+    "label": "UOL — “Master entrou em lista para captar fundos públicos…” (12/10/2026)",
+    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Então diretor comercial do Banco Master",
+    "source": "UOL (12/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "acm-neto",
+  "name": "ACM Neto",
+  "photo": null,
+  "role": "Político; então pré-candidato ao governo da Bahia",
+  "aliases": [
+   "ACM"
+  ],
+  "summary": "As conversas com Vorcaro (2023–2024) registram encontros, elogios e articulações; ACM Neto o chama de “irmão”. Segundo a Revista Oeste, empresa ligada a ele recebeu R$ 3,6 milhões do Master e da gestora Reag, conforme apontamentos enviados ao COAF — ele nega irregularidades. Sobre a inclusão do Master na lista de RPPS, nega atuar para destravar os investimentos e condena “vazamentos seletivos e manipulados”.",
+  "profile_sources": [
+   {
+    "label": "Revista Oeste — “Vorcaro mantinha conversas com ACM Neto por mensagens” (02/10/2026)",
+    "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
+   },
+   {
+    "label": "UOL — “Master entrou em lista para captar fundos públicos…” (12/10/2026)",
+    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Mensagens de 2023–2024 no celular de Vorcaro obtidas pela PF",
+    "source": "Revista Oeste (02/10/2026), linkada em profile_sources"
+   },
+   {
+    "claim": "Recebeu R$ 3,6 milhões via empresa ligada, conforme apontamentos ao COAF (ele nega irregularidades)",
+    "source": "Revista Oeste (02/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "isadora-alencar",
+  "name": "Isadora Alencar",
+  "photo": null,
+  "role": "Empreendedora; filha do senador Otto Alencar",
+  "aliases": [
+   "Isadora"
+  ],
+  "summary": "Filha do senador Otto Alencar (PSD-BA) e empreendedora da startup Ecoari, de Salvador, que premia em dinheiro quem descarta lixo em pontos de reciclagem. Fechou com o Master empréstimo que, em nota, classifica como “um empréstimo regular”, “dentro das regras previstas em lei”, com conversas de “conteúdo profissional”; a aquisição citada não se concretizou. Alertas do Coaf registraram valores incompatíveis com o porte da empresa.",
+  "profile_sources": [
+   {
+    "label": "Folha — “Vorcaro financiou startup de filha de Otto Alencar…” (09/10/2026)",
+    "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Fundadora da Ecoari, de Salvador",
+    "source": "Folha (09/10/2026), linkada em profile_sources"
+   },
+   {
+    "claim": "Nota da própria: empréstimo regular dentro das regras da lei",
+    "source": "Folha (09/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "guilherme-sodre",
+  "name": "Guilherme Sodré (Guiga)",
+  "photo": null,
+  "role": "Articulador apontado pela PF como homem de confiança de Jaques Wagner",
+  "aliases": [
+   "Guiga",
+   "Guiga Sodré"
+  ],
+  "summary": "Apontado pela PF como homem de confiança e articulador do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré, enteado do senador e secretário de Meio Ambiente da Bahia. Negociou obras de arte com Vorcaro (“Ouro Preto”, de Guignard, e “Casamento na Roça”, de Portinari) e lhe encaminhou o telefone de Wagner. Procurado pela Folha, não se manifestou.",
+  "profile_sources": [
+   {
+    "label": "Folha — “Vorcaro financiou startup de filha de Otto Alencar…” (09/10/2026)",
+    "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Apontado pela PF como articulador de Jaques Wagner",
+    "source": "Folha (09/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "augusto-lima",
+  "name": "Augusto Lima",
+  "photo": null,
+  "role": "Ex-sócio e ex-diretor do Banco Master; depois presidente do Banco Voiter/Pleno",
+  "aliases": [
+   "Augusto"
+  ],
+  "summary": "Foi sócio e diretor do Banco Master; segundo depoimento de Vorcaro à PF citado pela Jovem Pan, comandou a área de originação de crédito consignado. Deixou a sociedade e assumiu a presidência do Banco Voiter, depois renomeado Pleno. Nas mensagens, destinatário do desabafo de Vorcaro sobre amizades (“Na minha vida só sobrou você mesmo”); na Veja, participa da troca sobre a “lista exaustiva” e é listado entre os presentes a jantar na casa de Vorcaro. Padilha, Lula, Olavo Noleto e Augusto Lima negam as acusações em nota.",
+  "profile_sources": [
+   {
+    "label": "Jovem Pan — “Só decepção…” (25/09/2026)",
+    "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
+   },
+   {
+    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
+    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Ex-sócio do Master; presidiu o Voiter/Pleno",
+    "source": "Jovem Pan (25/09/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "diogo-batista",
+  "name": "Diogo Batista",
+  "photo": null,
+  "role": "Promotor de eventos",
+  "aliases": [
+   "Diogo"
+  ],
+  "summary": "Promotor de eventos apontado pela investigação como intermediário de Vorcaro na suposta rede de agenciamento (tese da PF, sob investigação). Nas mensagens, trata do recrutamento de refugiadas — incluindo ucranianas —, da compra da Allure Eventos e da “creche”, termo que a reportagem atribui às mais jovens. Linguagem das mensagens mantida por fidelidade documental.",
+  "profile_sources": [
+   {
+    "label": "UOL — “Vorcaro era sócio oculto de agência de prostituição…” (13/10/2026)",
+    "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Promotor de eventos; intermediário na suposta rede (tese da investigação)",
+    "source": "UOL (13/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "leonardo-serrano",
+  "name": "Leonardo Serrano Giunchetti",
+  "photo": null,
+  "role": "Organizador de eventos (SL Consulting)",
+  "aliases": [
+   "Leonardo Serrano",
+   "Giunchetti",
+   "Serrano"
+  ],
+  "summary": "Da SL Consulting, era o organizador encarregado das viagens e festas internacionais de Vorcaro, incluindo a logística do 1º Fórum Jurídico Brasil de Ideias (Londres, abril/2024) com cerca de 40 autoridades hospedadas no Hotel The Peninsula. Advertiu Vorcaro sobre gastos com autoridades e tratou do pagamento do hotel e do ocultamento do Master da lista de convidados.",
+  "profile_sources": [
+   {
+    "label": "Revista piauí — “Além do Macallan…” (04/10/2026)",
+    "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Organizador das viagens pela SL Consulting",
+    "source": "Revista piauí (04/10/2026), linkada em profile_sources"
+   }
+  ]
+ },
+ {
+  "id": "ciro-nogueira",
+  "name": "Ciro Nogueira",
+  "photo": null,
+  "role": "Senador (PP-PI)",
+  "aliases": [
+   "Ciro"
+  ],
+  "summary": "Criou, em abril/2024, o grupo de WhatsApp com Vorcaro, Hugo Motta e Fábio Faria para organizar encontros, jantares e viagens, com mensagens até o dia da prisão do banqueiro (17/11/2025). Sua assessoria disse que o parlamentar não vai se pronunciar sobre as mensagens.",
+  "profile_sources": [
+   {
+    "label": "UOL — “Grupo de zap para organizar encontros…” (30/09/2026)",
+    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
+   },
+   {
+    "label": "Gazeta do Povo — “Vorcaro tinha grupo com Motta, Ciro Nogueira e Faria…” (30/09/2026)",
+    "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
+   }
+  ],
+  "profile_verification": [
+   {
+    "claim": "Criador do grupo com Vorcaro, Motta e Fábio Faria (abril/2024)",
+    "source": "UOL/Gazeta do Povo (30/09/2026), linkadas em profile_sources"
+   }
+  ]
  }
 ]

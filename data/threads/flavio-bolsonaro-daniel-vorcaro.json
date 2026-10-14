@@ -511,6 +511,76 @@
       "added_in": "ingest-bm-piaui-20261006"
     },
     {
+      "id": "m-00028",
+      "date": "2025-10",
+      "time": null,
+      "timestamp_precision": "month",
+      "sender_id": "daniel-vorcaro",
+      "content_kind": "verbatim",
+      "content": "Quarta 14h30?",
+      "editorial_note": "Proposta de encontro em outubro/2025, seguida de ligação de 1 min 50 s de Flávio Bolsonaro, conforme a reportagem.",
+      "verification": {
+        "level": "public_investigation",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-14"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "added_in": "ingest-imprensa-20261014"
+    },
+    {
+      "id": "m-00029",
+      "date": "2025-10",
+      "time": null,
+      "timestamp_precision": "month",
+      "sender_id": "flavio-bolsonaro",
+      "content_kind": "call",
+      "content": "Chamada de voz (1 min 50 s)",
+      "editorial_note": null,
+      "verification": {
+        "level": "public_investigation",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-14"
+      },
+      "sources": {
+        "primary": null,
+        "secondary": [
+          {
+            "publication": "Revista piauí",
+            "date": "2026-10-01",
+            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+          }
+        ]
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "added_in": "ingest-imprensa-20261014"
+    },
+    {
       "id": "m-00014",
       "date": "2025-10-22",
       "time": null,
@@ -1017,6 +1087,30 @@
       },
       "source_ref": "piauí, 01/10/2026",
       "added_in": "ingest-bm-piaui-20261006"
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "e-00001",
+      "date": "2025-09-23",
+      "timestamp_precision": "date",
+      "event_kind": "editorial_context",
+      "content": "Flávio Bolsonaro envia mensagem apagada em seguida; o conteúdo não foi recuperado na extração (23/09/2025).",
+      "verification": {
+        "level": "public_investigation",
+        "origin": "PF extraction",
+        "authority": null,
+        "court": null,
+        "case": null,
+        "document": null,
+        "page": null,
+        "figure": null,
+        "official_url": null,
+        "primary_document_located": false,
+        "verified_at": "2026-10-14"
+      },
+      "source_ref": "piauí, 01/10/2026",
+      "added_in": "ingest-imprensa-20261014"
     }
   ]
 }

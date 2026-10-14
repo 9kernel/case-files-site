@@ -1,0 +1,241 @@
+{
+ "id": "augusto-lima-daniel-vorcaro",
+ "title": "Augusto Lima",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "augusto-lima"
+ ],
+ "source": {
+  "document": "Jovem Pan (coluna Bruno Pinheiro) — “Só decepção: em conversa com ex-sócio, Vorcaro desabafou sobre amizades” (25/09/2026); Veja (10/10/2026)",
+  "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/",
+  "pages": "A conversa integra o material reunido pela PF, ao qual a Jovem Pan afirma ter tido acesso; a reportagem ressalta que as mensagens não permitem associar o desabafo a nenhum político ou autoridade. Na Veja, Augusto Lima aparece na troca sobre a “lista exaustiva” (29/04–03/05/2024) — Padilha, Lula, Olavo Noleto e Augusto Lima negam as acusações em nota. Horários não divulgados."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim",
+   "content": "Entramos na lista exaustiva. Resolvido",
+   "editorial_note": "Após a inclusão do Master na “lista exaustiva” de bancos autorizados a captar recursos de RPPS (29/04/2024); a reportagem situa a troca entre o fim de abril e a publicação da lista nova (03/05/2024).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 10/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Você é foda",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+     }
+    ]
+   },
+   "source_ref": "Veja, 10/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Na minha vida só sobrou você mesmo",
+   "editorial_note": "Desabafo de 29/01/2025 sobre amizades; Vorcaro disse ainda não querer “saber de mais ninguém” (paráfrase da reportagem) e resumiu o motivo em duas palavras na mensagem seguinte.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan, 25/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Só decepção",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan, 25/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim",
+   "content": "Não é quanto, é com quem",
+   "editorial_note": "Augusto diz que o sentimento era recíproco; na sequência, promete que estariam “sempre juntos”, encerra com “te amo” e escreve a mensagem seguinte (trechos entre aspas na reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan, 25/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim",
+   "content": "Vamos vencer",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
+     }
+    ]
+   },
+   "source_ref": "Jovem Pan, 25/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "event_kind": "editorial_context",
+   "content": "Segundo depoimento de Vorcaro à PF citado pela reportagem, Augusto Lima foi sócio e diretor do Banco Master, comandou a área de originação de crédito consignado, deixou a sociedade e assumiu a presidência do Banco Voiter, depois renomeado Pleno. Questionado sobre suas relações, Vorcaro afirmou ter “amigos de todos os poderes”, sem ver ligação entre as amizades e os fatos investigados.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "Jovem Pan, 25/09/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

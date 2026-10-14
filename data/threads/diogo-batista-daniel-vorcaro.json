@@ -1,0 +1,815 @@
+{
+ "id": "diogo-batista-daniel-vorcaro",
+ "title": "Diogo Batista",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "diogo-batista"
+ ],
+ "source": {
+  "document": "UOL — “Vorcaro era sócio oculto de agência de prostituição e recrutou refugiadas” (13/10/2026); reprodução consultada: Terra",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm",
+  "pages": "Apuração da coluna Natália Portinari (UOL) sobre investigação da PF: Vorcaro como suposto sócio oculto de rede internacional com investimento de ao menos R$ 4,3 milhões; a Allure Eventos, de modelos, era de Felipe Nisti Cataldo, e Vorcaro comprou 50% por R$ 1,5 milhão (3 parcelas de R$ 500 mil; última via Pix da Super Empreendimentos, dez/2023–mai/2024). Tiago Polo, citado por Diogo, também agenciava modelos; não há mensagens dele transcritas. A defesa de Vorcaro foi procurada, sem retorno até a publicação. Linguagem crua mantida por fidelidade documental; teses da PF identificadas como tese. Datas individuais não divulgadas, salvo indicação."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-11-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Tem 3 refugiadas aqui? Ucranianas",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00002",
+   "date": "2023-11-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Tem que sobrar alguma refugiada pra mim",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00003",
+   "date": "2023-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim_excerpt",
+   "content": "não pode voltar pra Ucrânia pq os pais dela acham melhor não",
+   "editorial_note": "No fim de novembro/2023, Diogo explica a situação de uma jovem refugiada; trecho entre aspas na reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00004",
+   "date": "2023-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bora colocar elas na agência",
+   "editorial_note": "Continuação reproduzida pela reportagem: “e daílavamos as mãos” (grafia conforme a reprodução consultada).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00005",
+   "date": "2023-12-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Tem quantas estrangeiras aí ainda?",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2023-12-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "1 só. Ela não tem pra onde ir. Estão bombardeando a cidade dela",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00007",
+   "date": "2023-12-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Segurei ela pq ela ia sair pra se refugiar na Itália",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00008",
+   "date": "2023-12-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Às vezes tomarei decisões por nós? E ela ainda pode entrar pra nossa agência! Gata e novinha!",
+   "editorial_note": "Sobre a jovem refugiada; grafia conforme a reprodução consultada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos fechar essa agência irmão? Ajuda muito pra segurar essas meninas?",
+   "editorial_note": "Janeiro/2024; a reportagem reproduz a continuação com reticências: “daí eu alugo uma casa tbm ou ap grande… pela agência! Não fica atrelado à gente!”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Assim estamos blindados!",
+   "editorial_note": "Sobre a estruturação da Allure como agência de modelos, em janeiro/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nossas refugiadas?",
+   "editorial_note": "Em março/2024, sobre enviar as duas jovens; na reportagem a mensagem aparece como “Mando [as duas]? Nossas refugiadas?” — colchete editorial do veículo, aqui mantido apenas o trecho literal.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-04-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Ucrania e Russia vamos mandar embora",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00013",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Mandamos embora então?",
+   "editorial_note": "Em resposta, Vorcaro disse que faria uma “seleção” (trecho entre aspas na reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00014",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Escravinha doutrinada",
+   "editorial_note": "Série de mensagens sem data divulgada, reproduzidas pela reportagem; linguagem crua mantida por fidelidade documental.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00015",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Vou já escravizar ela pra hoje e fazer trabalhar pra gente aí",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00016",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Escravas. Se quiser levo 2 do Rio",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00017",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Passa a pikinha em geral surubinha. Tinha que ter levado umas escravas",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00018",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Nossa creche me consumiu semana toda kkk. Queria ter duas pirocas",
+   "editorial_note": "Em 2024; as mais jovens eram chamadas de “creche”, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "falando por aí que comprei Allure",
+   "editorial_note": "Vorcaro reclama que um “promoter” estaria “falando por aí que comprei Allure”; trecho entre aspas na reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00020",
+   "sender_id": "diogo-batista",
+   "content_kind": "verbatim",
+   "content": "Que loucura. Tiago deve saber. Mas ninguém falou de você",
+   "editorial_note": "Única menção a Tiago Polo na reportagem; segundo a matéria, ele também trabalhava agenciando modelos.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
+     },
+     {
+      "publication": "Terra (reprodução da apuração UOL)",
+      "date": "2026-10-13",
+      "url": "https://www.terra.com.br/noticias/brasil/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas-diz-site,9828a472ec3da14b4bded6df296710f5h5uhi0ax.html"
+     }
+    ]
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2023-12",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Compra de 50% da Allure Eventos (agência de modelos, de Felipe Nisti Cataldo) por R$ 1,5 milhão, em três parcelas de R$ 500 mil — a última via Pix da Super Empreendimentos —, entre dezembro/2023 e maio/2024, conforme a apuração; a PF aponta Vorcaro como sócio oculto de rede internacional de prostituição com investimento de ao menos R$ 4,3 milhões (tese da investigação).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "UOL/Terra, 13/10/2026",
+   "added_in": "ingest-imprensa-20261014"
+  }
+ ]
+}

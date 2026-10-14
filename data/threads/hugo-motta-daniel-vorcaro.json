@@ -8,9 +8,254 @@
  "source": {
   "document": "CNN Brasil / Jornal Grande Bahia — “Hugo Motta e Daniel Vorcaro trocaram 202 ligações e marcaram 19 encontros…” (30/09/2026)",
   "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/",
-  "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados."
+  "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados. Complementada pela Folha — “Mensagens de Motta com Vorcaro citam sociedade em negócio e discussão sobre projeto de lei na Câmara” (set/2026)."
  },
  "messages": [
+  {
+   "id": "m-00005",
+   "date": "2024-03-09",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "formato de sociedade que ficou combinado",
+   "editorial_note": "Em 09/03/2024 (sábado à noite), Motta pede desculpas por incomodar, diz estar reunido finalizando a compra de uma área em João Pessoa, menciona que a cunhada não sabia do formato de sociedade e pede orientação por causa do prazo curto para pagar a Intercement; trecho entre aspas na reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "analisa e me avisa",
+   "editorial_note": "Por volta de 13/03/2024: Vorcaro diz estar com “nosso amigo” (trecho entre aspas) e Motta responde que o sogro está ali, que acabaram de resolver as assinaturas que faltavam para prosseguir o pagamento e pede que Vorcaro “analisa e me avisa”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "a confiança e a parceria",
+   "editorial_note": "Em 15/03/2024, Motta agradece “a confiança e a parceria”, diz que deu tudo certo a tempo de cumprir o contrato e propõe conversa para “traçar os próximos passos” (trechos entre aspas na reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "o início de uma parceria de vida",
+   "editorial_note": "Em 15/03/2024, Vorcaro diz estar feliz por estarem juntos, manifesta admiração por Motta e chama o episódio de “o início de uma parceria de vida”; Motta retribui dizendo que a admiração é recíproca.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "já vai estar te esperando",
+   "editorial_note": "Em 27/04/2024, sobre o avião de Guarulhos para Brasília: Motta pergunta de onde sairia a aeronave e Vorcaro responde que ela “já vai estar te esperando”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-11-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "consegue encontrar mais tarde hoje",
+   "editorial_note": "Em 19/11/2024, sobre o PL do carbono: Vorcaro pergunta se Motta “consegue encontrar mais tarde hoje”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-11-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "pegando o texto aqui para te mandar",
+   "editorial_note": "Resposta de Motta confirmando o encontro, pois estava “pegando o texto aqui para te mandar” — informações sobre o texto aprovado no Senado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
+  },
   {
    "id": "m-00001",
    "date": "2025-01-01",
@@ -160,6 +405,38 @@
    },
    "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
    "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00012",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "tentar encaixar esse assunto",
+   "editorial_note": "Sobre o FGC (23/3, sem ano indicado na reprodução consultada): Motta pede que Vorcaro peça ao seu pessoal um estudo sobre o FGC e sugere retomar o assunto em Brasília para “tentar encaixar esse assunto”; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
   }
  ],
  "timeline_events": [
@@ -338,6 +615,28 @@
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00009",
+   "date": "2024-03",
+   "timestamp_precision": "month",
+   "event_kind": "editorial_context",
+   "content": "Empréstimo de pelo menos R$ 22 milhões do Banco Master à cunhada de Motta, usado na compra, por R$ 45 milhões (valor fiscal de R$ 101 milhões), de terreno de mais de 400 hectares de fábrica de cimento desativada em João Pessoa, a ser loteado como novo bairro — conforme a reportagem, que teve acesso às mensagens divulgadas em 28/09/2026 pelo Fatos Online. Em nota, a defesa de Motta afirma que manteve diálogo com diversos segmentos do empresariado, que “não há nenhum ilícito retratado”, que tem “vida limpa” e que o empréstimo entre privados ocorreu antes do conhecimento público das investigações.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-14"
+   },
+   "source_ref": "Folha, set/2026",
+   "added_in": "ingest-imprensa-20261014"
   }
  ]
 }
