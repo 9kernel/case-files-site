@@ -177,6 +177,39 @@
   },
   {
    "id": "e-00002",
+   "date": "2023-11-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Início dos registros do diálogo entre Huck e Vorcaro, em novembro de 2023, tratando de encontro em São Paulo, segundo o Poder360.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Poder360 (2026-09-30)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00003",
    "date": "2024-05-04",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -198,7 +231,40 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00003",
+   "id": "e-00004",
+   "date": "2024-05-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Huck convida Vorcaro para o show de Madonna no Copacabana Palace; em 14/12/2024, para uma 'pizza' com Ronaldo Fenômeno — Vorcaro não teria respondido, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Poder360 (2026-09-30)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00005",
    "date": "2024-05-06",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -220,7 +286,40 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00004",
+   "id": "e-00006",
+   "date": "2024-12-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Fechamento do contrato de patrocínio do Will Bank com o grupo de Huck; a assessoria afirma que a interação 'se deu em torno da captação e da gestão do patrocínio', com contrato, notas e impostos, rescindido antes da intervenção do BC.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Poder360 (2026-09-30)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00007",
    "date": "2024-12-14",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -242,7 +341,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00005",
+   "id": "e-00008",
    "date": "2025-10-28",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -264,7 +363,40 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00006",
+   "id": "e-00009",
+   "date": "2025-10-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Huck cita em mensagem investimento de R$ 83 milhões do banco em mídia (Globo) e outros R$ 26 milhões ligados a um 'contrato pessoal', segundo a reportagem — que registra não haver, nos diálogos, indicação de ilegalidade cometida por Huck.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Poder360 (2026-09-30)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00010",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -284,6 +416,39 @@
    },
    "source_ref": "Poder360, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00011",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Na véspera da prisão de Vorcaro, Huck envia a última mensagem da série, parabenizando-o pelo anúncio da venda do Master, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-09-30",
+      "url": "https://www.poder360.com.br/poder-gente/leia-as-mensagens-entre-luciano-huck-e-daniel-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Poder360 (2026-09-30)",
+   "added_in": "ingest-press2-20261016"
   }
  ]
 }

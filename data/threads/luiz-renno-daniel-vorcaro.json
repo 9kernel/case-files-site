@@ -54,6 +54,280 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 185 · fig. 191",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "vencemos Alcídia",
+   "editorial_note": "Após decisão do STF no caso dos precatórios (destilaria Alcídia/Atvos), segundo a CNN.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dominado aqui",
+   "editorial_note": "Na sequência, compartilhou o contato de Kevin Marques, filho do ministro Nunes Marques, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse aqui - 500 mil mês - mantém? kkkkkkk. Então esse aqui já era",
+   "editorial_note": "Ao reenviar o contato do filho do ministro; a reportagem caracteriza os valores como alegação negada pelas defesas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "kkkkkkk",
+   "editorial_note": "Resposta na mesma sequência.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dos pagamentos essenciais está faltando a consult",
+   "editorial_note": "Segundo a reportagem, em referência à Consult Inteligência Tributária.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse aí. Único 'meu' que faltou",
+   "editorial_note": "Encaminhando novamente o contato de Kevin Marques, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "As mensagens fazem parte do material da PF enviado a ministros do STF; a reportagem liga os diálogos à carteira de precatórios sucroalcooleiros (acima de R$ 10 bilhões, segundo a PF) e ao julgamento da Alcídia, em que Nunes Marques votou a favor da usina após declarar-se inicialmente impedido.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Relato de CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Nunes Marques negou que o filho tenha prestado serviços ao Master e afirmou 'nunca' ter trocado mensagens com Vorcaro; a assessoria de Kevin Marques foi procurada. A defesa contesta as informações, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Relato de CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
   }
  ]
 }

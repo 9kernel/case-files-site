@@ -165,6 +165,39 @@
  "timeline_events": [
   {
    "id": "e-00001",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Início do diálogo: a cunhada de Motta obtém crédito de ao menos R$ 22 milhões junto ao Master que financia, em abril, a compra de área de 400+ hectares em João Pessoa por R$ 45 milhões, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00002",
    "date": "2024-03-09",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -186,7 +219,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00002",
+   "id": "e-00003",
    "date": "2024-03-15",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -208,7 +241,40 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00003",
+   "id": "e-00004",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Concluída a operação, Motta agradece a Vorcaro pela 'confiança e a parceria'; Vorcaro responde que está 'muito feliz' e chama a iniciativa de 'parceria de vida' — fragmentos citados pela reportagem, que registra tratamento de 'amigo' e 'irmão' entre os dois.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00005",
    "date": "2024-11-06",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -230,7 +296,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00004",
+   "id": "e-00006",
    "date": "2024-11-19",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -252,7 +318,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00005",
+   "id": "e-00007",
    "date": "2025-02-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -274,7 +340,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00006",
+   "id": "e-00008",
    "date": "2025-03-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -296,7 +362,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00007",
+   "id": "e-00009",
    "date": "2025-03-23",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -318,7 +384,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00008",
+   "id": "e-00010",
    "date": "2025-05-08",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -338,6 +404,68 @@
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "e-00011",
+   "date": null,
+   "content": "Vorcaro busca apoio de Motta para o projeto de lei do mercado de carbono; Motta pede estudo sobre o Fundo Garantidor de Créditos e sugere retomar o tema em Brasília, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00012",
+   "date": null,
+   "content": "Vorcaro disponibiliza aeronave para trecho Guarulhos–Brasília de Motta. Em nota, Motta nega 'nenhum ilícito' e afirma que o empréstimo ocorreu antes de as investigações do Master se tornarem públicas.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016"
   }
  ]
 }

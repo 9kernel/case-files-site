@@ -13,6 +13,146 @@
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vc nao resolveu o aporte no fundo",
+   "editorial_note": "Sobre o aporte no fundo ligado ao resort Tayayá, segundo a apuração do UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tayaya",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou em situação ruim",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Aportamos os 15. Agora só falta transferir",
+   "editorial_note": "Resposta na mesma sequência, sobre os R$ 15 milhões, segundo a apuração.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00005",
    "date": "2024-06-05",
    "timestamp_precision": "date",
    "sender_id": "fabiano-zettel",
@@ -55,7 +195,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00002",
+   "id": "m-00006",
    "date": "2024-06-05",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -98,7 +238,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00003",
+   "id": "m-00007",
    "date": "2024-06-05",
    "timestamp_precision": "date",
    "sender_id": "fabiano-zettel",
@@ -141,7 +281,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00004",
+   "id": "m-00008",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -183,7 +323,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00005",
+   "id": "m-00009",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -225,7 +365,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00006",
+   "id": "m-00010",
    "date": null,
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -267,7 +407,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00007",
+   "id": "m-00011",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -335,6 +475,37 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 49 · fig. 57",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Aporte de R$ 15 milhões no fundo ligado ao resort Tayayá concluído por Zettel, dentro da negociação envolvendo a recompra pelo grupo ligado a Toffoli, segundo a apuração do UOL.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
   }
  ]
 }

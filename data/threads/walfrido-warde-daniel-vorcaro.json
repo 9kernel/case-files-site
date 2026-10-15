@@ -13,6 +13,146 @@
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Agora recebi uma info bem chata da Roberta",
+   "editorial_note": "Sobre Roberta Rangel, então mulher do ministro Dias Toffoli, segundo a apuração do UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falou mal demais de mim ontem em BSB. E não entendi nada.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ela entrou numa ação contra mim",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu fui lá nela. Deixei de lado porque ela não quis desistir.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00005",
    "date": "2025-11-17",
    "time": "09:42",
    "timestamp_precision": "minute",
@@ -56,7 +196,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00002",
+   "id": "m-00006",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -99,7 +239,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00003",
+   "id": "m-00007",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -142,7 +282,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00004",
+   "id": "m-00008",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -185,7 +325,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00005",
+   "id": "m-00009",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -228,7 +368,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00006",
+   "id": "m-00010",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -271,7 +411,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00007",
+   "id": "m-00011",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -314,7 +454,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00008",
+   "id": "m-00012",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -357,7 +497,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00009",
+   "id": "m-00013",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -400,7 +540,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00010",
+   "id": "m-00014",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -443,7 +583,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00011",
+   "id": "m-00015",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -486,7 +626,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00012",
+   "id": "m-00016",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -529,7 +669,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00013",
+   "id": "m-00017",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -572,7 +712,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00014",
+   "id": "m-00018",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -614,7 +754,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00015",
+   "id": "m-00019",
    "date": null,
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
@@ -656,7 +796,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00016",
+   "id": "m-00020",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -696,6 +836,72 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 107",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00021",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tá travado em vc. Eu fiz e vcs não passaram quem vai no contrato",
+   "editorial_note": "Sobre o aporte no fundo ligado ao resort Tayayá, segundo a apuração.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00022",
+   "date": null,
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Lippi acaba de dizer que ele quem está travando",
+   "editorial_note": "No contexto da reportagem, com referência a Toffoli.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
   }
  ],
  "timeline_events": [
@@ -726,6 +932,68 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 116 · fig. 133",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Roberta Rangel, então mulher de Toffoli, defendia empresa que cobrava dívida milionária da família Vorcaro; havia sido sócia de Warde até 2022 e, segundo Vorcaro na conversa, seguia remunerada pelo Master. Os dois se separaram em 2025.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Início de 2024: Toffoli manifesta interesse em recomprar o fundo Arleen e retomar participação no resort Tayayá — vendida por R$ 20 milhões a fundo ligado a Vorcaro e Zettel —, condicionada a aporte de R$ 15 milhões. A negociação ganhou urgência quando Vorcaro soube de risco de mudança de posição de Toffoli em processo do Master no STF. Toffoli indicou Alberto Leite como comprador; o patrimônio do fundo foi transferido para empresa nas Ilhas Virgens Britânicas. Em nota, o gabinete de Toffoli afirma que as operações foram declaradas e por valores de mercado; o escritório de Warde diz que saiu da negociação antes da conclusão.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração espelhada pelo Metro1)",
+      "date": "2026-10-01",
+      "url": "https://www.metro1.com.br/noticias/politica/189165"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração espelhada pelo Metro1) (2026-10-01)",
+   "added_in": "ingest-press2-20261016"
   }
  ]
 }
