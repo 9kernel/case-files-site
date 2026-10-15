@@ -118,6 +118,406 @@
   },
   {
    "id": "m-00004",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acabou agora amor",
+   "editorial_note": "Logo após o encontro com o presidente Lula no Planalto, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tudo bem?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim amor trabalhando",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como foi?!!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Foi otimo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Yessssssssssssssss",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "To louca pra saber de tudo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muito forte",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele chamou presidente do banco central que vai entrar",
+   "editorial_note": "Sobre o encontro com Lula no Planalto no mesmo dia, com presença de ministros e de Gabriel Galípolo, então indicado ao Banco Central, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "3 ministros",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00014",
    "date": "2025-02",
    "time": null,
    "timestamp_precision": "month",
@@ -153,7 +553,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00005",
+   "id": "m-00015",
    "date": "2025-03",
    "time": null,
    "timestamp_precision": "month",
@@ -188,7 +588,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00006",
+   "id": "m-00016",
    "date": "2025-03",
    "time": null,
    "timestamp_precision": "month",
@@ -223,7 +623,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00007",
+   "id": "m-00017",
    "date": "2025-04-19",
    "time": null,
    "timestamp_precision": "date",
@@ -259,7 +659,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00008",
+   "id": "m-00018",
    "date": "2025-04-19",
    "time": null,
    "timestamp_precision": "date",
@@ -294,7 +694,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00009",
+   "id": "m-00019",
    "date": "2025-04-19",
    "time": null,
    "timestamp_precision": "date",
@@ -329,7 +729,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00010",
+   "id": "m-00020",
    "date": "2025-04-29",
    "time": null,
    "timestamp_precision": "date",
@@ -365,7 +765,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00011",
+   "id": "m-00021",
    "date": "2025-04-29",
    "time": null,
    "timestamp_precision": "date",
@@ -401,7 +801,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00012",
+   "id": "m-00022",
    "date": "2025-04-29",
    "time": null,
    "timestamp_precision": "date",
@@ -436,7 +836,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00013",
+   "id": "m-00023",
    "date": "2025-04-29",
    "time": null,
    "timestamp_precision": "date",
@@ -472,7 +872,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00014",
+   "id": "m-00024",
    "date": "2025-08",
    "time": null,
    "timestamp_precision": "month",
@@ -507,7 +907,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00015",
+   "id": "m-00025",
    "date": "2025-08",
    "time": null,
    "timestamp_precision": "month",
@@ -545,37 +945,6 @@
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": null,
-   "content": "As mensagens integram quebra de sigilo telefônico autorizada pelo ministro André Mendonça (20/2) e enviada pela PF à CPI do INSS; cobrem 2024 a agosto de 2025.",
-   "event_kind": "editorial_context",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-15"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha de S.Paulo",
-      "date": "2026-03-05",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
-     }
-    ]
-   },
-   "source_ref": "Relato de Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015"
-  },
-  {
-   "id": "e-00002",
    "date": "2024-08",
    "time": null,
    "timestamp_precision": "month",
@@ -608,11 +977,75 @@
    "added_in": "ingest-press-20261015"
   },
   {
+   "id": "e-00002",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro encontra-se com o presidente Lula no Planalto, a pedido do banqueiro e levado pelo ex-ministro Guido Mantega, com presença de ministros e de Gabriel Galípolo, então indicado ao Banco Central; o encontro não constava da agenda oficial. Lula confirmou o encontro em fevereiro de 2026 e afirmou ter dito a Vorcaro que não haveria posição política 'pró ou contra' o Master, apenas investigação técnica do Banco Central. As mensagens com Martha Graeff são do mesmo dia, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de G1 (espelho da apuração da Folha) (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
    "id": "e-00003",
    "date": "2025-04",
    "time": null,
    "timestamp_precision": "month",
    "content": "Vorcaro relata a Martha encontros com o ministro Alexandre de Moraes em Campos (RJ), incluindo visita à sua residência; o STF não comentou, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "As mensagens integram quebra de sigilo telefônico autorizada pelo ministro André Mendonça (20/2) e enviada pela PF à CPI do INSS; cobrem 2024 a agosto de 2025.",
    "event_kind": "editorial_context",
    "verification": {
     "level": "public_investigation",

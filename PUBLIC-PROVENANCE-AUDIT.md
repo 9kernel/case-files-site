@@ -1,6 +1,6 @@
 # PUBLIC-PROVENANCE-AUDIT — Auditoria de publicidade e proveniência por mensagem
 
-Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-11**.
+Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-15**.
 Versão legível por máquina: [`data/audit/public-provenance-audit.json`](data/audit/public-provenance-audit.json).
 
 Regra máxima: a força da afirmação do site nunca pode ser maior que a força da
@@ -8,13 +8,13 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 ## Resultado
 
-- 37 threads · 497 registros (416 mensagens + 81 eventos)
-- **497 OK** · **0 com problema**
+- 46 threads · 650 registros (527 mensagens + 123 eventos)
+- **650 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 276 |
-| OK_PUBLIC_INVESTIGATION | 186 |
+| OK_PUBLIC_INVESTIGATION | 339 |
 | OK_SECONDARY | 35 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |

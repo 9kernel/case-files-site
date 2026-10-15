@@ -92,9 +92,9 @@
   },
   {
    "id": "m-00003",
-   "date": "2024-10",
+   "date": "2024-10-01",
    "time": null,
-   "timestamp_precision": "month",
+   "timestamp_precision": "date",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "content": "Dominado aqui",
@@ -119,6 +119,11 @@
       "publication": "CNN Brasil",
       "date": "2026-09-15",
       "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
@@ -127,9 +132,9 @@
   },
   {
    "id": "m-00004",
-   "date": "2025-07",
+   "date": "2025-07-04",
    "time": null,
-   "timestamp_precision": "month",
+   "timestamp_precision": "date",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "content": "Esse aqui - 500 mil mês - mantém? kkkkkkk. Então esse aqui já era",
@@ -154,6 +159,11 @@
       "publication": "CNN Brasil",
       "date": "2026-09-15",
       "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
@@ -162,9 +172,9 @@
   },
   {
    "id": "m-00005",
-   "date": "2025-07",
+   "date": "2025-07-04",
    "time": null,
-   "timestamp_precision": "month",
+   "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "kkkkkkk",
@@ -189,6 +199,11 @@
       "publication": "CNN Brasil",
       "date": "2026-09-15",
       "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
@@ -197,9 +212,9 @@
   },
   {
    "id": "m-00006",
-   "date": "2025-08",
+   "date": "2025-08-08",
    "time": null,
-   "timestamp_precision": "month",
+   "timestamp_precision": "date",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "content": "Dos pagamentos essenciais está faltando a consult",
@@ -224,6 +239,11 @@
       "publication": "CNN Brasil",
       "date": "2026-09-15",
       "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
@@ -232,9 +252,9 @@
   },
   {
    "id": "m-00007",
-   "date": "2025-08",
+   "date": "2025-08-08",
    "time": null,
-   "timestamp_precision": "month",
+   "timestamp_precision": "date",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "content": "Esse aí. Único 'meu' que faltou",
@@ -259,6 +279,11 @@
       "publication": "CNN Brasil",
       "date": "2026-09-15",
       "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
@@ -269,6 +294,39 @@
  "timeline_events": [
   {
    "id": "e-00001",
+   "date": "2024-10-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "O STF, por 3 votos a 2, acolhe tese favorável à destilaria Alcídia sobre responsabilidade da União por prejuízos a usinas nos anos 1980-90 — tema de indenizações bilionárias ligadas à carteira de precatórios sucroalcooleiros do Master, estimada em mais de R$ 10 bilhões pela PF. Votaram a favor Fachin, Toffoli e Nunes Marques; Nunes Marques, que se declarara inicialmente impedido, reverteu o posicionamento e desempatou, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (coluna Mônica Bergamo) (2026-09-15)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00002",
    "date": null,
    "content": "As mensagens fazem parte do material da PF enviado a ministros do STF; a reportagem liga os diálogos à carteira de precatórios sucroalcooleiros (acima de R$ 10 bilhões, segundo a PF) e ao julgamento da Alcídia, em que Nunes Marques votou a favor da usina após declarar-se inicialmente impedido.",
    "event_kind": "editorial_context",
@@ -299,7 +357,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "e-00002",
+   "id": "e-00003",
    "date": null,
    "content": "Nunes Marques negou que o filho tenha prestado serviços ao Master e afirmou 'nunca' ter trocado mensagens com Vorcaro; a assessoria de Kevin Marques foi procurada. A defesa contesta as informações, segundo a reportagem.",
    "event_kind": "editorial_context",
@@ -328,6 +386,37 @@
    },
    "source_ref": "Relato de CNN Brasil (2026-09-15)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "A reportagem liga os diálogos a pagamentos mensais de R$ 500 mil que seriam feitos via Consult Inteligência Tributária. Em nota, a assessoria de Nunes Marques afirma que ele 'nunca votou a favor do Banco Master' e que o filho 'nunca recebeu dinheiro de Daniel Vorcaro'; a assessoria de Kevin Marques nega prestação de serviços ao Master ou recebimento de Vorcaro e informa pagamento de R$ 281,6 mil pela Consult por serviços tributários administrativos, sem relação com o STF.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (coluna Mônica Bergamo) (2026-09-15)",
+   "added_in": "ingest-press3-20261016"
   }
  ]
 }

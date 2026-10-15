@@ -153,6 +153,146 @@
   },
   {
    "id": "m-00005",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, deixa te falar, o Guido está em Londres. Só daqui dez dias, mas eu acho que seria o caso de você mandar teu avião lá buscar ele...",
+   "editorial_note": "Trecho de áudio transcrito: sugere mandar o avião de Vorcaro buscar Guido Mantega em Londres para viabilizar reunião com Lula, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "É urgente, ele vai falar com você sabe quem no domingo",
+   "editorial_note": "Dois dias depois, sobre videochamada com Mantega; a reportagem registra que Lula não é citado pelo nome na troca.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Parabéns. Importante call. Vai dar certo",
+   "editorial_note": "Uma hora após ligação de 23 minutos entre os três, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muito obrigado",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00009",
    "date": "2025-11-17",
    "time": "09:42",
    "timestamp_precision": "minute",
@@ -196,7 +336,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00006",
+   "id": "m-00010",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -239,7 +379,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00007",
+   "id": "m-00011",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -282,7 +422,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00008",
+   "id": "m-00012",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -325,7 +465,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00009",
+   "id": "m-00013",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -368,7 +508,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00010",
+   "id": "m-00014",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -411,7 +551,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00011",
+   "id": "m-00015",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -454,7 +594,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00012",
+   "id": "m-00016",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -497,7 +637,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00013",
+   "id": "m-00017",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -540,7 +680,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00014",
+   "id": "m-00018",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -583,7 +723,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00015",
+   "id": "m-00019",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -626,7 +766,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00016",
+   "id": "m-00020",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "walfrido-warde",
@@ -669,7 +809,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00017",
+   "id": "m-00021",
    "date": "2025-11-17",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -712,7 +852,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00018",
+   "id": "m-00022",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -754,7 +894,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00019",
+   "id": "m-00023",
    "date": null,
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
@@ -796,7 +936,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00020",
+   "id": "m-00024",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -838,7 +978,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00021",
+   "id": "m-00025",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -871,7 +1011,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00022",
+   "id": "m-00026",
    "date": null,
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
@@ -907,6 +1047,77 @@
  "timeline_events": [
   {
    "id": "e-00001",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Guido Mantega, contratado por Vorcaro por R$ 14 milhões como consultor para temas do governo federal, media o encontro entre Vorcaro e o presidente Lula em dezembro de 2024; o Planalto afirma que esse foi o único encontro entre os dois, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Mensagens de Warde em março de 2025 citam possível audiência de Vorcaro com Lula com presença do senador Jaques Wagner (PT-BA), investigado na Operação Compliance Zero sob suspeita de receber benefícios para favorecer o Master no Congresso; o Planalto nega encontros além do de dezembro de 2024.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     },
+     {
+      "publication": "Gazeta do Povo (resenha da apuração)",
+      "date": "2026-10-08",
+      "url": "https://www.gazetadopovo.com.br/republica/mensagens-revelam-que-banqueiro-tentou-nova-aproximacao-com-lula-e-moraes"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00003",
    "date": "2025-11-17",
    "time": null,
    "timestamp_precision": "date",
@@ -934,7 +1145,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "e-00002",
+   "id": "e-00004",
    "date": null,
    "content": "Roberta Rangel, então mulher de Toffoli, defendia empresa que cobrava dívida milionária da família Vorcaro; havia sido sócia de Warde até 2022 e, segundo Vorcaro na conversa, seguia remunerada pelo Master. Os dois se separaram em 2025.",
    "event_kind": "editorial_context",
@@ -965,7 +1176,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "e-00003",
+   "id": "e-00005",
    "date": null,
    "content": "Início de 2024: Toffoli manifesta interesse em recomprar o fundo Arleen e retomar participação no resort Tayayá — vendida por R$ 20 milhões a fundo ligado a Vorcaro e Zettel —, condicionada a aporte de R$ 15 milhões. A negociação ganhou urgência quando Vorcaro soube de risco de mudança de posição de Toffoli em processo do Master no STF. Toffoli indicou Alberto Leite como comprador; o patrimônio do fundo foi transferido para empresa nas Ilhas Virgens Britânicas. Em nota, o gabinete de Toffoli afirma que as operações foram declaradas e por valores de mercado; o escritório de Warde diz que saiu da negociação antes da conclusão.",
    "event_kind": "editorial_context",
@@ -994,6 +1205,37 @@
    },
    "source_ref": "Relato de UOL (apuração espelhada pelo Metro1) (2026-10-01)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "No fim de 2025, Vorcaro pergunta a Warde se o ministro Alexandre de Moraes teria contido atos que travavam a compra do Master pelo BRB (58% do capital) e oferece alterar viagem internacional para se encontrar com o ministro; pedia ainda que a PF fosse orientada a evitar que servidores de escalão inferior prejudicassem o banco, segundo a reportagem. O BC rejeitou a venda ao BRB em setembro de 2025 e o Master foi liquidado em novembro de 2025, um dia após a primeira prisão de Vorcaro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (material apurado pelo Estado de S. Paulo)",
+      "date": "2026-10-08",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/08/vorcaro-tentou-chegar-a-lula-e-moraes-para-proteger-o-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
+   "added_in": "ingest-press3-20261016"
   }
  ]
 }

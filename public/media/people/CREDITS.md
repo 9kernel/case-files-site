@@ -3,6 +3,12 @@
 Fotos em `public/media/people/` obtidas do [Wikimedia Commons](https://commons.wikimedia.org/)
 sob licenças livres, com atribuição obrigatória conforme abaixo (ordem alfabética).
 
+## acm-neto
+- **Arquivo:** `acm-neto.jpg`
+- **Autor:** Palácio do Planalto
+- **Licença:** CC BY 2.0
+- **Origem:** https://commons.wikimedia.org/wiki/Special:FilePath/ACM_Neto_(cropped).jpg
+
 ## alexandre-moraes
 - **Arquivo:** `alexandre-moraes.jpg`
 - **Autor:** Isac Nóbrega/Agência Senado
