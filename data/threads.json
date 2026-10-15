@@ -724,5 +724,19 @@
   "last_message_preview": "Vamos vencer",
   "featured": false,
   "note": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria repor"
+ },
+ {
+  "id": "grupo-ciro-daniel-fabio-hugo",
+  "title": "Ciro Daniel Fábio Hugo",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "ciro-nogueira",
+   "hugo-motta",
+   "fabio-faria"
+  ],
+  "message_count": 6,
+  "last_message_preview": "Verdade. Tinha esquecido",
+  "featured": false,
+  "note": "Grupo de WhatsApp criado por Ciro Nogueira em abril/2024 com Vorcaro, Hugo Motta e Fábio Faria para organizar encontros, deslocamentos e compartilhar notícias (UOL, 30/09/2026)."
  }
 ]

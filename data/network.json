@@ -157,6 +157,13 @@
    "msg_count": 6
   },
   {
+   "id": "ciro-nogueira",
+   "name": "Ciro Nogueira",
+   "thread": "grupo-ciro-daniel-fabio-hugo",
+   "title": "Ciro Daniel Fábio Hugo",
+   "msg_count": 6
+  },
+  {
    "id": "joao-doria",
    "name": "João Doria",
    "thread": "joao-doria-daniel-vorcaro",
@@ -1207,6 +1214,34 @@
      "id": "m-00001",
      "sender": "daniel-vorcaro",
      "date": "2024-04-26"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "grupo-ciro-daniel-fabio-hugo",
+   "from": "ciro-nogueira",
+   "to": "hugo-motta",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00005",
+     "sender": "ciro-nogueira",
+     "date": null
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "grupo-ciro-daniel-fabio-hugo",
+   "from": "ciro-nogueira",
+   "to": "stj",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00005",
+     "sender": "ciro-nogueira",
+     "date": null
     }
    ]
   },
