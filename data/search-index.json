@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-12",
+ "generated_at": "2026-10-15",
  "note": "Conteúdo textual público (mensagens + eventos) por conversa; busca acento-insensível no cliente. pending_review excluído.",
  "threads": [
   {
@@ -81,6 +81,16 @@
     "Vc manda príncipe dos príncipes",
     "Irmão minha filha é minha esposa pode pegar uma carona c vc?",
     "Em conversa com Ana Matos sobre o evento de Londres, Vorcaro descarta Rueda como moderador de painel: “De jeito nenhum” e “Alexandre morre se vc fazer isso” — documento oficial IPJ-A nº 3298613/2026 (PET 16662/STF), fl. 192; ver thread de Ana Matos."
+   ]
+  },
+  {
+   "id": "augusto-lima-daniel-vorcaro",
+   "messages": [
+    "Na minha vida só sobrou você mesmo",
+    "Só decepção",
+    "Não é quanto, é com quem",
+    "Vamos vencer",
+    "Augusto Lima foi sócio e diretor do Master (crédito consignado) e depois presidiu o Banco Voiter, renomeado Pleno, segundo a reportagem; as mensagens integram material reunido pela PF."
    ]
   },
   {
@@ -279,6 +289,17 @@
    ]
   },
   {
+   "id": "fernando-mascarenhas-daniel-vorcaro",
+   "messages": [
+    "Estamos sendo atacados de verdade! Precisamos contestar isso, eles não têm alçada para fazer isso",
+    "A conclusão é de que o Banco Master cumpriu todos os requisitos e será incluído na lista exaustiva",
+    "Não interessa o Bacen pra nós agora. Você precisa levar a ata da assembleia em que o banco já elegeu.",
+    "Show",
+    "O Master é reincluído na lista de instituições autorizadas a captar recursos de RPPS cerca de dez dias após a exclusão — único banco incluído na atualização, condicionado a comitê de auditoria, segundo a reportagem.",
+    "Antes da inclusão, o Master já havia recebido R$ 490 milhões de fundos previdenciários, e a articulação envolveu ACM Neto (reunião em 25/4/2024) e o então ministro Carlos Lupi (reunião em 2/5/2024), segundo a reportagem."
+   ]
+  },
+  {
    "id": "flavio-bolsonaro-daniel-vorcaro",
    "messages": [
     "Chamada de voz",
@@ -330,6 +351,23 @@
    ]
   },
   {
+   "id": "guilherme-sodre-daniel-vorcaro",
+   "messages": [
+    "Maravilhosas!",
+    "Ao vivo são ainda mais lindas",
+    "Guiga envia informações sobre obras como 'Ouro Preto' (Guignard) e 'Casamento na Roça' (Portinari) em negociação com Vorcaro.",
+    "Após telefonema de 2 minutos, Guiga encaminha a Vorcaro o telefone do senador Jaques Wagner e lhe deseja sorte, segundo a reportagem."
+   ]
+  },
+  {
+   "id": "hamilton-buzelin-daniel-vorcaro",
+   "messages": [
+    "Estou com uma demanda de falar com você com uma certa urgência (…) preciso que seja pessoalmente",
+    "o Júlio já vai indo para o palácio e vai te esperar lá",
+    "Encontro entre Buzelin e Vorcaro em São Paulo, após o qual ele aproximou Vorcaro de Júlio Cezar, segundo a reportagem."
+   ]
+  },
+  {
    "id": "hugo-motta-daniel-vorcaro",
    "messages": [
     "desejando saúde para continuarem cada vez mais juntos",
@@ -370,6 +408,18 @@
    ]
   },
   {
+   "id": "isadora-alencar-daniel-vorcaro",
+   "messages": [
+    "Deu tudo certo com a abertura da conta! Ainda não assinamos o contrato, mas permaneço à disposição...",
+    "Assinamos o contrato e o banco já fez o repasse do valor! Gostaria de agradecer muito pela confiança e parceria...",
+    "que bacana!",
+    "Gostaria de agradecer pela presença ontem, de verdade! Também agradeço muito pela delicadeza nos presentes!...",
+    "Fiquei muito feliz de estar com vocês! ... Família querida! Que seja um ciclo maravilhoso para você",
+    "Contrato assinado e repasse do investimento na Ecoari, que mantinha os recursos no Master; a chegada de Isadora teria sido por indicação de 'Ciro' (provável advogado Ciro Soares), segundo a reportagem.",
+    "A B3 alertou o Coaf três vezes: ativos da Ecoari no Master incompatíveis com o porte da empresa — mais de R$ 9 milhões (out/nov 2024) e R$ 2,8 milhões (set 2025)."
+   ]
+  },
+  {
    "id": "joao-doria-daniel-vorcaro",
    "messages": [
     "Amigo Daniel, boa tarde. Estou preocupado com você. Tenho escutado coisas que vão precisar de reação sua. Sempre com equilíbrio e ponderação. Mas jamais com o silêncio. Vamos agendar um café?",
@@ -378,6 +428,39 @@
     "Não entendi bem, quer me ligar?",
     "Ligo já",
     "Chamada de voz"
+   ]
+  },
+  {
+   "id": "julio-cezar-daniel-vorcaro",
+   "messages": [
+    "Daniel, já estou aqui no palácio",
+    "Estou no café ao lado. Aguardando você",
+    "Estou quase chegando. Preciso falar antes com você",
+    "O e-mail que pediram Petros",
+    "Já repassei. Agora é o amigo com dever dele. Ontem estive com ele",
+    "O da Petros já foi? Cobrando?",
+    "Vou te manter informado. Já sim",
+    "Daniel, o Henrique (Jäger) aqui, com o presidente (da Petros), tá numa reunião do conselho lá.",
+    "qualquer coisinha, já estando ok, já ponho você na boca do gol",
+    "Pediram cinco dias úteis pra liberar minha conta, te passo na hora que liberar!! Quero ir pro jantar tranquilo",
+    "Quero ver agora você virar uma boleta de verdade",
+    "Pode deixar. É empenho de vida, Daniel, isso",
+    "Padilha e Olavo amanhã, às 22 horas, um jantar contigo em bsb (sic)… Vai 5 pessoas",
+    "Daniel, liga pro Olavo… O Pr vai te receber…",
+    "já conversaram com PR e ele gostou da conversa!",
+    "não esquece do Olavo. Ele vai te passar informações.",
+    "Estamos já há mais de 12 meses tentando uma boleta (…)",
+    "Falhou de novo o negócio?",
+    "Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho.",
+    "Concordo!",
+    "Sexta que vem — não entrando — vida que segue.",
+    "Tenho uma estruturação para comprar suas 'LFs' (…) Consigo capitalizar através de fundos que tenho aqui",
+    "Vamos pressionar pra boletar (…) Postalis evoluiu?",
+    "Evoluiu. Mandando e-mail também. Do BB essa semana resolve. Semana que vem reunião lá.",
+    "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!!",
+    "Primeira reunião de Vorcaro com o ministro Alexandre Padilha no Planalto, com Olavo Noleto e Júlio Cezar, segundo a Veja; Padilha teria dito que tratar com Olavo era como tratar com ele (alegação negada pela defesa).",
+    "O Master entra na 'lista exaustiva' de instituições autorizadas a receber recursos de fundos de pensão e, no mesmo dia, Vorcaro paga R$ 500 mil de adiantamento a Júlio Cezar, segundo a reportagem.",
+    "A PF contabilizou mais de 450 mensagens e 180 telefonemas entre os dois, segundo a Veja; a meta relatada era captar R$ 10 bilhões em fundos de pensão de estatais, com 10% de propina. Acusados negam."
    ]
   },
   {
@@ -478,6 +561,29 @@
     "Bora.",
     "justiça divina… 2026 é do Brasil",
     "A partir das 17h59, o deputado fez seis chamadas não atendidas ao banqueiro, segundo a reportagem."
+   ]
+  },
+  {
+   "id": "martha-graeff-daniel-vorcaro",
+   "messages": [
+    "Quero te apresentar. Um dos meus grandes amigos de vida",
+    "Ciro soltou um projeto de lei agora que é uma bomba atômica no mercado financeiro!",
+    "Ajuda os bancos médios e diminui poder dos grandes! Está todo mundo louco",
+    "Tô num jantar na residência oficial com Hugo [Motta…] e seis empresários",
+    "Me manda mensagem quando acabar aí. Você está com gente aí? Ou está me ignorando de propósito?",
+    "Estou sim, acabou chegando Hugo e Ciro aqui pra falarem com Alexandre...",
+    "Indo encontrar Alexandre [de] Moraes aqui perto de casa",
+    "Como assim amor. Ele está em Campos???? Ou foi pra te ver?",
+    "Ele tá passando feriado",
+    "quem era o primeiro cara [?]",
+    "Alexandre [de] Moraes",
+    "Morri. Ele gostou da casa amor!?? Tá muito mais astral",
+    "Sin [sic]. Falou que é [sic] bem melhor. E ele adorava apto [apartamento]",
+    "Foi bom",
+    "Terça teremos outra",
+    "As mensagens integram quebra de sigilo telefônico autorizada pelo ministro André Mendonça (20/2) e enviada pela PF à CPI do INSS; cobrem 2024 a agosto de 2025.",
+    "Ciro Nogueira apresenta o projeto apelidado de 'emenda Master' (elevação do teto do FGC), posteriormente engavetado, segundo a reportagem.",
+    "Vorcaro relata a Martha encontros com o ministro Alexandre de Moraes em Campos (RJ), incluindo visita à sua residência; o STF não comentou, segundo a reportagem."
    ]
   },
   {

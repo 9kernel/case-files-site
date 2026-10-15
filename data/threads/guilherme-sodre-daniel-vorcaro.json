@@ -1,0 +1,153 @@
+{
+ "id": "guilherme-sodre-daniel-vorcaro",
+ "title": "Guilherme Sodré (Guiga)",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "guilherme-sodre"
+ ],
+ "source": {
+  "document": "Folha de S.Paulo, 09/10/2026: mensagens sobre negociação de obras de arte e encaminhamento do contato do senador Jaques Wagner (PT-BA), de quem Guiga é aliado (pai de Eduardo Sodré, secretário de Meio Ambiente da Bahia). A defesa de Wagner nega relação com Vorcaro.",
+  "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Maravilhosas!",
+   "editorial_note": "Sobre as obras apresentadas por Guiga (Guignard e Portinari).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "guilherme-sodre",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ao vivo são ainda mais lindas",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Guiga envia informações sobre obras como 'Ouro Preto' (Guignard) e 'Casamento na Roça' (Portinari) em negociação com Vorcaro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Após telefonema de 2 minutos, Guiga encaminha a Vorcaro o telefone do senador Jaques Wagner e lhe deseja sorte, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
+  }
+ ]
+}

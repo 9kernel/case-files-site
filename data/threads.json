@@ -640,5 +640,89 @@
    "pages": "Reportagem do UOL/Folha (15/09/2026) sobre diálogos que citam filhos de ministros. O contato é identificado nas mensagens apenas como “Marcus Vinicius”, advogado; sobrenome e identidade civil não são divulgados — nada além disso é inferido aqui. Horários não divulgados."
   },
   "last_message_date": null
+ },
+ {
+  "id": "julio-cezar-daniel-vorcaro",
+  "title": "Júlio Cezar",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "julio-cezar"
+  ],
+  "message_count": 25,
+  "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!",
+  "featured": false,
+  "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo"
+ },
+ {
+  "id": "martha-graeff-daniel-vorcaro",
+  "title": "Martha Graeff",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "martha-graeff"
+  ],
+  "message_count": 15,
+  "last_message_preview": "Terça teremos outra",
+  "featured": false,
+  "note": "Folha de S.Paulo, 05/03/2026: mensagens da quebra de sigilo da PF (autorizada pelo ministro André Mendonça) enviadas à CPI do INSS; conversas de 2024 a agosto de 2025 com a então companheira de Vorcar"
+ },
+ {
+  "id": "fernando-mascarenhas-daniel-vorcaro",
+  "title": "Fernando Mascarenhas",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "fernando-mascarenhas"
+  ],
+  "message_count": 4,
+  "last_message_preview": "Show",
+  "featured": false,
+  "note": "UOL (coluna Cezar Feitoza, 12/10/2026), resenhado pelo Vespeiro: mensagens entre Vorcaro e Fernando Mascarenhas, então diretor comercial do Master, sobre a inclusão do banco na lista de instituições a"
+ },
+ {
+  "id": "isadora-alencar-daniel-vorcaro",
+  "title": "Isadora Alencar",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "isadora-alencar"
+  ],
+  "message_count": 5,
+  "last_message_preview": "Fiquei muito feliz de estar com vocês! ... Família querida! Que seja um ciclo ma",
+  "featured": false,
+  "note": "Folha de S.Paulo, 09/10/2026: mensagens sobre o investimento na startup Ecoari, de Isadora Alencar (filha do senador Otto Alencar, PSD-BA). Ela afirma que foi um empréstimo regular e que a compra do M"
+ },
+ {
+  "id": "guilherme-sodre-daniel-vorcaro",
+  "title": "Guilherme Sodré (Guiga)",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "guilherme-sodre"
+  ],
+  "message_count": 2,
+  "last_message_preview": "Ao vivo são ainda mais lindas",
+  "featured": false,
+  "note": "Folha de S.Paulo, 09/10/2026: mensagens sobre negociação de obras de arte e encaminhamento do contato do senador Jaques Wagner (PT-BA), de quem Guiga é aliado (pai de Eduardo Sodré, secretário de Meio"
+ },
+ {
+  "id": "hamilton-buzelin-daniel-vorcaro",
+  "title": "Hamilton Buzelin",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "hamilton-buzelin"
+  ],
+  "message_count": 2,
+  "last_message_preview": "o Júlio já vai indo para o palácio e vai te esperar lá",
+  "featured": false,
+  "note": "Veja (coluna Radar), 10/10/2026: ex-diretor de Finanças Corporativas do Banco Máxima; aproximou Vorcaro de Júlio Cezar após reunião cancelada na Petros (fev/2024) e agendou o encontro no Planalto. As "
+ },
+ {
+  "id": "augusto-lima-daniel-vorcaro",
+  "title": "Augusto Lima",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "augusto-lima"
+  ],
+  "message_count": 4,
+  "last_message_preview": "Vamos vencer",
+  "featured": false,
+  "note": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria repor"
  }
 ]

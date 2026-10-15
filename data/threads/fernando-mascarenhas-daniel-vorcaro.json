@@ -1,0 +1,237 @@
+{
+ "id": "fernando-mascarenhas-daniel-vorcaro",
+ "title": "Fernando Mascarenhas",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "fernando-mascarenhas"
+ ],
+ "source": {
+  "document": "UOL (coluna Cezar Feitoza, 12/10/2026), resenhado pelo Vespeiro: mensagens entre Vorcaro e Fernando Mascarenhas, então diretor comercial do Master, sobre a inclusão do banco na lista de instituições aptas a receber recursos de RPPS — articulação que, segundo a reportagem, envolveu ACM Neto e o então ministro Carlos Lupi. O ministério afirmou que a decisão foi técnica.",
+  "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-04-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos sendo atacados de verdade! Precisamos contestar isso, eles não têm alçada para fazer isso",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     },
+     {
+      "publication": "Vespeiro (resenha da reportagem do UOL)",
+      "date": "2026-10-12",
+      "url": "https://vespeiro.com/2026/10/12/ex-ministro-de-lula-carlos-lupi-ajudou-vorcaro-com-fundos-previdenciarios"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-05-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "A conclusão é de que o Banco Master cumpriu todos os requisitos e será incluído na lista exaustiva",
+   "editorial_note": "Após reunião com o então ministro Carlos Lupi, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     },
+     {
+      "publication": "Vespeiro (resenha da reportagem do UOL)",
+      "date": "2026-10-12",
+      "url": "https://vespeiro.com/2026/10/12/ex-ministro-de-lula-carlos-lupi-ajudou-vorcaro-com-fundos-previdenciarios"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00003",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não interessa o Bacen pra nós agora. Você precisa levar a ata da assembleia em que o banco já elegeu.",
+   "editorial_note": "Orientação para contestar a exclusão da lista, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     },
+     {
+      "publication": "Vespeiro (resenha da reportagem do UOL)",
+      "date": "2026-10-12",
+      "url": "https://vespeiro.com/2026/10/12/ex-ministro-de-lula-carlos-lupi-ajudou-vorcaro-com-fundos-previdenciarios"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00004",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Show",
+   "editorial_note": "Resposta à mensagem anterior.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     },
+     {
+      "publication": "Vespeiro (resenha da reportagem do UOL)",
+      "date": "2026-10-12",
+      "url": "https://vespeiro.com/2026/10/12/ex-ministro-de-lula-carlos-lupi-ajudou-vorcaro-com-fundos-previdenciarios"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "O Master é reincluído na lista de instituições autorizadas a captar recursos de RPPS cerca de dez dias após a exclusão — único banco incluído na atualização, condicionado a comitê de auditoria, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Antes da inclusão, o Master já havia recebido R$ 490 milhões de fundos previdenciários, e a articulação envolveu ACM Neto (reunião em 25/4/2024) e o então ministro Carlos Lupi (reunião em 2/5/2024), segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Cezar Feitoza (2026-10-12)",
+   "added_in": "ingest-press-20261015"
+  }
+ ]
+}

@@ -657,5 +657,65 @@
     "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/15/dialogos-de-vorcaro-que-citam-filhos-de-ministros-vazam-antes-de-julgamento.htm"
    }
   ]
+ },
+ {
+  "id": "julio-cezar",
+  "name": "Júlio Cezar",
+  "photo": null,
+  "role": "Consultor apontado pela Veja como operador do grupo de Padilha junto a fundos de pensão",
+  "aliases": [
+   "Júlio"
+  ],
+  "summary": "Consultor de Goiânia. Segundo a Veja (10/10/2026), trocou mais de 450 mensagens e 180 telefonemas com Vorcaro buscando captação de R$ 10 bilhões em fundos de pensão, com propina de 10%. Negativas dos acusados na própria reportagem. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "martha-graeff",
+  "name": "Martha Graeff",
+  "photo": null,
+  "role": "Blogueira; então companheira de Daniel Vorcaro",
+  "aliases": [],
+  "summary": "Destinatária dos relatos de Vorcaro sobre encontros com autoridades dos três Poderes, nas mensagens da quebra de sigilo enviadas à CPI do INSS e reportadas pela Folha (05/03/2026). Perfil resumido exclusivamente a partir das reportagens linkadas."
+ },
+ {
+  "id": "fernando-mascarenhas",
+  "name": "Fernando Mascarenhas",
+  "photo": null,
+  "role": "Então diretor comercial do Banco Master",
+  "aliases": [],
+  "summary": "Interlocutor de Vorcaro no episódio de inclusão do Master na lista de instituições aptas a captar recursos de RPPS (maio/2024), conforme UOL (12/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "isadora-alencar",
+  "name": "Isadora Alencar",
+  "photo": null,
+  "role": "Empreendedora; filha do senador Otto Alencar (PSD-BA)",
+  "aliases": [],
+  "summary": "Sócia da startup Ecoari, que recebeu investimento de Vorcaro e mantinha recursos no Master, conforme a Folha (09/10/2026). Ela afirma que foi um empréstimo regular e que a compra do Master não se concretizou. Perfil resumido exclusivamente a partir das reportagens linkadas."
+ },
+ {
+  "id": "guilherme-sodre",
+  "name": "Guilherme Sodré (Guiga)",
+  "photo": null,
+  "role": "Aliado do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré",
+  "aliases": [
+   "Guiga"
+  ],
+  "summary": "Negociou obras de arte com Vorcaro e encaminhou o contato de Jaques Wagner, conforme a Folha (09/10/2026). A defesa de Wagner nega relação com Vorcaro. Perfil resumido exclusivamente a partir das reportagens linkadas."
+ },
+ {
+  "id": "hamilton-buzelin",
+  "name": "Hamilton Buzelin",
+  "photo": null,
+  "role": "Ex-diretor de Finanças Corporativas do Banco Máxima",
+  "aliases": [],
+  "summary": "Aproximou Vorcaro de Júlio Cezar e agendou encontro no Planalto, conforme a Veja (10/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "augusto-lima",
+  "name": "Augusto Lima",
+  "photo": null,
+  "role": "Ex-sócio e ex-diretor do Banco Master; depois presidente do Banco Voiter/Pleno",
+  "aliases": [],
+  "summary": "Comandava a originação de crédito consignado no Master, segundo relato de Vorcaro à PF reportado pela Jovem Pan (25/09/2026). Perfil resumido exclusivamente a partir das reportagens linkadas."
  }
 ]

@@ -1,0 +1,188 @@
+{
+ "id": "augusto-lima-daniel-vorcaro",
+ "title": "Augusto Lima",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "augusto-lima"
+ ],
+ "source": {
+  "document": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria reportagem anota que o desabafo não permite ligá-lo a nenhum político ou autoridade específica; à PF, Vorcaro negou relação entre amizades e os fatos investigados.",
+  "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Na minha vida só sobrou você mesmo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan — coluna Bruno Pinheiro",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Só decepção",
+   "editorial_note": "Resumo do desabafo; disse não querer 'saber de mais ninguém', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan — coluna Bruno Pinheiro",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não é quanto, é com quem",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan — coluna Bruno Pinheiro",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-01-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos vencer",
+   "editorial_note": "Encerrou prometendo que estariam 'sempre juntos' e com 'te amo', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan — coluna Bruno Pinheiro",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
+   "added_in": "ingest-press-20261015"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "Augusto Lima foi sócio e diretor do Master (crédito consignado) e depois presidiu o Banco Voiter, renomeado Pleno, segundo a reportagem; as mensagens integram material reunido pela PF.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Jovem Pan — coluna Bruno Pinheiro",
+      "date": "2026-09-25",
+      "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades"
+     }
+    ]
+   },
+   "source_ref": "Relato de Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
+   "added_in": "ingest-press-20261015"
+  }
+ ]
+}

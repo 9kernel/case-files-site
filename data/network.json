@@ -24,6 +24,13 @@
    "msg_count": 27
   },
   {
+   "id": "julio-cezar",
+   "name": "Júlio Cezar",
+   "thread": "julio-cezar-daniel-vorcaro",
+   "title": "Júlio Cezar",
+   "msg_count": 25
+  },
+  {
    "id": "ciro-soares",
    "name": "Ciro Soares",
    "thread": "ciro-soares-daniel-vorcaro",
@@ -70,6 +77,13 @@
    "name": "Leonardo Palhares",
    "thread": "leonardo-palhares-daniel-vorcaro",
    "title": "Leonardo Palhares",
+   "msg_count": 15
+  },
+  {
+   "id": "martha-graeff",
+   "name": "Martha Graeff",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "title": "Martha Graeff",
    "msg_count": 15
   },
   {
@@ -164,6 +178,13 @@
    "msg_count": 5
   },
   {
+   "id": "isadora-alencar",
+   "name": "Isadora Alencar",
+   "thread": "isadora-alencar-daniel-vorcaro",
+   "title": "Isadora Alencar",
+   "msg_count": 5
+  },
+  {
    "id": "rodrigo-fux",
    "name": "Rodrigo Fux",
    "thread": "rodrigo-fux-daniel-vorcaro",
@@ -176,6 +197,20 @@
    "thread": "romy-banco-master-daniel-vorcaro",
    "title": "Romy",
    "msg_count": 5
+  },
+  {
+   "id": "augusto-lima",
+   "name": "Augusto Lima",
+   "thread": "augusto-lima-daniel-vorcaro",
+   "title": "Augusto Lima",
+   "msg_count": 4
+  },
+  {
+   "id": "fernando-mascarenhas",
+   "name": "Fernando Mascarenhas",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "title": "Fernando Mascarenhas",
+   "msg_count": 4
   },
   {
    "id": "hugo-motta",
@@ -211,6 +246,20 @@
    "thread": "viviane-de-moraes-daniel-vorcaro",
    "title": "Viviane de Moraes",
    "msg_count": 3
+  },
+  {
+   "id": "guilherme-sodre",
+   "name": "Guilherme Sodré (Guiga)",
+   "thread": "guilherme-sodre-daniel-vorcaro",
+   "title": "Guilherme Sodré (Guiga)",
+   "msg_count": 2
+  },
+  {
+   "id": "hamilton-buzelin",
+   "name": "Hamilton Buzelin",
+   "thread": "hamilton-buzelin-daniel-vorcaro",
+   "title": "Hamilton Buzelin",
+   "msg_count": 2
   },
   {
    "id": "nikolas-ferreira",
@@ -666,6 +715,25 @@
   },
   {
    "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "hugo-motta",
+   "count": 3,
+   "evidence": [
+    {
+     "id": "m-00004",
+     "sender": "daniel-vorcaro",
+     "date": "2025-02"
+    },
+    {
+     "id": "m-00006",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "roberto-campos-neto-daniel-vorcaro",
    "from": "roberto-campos-neto",
    "to": "bc",
@@ -746,6 +814,20 @@
   },
   {
    "type": "mention",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "from": "fernando-mascarenhas",
+   "to": "banco-master",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00002",
+     "sender": "fernando-mascarenhas",
+     "date": "2024-05-02"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "hugo-motta-daniel-vorcaro",
    "from": "hugo-motta",
    "to": "banco-master",
@@ -802,6 +884,25 @@
      "id": "m-00007",
      "sender": "marcos-da-mata",
      "date": "2025-07-16"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "alexandre-moraes",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00007",
+     "sender": "daniel-vorcaro",
+     "date": "2025-04-19"
+    },
+    {
+     "id": "m-00011",
+     "sender": "daniel-vorcaro",
+     "date": "2025-04-29"
     }
    ]
   },
@@ -1148,6 +1249,62 @@
      "id": "m-00001",
      "sender": "daniel-vorcaro",
      "date": "2025-07-16"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "banco-master",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00002",
+     "sender": "daniel-vorcaro",
+     "date": "2024-08"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "fgc",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00002",
+     "sender": "daniel-vorcaro",
+     "date": "2024-08"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "camara",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00004",
+     "sender": "daniel-vorcaro",
+     "date": "2025-02"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "senado",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00014",
+     "sender": "daniel-vorcaro",
+     "date": "2025-08"
     }
    ]
   },

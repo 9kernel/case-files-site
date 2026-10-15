@@ -1,0 +1,986 @@
+{
+ "id": "julio-cezar-daniel-vorcaro",
+ "title": "Júlio Cezar",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "julio-cezar"
+ ],
+ "source": {
+  "document": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo do ministro Alexandre Padilha junto a fundos de pensão. Meta relatada de captar R$ 10 bilhões em fundos (Petros, Previ, Postalis, Funcef) com 10% de propina. Padilha, Olavo Noleto, Augusto Lima e Lula negam as acusações.",
+  "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-03-01",
+   "time": "14:10",
+   "timestamp_precision": "minute",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, já estou aqui no palácio",
+   "editorial_note": "Enviada às 14h10 de 1º/3/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-03-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou no café ao lado. Aguardando você",
+   "editorial_note": "Encontro no Planalto, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-03-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou quase chegando. Preciso falar antes com você",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O e-mail que pediram Petros",
+   "editorial_note": "Sequência de 8/4/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já repassei. Agora é o amigo com dever dele. Ontem estive com ele",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O da Petros já foi? Cobrando?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou te manter informado. Já sim",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, o Henrique (Jäger) aqui, com o presidente (da Petros), tá numa reunião do conselho lá.",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "qualquer coisinha, já estando ok, já ponho você na boca do gol",
+   "editorial_note": "Sobre o Banco do Brasil, em áudio transcrito pela reportagem; dá título à matéria.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pediram cinco dias úteis pra liberar minha conta, te passo na hora que liberar!! Quero ir pro jantar tranquilo",
+   "editorial_note": "Contexto da cobrança de R$ 500 mil relatada pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quero ver agora você virar uma boleta de verdade",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode deixar. É empenho de vida, Daniel, isso",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Padilha e Olavo amanhã, às 22 horas, um jantar contigo em bsb (sic)… Vai 5 pessoas",
+   "editorial_note": "Véspera do segundo jantar em Brasília (23/10/2024), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00014",
+   "date": "2024-10-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, liga pro Olavo… O Pr vai te receber…",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00015",
+   "date": "2024-10-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "já conversaram com PR e ele gostou da conversa!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00016",
+   "date": "2024-10-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "não esquece do Olavo. Ele vai te passar informações.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00017",
+   "date": "2025-06",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos já há mais de 12 meses tentando uma boleta (…)",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-06",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falhou de novo o negócio?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Concordo!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00021",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sexta que vem — não entrando — vida que segue.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00022",
+   "date": "2025-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tenho uma estruturação para comprar suas 'LFs' (…) Consigo capitalizar através de fundos que tenho aqui",
+   "editorial_note": "Última mensagem do diálogo; Vorcaro não respondeu, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00023",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos pressionar pra boletar (…) Postalis evoluiu?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00024",
+   "date": null,
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Evoluiu. Mandando e-mail também. Do BB essa semana resolve. Semana que vem reunião lá.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00025",
+   "date": null,
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!!",
+   "editorial_note": "Sobre o Postalis, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-03-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Primeira reunião de Vorcaro com o ministro Alexandre Padilha no Planalto, com Olavo Noleto e Júlio Cezar, segundo a Veja; Padilha teria dito que tratar com Olavo era como tratar com ele (alegação negada pela defesa).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "O Master entra na 'lista exaustiva' de instituições autorizadas a receber recursos de fundos de pensão e, no mesmo dia, Vorcaro paga R$ 500 mil de adiantamento a Júlio Cezar, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "A PF contabilizou mais de 450 mensagens e 180 telefonemas entre os dois, segundo a Veja; a meta relatada era captar R$ 10 bilhões em fundos de pensão de estatais, com 10% de propina. Acusados negam.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  }
+ ]
+}
