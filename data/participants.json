@@ -738,5 +738,105 @@
   ],
   "summary": "Ex-prefeito de Salvador (2013–2020) e deputado federal. Segundo a Revista Oeste (02/10/2026), trocou com Vorcaro mensagens entre 2023 e 2024 com encontros, elogios e articulações envolvendo Antônio Rueda (União Brasil); apontamentos ao Coaf indicam R$ 3,6 milhões do Master e da gestora Reag a empresa a ele ligada. Nega ter cometido irregularidades. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
   "photo_credit": "Foto: Palácio do Planalto · CC BY 2.0 · via Wikimedia Commons"
+ },
+ {
+  "id": "lilian-tahan",
+  "name": "Lilian Tahan",
+  "photo": null,
+  "role": "CEO do grupo Metrópoles",
+  "aliases": [],
+  "summary": "Segundo o UOL (15/10/2026), mantinha linha direta com Vorcaro: ao menos 14 textos do Metrópoles lhe foram enviados antes de publicados, 11 alterados a pedido dele. Contratos de publicidade somam R$ 1 milhão (2024), R$ 900 mil (Kovr/Will) e R$ 20 milhões. Defende-se dizendo que checagem com fontes é prática jornalística e negando vínculo entre contrato e cobertura. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "frederic-kachar",
+  "name": "Frederic Kachar",
+  "photo": null,
+  "role": "Ex-diretor-geral de Mídia Impressa e Rádio do Grupo Globo",
+  "aliases": [
+   "Fred Kachar"
+  ],
+  "summary": "Liderava O Globo, Extra, Valor, revistas da Editora Globo e o sistema de rádio. Segundo o UOL (15/10/2026), negociava patrocínios com Vorcaro, pautava publicações a pedido dele e usava o código 'guerra na Ucrânia'. Foi demitido em 15/10/2026 após o vazamento; o Grupo Globo classificou a relação como 'inadequada' com um anunciante e reafirmou a independência editorial. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "elsinho-mouco",
+  "name": "Elsinho Mouco",
+  "photo": null,
+  "role": "Publicitário; interlocutor de Michel Temer nas tratativas com o Master",
+  "aliases": [],
+  "summary": "Fez a ponte entre Vorcaro e o escritório do ex-presidente Michel Temer no contrato de até R$ 30 milhões para viabilizar a venda do Master ao BRB (setembro/2025), enviando o contrato e cobrando pagamentos, conforme mensagens reportadas pelo UOL (14/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "michel-temer",
+  "name": "Michel Temer",
+  "photo": null,
+  "role": "Ex-presidente da República (2016-2018); advogado",
+  "aliases": [
+   "Temer"
+  ],
+  "summary": "Seu escritório de advocacia firmou em setembro/2025 contrato de até R$ 30 milhões com o Master para consultoria e mediação da venda ao BRB, barrada pelo BC. Confirmou em abril/2026 ter recebido honorários e que o contrato terminou sem resultado. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "manuela-carta",
+  "name": "Manuela Carta",
+  "photo": null,
+  "role": "Publisher e diretora da CartaCapital",
+  "aliases": [],
+  "summary": "Segundo o UOL (15/10/2026), avisou Vorcaro da necessidade de recurso para a folha de pagamentos (2021) e tratou de eventual sociedade com ele (2023), não concretizada. Em nota, afirma que o contrato com o banco era 'regular' de publicidade e que Vorcaro nunca pediu interferência editorial. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "isaac-sidney",
+  "name": "Isaac Sidney",
+  "photo": null,
+  "role": "Presidente da Febraban; ex-diretor do BC e ex-advogado do Banco Máxima/Master",
+  "aliases": [
+   "Isaac"
+  ],
+  "summary": "Foi chefe de gabinete de Meirelles no BC, advogou para o Máxima na aprovação da transferência do controle a Vorcaro e preside a Febraban desde 2020. Segundo o UOL (15/10/2026), Vorcaro pagou R$ 1,2 milhão fora da escritura ao vendedor do apartamento dele e custeou parte do aluguel; a proposta de delação de Vorcaro o citou — rejeitada por falta de provas. Nega qualquer benefício e diz ter alertado o BC sobre o Master em ofícios da Febraban. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "eduardo-barcellos",
+  "name": "Eduardo Barcellos",
+  "photo": null,
+  "role": "Empresário; vendedor do apartamento alugado e vendido a Isaac Sidney",
+  "aliases": [],
+  "summary": "Tratou com Vorcaro o aluguel e a venda do duplex da Vila Olímpia ao presidente da Febraban; recebeu R$ 1,2 milhão fora da escritura, segundo mensagens reportadas pelo UOL (15/10/2026). Procurado, disse não se lembrar da venda e desligou o telefone. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "geraldo-samor",
+  "name": "Geraldo Samor",
+  "photo": null,
+  "role": "Jornalista; fundador do Brazil Journal",
+  "aliases": [
+   "Samor"
+  ],
+  "summary": "Consultava Vorcaro sobre reportagens do Master antes da publicação e atendia pedidos de alteração, segundo o UOL (15/10/2026); a participação do banqueiro no site se dava via Foone (49,86% da BJ Conteúdo). Não respondeu ao UOL. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "diogo-batista",
+  "name": "Diogo Batista",
+  "photo": null,
+  "role": "Promotor de eventos em São Paulo",
+  "aliases": [
+   "Diogo"
+  ],
+  "summary": "Ganhava R$ 120 mil por mês de Vorcaro como executor do esquema de agenciamento investigado pela PF — um dos principais investigados, ao lado de Leonardo Serrano; não respondeu ao UOL. Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "leonardo-serrano",
+  "name": "Leonardo Serrano",
+  "photo": null,
+  "role": "Empresário de eventos; dono da SL Consulting (Flórida)",
+  "aliases": [
+   "Leo Serrano"
+  ],
+  "summary": "Cuidava da logística internacional dos eventos e emitia faturas (cerca de US$ 70 milhões em 21 notas) à Moriah Asset, repassadas ao financeiro do Master, segundo o UOL (13/10/2026). Um dos principais investigados pela PF; não respondeu ao UOL. Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "tiago-polo",
+  "name": "Tiago Polo",
+  "photo": null,
+  "role": "Intermediador que trabalhava agenciando modelos",
+  "aliases": [],
+  "summary": "Explicou a Vorcaro o propósito da agência ('ajustar as meninas indiretamente') e ofereceu a Allure e a Ford Models, segundo o UOL (13/10/2026). Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  }
 ]

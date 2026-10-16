@@ -1,0 +1,148 @@
+{
+ "id": "tiago-polo-daniel-vorcaro",
+ "title": "Tiago Polo",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "tiago-polo"
+ ],
+ "source": {
+  "document": "UOL — coluna Natália Portinari, 13/10/2026: Tiago Polo, que trabalhava agenciando modelos, explicou a Vorcaro o propósito da agência e ofereceu a Allure e a Ford Models (US$ 6,7 milhões). Curadoria restrita: publicados apenas os trechos de interesse público (estrutura, pagamentos e o recrutamento de refugiadas); vocabulário degradante e detalhes que individualizem mulheres vulneráveis foram deliberadamente excluídos.",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "tiago-polo",
+   "content_kind": "verbatim_excerpt",
+   "content": "O Diogo disse [que] a ideia da agência seria uma forma de ajustar as meninas indiretamente",
+   "editorial_note": "Explicando a Vorcaro para que serviria a agência; colchete consta da transcrição da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Vorcaro pediu a Tiago que fosse ao Sul do país 'buscar umas gatas' para o 'cadastramento Allure', segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Tiago Polo ofereceu a Vorcaro a compra da Allure e da Ford Models — que teria pedido cerca de US$ 6,7 milhões —, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Em conversa sobre a compra da Allure, Diogo Batista escreveu a Vorcaro, referindo-se a Tiago: 'Que loucura. Tiago deve saber. Mas ninguém falou de você'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
+}

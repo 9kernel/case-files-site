@@ -186,6 +186,42 @@
   "last_message_date": "2025-07-17"
  },
  {
+  "id": "diogo-batista-daniel-vorcaro",
+  "title": "Diogo Batista",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "diogo-batista"
+  ],
+  "message_count": 27,
+  "last_message_preview": "Chefe manda e a gente executa",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari, 13/10/2026: o promotor de eventos, que ganhava R$ 120 mil por mês de Vorcaro, era o executor do esquema de agenciamento — um dos principais investigados pela PF ao lado"
+ },
+ {
+  "id": "eduardo-barcellos-daniel-vorcaro",
+  "title": "Eduardo Barcellos",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "eduardo-barcellos"
+  ],
+  "message_count": 5,
+  "last_message_preview": "Aquele valor que a gente negociou é por fora, não tem IR",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari, 15/10/2026: conversas entre Vorcaro e o vendedor do duplex da Vila Olímpia alugado e depois vendido ao presidente da Febraban Isaac Sidney — com R$ 1,2 milhão pagos por"
+ },
+ {
+  "id": "elsinho-mouco-daniel-vorcaro",
+  "title": "Elsinho Mouco",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "elsinho-mouco"
+  ],
+  "message_count": 6,
+  "last_message_preview": "Tranquilo. Depois checa com sua equipe se já fizeram o pagamento",
+  "featured": false,
+  "note": "UOL (apuração de O Globo), 14/10/2026: o publicitário Elsinho Mouco, interlocutor do ex-presidente Michel Temer, enviou a Vorcaro e cobrou pagamentos do contrato de até R$ 30 milhões entre o Master e "
+ },
+ {
   "id": "fabiano-zettel-daniel-vorcaro",
   "title": "Fabiano Zettel",
   "participants_ids": [
@@ -222,7 +258,7 @@
    "daniel-vorcaro",
    "felipe-mourao"
   ],
-  "message_count": 88,
+  "message_count": 90,
   "last_message_preview": "Maurício Correlatos.pdf",
   "featured": false,
   "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos."
@@ -264,8 +300,8 @@
    "daniel-vorcaro",
    "flavio-carneiro"
   ],
-  "message_count": 11,
-  "last_message_preview": "Segundo o meu xará foi fantástico",
+  "message_count": 22,
+  "last_message_preview": "Na IstoÉ é que controlamos mais",
   "featured": false,
   "note": "O amigo e conselheiro do banqueiro avaliando o encontro com o senador: “Acho uma roubada danada”.",
   "source": {
@@ -274,6 +310,18 @@
    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
   },
   "last_message_date": "2025-02-27"
+ },
+ {
+  "id": "frederic-kachar-daniel-vorcaro",
+  "title": "Frederic Kachar",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "frederic-kachar"
+  ],
+  "message_count": 23,
+  "last_message_preview": "500k na Vogue e 800k no camarote",
+  "featured": false,
+  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: conversas de out/2023 a jul/2025 entre Vorcaro e o então diretor-geral de Mídia Impressa e Rádio do Grupo Globo — patrocínios (Baile da Vogue 2024: R$"
  },
  {
   "id": "geraldo-brazil-journal-daniel-vorcaro",
@@ -292,6 +340,18 @@
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
    "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
   }
+ },
+ {
+  "id": "geraldo-samor-daniel-vorcaro",
+  "title": "Geraldo Samor",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "geraldo-samor"
+  ],
+  "message_count": 7,
+  "last_message_preview": "Na nossa opinião, perdeu muito. Mas entendemos a limitação",
+  "featured": false,
+  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: o fundador do Brazil Journal consultava Vorcaro sobre reportagens do Master antes de publicá-las e atendia pedidos de alteração. A participação do ban"
  },
  {
   "id": "grupo-ciro-daniel-fabio-hugo",
@@ -368,6 +428,18 @@
   "last_message_date": "2025-04-17"
  },
  {
+  "id": "isaac-sidney-daniel-vorcaro",
+  "title": "Isaac Sidney",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "isaac-sidney"
+  ],
+  "message_count": 11,
+  "last_message_preview": "Até um paper dos pontos críticos fiz chegar a você",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari, 15/10/2026: mensagens da PF sobre a interlocução de Vorcaro com o presidente da Febraban — aluguel e compra do apartamento na Vila Olímpia (com R$ 1,2 milhão pagos ao v"
+ },
+ {
   "id": "isadora-alencar-daniel-vorcaro",
   "title": "Isadora Alencar",
   "participants_ids": [
@@ -428,6 +500,30 @@
   }
  },
  {
+  "id": "leonardo-serrano-daniel-vorcaro",
+  "title": "Leonardo Serrano",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "leonardo-serrano"
+  ],
+  "message_count": 10,
+  "last_message_preview": "Não é pra ter pagamento nenhum seu de qualquer coisa de Diogo a partir deste ano",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari, 13/10/2026: 'Leo' Serrano, dono da SL Consulting (sede na Flórida), cuidava da logística internacional — voos, hotéis, 'flores' (como chamava as garotas) e faturas: 21 "
+ },
+ {
+  "id": "lilian-tahan-daniel-vorcaro",
+  "title": "Lilian Tahan",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "lilian-tahan"
+  ],
+  "message_count": 16,
+  "last_message_preview": "Se tiver alguma incorreção, me avise!! Não publicarei sem nos falarmos",
+  "featured": false,
+  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagens da PF mostram Vorcaro com linha direta com a CEO do grupo Metrópoles — pelo menos 14 textos enviados a ele antes de publicados, 11 alterados"
+ },
+ {
   "id": "luciano-huck-daniel-vorcaro",
   "title": "Luciano Huck",
   "participants_ids": [
@@ -462,6 +558,18 @@
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
    "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
   }
+ },
+ {
+  "id": "manuela-carta-daniel-vorcaro",
+  "title": "Manuela Carta",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "manuela-carta"
+  ],
+  "message_count": 1,
+  "last_message_preview": "mais um recurso para a próxima folha de pagamentos",
+  "featured": false,
+  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: a diretora da CartaCapital avisou Vorcaro da necessidade de recursos para a folha de pagamentos; a revista fechou em 2021 contrato de patrocínio de ci"
  },
  {
   "id": "marcio-conjur-daniel-vorcaro",
@@ -546,6 +654,18 @@
   "last_message_preview": "Terça teremos outra",
   "featured": false,
   "note": "Folha de S.Paulo, 05/03/2026: mensagens da quebra de sigilo da PF (autorizada pelo ministro André Mendonça) enviadas à CPI do INSS; conversas de 2024 a agosto de 2025 com a então companheira de Vorcar"
+ },
+ {
+  "id": "michel-temer-daniel-vorcaro",
+  "title": "Michel Temer",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "michel-temer"
+  ],
+  "message_count": 4,
+  "last_message_preview": "Acho que no dia 1/11 iremos a Dubai. Mario pede para vc se preparar para essa vi",
+  "featured": false,
+  "note": "UOL (apuração de O Globo), 14/10/2026: contatos diretos entre o ex-presidente Michel Temer (MDB) e Vorcaro nos dias seguintes ao contrato de até R$ 30 milhões entre o Master e o escritório de Temer (0"
  },
  {
   "id": "nikolas-ferreira-daniel-vorcaro",
@@ -684,6 +804,18 @@
    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires"
   },
   "last_message_date": "2025-11-12"
+ },
+ {
+  "id": "tiago-polo-daniel-vorcaro",
+  "title": "Tiago Polo",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "tiago-polo"
+  ],
+  "message_count": 1,
+  "last_message_preview": "O Diogo disse [que] a ideia da agência seria uma forma de ajustar as meninas ind",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari, 13/10/2026: Tiago Polo, que trabalhava agenciando modelos, explicou a Vorcaro o propósito da agência e ofereceu a Allure e a Ford Models (US$ 6,7 milhões). Curadoria re"
  },
  {
   "id": "vanessa-souza-daniel-vorcaro",

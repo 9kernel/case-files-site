@@ -1,0 +1,702 @@
+{
+ "id": "lilian-tahan-daniel-vorcaro",
+ "title": "Lilian Tahan",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "lilian-tahan"
+ ],
+ "source": {
+  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagens da PF mostram Vorcaro com linha direta com a CEO do grupo Metrópoles — pelo menos 14 textos enviados a ele antes de publicados, 11 alterados a pedido e 2 reportagens publicadas a pedido do dono do Master. Contratos: R$ 1 milhão (jun/2024), R$ 900 mil (jul/2024, Kovr/Will) e R$ 20 milhões (nov/2024). Defesa de Tahan registrada nos eventos.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tá caro esse Metrópoles",
+   "editorial_note": "Sobre a proposta do contrato, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Coisa mais importante [da] nossa vida é esse Metrópoles",
+   "editorial_note": "Resposta na mesma sequência; colchete consta da transcrição da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dei ok pra Lilian",
+   "editorial_note": "Dois dias depois, autorizando o contrato, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-04-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Proposta de 1 real nunca existiu!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-04-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tiramos",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-04-09",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Aí depois se quiser eu comento como chegou",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-04-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Me diga o que acha: um comparativo entre o balanço dos bancos. Ajuda ou atrapalha?",
+   "editorial_note": "Sugestão de pauta enviada a Vorcaro, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-04-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode ser bom! Eu conseguiria dar uma olhada antes pra checar os dados",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-04-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Claro!",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode retirar Hapvida do texto?",
+   "editorial_note": "Pedido de edição sobre reportagem do BTG, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que o texto ta otimo. Mas eu nao falaria tanto do renato, concentraria essa materia no roberto. Senao perdemos o suspense da batida dele! Guardaria essa parte do texto sobre o renato pra materia dele!",
+   "editorial_note": "Sobre texto envolvendo Campos Neto e o diretor do BC Renato Gomes, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu retiraria a parte de falência do banco",
+   "editorial_note": "Sobre o perfil de Renato Gomes publicado pelo Metrópoles, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse Cappelli, você não consegue dar uma freada essa semana? Depois ele volta!",
+   "editorial_note": "Pedido de redução de cobertura sobre Ricardo Cappelli (ABDI), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00014",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deixa comigo",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00015",
+   "date": "2025-11-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Publicada hahahaha",
+   "editorial_note": "No dia da prisão de Vorcaro, após publicar matéria sobre a venda à Fictor, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00016",
+   "date": null,
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se tiver alguma incorreção, me avise!! Não publicarei sem nos falarmos",
+   "editorial_note": "Ao enviar a Vorcaro, antes da publicação, perfil sobre ele, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "O consultor Guilherme Barros apresenta Vorcaro a Lilian Tahan; no dia seguinte escreve ao banqueiro: 'A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu tenho o contato dele, mas acho melhor ela mesma fazer essa ponte, concorda?'. Metrópoles pertence ao ex-senador Luiz Estevão, condenado a 31 anos por desvio de recursos públicos.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Pagamentos do grupo ao Metrópoles: R$ 1 milhão (junho/2024), R$ 900 mil para 'educação financeira' da Kovr e do Will (julho/2024) e contrato de R$ 20 milhões (novembro/2024), quitado em 2025 em parcelas de R$ 5 milhões. Funcionária perguntou a Vorcaro: 'O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Pelo menos 14 textos foram enviados a Vorcaro antes de irem ao ar; 11 foram alterados a pedido dele e 2 reportagens publicadas a pedido do dono do Master, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Em resposta escrita, Tahan afirma que checar com a fonte 'se a matéria reflete o contexto passado para o veículo' é prática adotada com empresários, políticos e Judiciário; nega vínculo entre o contrato de publicidade e a cobertura, citando matérias do Metrópoles que expuseram problemas de Master, Ambipar, Fictor e Oncoclínicas; sobre Renato Gomes, diz que era 'personagem relevante' por se opor à compra pelo BRB; sobre Cappelli, afirma que Luiz Estevão sempre foi crítico da compra do Master pelo BRB e forneceu a Cappelli análises sobre os balanços do BRB.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
+}

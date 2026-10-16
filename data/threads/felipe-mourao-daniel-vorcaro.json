@@ -959,6 +959,76 @@
   },
   {
    "id": "m-00023",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dcm está pago e fechado",
+   "editorial_note": "Confirmando o acordo com o site, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00024",
+   "date": "2025-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "tirar isso imediato",
+   "editorial_note": "Sobre artigo crítico ao Master publicado pelo DCM; o texto foi apagado no mesmo dia, segundo mensagem de Mourão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00025",
    "date": "2025-05-20",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1001,7 +1071,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00024",
+   "id": "m-00026",
    "date": "2025-06-01",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1044,7 +1114,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00025",
+   "id": "m-00027",
    "date": "2025-06-08",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1087,7 +1157,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00026",
+   "id": "m-00028",
    "date": "2025-07-23",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1130,7 +1200,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00027",
+   "id": "m-00029",
    "date": "2025-07-25",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1173,7 +1243,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00028",
+   "id": "m-00030",
    "date": "2025-07-25",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1216,7 +1286,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00029",
+   "id": "m-00031",
    "date": "2025-07-28",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1259,7 +1329,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00030",
+   "id": "m-00032",
    "date": "2025-07-28",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1302,7 +1372,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00031",
+   "id": "m-00033",
    "date": "2026-01-09",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1345,7 +1415,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00032",
+   "id": "m-00034",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1387,7 +1457,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00033",
+   "id": "m-00035",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1429,7 +1499,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00034",
+   "id": "m-00036",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1471,7 +1541,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00035",
+   "id": "m-00037",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1513,7 +1583,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00036",
+   "id": "m-00038",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1555,7 +1625,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00037",
+   "id": "m-00039",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -1597,7 +1667,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00038",
+   "id": "m-00040",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -1639,7 +1709,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00039",
+   "id": "m-00041",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1681,7 +1751,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00040",
+   "id": "m-00042",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -1723,7 +1793,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00041",
+   "id": "m-00043",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1765,7 +1835,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00042",
+   "id": "m-00044",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -1807,7 +1877,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00043",
+   "id": "m-00045",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1849,7 +1919,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00044",
+   "id": "m-00046",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1891,7 +1961,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00045",
+   "id": "m-00047",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -1933,7 +2003,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00046",
+   "id": "m-00048",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -1975,7 +2045,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00047",
+   "id": "m-00049",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2017,7 +2087,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00048",
+   "id": "m-00050",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2059,7 +2129,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00049",
+   "id": "m-00051",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2101,7 +2171,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00050",
+   "id": "m-00052",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2143,7 +2213,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00051",
+   "id": "m-00053",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2185,7 +2255,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00052",
+   "id": "m-00054",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2227,7 +2297,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00053",
+   "id": "m-00055",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2269,7 +2339,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00054",
+   "id": "m-00056",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2311,7 +2381,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00055",
+   "id": "m-00057",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2353,7 +2423,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00056",
+   "id": "m-00058",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2395,7 +2465,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00057",
+   "id": "m-00059",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2438,7 +2508,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00058",
+   "id": "m-00060",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2480,7 +2550,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00059",
+   "id": "m-00061",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2522,7 +2592,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00060",
+   "id": "m-00062",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2564,7 +2634,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00061",
+   "id": "m-00063",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2606,7 +2676,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00062",
+   "id": "m-00064",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2648,7 +2718,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00063",
+   "id": "m-00065",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2690,7 +2760,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00064",
+   "id": "m-00066",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2732,7 +2802,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00065",
+   "id": "m-00067",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2774,7 +2844,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00066",
+   "id": "m-00068",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2816,7 +2886,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00067",
+   "id": "m-00069",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2858,7 +2928,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00068",
+   "id": "m-00070",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2900,7 +2970,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00069",
+   "id": "m-00071",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2942,7 +3012,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00070",
+   "id": "m-00072",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -2984,7 +3054,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00071",
+   "id": "m-00073",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3026,7 +3096,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00072",
+   "id": "m-00074",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3068,7 +3138,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00073",
+   "id": "m-00075",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3110,7 +3180,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00074",
+   "id": "m-00076",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3152,7 +3222,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00075",
+   "id": "m-00077",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3194,7 +3264,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00076",
+   "id": "m-00078",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3236,7 +3306,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00077",
+   "id": "m-00079",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3278,7 +3348,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00078",
+   "id": "m-00080",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3320,7 +3390,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00079",
+   "id": "m-00081",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3362,7 +3432,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00080",
+   "id": "m-00082",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3404,7 +3474,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00081",
+   "id": "m-00083",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3446,7 +3516,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00082",
+   "id": "m-00084",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3488,7 +3558,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00083",
+   "id": "m-00085",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3530,7 +3600,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00084",
+   "id": "m-00086",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3572,7 +3642,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00085",
+   "id": "m-00087",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3614,7 +3684,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00086",
+   "id": "m-00088",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3656,7 +3726,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00087",
+   "id": "m-00089",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3698,7 +3768,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00088",
+   "id": "m-00090",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3742,26 +3812,6 @@
  ],
  "timeline_events": [
   {
-   "id": "e-00004",
-   "content": "Nota deste arquivo: as pessoas citadas na narrativa da PF como alvos de apuração, de 'pressão' ou de acompanhamento são identificadas apenas por iniciais neste site e NÃO figuram nos autos públicos como investigadas, réus ou condenadas — a elas se aplica integralmente a presunção de inocência. Os documentos originais, públicos no pacote do STF, trazem os nomes completos.",
-   "event_kind": "editorial_context",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "nota editorial do projeto",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-07"
-   },
-   "source_ref": "Nota editorial do projeto sobre os autos públicos do caso Master (pacote Arquivos Pet 16704/STF)",
-   "added_in": "privacy-20261007"
-  },
-  {
    "id": "e-00001",
    "date": "2024-06-20",
    "time": null,
@@ -3791,6 +3841,59 @@
   },
   {
    "id": "e-00002",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Após nota negativa, Vorcaro mandou Mourão fazer 'uma parceria direito' com o DCM (Diário do Centro do Mundo), com 'um valor mensal', sob a condição de não sair 'uma frase com meu nome ou Master'. Segundo Mourão, o diretor do site quis 'saber sobre os alvos' antes de fechar; dois dias depois o acordo estava firmado, o site removeria textos negativos e o grupo poderia publicar todo mês 'uma matéria positiva ou negativa de alguém'. O DCM foi procurado após a publicação.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "content": "Nota deste arquivo: as pessoas citadas na narrativa da PF como alvos de apuração, de 'pressão' ou de acompanhamento são identificadas apenas por iniciais neste site e NÃO figuram nos autos públicos como investigadas, réus ou condenadas — a elas se aplica integralmente a presunção de inocência. Os documentos originais, públicos no pacote do STF, trazem os nomes completos.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "nota editorial do projeto",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "Nota editorial do projeto sobre os autos públicos do caso Master (pacote Arquivos Pet 16704/STF)",
+   "added_in": "privacy-20261007"
+  },
+  {
+   "id": "e-00004",
    "date": null,
    "content": "Mourão compartilha consulta do Sistema Aptus do MPF registrada sob o login de uma servidora do MPF, conforme análise da PF (fl. 20, fig. 24).",
    "event_kind": "editorial_context",
@@ -3816,7 +3919,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "e-00003",
+   "id": "e-00005",
    "date": null,
    "content": "Mourão encaminha lista de nomes para consulta de processos sigilosos; Vorcaro responde pedindo para 'adicionar + gente' (fls. 20-21).",
    "event_kind": "editorial_context",
@@ -3840,6 +3943,37 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 20 · fig. 25",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "Mourão já submetia a Vorcaro os textos que sairiam no site: em janeiro/2024, o banqueiro vetou menção ao pai, Henrique Vorcaro, e pediu que o nome dele fosse sempre desvinculado das reportagens.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
   }
  ]
 }

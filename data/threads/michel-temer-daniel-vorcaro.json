@@ -1,0 +1,213 @@
+{
+ "id": "michel-temer-daniel-vorcaro",
+ "title": "Michel Temer",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "michel-temer"
+ ],
+ "source": {
+  "document": "UOL (apuração de O Globo), 14/10/2026: contatos diretos entre o ex-presidente Michel Temer (MDB) e Vorcaro nos dias seguintes ao contrato de até R$ 30 milhões entre o Master e o escritório de Temer (03/09/2025). Em abril de 2026, Temer confirmou a consultoria e a mediação, dizendo que o contrato foi encerrado sem resultado.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-09-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "michel-temer",
+   "content_kind": "verbatim_excerpt",
+   "content": "Qdo puder, me ligue",
+   "editorial_note": "Nos dias seguintes ao envio do contrato pelo escritório, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Presidente, aqui é o Daniel Vorcaro Banco Master. Salva meu contato. Nos falamos em breve. Um cordial abraço",
+   "editorial_note": "Em 2023, quando procurou o ex-presidente para tratar de um documentário, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": null,
+   "sender_id": "michel-temer",
+   "content_kind": "verbatim_excerpt",
+   "content": "Salvei. Bom dia",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": null,
+   "sender_id": "michel-temer",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que no dia 1/11 iremos a Dubai. Mario pede para vc se preparar para essa viagem. Avisaremos. Abs",
+   "editorial_note": "Início de novembro de 2025, sobre agenda de reuniões em Dubai organizada por Temer, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "O histórico de contato começou em 2023, quando Vorcaro procurou Temer para tratar de um documentário, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Em abril de 2026, em entrevista à CNN Brasil, Temer confirmou que foi contratado pelo Master para consultoria e mediação antes da liquidação do banco; disse ter recebido honorários e que o contrato foi encerrado sem resultado. Afirma ter participado de reunião em Brasília com Vorcaro, o então governador do DF Ibaneis Rocha (MDB) e o então presidente do BRB Paulo Henrique Costa, sem detalhar o conteúdo por confidencialidade profissional.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
+}
