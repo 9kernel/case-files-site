@@ -54,9 +54,9 @@
    "daniel-vorcaro",
    "ana-claudia-financeiro"
   ],
-  "message_count": 1,
+  "message_count": 2,
   "last_message_date": "2025-07-24",
-  "last_message_preview": "está pedindo para pagar",
+  "last_message_preview": "Vai ser 1mm como normalmente?",
   "featured": false,
   "note": "Fatura do Escritório Barci de Moraes à Viking: R$ 22.815.120,95.",
   "source": {
@@ -168,6 +168,18 @@
   }
  },
  {
+  "id": "daniel-monteiro-daniel-vorcaro",
+  "title": "Daniel Monteiro",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "daniel-monteiro"
+  ],
+  "message_count": 5,
+  "last_message_preview": "A documentação está pronta.",
+  "featured": false,
+  "note": "Metrópoles — coluna Grande Angular, 16/04/2026: mensagens entre Vorcaro e o advogado Daniel Monteiro sobre a estrutura de compra, pagamento e documentação dos imóveis ligados a Paulo Henrique (ex-BRB)"
+ },
+ {
   "id": "davi-alcolumbre-daniel-vorcaro",
   "title": "Davi Alcolumbre",
   "participants_ids": [
@@ -258,7 +270,7 @@
    "daniel-vorcaro",
    "felipe-mourao"
   ],
-  "message_count": 90,
+  "message_count": 87,
   "last_message_preview": "Maurício Correlatos.pdf",
   "featured": false,
   "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos."
@@ -282,7 +294,7 @@
    "daniel-vorcaro",
    "flavio-bolsonaro"
   ],
-  "message_count": 32,
+  "message_count": 28,
   "last_message_preview": "Amém!",
   "featured": true,
   "note": "O chat central da extração da PF: do primeiro contato ao dia anterior à prisão — filme, repasses ao fundo Havengate e cobranças.",
@@ -686,8 +698,8 @@
    "daniel-vorcaro",
    "paulo-henrique"
   ],
-  "message_count": 15,
-  "last_message_preview": "Se mandarmos alguém para a Bahia no final de semana para ver com eles, não funci",
+  "message_count": 45,
+  "last_message_preview": "Estou com você. Continuo no deal mode. Estou virando noite e tentando resolver",
   "featured": false,
   "note": "Então presidente do BRB segundo o IPJ-A 1252786/2026. Tratativas de operações entre BRB e Banco Master: cessão de carteiras, FIP, XP. Citações literais com página/figura."
  },

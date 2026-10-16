@@ -59,7 +59,8 @@
   {
    "id": "ana-claudia-financeiro-daniel-vorcaro",
    "messages": [
-    "está pedindo para pagar"
+    "está pedindo para pagar",
+    "Vai ser 1mm como normalmente?"
    ]
   },
   {
@@ -159,6 +160,17 @@
     "Pedrinho filho do PG pode ir com a gente",
     "Obvio",
     "A partir das 14:23:10 (-03:00) são completadas quatro chamadas de voz entre Vorcaro e Ciro Soares, com durações de 57 s, 27 s, 17 s e 3 min 49 s, nessa sequência."
+   ]
+  },
+  {
+   "id": "daniel-monteiro-daniel-vorcaro",
+   "messages": [
+    "O Paulo me procurou para dar andamento em estrutura de compra de imóveis para ele.",
+    "Eu pedi isso anteontem. Pra dar foco nisso. Achei que já estava resolvido",
+    "Ele só me contou agora cedo. Vou pedir os dados dos imóveis a ele e faço hj mesmo",
+    "Eu preciso assinar e pagar hoje. Os imóveis Paulo",
+    "A documentação está pronta.",
+    "Segundo a reportagem, com base na decisão do STF, o pagamento dos imóveis não foi concluído: Vorcaro, ciente da investigação, teria ordenado a Monteiro não registrar as escrituras — tese investigativa, não fato comprovado."
    ]
   },
   {
@@ -332,12 +344,10 @@
     "só me passar que eu vou na hora",
     "Sim. Tinha que colocar gente seguindo esse cara. Pra pegar tudo dele",
     "Quero tudo. Atenção total",
-    "um filho da puta me filmou com a stella minha filha e esta espalhando na internet. Preciso matar esse cara",
+    "um filho da puta me filmou com a [nome suprimido] minha filha e esta espalhando na internet. Preciso matar esse cara",
     "Quem é? me manda tudo que vc tem ou alguma coisa",
     "Esse lauro quero mandar da um pau nele. Quebrar todos os dentes. Num assalto",
     "Pode? Vou olhar isso",
-    "no momento em que estou é que preciso de vocês",
-    "Vai ser 1mm como normalmente?",
     "O que você quer que façam? Acabei de ligar na turma aqui.",
     "Acesso total nível máx",
     "Você quem disse para largar de lado. Estava tudo já resolvido.",
@@ -391,7 +401,6 @@
     "Já estão subindo",
     "vamos ter que sentar com ele",
     "o bom de dar sacode no chef cozinha primeiro o outro já vai assustar",
-    "lá tem a sucinta falando do que se trata",
     "dar um pulão nele",
     "Maurício Correlatos.pdf",
     "Felipe Mourão encaminha processos reservados dos sistemas do MPF (GRU-DANIEL.pdf, PROCESSO SIGILO 2.pdf), segundo o relatório (fl. 21, fig. 26).",
@@ -423,15 +432,11 @@
     "A caminho",
     "Não postar nem encaminhar. Já estão em São Paulo. Começou!!!",
     "Quarta 14h30?",
-    "Irmão, preferi te mandar o áudio aqui para você ouvir com calma. […] eu fico sem graça de ficar te cobrando, tá? […] Imagina a gente dando calote num Jim Caviezel, num Cyrus [Nowrasteh]. […] tem muita conta para pagar esse mês. […] na reta final [não podemos perder] ator, diretor, equipe. […] Desculpa o áudio longo aí, tá? Um abração, fica com Deus, cara.",
+    "Irmão, preferi te mandar o áudio aqui para você ouvir com calma. […] está na mão de Deus aí. […] eu fico sem graça de ficar te cobrando, tá? […] tá todo mundo tenso. […] Imagina a gente dando calote num Jim Caviezel, num Cyrus [Nowrasteh]. […] tem muita conta para pagar esse mês. […] na reta final [não podemos perder] ator, diretor, equipe. […] Desculpa o áudio longo aí, tá? Um abração, fica com Deus, cara.",
     "Preferi te mandar um áudio pra vc ouvir com calma aí, mermão! abs!",
     "semana passada foi muito dificil pra mim",
     "Eu vou resolver amanhã",
     "Chamada de voz (2 min 38 s)",
-    "está na mão de Deus aí",
-    "eu fico sem graça de ficar te cobrando",
-    "tá todo mundo tenso",
-    "Imagina a gente dando calote num Jim Caviezel",
     "Chamada de voz (42 s)",
     "Já estamos no terceiro dia de gravação. Estamos no limite.",
     "Mais uma vez, com toda a liberdade que temos, se não der me fala que procuro urgente outro caminho.",
@@ -948,6 +953,11 @@
     "Amigo, estamos juntos agora",
     "Vamos enfrentar muita coisa ainda em conjunto",
     "Estamos juntos mesmo para a vida",
+    "Tem uma orientação do PT Nacional de obstruir a votação",
+    "O presidente Lula apoia ou não a operação?",
+    "Vou acionar a turma",
+    "Essa é a maior disputa aqui",
+    "Edinho avisado, disse que vai atuar",
     "Sim",
     "Fechado",
     "Vou usar esse fip especifico para isso, embaixo de um fim nosso",
@@ -956,9 +966,39 @@
     "Bom demais. Estou animado",
     "precisaria dar menos explicação",
     "Se mandarmos alguém para a Bahia no final de semana para ver com eles, não funciona?",
+    "estou mais empolgado com o que vamos construir",
+    "Seria legal mostrar o apartamento para ela",
+    "Fala, amigo! Ótimo, também estou empolgado. Vou alinhar tudo com Daniel.",
+    "Vou te passar uma pessoa que te mostrará o apto",
+    "Fechado! Obrigado",
+    "A esposa ainda está meio cismada. Seria ótimo olhar outro para construir uma referência",
+    "Por quê?",
+    "Hoje estava com a região toda fechada. Seria bom dar o parâmetro",
+    "Ah, tá. Esse outro é uma cobertura. Já pensando trazer família",
+    "Eu venho na frente mesmo e elas vêm depois. Boa",
+    "Vale a pena ver",
+    "Claro. Qual o empreendimento?",
+    "Meu foco é nisso nessa semana.",
+    "Vou levantar aqui com minha turma. E te volto",
+    "Fiz as contas para chegar ao valor que combinamos.",
+    "Você diz casa Leopoldo, né? Cobertura que você foi. Pq o heritage melhor que o Lafer, não?",
+    "Esse era enorme. A Cris nos levou no Casa Lafer, um apartamento tipo. Sim. Bem melhor",
+    "E vamos ter os delas novos de agora",
+    "Amigo, pessoal esperando seu de acordo sobre os imóveis de São Paulo. Pode ajudar?",
+    "Do meu lado dei carta branca. Onde está travado. Pode me falar?",
+    "Na equipe do Daniel. Mas disseram que é simples",
+    "Desculpe dar trabalho. É que estou focado na agenda que combinamos...",
+    "Nada. Isso não é trabalho. Eu sou resolvedor de problemas rsrs",
+    "Estou tratando de carteira de outro lado",
+    "Estou com você. Continuo no deal mode. Estou virando noite e tentando resolver",
+    "Paulo Henrique comunica a Vorcaro que o NPL fora fechado naquele dia (fl. 7).",
     "Paulo Henrique encaminha e-mail institucional e modelo de ofício de compromisso de investimento em ações do BRB, após a apresentação inicial de Vorcaro (fl. 5, fig. 2).",
     "Vorcaro encaminha o contato de Alberto Felix para tratar aquisição de carteira e consignado no banco — ver conversa com Alberto Felix neste arquivo (fl. 7, fig. 4).",
-    "Paulo Henrique comunica a Vorcaro que o NPL fora fechado naquele dia (fl. 7)."
+    "Contexto: no dia 19/08/2025, o projeto sobre a compra do Master pelo BRB foi votado na CLDF; segundo a reportagem, Vorcaro buscou evitar que deputados do PT obstruíssem a votação. Em nota, a assessoria de Edinho Silva afirmou que 'esse diálogo é de total desconhecimento do presidente Edinho Silva' e chamou o episódio de 'ilação sem lastro com a realidade'.",
+    "3º diálogo da sequência: após decepção de Paulo Henrique por não visitar o apartamento, Vorcaro escreve à corretora (nome preservado pela reportagem e por este site): 'Preciso dele feliz [nome preservado]. Reverte isso aí'.",
+    "No 2º diálogo, após a pergunta sobre o empreendimento, Vorcaro menciona 'um gargalo de 300mm na quarta' e o desejo de 'bolar contigo' o que poderiam fazer, segundo a reportagem.",
+    "No 7º diálogo, Vorcaro pergunta sobre o 'interesse no deal', fala em 'um negócio de continuidade' e em 'centenas de ajustes ao longo da trajetória', segundo a reportagem.",
+    "As mensagens foram reproduzidas pela coluna como citadas na decisão do ministro André Mendonça (STF) que autorizou a prisão de Paulo Henrique, ex-presidente do BRB, na 4ª fase da Operação Compliance Zero (16/04/2026). Teses da investigação ali descritas — a serem comprovadas: seis imóveis avaliados em R$ 146,5 milhões teriam sido ofertados a Paulo Henrique como contrapartiga por atuar como 'mandatário' de Vorcaro no BRB, que comprava carteiras de crédito do Master estimadas em R$ 12,2 bilhões; o pagamento não teria sido concluído porque Vorcaro, ciente da investigação, ordenou ao advogado Daniel Monteiro não registrar as escrituras. A coluna não reproduz manifestação de defesa de Vorcaro, Paulo Henrique ou Monteiro."
    ]
   },
   {

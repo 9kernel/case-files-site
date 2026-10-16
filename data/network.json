@@ -7,7 +7,14 @@
    "name": "Felipe Mourão",
    "thread": "felipe-mourao-daniel-vorcaro",
    "title": "Felipe Mourão",
-   "msg_count": 90
+   "msg_count": 87
+  },
+  {
+   "id": "paulo-henrique",
+   "name": "Paulo Henrique Costa",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "title": "Paulo Henrique (BRB)",
+   "msg_count": 45
   },
   {
    "id": "fabio-faria",
@@ -24,18 +31,18 @@
    "msg_count": 33
   },
   {
-   "id": "flavio-bolsonaro",
-   "name": "Flávio Bolsonaro",
-   "thread": "flavio-bolsonaro-daniel-vorcaro",
-   "title": "Flávio Bolsonaro",
-   "msg_count": 32
-  },
-  {
    "id": "julio-cezar",
    "name": "Júlio Cezar",
    "thread": "julio-cezar-daniel-vorcaro",
    "title": "Júlio Cezar",
    "msg_count": 32
+  },
+  {
+   "id": "flavio-bolsonaro",
+   "name": "Flávio Bolsonaro",
+   "thread": "flavio-bolsonaro-daniel-vorcaro",
+   "title": "Flávio Bolsonaro",
+   "msg_count": 28
   },
   {
    "id": "diogo-batista",
@@ -112,13 +119,6 @@
    "name": "Leonardo Palhares",
    "thread": "leonardo-palhares-daniel-vorcaro",
    "title": "Leonardo Palhares",
-   "msg_count": 15
-  },
-  {
-   "id": "paulo-henrique",
-   "name": "Paulo Henrique Costa",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "title": "Paulo Henrique (BRB)",
    "msg_count": 15
   },
   {
@@ -269,6 +269,13 @@
    "msg_count": 5
   },
   {
+   "id": "daniel-monteiro",
+   "name": "Daniel Monteiro",
+   "thread": "daniel-monteiro-daniel-vorcaro",
+   "title": "Daniel Monteiro",
+   "msg_count": 5
+  },
+  {
    "id": "eduardo-barcellos",
    "name": "Eduardo Barcellos",
    "thread": "eduardo-barcellos-daniel-vorcaro",
@@ -346,6 +353,13 @@
    "msg_count": 3
   },
   {
+   "id": "ana-claudia-financeiro",
+   "name": "Ana Claudia",
+   "thread": "ana-claudia-financeiro-daniel-vorcaro",
+   "title": "Ana Claudia",
+   "msg_count": 2
+  },
+  {
    "id": "guilherme-sodre",
    "name": "Guilherme Sodré (Guiga)",
    "thread": "guilherme-sodre-daniel-vorcaro",
@@ -365,13 +379,6 @@
    "thread": "nikolas-ferreira-daniel-vorcaro",
    "title": "Nikolas Ferreira",
    "msg_count": 2
-  },
-  {
-   "id": "ana-claudia-financeiro",
-   "name": "Ana Claudia",
-   "thread": "ana-claudia-financeiro-daniel-vorcaro",
-   "title": "Ana Claudia",
-   "msg_count": 1
   },
   {
    "id": "manuela-carta",
@@ -565,17 +572,17 @@
      "date": "2025-07-23"
     },
     {
-     "id": "m-00035",
+     "id": "m-00033",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00036",
+     "id": "m-00034",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00041",
+     "id": "m-00039",
      "sender": "felipe-mourao",
      "date": null
     }
@@ -604,17 +611,17 @@
      "date": "2025-07-23"
     },
     {
-     "id": "m-00035",
+     "id": "m-00033",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00046",
+     "id": "m-00044",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00080",
+     "id": "m-00078",
      "sender": "felipe-mourao",
      "date": null
     }
@@ -720,17 +727,17 @@
      "date": "2025-06-01"
     },
     {
-     "id": "m-00046",
+     "id": "m-00044",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00061",
+     "id": "m-00059",
      "sender": "felipe-mourao",
      "date": null
     },
     {
-     "id": "m-00087",
+     "id": "m-00085",
      "sender": "daniel-vorcaro",
      "date": null
     }
@@ -896,20 +903,6 @@
   },
   {
    "type": "mention",
-   "thread": "felipe-mourao-daniel-vorcaro",
-   "from": "felipe-mourao",
-   "to": "ana-claudia-financeiro",
-   "count": 3,
-   "evidence": [
-    {
-     "id": "m-00034",
-     "sender": "felipe-mourao",
-     "date": null
-    }
-   ]
-  },
-  {
-   "type": "mention",
    "thread": "geraldo-samor-daniel-vorcaro",
    "from": "geraldo-samor",
    "to": "alexandre-moraes",
@@ -957,6 +950,30 @@
      "id": "m-00016",
      "sender": "daniel-vorcaro",
      "date": "2025-03"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "brb",
+   "count": 3,
+   "evidence": [
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00013",
+     "sender": "daniel-vorcaro",
+     "date": "2025-11-12"
+    },
+    {
+     "id": "m-00014",
+     "sender": "paulo-henrique",
+     "date": null
     }
    ]
   },
@@ -1263,25 +1280,6 @@
   },
   {
    "type": "mention",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "from": "paulo-henrique",
-   "to": "brb",
-   "count": 2,
-   "evidence": [
-    {
-     "id": "m-00008",
-     "sender": "daniel-vorcaro",
-     "date": "2025-11-12"
-    },
-    {
-     "id": "m-00009",
-     "sender": "paulo-henrique",
-     "date": null
-    }
-   ]
-  },
-  {
-   "type": "mention",
    "thread": "romy-banco-master-daniel-vorcaro",
    "from": "romy-banco-master",
    "to": "banco-master",
@@ -1380,6 +1378,20 @@
      "id": "m-00001",
      "sender": "ana-claudia-financeiro",
      "date": "2025-07-24"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "ana-claudia-financeiro-daniel-vorcaro",
+   "from": "ana-claudia-financeiro",
+   "to": "felipe-mourao",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00002",
+     "sender": "ana-claudia-financeiro",
+     "date": null
     }
    ]
   },
@@ -1968,6 +1980,20 @@
      "id": "m-00004",
      "sender": "paulo-henrique",
      "date": "2024-09-19"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "banco-master",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
     }
    ]
   },

@@ -314,6 +314,181 @@
   },
   {
    "id": "m-00008",
+   "date": "2025-08-19",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem uma orientação do PT Nacional de obstruir a votação",
+   "editorial_note": "Sobre a votação, na CLDF, do projeto relativo à compra do Master pelo BRB, no dia 19/08/2025, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-08-19",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O presidente Lula apoia ou não a operação?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-08-19",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou acionar a turma",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-08-19",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Essa é a maior disputa aqui",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-08-19",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Edinho avisado, disse que vai atuar",
+   "editorial_note": "Afirmação de Vorcaro a Paulo Henrique; a assessoria de Edinho Silva (presidente do PT) nega conhecimento do diálogo — ver evento. A existência de contato direto não está confirmada por outra fonte.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
    "date": "2025-11-12",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -356,7 +531,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00009",
+   "id": "m-00014",
    "date": null,
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
@@ -398,7 +573,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00010",
+   "id": "m-00015",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -440,7 +615,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00011",
+   "id": "m-00016",
    "date": null,
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
@@ -482,7 +657,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00012",
+   "id": "m-00017",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -524,7 +699,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00013",
+   "id": "m-00018",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -566,7 +741,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00014",
+   "id": "m-00019",
    "date": null,
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
@@ -608,7 +783,7 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00015",
+   "id": "m-00020",
    "date": null,
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
@@ -648,63 +823,836 @@
    },
    "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 36 · fig. 32",
    "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "m-00021",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "estou mais empolgado com o que vamos construir",
+   "editorial_note": "Fragmento: agradecimento pela conversa e alinhamento, mencionando lançar a operação, material pedido pelo governador e desenho de CEO da holding financeira, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00022",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Seria legal mostrar o apartamento para ela",
+   "editorial_note": "Sobre visita a São Paulo com a esposa e a data de 01/03, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00023",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fala, amigo! Ótimo, também estou empolgado. Vou alinhar tudo com Daniel.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00024",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou te passar uma pessoa que te mostrará o apto",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00025",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fechado! Obrigado",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00026",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "A esposa ainda está meio cismada. Seria ótimo olhar outro para construir uma referência",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00027",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Por quê?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00028",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Hoje estava com a região toda fechada. Seria bom dar o parâmetro",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00029",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ah, tá. Esse outro é uma cobertura. Já pensando trazer família",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00030",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu venho na frente mesmo e elas vêm depois. Boa",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00031",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vale a pena ver",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00032",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Claro. Qual o empreendimento?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00033",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Meu foco é nisso nessa semana.",
+   "editorial_note": "Na sequência, pergunta sobre carteira varejo/PJ, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00034",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou levantar aqui com minha turma. E te volto",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00035",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fiz as contas para chegar ao valor que combinamos.",
+   "editorial_note": "A mesma fala cita o Casa Lafer e 'Apagando algumas mensagens', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00036",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você diz casa Leopoldo, né? Cobertura que você foi. Pq o heritage melhor que o Lafer, não?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00037",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse era enorme. A Cris nos levou no Casa Lafer, um apartamento tipo. Sim. Bem melhor",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00038",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "E vamos ter os delas novos de agora",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00039",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amigo, pessoal esperando seu de acordo sobre os imóveis de São Paulo. Pode ajudar?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00040",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Do meu lado dei carta branca. Onde está travado. Pode me falar?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00041",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Na equipe do Daniel. Mas disseram que é simples",
+   "editorial_note": "'Daniel' é o advogado Daniel Monteiro, conforme a própria reportagem — ver conversa própria.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00042",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Desculpe dar trabalho. É que estou focado na agenda que combinamos...",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00043",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nada. Isso não é trabalho. Eu sou resolvedor de problemas rsrs",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00044",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou tratando de carteira de outro lado",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00045",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou com você. Continuo no deal mode. Estou virando noite e tentando resolver",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
   }
  ],
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": null,
-   "content": "Paulo Henrique encaminha e-mail institucional e modelo de ofício de compromisso de investimento em ações do BRB, após a apresentação inicial de Vorcaro (fl. 5, fig. 2).",
-   "event_kind": "editorial_context",
-   "source": {
-    "document_id": "pf-ipja-1252786-2026",
-    "page": 5,
-    "figure": 2
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "INQ 5026",
-    "document": "IPJ-A nº 1252786/2026",
-    "page": 5,
-    "figure": 2,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
-   "added_in": "ingest-pf2-20261007"
-  },
-  {
-   "id": "e-00002",
-   "date": null,
-   "content": "Vorcaro encaminha o contato de Alberto Felix para tratar aquisição de carteira e consignado no banco — ver conversa com Alberto Felix neste arquivo (fl. 7, fig. 4).",
-   "event_kind": "editorial_context",
-   "source": {
-    "document_id": "pf-ipja-1252786-2026",
-    "page": 7,
-    "figure": 4
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "INQ 5026",
-    "document": "IPJ-A nº 1252786/2026",
-    "page": 7,
-    "figure": 4,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7 · fig. 4",
-   "added_in": "ingest-pf2-20261007"
-  },
-  {
-   "id": "e-00003",
    "date": "2024-07-12",
    "time": null,
    "timestamp_precision": "date",
@@ -730,6 +1678,213 @@
    },
    "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7",
    "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Paulo Henrique encaminha e-mail institucional e modelo de ofício de compromisso de investimento em ações do BRB, após a apresentação inicial de Vorcaro (fl. 5, fig. 2).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "INQ 5026",
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 5 · fig. 2",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Vorcaro encaminha o contato de Alberto Felix para tratar aquisição de carteira e consignado no banco — ver conversa com Alberto Felix neste arquivo (fl. 7, fig. 4).",
+   "event_kind": "editorial_context",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 7,
+    "figure": 4
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "INQ 5026",
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 7,
+    "figure": 4,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 7 · fig. 4",
+   "added_in": "ingest-pf2-20261007"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Contexto: no dia 19/08/2025, o projeto sobre a compra do Master pelo BRB foi votado na CLDF; segundo a reportagem, Vorcaro buscou evitar que deputados do PT obstruíssem a votação. Em nota, a assessoria de Edinho Silva afirmou que 'esse diálogo é de total desconhecimento do presidente Edinho Silva' e chamou o episódio de 'ilação sem lastro com a realidade'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "3º diálogo da sequência: após decepção de Paulo Henrique por não visitar o apartamento, Vorcaro escreve à corretora (nome preservado pela reportagem e por este site): 'Preciso dele feliz [nome preservado]. Reverte isso aí'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "No 2º diálogo, após a pergunta sobre o empreendimento, Vorcaro menciona 'um gargalo de 300mm na quarta' e o desejo de 'bolar contigo' o que poderiam fazer, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "e-00007",
+   "date": null,
+   "content": "No 7º diálogo, Vorcaro pergunta sobre o 'interesse no deal', fala em 'um negócio de continuidade' e em 'centenas de ajustes ao longo da trajetória', segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "e-00008",
+   "date": null,
+   "content": "As mensagens foram reproduzidas pela coluna como citadas na decisão do ministro André Mendonça (STF) que autorizou a prisão de Paulo Henrique, ex-presidente do BRB, na 4ª fase da Operação Compliance Zero (16/04/2026). Teses da investigação ali descritas — a serem comprovadas: seis imóveis avaliados em R$ 146,5 milhões teriam sido ofertados a Paulo Henrique como contrapartiga por atuar como 'mandatário' de Vorcaro no BRB, que comprava carteiras de crédito do Master estimadas em R$ 12,2 bilhões; o pagamento não teria sido concluído porque Vorcaro, ciente da investigação, ordenou ao advogado Daniel Monteiro não registrar as escrituras. A coluna não reproduz manifestação de defesa de Vorcaro, Paulo Henrique ou Monteiro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
   }
  ]
 }

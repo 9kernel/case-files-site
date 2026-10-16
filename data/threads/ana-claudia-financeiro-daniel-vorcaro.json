@@ -54,6 +54,48 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 170 · fig. 169",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00002",
+   "date": null,
+   "sender_id": "ana-claudia-financeiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vai ser 1mm como normalmente?",
+   "editorial_note": "Contexto do relatório (IPJ-A nº 1020625/2026, p. 5): após Vorcaro encaminhar os dados da empresa de Felipe Mourão para transferência bancária ao contato 'Ana Claudia Financeiro1', Ana Claudia pergunta e Vorcaro responde 'Sim'; ela então envia o comprovante.",
+   "source": {
+    "document_id": "pf-ipja-1020625-2026",
+    "page": 5,
+    "figure": 2
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 15978",
+    "document": "IPJ-A nº 1020625/2026",
+    "page": 5,
+    "figure": 2,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1020625-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 15978",
+     "document": "IPJ-A nº 1020625/2026",
+     "page": 5,
+     "figure": 2,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 5 · fig. 2",
+   "added_in": "audit-fix-20261016"
   }
  ]
 }

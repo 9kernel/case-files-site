@@ -119,11 +119,20 @@ Este arquivo existe e se apoia, em síntese, nos seguintes fundamentos
 
 ## 4. Privacidade e minimização
 
-Sem mídia dos autos publicada (política escrita: prints/áudios só após revisão
-individual); sem fotos de pessoas; sem dados pessoais além do necessário à
-compreensão documental; o projeto **não redistribui peças** (política
-link-only: leitura sempre na origem pública). Correções e contestações: página
-de política no site.
+**Mídias dos autos** — nenhuma foto, print, áudio ou vídeo proveniente dos
+autos é publicado ou re-hospedado (política escrita: prints/áudios só após
+revisão individual; áudios de fonte jornalística são sempre linkados na
+origem, nunca re-hospedados).
+
+**Fotos de pessoas** — as únicas imagens de pessoas no site são fotos de
+perfil **públicas** (titulares de função ou figuras públicas, em contexto
+jornalístico) obtidas do Wikimedia Commons sob licença livre, com atribuição
+obrigatória arquivo por arquivo em `public/media/people/CREDITS.md`. São
+avatars de navegação, não mídia dos autos; nenhuma foto privada é veiculada.
+
+Sem dados pessoais além do necessário à compreensão documental; o projeto
+**não redistribui peças** (política link-only: leitura sempre na origem
+pública). Correções e contestações: página de política no site.
 
 ## 5. Verificação automatizada (CI)
 

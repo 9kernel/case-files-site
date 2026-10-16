@@ -1,0 +1,213 @@
+{
+ "id": "daniel-monteiro-daniel-vorcaro",
+ "title": "Daniel Monteiro",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "daniel-monteiro"
+ ],
+ "source": {
+  "document": "Metrópoles — coluna Grande Angular, 16/04/2026: mensagens entre Vorcaro e o advogado Daniel Monteiro sobre a estrutura de compra, pagamento e documentação dos imóveis ligados a Paulo Henrique (ex-BRB), citadas na decisão do Min. André Mendonça que autorizou a prisão de Paulo Henrique na 4ª fase da Compliance Zero. A coluna não reproduz manifestação de defesa de Monteiro; as teses investigativas estão registradas como alegações na conversa com Paulo Henrique.",
+  "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique",
+  "pages": "Mensagens conforme transcrição da reportagem; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": null,
+   "sender_id": "daniel-monteiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O Paulo me procurou para dar andamento em estrutura de compra de imóveis para ele.",
+   "editorial_note": "Pergunta em seguida, em fala indireta, se deve dar andamento, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu pedi isso anteontem. Pra dar foco nisso. Achei que já estava resolvido",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": null,
+   "sender_id": "daniel-monteiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele só me contou agora cedo. Vou pedir os dados dos imóveis a ele e faço hj mesmo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu preciso assinar e pagar hoje. Os imóveis Paulo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": null,
+   "sender_id": "daniel-monteiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "A documentação está pronta.",
+   "editorial_note": "Lista como pendências, segundo a reportagem: confirmar imóveis e valores, definir o diretor das sociedades e 'Descer o dinheiro do Astrato para o fundo dono das sociedades'.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "Segundo a reportagem, com base na decisão do STF, o pagamento dos imóveis não foi concluído: Vorcaro, ciente da investigação, teria ordenado a Monteiro não registrar as escrituras — tese investigativa, não fato comprovado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Grande Angular",
+      "date": "2026-04-16",
+      "url": "https://www.metropoles.com/colunas/grande-angular/veja-troca-de-mensagens-entre-vorcaro-e-paulo-henrique"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
+   "added_in": "audit-fix-20261016"
+  }
+ ]
+}
