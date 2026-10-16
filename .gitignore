@@ -23,3 +23,4 @@ data/audit/import-state.json
 .pipeline/
 data/cache/
 data/review/
+.backups/

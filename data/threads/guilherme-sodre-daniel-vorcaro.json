@@ -19,11 +19,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Maravilhosas!",
-   "editorial_note": "Sobre as obras apresentadas por Guiga (Guignard e Portinari).",
+   "editorial_note": "Sobre as obras apresentadas por Guiga (Guignard e Portinari). [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -54,11 +54,11 @@
    "sender_id": "guilherme-sodre",
    "content_kind": "verbatim_excerpt",
    "content": "Ao vivo são ainda mais lindas",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -91,9 +91,9 @@
    "content": "Guiga envia informações sobre obras como 'Ouro Preto' (Guignard) e 'Casamento na Roça' (Portinari) em negociação com Vorcaro.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -114,7 +114,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
-   "added_in": "ingest-press-20261015"
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -124,9 +125,9 @@
    "content": "Após telefonema de 2 minutos, Guiga encaminha a Vorcaro o telefone do senador Jaques Wagner e lhe deseja sorte, segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -147,7 +148,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
-   "added_in": "ingest-press-20261015"
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

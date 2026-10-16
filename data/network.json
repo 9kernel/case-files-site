@@ -59,6 +59,13 @@
    "msg_count": 26
   },
   {
+   "id": "lilian-tahan",
+   "name": "Lilian Tahan",
+   "thread": "lilian-tahan-daniel-vorcaro",
+   "title": "Lilian Tahan",
+   "msg_count": 25
+  },
+  {
    "id": "martha-graeff",
    "name": "Martha Graeff",
    "thread": "martha-graeff-daniel-vorcaro",
@@ -94,13 +101,6 @@
    "msg_count": 18
   },
   {
-   "id": "lilian-tahan",
-   "name": "Lilian Tahan",
-   "thread": "lilian-tahan-daniel-vorcaro",
-   "title": "Lilian Tahan",
-   "msg_count": 16
-  },
-  {
    "id": "yasmin-brunet",
    "name": "Yasmin Brunet",
    "thread": "yasmin-brunet-daniel-vorcaro",
@@ -126,6 +126,13 @@
    "name": "ACM Neto",
    "thread": "acm-neto-daniel-vorcaro",
    "title": "ACM Neto",
+   "msg_count": 13
+  },
+  {
+   "id": "ana-matos",
+   "name": "Ana Matos",
+   "thread": "ana-matos-daniel-vorcaro",
+   "title": "Ana Matos",
    "msg_count": 13
   },
   {
@@ -183,13 +190,6 @@
    "thread": "walfrido-mares-guia-daniel-vorcaro",
    "title": "Walfrido dos Mares Guia",
    "msg_count": 10
-  },
-  {
-   "id": "ana-matos",
-   "name": "Ana Matos",
-   "thread": "ana-matos-daniel-vorcaro",
-   "title": "Ana Matos",
-   "msg_count": 9
   },
   {
    "id": "cezinha-de-madureira",
@@ -379,6 +379,13 @@
    "thread": "nikolas-ferreira-daniel-vorcaro",
    "title": "Nikolas Ferreira",
    "msg_count": 2
+  },
+  {
+   "id": "guilherme-barros",
+   "name": "Guilherme Barros",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "title": "Guilherme Barros",
+   "msg_count": 1
   },
   {
    "id": "manuela-carta",
@@ -669,12 +676,12 @@
    "count": 5,
    "evidence": [
     {
-     "id": "m-00008",
+     "id": "m-00011",
      "sender": "daniel-vorcaro",
      "date": "2025-07-21"
     },
     {
-     "id": "m-00009",
+     "id": "m-00012",
      "sender": "ana-matos",
      "date": "2025-07-22"
     }
@@ -1186,6 +1193,25 @@
   },
   {
    "type": "mention",
+   "thread": "lilian-tahan-daniel-vorcaro",
+   "from": "lilian-tahan",
+   "to": "bc",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00013",
+     "sender": "daniel-vorcaro",
+     "date": "2025-08"
+    },
+    {
+     "id": "m-00018",
+     "sender": "daniel-vorcaro",
+     "date": "2025-08"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "luiz-renno-daniel-vorcaro",
    "from": "luiz-renno",
    "to": "alexandre-moraes",
@@ -1403,7 +1429,7 @@
    "count": 1,
    "evidence": [
     {
-     "id": "m-00001",
+     "id": "m-00004",
      "sender": "ana-matos",
      "date": "2025-04-11"
     }
@@ -1417,7 +1443,7 @@
    "count": 1,
    "evidence": [
     {
-     "id": "m-00003",
+     "id": "m-00006",
      "sender": "ana-matos",
      "date": "2025-07-10"
     }
@@ -1431,7 +1457,7 @@
    "count": 1,
    "evidence": [
     {
-     "id": "m-00006",
+     "id": "m-00009",
      "sender": "daniel-vorcaro",
      "date": "2025-07-18"
     }
@@ -1795,21 +1821,7 @@
    "count": 1,
    "evidence": [
     {
-     "id": "m-00011",
-     "sender": "daniel-vorcaro",
-     "date": "2025-08"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "lilian-tahan-daniel-vorcaro",
-   "from": "lilian-tahan",
-   "to": "bc",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00011",
+     "id": "m-00013",
      "sender": "daniel-vorcaro",
      "date": "2025-08"
     }

@@ -8,14 +8,14 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 ## Resultado
 
-- 59 threads · 920 registros (732 mensagens + 188 eventos)
-- **920 OK** · **0 com problema**
+- 60 threads · 938 registros (746 mensagens + 192 eventos)
+- **938 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
-| OK_OFFICIAL | 274 |
-| OK_PUBLIC_INVESTIGATION | 611 |
-| OK_SECONDARY | 35 |
+| OK_OFFICIAL | 275 |
+| OK_PUBLIC_INVESTIGATION | 513 |
+| OK_SECONDARY | 150 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |
 | MISSING_PAGE | 0 |
@@ -33,6 +33,7 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 | `pf-ipj-1752768-2026` | PET 15978 | 14 | **confirmada** (2026-09-15) | 0 | 0 |
 | `pf-repr-pet15-499` | PET 15499 · INQ 5026 | — | **confirmada** (2026-09-15) | 10 | 0 |
 | `pf-ipja-1252786-2026` | INQ 5026 | 792 | **confirmada** (2026-09-15) | 18 | 3 |
+| `pf-nota-imprensa-20261009` | — | — | **confirmada** (2026-10-16) | 0 | 1 |
 
 ## Registros com problema
 

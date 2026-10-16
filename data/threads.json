@@ -72,9 +72,9 @@
    "daniel-vorcaro",
    "ana-matos"
   ],
-  "message_count": 9,
+  "message_count": 13,
   "last_message_date": "2025-07-22",
-  "last_message_preview": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
+  "last_message_preview": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divi",
   "featured": false,
   "note": "Organização dos Fóruns de Londres: listas, convites e reclamações atribuídas a “Alexandre”.",
   "source": {
@@ -362,6 +362,18 @@
   "note": "Grupo de WhatsApp criado por Ciro Nogueira em abril/2024 com Vorcaro, Hugo Motta e Fábio Faria para organizar encontros, deslocamentos e compartilhar notícias (UOL, 30/09/2026)."
  },
  {
+  "id": "guilherme-barros-daniel-vorcaro",
+  "title": "Guilherme Barros",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "guilherme-barros"
+  ],
+  "message_count": 1,
+  "last_message_preview": "A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu te",
+  "featured": false,
+  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagem do então consultor de Vorcaro relatando a"
+ },
+ {
   "id": "guilherme-sodre-daniel-vorcaro",
   "title": "Guilherme Sodré (Guiga)",
   "participants_ids": [
@@ -524,7 +536,7 @@
    "daniel-vorcaro",
    "lilian-tahan"
   ],
-  "message_count": 16,
+  "message_count": 25,
   "last_message_preview": "Se tiver alguma incorreção, me avise!! Não publicarei sem nos falarmos",
   "featured": false,
   "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagens da PF mostram Vorcaro com linha direta com a CEO do grupo Metrópoles — pelo menos 14 textos enviados a ele antes de publicados, 11 alterados"

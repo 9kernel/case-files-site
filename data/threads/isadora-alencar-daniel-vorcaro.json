@@ -19,11 +19,11 @@
    "sender_id": "isadora-alencar",
    "content_kind": "verbatim_excerpt",
    "content": "Deu tudo certo com a abertura da conta! Ainda não assinamos o contrato, mas permaneço à disposição...",
-   "editorial_note": "Reticências constam da transcrição da reportagem.",
+   "editorial_note": "Reticências constam da transcrição da reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -54,11 +54,11 @@
    "sender_id": "isadora-alencar",
    "content_kind": "verbatim_excerpt",
    "content": "Assinamos o contrato e o banco já fez o repasse do valor! Gostaria de agradecer muito pela confiança e parceria...",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -89,11 +89,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "que bacana!",
-   "editorial_note": "Comentário às notícias da contratação, segundo a reportagem.",
+   "editorial_note": "Comentário às notícias da contratação, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -124,11 +124,11 @@
    "sender_id": "isadora-alencar",
    "content_kind": "verbatim_excerpt",
    "content": "Gostaria de agradecer pela presença ontem, de verdade! Também agradeço muito pela delicadeza nos presentes!...",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -159,11 +159,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Fiquei muito feliz de estar com vocês! ... Família querida! Que seja um ciclo maravilhoso para você",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -196,9 +196,9 @@
    "content": "Contrato assinado e repasse do investimento na Ecoari, que mantinha os recursos no Master; a chegada de Isadora teria sido por indicação de 'Ciro' (provável advogado Ciro Soares), segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -219,7 +219,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
-   "added_in": "ingest-press-20261015"
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -229,9 +230,9 @@
    "content": "A B3 alertou o Coaf três vezes: ativos da Ecoari no Master incompatíveis com o porte da empresa — mais de R$ 9 milhões (out/nov 2024) e R$ 2,8 milhões (set 2025).",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -252,7 +253,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
-   "added_in": "ingest-press-20261015"
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

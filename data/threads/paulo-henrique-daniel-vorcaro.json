@@ -318,11 +318,11 @@
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
    "content": "Tem uma orientação do PT Nacional de obstruir a votação",
-   "editorial_note": "Sobre a votação, na CLDF, do projeto relativo à compra do Master pelo BRB, no dia 19/08/2025, segundo a reportagem.",
+   "editorial_note": "Sobre a votação, na CLDF, do projeto relativo à compra do Master pelo BRB, no dia 19/08/2025, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -353,11 +353,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "O presidente Lula apoia ou não a operação?",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -388,11 +388,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Vou acionar a turma",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -423,11 +423,11 @@
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
    "content": "Essa é a maior disputa aqui",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -458,11 +458,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Edinho avisado, disse que vai atuar",
-   "editorial_note": "Afirmação de Vorcaro a Paulo Henrique; a assessoria de Edinho Silva (presidente do PT) nega conhecimento do diálogo — ver evento. A existência de contato direto não está confirmada por outra fonte.",
+   "editorial_note": "Afirmação de Vorcaro a Paulo Henrique; a assessoria de Edinho Silva (presidente do PT) nega conhecimento do diálogo — ver evento. A existência de contato direto não está confirmada por outra fonte. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -842,7 +842,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -875,7 +876,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -908,7 +910,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -941,7 +944,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -974,7 +978,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1007,7 +1012,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1040,7 +1046,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1073,7 +1080,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1106,7 +1114,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1139,7 +1148,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1172,7 +1182,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1205,7 +1216,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1238,7 +1250,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1271,7 +1284,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1304,7 +1318,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1337,7 +1352,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1370,7 +1386,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1403,7 +1420,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1436,7 +1454,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1469,7 +1488,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1502,7 +1522,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1535,7 +1556,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1568,7 +1590,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1601,7 +1624,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1634,7 +1658,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1737,9 +1762,9 @@
    "content": "Contexto: no dia 19/08/2025, o projeto sobre a compra do Master pelo BRB foi votado na CLDF; segundo a reportagem, Vorcaro buscou evitar que deputados do PT obstruíssem a votação. Em nota, a assessoria de Edinho Silva afirmou que 'esse diálogo é de total desconhecimento do presidente Edinho Silva' e chamou o episódio de 'ilação sem lastro com a realidade'.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -1760,7 +1785,8 @@
     ]
    },
    "source_ref": "Relato de Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016"
+   "added_in": "audit-fix-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00005",
@@ -1778,7 +1804,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1809,7 +1836,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1840,7 +1868,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,
@@ -1871,7 +1900,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Decisão do Min. André Mendonça (STF) que autorizou a prisão de Paulo Henrique, citada pela reportagem"
    },
    "sources": {
     "primary": null,

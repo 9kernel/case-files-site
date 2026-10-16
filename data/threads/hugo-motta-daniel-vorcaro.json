@@ -31,7 +31,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -66,7 +67,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -101,7 +103,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -136,7 +139,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -171,7 +175,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -206,7 +211,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -241,7 +247,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -276,7 +283,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -311,7 +319,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -334,9 +343,9 @@
    "sender_id": "hugo-motta",
    "content_kind": "audio_transcript",
    "content": "desejando saúde para continuarem cada vez mais juntos",
-   "editorial_note": "Trecho do áudio de réveillon transcrito pela reportagem; transcrição parcial do que foi divulgado.",
+   "editorial_note": "Trecho do áudio de réveillon transcrito pela reportagem; transcrição parcial do que foi divulgado. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -391,7 +400,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -426,7 +436,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -461,7 +472,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -486,9 +498,9 @@
    "content": "Início do diálogo: a cunhada de Motta obtém crédito de ao menos R$ 22 milhões junto ao Master que financia, em abril, a compra de área de 400+ hectares em João Pessoa por R$ 45 milhões, segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -509,7 +521,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
-   "added_in": "ingest-press2-20261016"
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -528,7 +541,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -550,7 +564,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -563,9 +578,9 @@
    "content": "Concluída a operação, Motta agradece a Vorcaro pela 'confiança e a parceria'; Vorcaro responde que está 'muito feliz' e chama a iniciativa de 'parceria de vida' — fragmentos citados pela reportagem, que registra tratamento de 'amigo' e 'irmão' entre os dois.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -586,7 +601,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
-   "added_in": "ingest-press2-20261016"
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00005",
@@ -606,7 +622,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -638,7 +655,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -660,7 +678,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -682,7 +701,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -704,7 +724,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -726,7 +747,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -748,7 +770,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
@@ -759,9 +782,9 @@
    "content": "Vorcaro busca apoio de Motta para o projeto de lei do mercado de carbono; Motta pede estudo sobre o Fundo Garantidor de Créditos e sugere retomar o tema em Brasília, segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -782,7 +805,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
-   "added_in": "ingest-press2-20261016"
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00013",
@@ -790,9 +814,9 @@
    "content": "Vorcaro disponibiliza aeronave para trecho Guarulhos–Brasília de Motta. Em nota, Motta nega 'nenhum ilícito' e afirma que o empréstimo ocorreu antes de as investigações do Master se tornarem públicas.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -813,7 +837,8 @@
     ]
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
-   "added_in": "ingest-press2-20261016"
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00014",
@@ -831,7 +856,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -862,7 +888,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,

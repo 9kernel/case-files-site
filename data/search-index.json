@@ -66,6 +66,9 @@
   {
    "id": "ana-matos-daniel-vorcaro",
    "messages": [
+    "Tá caro esse Metrópoles",
+    "Coisa mais importante [da] nossa vida é esse Metrópoles",
+    "Dei ok pra Lilian",
     "estão aprovados por vc para irem pra Londres com despesas pagas por nós",
     "Pedro e ciro ok",
     "O Andrei PF precisa de um Convite formal para aceitar Londres",
@@ -75,6 +78,7 @@
     "Alexandre morre se vc fizer isso",
     "reclamou MUITO do evento",
     "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
+    "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?",
     "Ana Matos envia lista de painelistas e comenta sobre “Rueda” (Antonio Rueda), indicando não colocá-lo como moderador; Vorcaro responde com as mensagens ao lado."
    ]
   },
@@ -115,8 +119,9 @@
     "Só decepção",
     "Não é quanto, é com quem",
     "Vamos vencer",
+    "Nota oficial da Polícia Federal (09/10/2026): Daniel Vorcaro 'não prestou depoimento com o teor relatado na matéria' da Veja nem entregou 'anexos, documentos ou informações com o conteúdo ali descrito'. As propostas de colaboração da defesa 'não foram acolhidas em razão do não atendimento aos requisitos legais', em decisão fundamentada conhecida da defesa. A PF registrou ainda ter recebido notícia-crime sobre fatos relacionados à publicação e tê-la encaminhado à área técnica. A nota não menciona gravações nem sua autenticidade. Fonte oficial: gov.br/pf (link em verification.official_url).",
     "Augusto Lima foi sócio e diretor do Master (crédito consignado) e depois presidiu o Banco Voiter, renomeado Pleno, segundo a reportagem; as mensagens integram material reunido pela PF.",
-    "Na proposta de delação rejeitada pela PGR e pela PF, Vorcaro alega que Augusto Lima, 'através dos caciques do PT da Bahia, se reuniu com João Vaccari Neto', e que pagamentos de cerca de R$ 30 milhões em espécie, 'por fora', teriam sido exigidos para um documentário no exterior sobre Lula, além de valores ao Instituto Lula. Em áudio citado pela reportagem, Vorcaro diz: 'O Augusto adianta ali para o Okamotto do Instituto Lula…'. As autoridades descartaram o material por falta de provas.",
+    "Na proposta de delação rejeitada pela PGR e pela PF, Vorcaro alega que Augusto Lima, 'através dos caciques do PT da Bahia, se reuniu com João Vaccari Neto', e que pagamentos de cerca de R$ 30 milhões em espécie, 'por fora', teriam sido exigidos para um documentário no exterior sobre Lula, além de valores ao Instituto Lula. Em áudio citado pela reportagem — gravação de autenticidade não estabelecida —, Vorcaro diz: 'O Augusto adianta ali para o Okamotto do Instituto Lula…'. As autoridades descartaram o material por falta de provas.",
     "Defesa de Augusto Lima: os relatos são 'mentirosos, falsos e delirantes', de proposta de delação recusada pelas autoridades, sem valor probatório; pede investigação rigorosa do vazamento. Lula nega ter solicitado ou recebido qualquer vantagem; Padilha nega relação com Vorcaro; Olavo Noleto nega relação com Vorcaro ou recebimento de recursos."
    ]
   },
@@ -545,6 +550,12 @@
    ]
   },
   {
+   "id": "guilherme-barros-daniel-vorcaro",
+   "messages": [
+    "A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu tenho o contato dele, mas acho melhor ela mesma fazer essa ponte, concorda?"
+   ]
+  },
+  {
    "id": "guilherme-sodre-daniel-vorcaro",
    "messages": [
     "Maravilhosas!",
@@ -761,9 +772,6 @@
   {
    "id": "lilian-tahan-daniel-vorcaro",
    "messages": [
-    "Tá caro esse Metrópoles",
-    "Coisa mais importante [da] nossa vida é esse Metrópoles",
-    "Dei ok pra Lilian",
     "Proposta de 1 real nunca existiu!",
     "Tiramos",
     "Aí depois se quiser eu comento como chegou",
@@ -771,16 +779,31 @@
     "Pode ser bom! Eu conseguiria dar uma olhada antes pra checar os dados",
     "Claro!",
     "Pode retirar Hapvida do texto?",
+    "A transmissão profissional destas disputas era um desejo antigo da CBF. Como temos uma excelente relação com eles, acabamos acolhendo a missão",
+    "...iniciando um projeto que, embora tenha um investimento grande de tempo e de recursos, abrirá uma nova frente de conteúdo esportivo",
+    "Pode contar comigo sempre",
+    "Vamos seguir?! Posso procurar alguém do seu time para tratar?!",
+    "Pode falar com a ana!",
     "Acho que o texto ta otimo. Mas eu nao falaria tanto do renato, concentraria essa materia no roberto. Senao perdemos o suspense da batida dele! Guardaria essa parte do texto sobre o renato pra materia dele!",
     "Eu retiraria a parte de falência do banco",
     "Esse Cappelli, você não consegue dar uma freada essa semana? Depois ele volta!",
     "Deixa comigo",
+    "Vamos publicar, ok??",
+    "Tiraria a última frase",
+    "Então, muito ruim a manchete do Estadão.",
+    "Vamos entrar com criminal. Nao existe processo. Nao existe nada.",
+    "Colocar que tem ligação com minha irma porque o escritorio contabilidade que a empresa usa é o mesmo.",
+    "Essas coisas nao da pra deixar mais",
+    "Não tem nada mais chato para o repórter que responder criminal",
     "Publicada hahahaha",
     "Se tiver alguma incorreção, me avise!! Não publicarei sem nos falarmos",
     "O consultor Guilherme Barros apresenta Vorcaro a Lilian Tahan; no dia seguinte escreve ao banqueiro: 'A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu tenho o contato dele, mas acho melhor ela mesma fazer essa ponte, concorda?'. Metrópoles pertence ao ex-senador Luiz Estevão, condenado a 31 anos por desvio de recursos públicos.",
-    "Pagamentos do grupo ao Metrópoles: R$ 1 milhão (junho/2024), R$ 900 mil para 'educação financeira' da Kovr e do Will (julho/2024) e contrato de R$ 20 milhões (novembro/2024), quitado em 2025 em parcelas de R$ 5 milhões. Funcionária perguntou a Vorcaro: 'O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?'.",
+    "Pagamentos do grupo ao Metrópoles: R$ 1 milhão (junho/2024), R$ 900 mil para 'educação financeira' da Kovr e do Will (julho/2024) e contrato de R$ 20 milhões (novembro/2024), quitado em 2025 em parcelas de R$ 5 milhões. O processamento do pagamento consta na conversa com Ana Matos (diretora de marketing).",
     "Pelo menos 14 textos foram enviados a Vorcaro antes de irem ao ar; 11 foram alterados a pedido dele e 2 reportagens publicadas a pedido do dono do Master, segundo a reportagem.",
-    "Em resposta escrita, Tahan afirma que checar com a fonte 'se a matéria reflete o contexto passado para o veículo' é prática adotada com empresários, políticos e Judiciário; nega vínculo entre o contrato de publicidade e a cobertura, citando matérias do Metrópoles que expuseram problemas de Master, Ambipar, Fictor e Oncoclínicas; sobre Renato Gomes, diz que era 'personagem relevante' por se opor à compra pelo BRB; sobre Cappelli, afirma que Luiz Estevão sempre foi crítico da compra do Master pelo BRB e forneceu a Cappelli análises sobre os balanços do BRB."
+    "Em resposta escrita, Tahan afirma que checar com a fonte 'se a matéria reflete o contexto passado para o veículo' é prática adotada com empresários, políticos e Judiciário; nega vínculo entre o contrato de publicidade e a cobertura, citando matérias do Metrópoles que expuseram problemas de Master, Ambipar, Fictor e Oncoclínicas; sobre Renato Gomes, diz que era 'personagem relevante' por se opor à compra pelo BRB; sobre Cappelli, afirma que Luiz Estevão sempre foi crítico da compra do Master pelo BRB e forneceu a Cappelli análises sobre os balanços do BRB.",
+    "Contexto do dia 20/08/2025: o Estadão publicou reportagens apontando suspeita da CVM de R$ 2,1 bilhões em investimentos fraudulentos do Master (inflando seu valor antes da venda de 58% ao BRB) e R$ 1,2 bilhão em aportes a empresas ligadas à irmã de Vorcaro. Procurada, Lilian Tahan não respondeu ao Estadão, que mantém espaço aberto.",
+    "Série D: acordo Metrópoles–CBF anunciado em 2-3/07/2025; primeiras transmissões (11ª rodada, 15 jogos) em 5-6/07, gratuitas no YouTube. Segundo o Estadão, o Master pagou R$ 838,8 mil ao Metrópoles no 2º semestre de 2024 — antes de o patrocínio ser proposto — e R$ 27 milhões no total entre 2024 e 2025. O Coaf classificou os pagamentos como suspeitos, apontando débito imediato do Metrópoles a empresas da família de Luiz Estevão. A CBF informou que não se manifestará; Estevão justificou os valores como patrocínio do Will Bank à transmissão e venda dos naming rights.",
+    "Na sequência do perfil de Renato Gomes, Vorcaro sugeriu ainda mencionar um 'racha no Bacen' com o diretor contrário ao banco e especulações de que, após o mandato, estaria 'de malas prontas pra um dos bancões' — trechos citados em fala indireta pela reportagem."
    ]
   },
   {

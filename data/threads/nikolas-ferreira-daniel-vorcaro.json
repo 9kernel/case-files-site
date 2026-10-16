@@ -19,9 +19,9 @@
    "sender_id": "nikolas-ferreira",
    "content_kind": "audio_transcript",
    "content": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo que o senhor, assim, pode o ajudar a resolver o problema do ativo dele, né? O que ele tá tentando resolver com a Justiça, com o TSE… Porque assim, ele já ganhou um processo na eleição, na Justiça Eleitoral, e aí assim, esse ativo ficou retido, né, e tá travado. Ele tem um processo no Tribunal Superior Eleitoral e, se for possível o senhor interceder por ele, dar um apoio, ajudar a resolver, ele vai ficar muito grato. Não é nem uma coisa assim, vamos dizer, ilegal, se for pra fazer algo que não é correto, eu não estaria te pedindo, lógico. Então, o que ele precisa é de um apoio, alguém que conhece as pessoas lá, que possa acelerar, que possa, de fato, dar uma luz nesse processo pra ele, né? E é isso, se for possível o senhor ajudar, ele vai ficar eternamente grato, vai ficar grato comigo também porque eu tô intermediando aqui.",
-   "editorial_note": "Áudio de 30/03/2025; pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria. Transcrição integral publicada pela GloboNews/g1.",
+   "editorial_note": "Áudio de 30/03/2025; pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria. Transcrição integral publicada pela GloboNews/g1. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -61,9 +61,9 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "content": "Amém, irmão. Estamos na guerra juntos",
-   "editorial_note": "Resposta ao áudio, em mensagem de visualização única; a data não foi divulgada pela reportagem.",
+   "editorial_note": "Resposta ao áudio, em mensagem de visualização única; a data não foi divulgada pela reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -97,7 +97,7 @@
    "event_kind": "editorial_context",
    "content": "Nikolas avisa que Thiago Rodrigues de Faria estaria em Brasília.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -110,7 +110,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "g1/GloboNews, 04/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -119,7 +120,7 @@
    "event_kind": "editorial_context",
    "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -132,7 +133,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "g1/GloboNews, 04/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

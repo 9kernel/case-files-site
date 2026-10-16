@@ -13,6 +13,115 @@
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tá caro esse Metrópoles",
+   "editorial_note": "Sobre a proposta do contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Coisa mais importante [da] nossa vida é esse Metrópoles",
+   "editorial_note": "Resposta na mesma sequência; colchete consta da transcrição da reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dei ok pra Lilian",
+   "editorial_note": "Dois dias depois, autorizando o contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
    "date": "2025-04-11",
    "time": null,
    "timestamp_precision": "date",
@@ -56,7 +165,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00002",
+   "id": "m-00005",
    "date": "2025-04-11",
    "time": null,
    "timestamp_precision": "date",
@@ -100,7 +209,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00003",
+   "id": "m-00006",
    "date": "2025-07-10",
    "time": null,
    "timestamp_precision": "date",
@@ -144,7 +253,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00004",
+   "id": "m-00007",
    "date": "2025-07-10",
    "time": null,
    "timestamp_precision": "date",
@@ -188,7 +297,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00005",
+   "id": "m-00008",
    "date": "2025-07-10",
    "time": null,
    "timestamp_precision": "date",
@@ -232,7 +341,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00006",
+   "id": "m-00009",
    "date": "2025-07-18",
    "time": null,
    "timestamp_precision": "date",
@@ -276,7 +385,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00007",
+   "id": "m-00010",
    "date": "2025-07-18",
    "time": null,
    "timestamp_precision": "date",
@@ -320,7 +429,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00008",
+   "id": "m-00011",
    "date": "2025-07-21",
    "time": null,
    "timestamp_precision": "date",
@@ -364,7 +473,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00009",
+   "id": "m-00012",
    "date": "2025-07-22",
    "time": null,
    "timestamp_precision": "date",
@@ -406,6 +515,40 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 195 · fig. 204",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00013",
+   "date": null,
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?",
+   "editorial_note": "Sobre o contrato de R$ 20 milhões; atribuição a Ana Matos conforme a tabela do editor (a reportagem a identifica como 'funcionária'/'diretora de marketing').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "audit-fix2-20261016"
   }
  ],
  "timeline_events": [

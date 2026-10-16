@@ -19,11 +19,11 @@
    "sender_id": "michel-temer",
    "content_kind": "verbatim_excerpt",
    "content": "Qdo puder, me ligue",
-   "editorial_note": "Nos dias seguintes ao envio do contrato pelo escritório, segundo a reportagem.",
+   "editorial_note": "Nos dias seguintes ao envio do contrato pelo escritório, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -52,11 +52,11 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Presidente, aqui é o Daniel Vorcaro Banco Master. Salva meu contato. Nos falamos em breve. Um cordial abraço",
-   "editorial_note": "Em 2023, quando procurou o ex-presidente para tratar de um documentário, segundo a reportagem.",
+   "editorial_note": "Em 2023, quando procurou o ex-presidente para tratar de um documentário, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -85,11 +85,11 @@
    "sender_id": "michel-temer",
    "content_kind": "verbatim_excerpt",
    "content": "Salvei. Bom dia",
-   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -118,11 +118,11 @@
    "sender_id": "michel-temer",
    "content_kind": "verbatim_excerpt",
    "content": "Acho que no dia 1/11 iremos a Dubai. Mario pede para vc se preparar para essa viagem. Avisaremos. Abs",
-   "editorial_note": "Início de novembro de 2025, sobre agenda de reuniões em Dubai organizada por Temer, segundo a reportagem.",
+   "editorial_note": "Início de novembro de 2025, sobre agenda de reuniões em Dubai organizada por Temer, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -153,9 +153,9 @@
    "content": "O histórico de contato começou em 2023, quando Vorcaro procurou Temer para tratar de um documentário, segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -176,7 +176,8 @@
     ]
    },
    "source_ref": "Relato de UOL (apuração de O Globo) (2026-10-14)",
-   "added_in": "ingest-press4-20261016"
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -184,9 +185,9 @@
    "content": "Em abril de 2026, em entrevista à CNN Brasil, Temer confirmou que foi contratado pelo Master para consultoria e mediação antes da liquidação do banco; disse ter recebido honorários e que o contrato foi encerrado sem resultado. Afirma ter participado de reunião em Brasília com Vorcaro, o então governador do DF Ibaneis Rocha (MDB) e o então presidente do BRB Paulo Henrique Costa, sem detalhar o conteúdo por confidencialidade profissional.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -207,7 +208,8 @@
     ]
    },
    "source_ref": "Relato de UOL (apuração de O Globo) (2026-10-14)",
-   "added_in": "ingest-press4-20261016"
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

@@ -1,0 +1,50 @@
+{
+ "id": "guilherme-barros-daniel-vorcaro",
+ "title": "Guilherme Barros",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "guilherme-barros"
+ ],
+ "source": {
+  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagem de Guilherme Barros, então consultor de Vorcaro, relatando a apresentação a Lilian Tahan e sugerindo o contato com Luiz Estevão. Apenas esta mensagem foi divulgada; nenhuma resposta de Vorcaro foi publicada.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm",
+  "pages": "Mensagens conforme transcrição da reportagem; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": null,
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu tenho o contato dele, mas acho melhor ela mesma fazer essa ponte, concorda?",
+   "editorial_note": "No dia seguinte ao encontro com Lilian Tahan, em maio/2024, quando então consultor de Vorcaro; única mensagem divulgada — respostas de Vorcaro não foram publicadas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "audit-fix2-20261016"
+  }
+ ],
+ "timeline_events": []
+}

@@ -62,9 +62,13 @@ vazamento não oficial.
 - **Horários e referências nunca são inventados**: o que a fonte não divulga
   aparece como “não divulgado”; na dúvida, o campo fica nulo.
 - **Níveis de verificação por registro**: ✓ documento oficial (localizado na
-  peça pública, com página) · ◉ investigação pública (procedimento público,
-  peça específica ainda não localizada) · ○ fonte jornalística (reportagem
-  citada). Promoções de nível exigem evidência documental — nunca automáticas.
+  peça pública, com página) · ◉ investigação pública (procedimento público
+  identificável — peça específica ainda não localizada; o campo
+  `verification.proceeding` declara qual procedimento, e o validador o exige
+  na ausência de referência documental) · ○ fonte jornalística (reportagem
+  citada; usada sempre que o material publicado não amarra a mensagem a um
+  procedimento público). Promoções de nível exigem evidência documental —
+  nunca automáticas.
 
 **Auditorias — histórico e números correntes:**
 
@@ -75,12 +79,12 @@ vazamento não oficial.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (16/10/2026)*: **58 conversas · 703 mensagens · 182
-  eventos** — 885 registros públicos auditados (574 investigação pública,
-  276 documento oficial, 35 fonte jornalística), zero problemas de
-  proveniência. Os totais mudam a cada rodada de inclusão: o valor
-  atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md` (regenerado pelo CI
-  a cada commit) e em `data/threads.json`.
+- *Números correntes (16/10/2026)*: **60 conversas · 746 mensagens · 192
+  eventos** — 938 registros públicos auditados (513 investigação pública com
+  procedimento declarado, 275 documento oficial, 150 fonte jornalística),
+  zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
+  o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
+  (regenerado pelo CI a cada commit) e em `data/threads.json`.
 - *Proveniência (contínua)*: toda mensagem `official_document` aponta para
   peça com publicidade confirmada; nenhum documento inexistente; nenhuma
   página faltante (relatório público: `PUBLIC-PROVENANCE-AUDIT.md`).
@@ -135,6 +139,12 @@ Sem dados pessoais além do necessário à compreensão documental; o projeto
 pública). Correções e contestações: página de política no site.
 
 ## 5. Verificação automatizada (CI)
+
+**Protocolo de backup local** — antes de qualquer rodada de mutação de dados,
+executar `python scripts/backup_local.py`: cria `.backups/data-<sha>-<ts>.zip`
+(gitignored) com todo o acervo curado. O git permanece o backup primário
+(commits assinados por rodada); o zip preserva o estado pré-mutação para
+restauração rápida. Restaurar = descompactar sobre a raiz do repositório.
 
 Todo push roda, sem dependências externas (Node puro):
 
