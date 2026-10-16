@@ -104,12 +104,11 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
         style="--av-color:hsl(${hashHue(contactId)}, 38%, 42%)">${esc(initials(contactName))}${avatarPhotoHtml(participants.get(contactId))}</span>
       <span class="chat-item-main">
         <span class="chat-item-top">
-          <span class="chat-item-title">${esc(entry.title || entry.id)}</span>
-          <span class="chat-item-date">${date}</span>${newChip}
+          <span class="chat-item-title">${esc(entry.title || entry.id)}</span>${newChip}
         </span>
         <span class="chat-item-bottom">
           <span class="chat-item-preview">${previewHtml}</span>
-          ${badge}
+          <span class="chat-item-date">${date}</span>${badge}
         </span>
       </span>
     </a>
