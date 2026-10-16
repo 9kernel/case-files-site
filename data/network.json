@@ -10,11 +10,25 @@
    "msg_count": 87
   },
   {
+   "id": "frederic-kachar",
+   "name": "Frederic Kachar",
+   "thread": "frederic-kachar-daniel-vorcaro",
+   "title": "Frederic Kachar",
+   "msg_count": 45
+  },
+  {
    "id": "paulo-henrique",
    "name": "Paulo Henrique Costa",
    "thread": "paulo-henrique-daniel-vorcaro",
    "title": "Paulo Henrique (BRB)",
    "msg_count": 45
+  },
+  {
+   "id": "thiago-miranda",
+   "name": "Thiago Miranda",
+   "thread": "thiago-miranda-daniel-vorcaro",
+   "title": "Thiago Miranda",
+   "msg_count": 39
   },
   {
    "id": "fabio-faria",
@@ -24,11 +38,11 @@
    "msg_count": 36
   },
   {
-   "id": "thiago-miranda",
-   "name": "Thiago Miranda",
-   "thread": "thiago-miranda-daniel-vorcaro",
-   "title": "Thiago Miranda",
-   "msg_count": 33
+   "id": "fabiano-zettel",
+   "name": "Fabiano Zettel",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "title": "Fabiano Zettel",
+   "msg_count": 32
   },
   {
    "id": "julio-cezar",
@@ -78,13 +92,6 @@
    "thread": "ciro-soares-daniel-vorcaro",
    "title": "Ciro Soares",
    "msg_count": 24
-  },
-  {
-   "id": "frederic-kachar",
-   "name": "Frederic Kachar",
-   "thread": "frederic-kachar-daniel-vorcaro",
-   "title": "Frederic Kachar",
-   "msg_count": 23
   },
   {
    "id": "flavio-carneiro",
@@ -147,13 +154,6 @@
    "name": "Antonio Rueda",
    "thread": "antonio-rueda-daniel-vorcaro",
    "title": "Antonio Rueda",
-   "msg_count": 11
-  },
-  {
-   "id": "fabiano-zettel",
-   "name": "Fabiano Zettel",
-   "thread": "fabiano-zettel-daniel-vorcaro",
-   "title": "Fabiano Zettel",
    "msg_count": 11
   },
   {
@@ -510,7 +510,7 @@
      "date": "2024-12-08"
     },
     {
-     "id": "m-00003",
+     "id": "m-00002",
      "sender": "thiago-miranda",
      "date": "2024-12-08"
     },
@@ -530,17 +530,17 @@
      "date": "2024-12-11"
     },
     {
-     "id": "m-00011",
+     "id": "m-00014",
      "sender": "thiago-miranda",
      "date": "2025-02-11"
     },
     {
-     "id": "m-00013",
+     "id": "m-00017",
      "sender": "thiago-miranda",
      "date": "2025-03-18"
     },
     {
-     "id": "m-00015",
+     "id": "m-00019",
      "sender": "thiago-miranda",
      "date": "2025-04-05"
     }
@@ -768,7 +768,7 @@
      "date": "2024-06-05"
     },
     {
-     "id": "m-00011",
+     "id": "m-00032",
      "sender": "daniel-vorcaro",
      "date": null
     }
@@ -795,6 +795,30 @@
      "id": "m-00030",
      "sender": "daniel-vorcaro",
      "date": "2024-05-24"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "frederic-kachar-daniel-vorcaro",
+   "from": "frederic-kachar",
+   "to": "banco-master",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00010",
+     "sender": "frederic-kachar",
+     "date": "2024-05-31"
+    },
+    {
+     "id": "m-00027",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03-29"
+    },
+    {
+     "id": "m-00044",
+     "sender": "frederic-kachar",
+     "date": null
     }
    ]
   },
@@ -1053,12 +1077,12 @@
    "count": 2,
    "evidence": [
     {
-     "id": "m-00010",
+     "id": "m-00031",
      "sender": "fabiano-zettel",
      "date": null
     },
     {
-     "id": "m-00011",
+     "id": "m-00032",
      "sender": "daniel-vorcaro",
      "date": null
     }
@@ -1326,7 +1350,7 @@
    "count": 2,
    "evidence": [
     {
-     "id": "m-00003",
+     "id": "m-00004",
      "sender": "thiago-miranda",
      "date": "2024-12-08"
     }
@@ -1677,13 +1701,27 @@
    "type": "mention",
    "thread": "frederic-kachar-daniel-vorcaro",
    "from": "frederic-kachar",
-   "to": "banco-master",
+   "to": "brb",
    "count": 1,
    "evidence": [
     {
-     "id": "m-00022",
-     "sender": "frederic-kachar",
-     "date": null
+     "id": "m-00027",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03-29"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "frederic-kachar-daniel-vorcaro",
+   "from": "frederic-kachar",
+   "to": "thiago-miranda",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00032",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03-29"
     }
    ]
   },
@@ -2076,6 +2114,20 @@
      "id": "m-00005",
      "sender": "thiago-miranda",
      "date": "2024-12-10"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "thiago-miranda-daniel-vorcaro",
+   "from": "thiago-miranda",
+   "to": "fabiano-zettel",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00011",
+     "sender": "thiago-miranda",
+     "date": "2025-02-06"
     }
    ]
   },

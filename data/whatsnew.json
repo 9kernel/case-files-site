@@ -1,7 +1,7 @@
 {
  "generated_at": "2026-10-16",
  "current_batches": [
-  "audit-fix2-20261016"
+  "ingest-press7-20261016"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
@@ -59,7 +59,8 @@
   },
   "fabiano-zettel-daniel-vorcaro": {
    "ingest-press2-20261016": 5,
-   "ingest-pf-20261007": 8
+   "ingest-pf-20261007": 8,
+   "ingest-press7-20261016": 24
   },
   "fabio-faria-daniel-vorcaro": {
    "ingest-ipja-20261006": 28,
@@ -83,7 +84,8 @@
    "ingest-bm-piaui-20261006": 11
   },
   "frederic-kachar-daniel-vorcaro": {
-   "ingest-press4-20261016": 26
+   "ingest-press4-20261016": 26,
+   "ingest-press7-20261016": 26
   },
   "geraldo-samor-daniel-vorcaro": {
    "ingest-press4-20261016": 10,
@@ -191,7 +193,8 @@
    "ingest-ipja-20261006": 5
   },
   "thiago-miranda-daniel-vorcaro": {
-   "ingest-bm-piaui-20261006": 34
+   "ingest-bm-piaui-20261006": 34,
+   "ingest-press7-20261016": 7
   },
   "tiago-polo-daniel-vorcaro": {
    "ingest-press4-20261016": 4

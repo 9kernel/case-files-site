@@ -286,6 +286,741 @@
   },
   {
    "id": "m-00008",
+   "date": "2025-01",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não. Porque o fluxo é gigante… 10 de 2.5 de dólares",
+   "editorial_note": "Resposta sobre a inclusão do filme no fluxo de R$ 55,5 milhões, segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-01",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não pode falhar mais",
+   "editorial_note": "Dias depois, definindo o filme como 'o mais importante disparado', segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-01-20",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "O cara do 'filme' não sai da minha cola. Me mandou um fluxo gigante!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-01-21",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, fala comigo! Me dá um norte? Mesmo que seja 'não faz porra nenhuma até eu voltar'",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-01-29",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "A empresa que eu criei não tem cadastro suficiente pra mandar os câmbios do filme. Posso mandar Super?",
+   "editorial_note": "Sobre a identificação da empresa pagadora; em 30/01, o repasse tratado seria de 2 milhões de dólares, segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-01-29",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nossa senhora",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00014",
+   "date": "2025-01-31",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "preciso saber do filme",
+   "editorial_note": "Às 8h35, segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00015",
+   "date": "2025-01-31",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "vc fez o filme?",
+   "editorial_note": "Horas depois, cobrando, segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00016",
+   "date": "2025-01-31",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amigo, Não faz assim que me dá dor de barriga. Estamos esperando você definir a empresa…",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00017",
+   "date": "2025-02-03",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como ssim? Não fez sl? Nem filme",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-02-03",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amigo, Não faz assim comigo!! Eu te escrevo todo dia!! – preciso da empresa do filme. preciso liberar SL. Hoje vc mandou: Faz só esse!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-02-03",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "precisamos câmbio sl, filme",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-02-03",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Libera a TED então.. E me fala que empresa faz filme",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00021",
+   "date": "2025-02-03",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mandei carta de 34M: – SL – Filme – Despesas",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00022",
+   "date": "2025-02-05",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "e manda a grana",
+   "editorial_note": "Na sugestão de fazer a operação 'via Entre' (Entre Investimentos, do 'Mineiro'), com Zettel pedindo 'pro Minas', segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00023",
+   "date": "2025-02-05",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fundo? Vc não me deu noticia",
+   "editorial_note": "Após a resposta de que o pagamento lá fora seria a 'um fundo', segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00024",
+   "date": "2025-02-11",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Preciso resolver HOJE. E possível",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00025",
+   "date": "2025-02-11",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Passei pro Mineiro. Ele também estava com dificuldades. Tô na cola dele. Mas se vc mandar mensagem, me ajuda muito…",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00026",
+   "date": "2025-02-11",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cara nao e possível. Não acredito",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00027",
+   "date": "2025-03-12",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou pra cima do Mineiro. Passei o fluxo pra ele. Achei que ele tava fazendo.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00028",
+   "date": "2025-03-12",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Precisa me ajudar controlae isso. Tem que pagar a segunda e a terceira",
+   "editorial_note": "Erro de digitação ('controlae') consta da transcrição; sobre as parcelas seguintes, segundo a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00029",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -327,7 +1062,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00009",
+   "id": "m-00030",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -369,7 +1104,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00010",
+   "id": "m-00031",
    "date": null,
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -411,7 +1146,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00011",
+   "id": "m-00032",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -456,6 +1191,72 @@
  "timeline_events": [
   {
    "id": "e-00001",
+   "date": "2025-02-11",
+   "content": "Zettel relata que o câmbio recusava a operação por cadastro e que 'as informações são meio estranhas…' — obstáculos cambiais descritos pela reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Relato de CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00002",
+   "date": "2025-02-14",
+   "content": "Documento citado pela reportagem: PDF com comprovante de transferência de US$ 2 milhões da Entre Investimentos e Participações (de Antonio Carlos Freixo Júnior, o 'Mineiro') ao Havengate Development Fund LP (Texas/EUA, ligado ao advogado Paulo Calixto, aliado de Eduardo Bolsonaro, segundo a reportagem).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Relato de CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00003",
    "date": null,
    "content": "A PF descreve combinação de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro envolvendo Vorcaro, Zettel e Mourão (fls. 48-50, figs. 56-58).",
    "event_kind": "editorial_context",
@@ -481,7 +1282,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "e-00002",
+   "id": "e-00004",
    "date": null,
    "content": "Aporte de R$ 15 milhões no fundo ligado ao resort Tayayá concluído por Zettel, dentro da negociação envolvendo a recompra pelo grupo ligado a Toffoli, segundo a apuração do UOL.",
    "event_kind": "editorial_context",
@@ -511,6 +1312,37 @@
    },
    "source_ref": "Relato de UOL (apuração espelhada pelo Metro1) (2026-10-01)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "Contexto da reportagem: fluxo de R$ 55,5 milhões; 'carta de 34M'; mais de R$ 60 milhões pagos no acerto de cerca de R$ 134 milhões. A PF investiga lavagem de dinheiro, evasão de divisas e corrupção, com Flávio Bolsonaro citado como possível envolvido, em tese; a reportagem não registra defesa de Vorcaro ou de Flávio Bolsonaro (que teria minimizado a intensidade da pressão).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CartaCapital",
+      "date": "2026-09-21",
+      "url": "https://www.cartacapital.com.br/politica/pressao-para-liberar-recursos-a-dark-horse-foi-intensa-e-constante-revelam-mensagens-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Relato de CartaCapital (2026-09-21)",
+   "added_in": "ingest-press7-20261016"
   }
  ]
 }
