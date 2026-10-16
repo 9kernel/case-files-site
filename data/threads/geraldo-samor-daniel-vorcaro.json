@@ -6,7 +6,7 @@
   "geraldo-samor"
  ],
  "source": {
-  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: o fundador do Brazil Journal consultava Vorcaro sobre reportagens do Master antes de publicá-las e atendia pedidos de alteração. A participação do banqueiro se dava por terceiros: a Foone, de Flávio Carneiro, ficou com 49,86% da BJ Conteúdo (2023). Samor foi procurado e não respondeu.",
+  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: o fundador do Brazil Journal consultava Vorcaro sobre reportagens do Master antes de publicá-las e atendia pedidos de alteração. A participação do banqueiro se dava por terceiros: a Foone, de Flávio Carneiro, ficou com 49,86% da BJ Conteúdo (2023). Samor foi procurado e não respondeu. Registro adicional: contato salvo como 'Geraldo Brazil Journal' no IPJ-A nº 3298613/2026 (PET 16662/STF) — mesmo jornalista, conforme consolidado em 2026-10.",
   "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm",
   "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
  },
@@ -255,6 +255,50 @@
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-04-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro",
+   "editorial_note": "Repassa pedido do ministro Alexandre de Moraes para incluir a informação em matéria jornalística; o relatório identifica o “ex primeiro ministro” como Tony Blair.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 187,
+    "figure": 194
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 187,
+    "figure": 194,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 187,
+     "figure": 194,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 187 · fig. 194",
+   "added_in": "ingest-ipja-20261006"
   }
  ],
  "timeline_events": [

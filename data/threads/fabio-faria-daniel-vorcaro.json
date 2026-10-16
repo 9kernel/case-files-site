@@ -205,50 +205,6 @@
   {
    "id": "m-00005",
    "date": "2023-12-26",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Mesmo esquema entrar na garagem correto",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 22,
-    "figure": 18
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 22,
-    "figure": 18,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 22,
-     "figure": 18,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00006",
-   "date": "2023-12-26",
    "time": "11:43",
    "timestamp_precision": "minute",
    "sender_id": "fabio-faria",
@@ -300,7 +256,261 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
+   "id": "m-00006",
+   "date": "2023-12-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mesmo esquema entrar na garagem correto",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 22,
+    "figure": 18
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 22,
+    "figure": 18,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 22,
+     "figure": 18,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
    "id": "m-00007",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode ser dia 30 o almoço?",
+   "editorial_note": "Mensagem encaminhada por Fábio Faria a Vorcaro, na articulação do almoço, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, Alex quer ir almoçar lá no dia 30",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já estamos aqui, obrigado (sic)",
+   "editorial_note": "Encaminhada por Fábio no dia do almoço, por volta das 14h15, com mensagem aparentemente do próprio ministro; '(sic)' consta da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Opa. Parece que sim. Ele me ligou. E a turma lá disse que foi tudo certo. Ainda estão lá",
+   "editorial_note": "Por volta das 18h30, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00012",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Campos? Top! Bom demais",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00013",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -344,7 +554,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00008",
+   "id": "m-00014",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -388,7 +598,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00009",
+   "id": "m-00015",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -432,7 +642,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00010",
+   "id": "m-00016",
    "date": "2024-03-15",
    "time": "15:07",
    "timestamp_precision": "minute",
@@ -476,7 +686,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00011",
+   "id": "m-00017",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -524,7 +734,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00012",
+   "id": "m-00018",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -572,7 +782,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00013",
+   "id": "m-00019",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -616,7 +826,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00014",
+   "id": "m-00020",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -660,7 +870,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00015",
+   "id": "m-00021",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -708,7 +918,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00016",
+   "id": "m-00022",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -752,7 +962,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00017",
+   "id": "m-00023",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -800,7 +1010,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00018",
+   "id": "m-00024",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -844,7 +1054,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00019",
+   "id": "m-00025",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -888,7 +1098,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00020",
+   "id": "m-00026",
    "date": "2024-04-06",
    "time": null,
    "timestamp_precision": "date",

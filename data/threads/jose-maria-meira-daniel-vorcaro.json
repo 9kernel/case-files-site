@@ -1,0 +1,313 @@
+{
+ "id": "jose-maria-meira-daniel-vorcaro",
+ "title": "José Maria Meira (Zé Maria)",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "jose-maria-meira"
+ ],
+ "source": {
+  "document": "Metrópoles, 30/09/2026 (Evellyn Paola e Igor Gadelha): orientações de Vorcaro ao chef Zé Maria na organização do almoço oferecido ao ministro Alexandre de Moraes em 30/12/2023, em Campos do Jordão — discrição sobre nomes, cardápio de luxo e o episódio da foto. Caso inicialmente revelado por O Globo.",
+  "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Outra coisa, evitar falar nome, até o meu, pra não constranger o convidado principal. Só se ele perguntar algo de mim aí pode...",
+   "editorial_note": "Nas orientações para o almoço de 30/12/2023; segundo a reportagem, para que o momento parecesse ser do convidado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": null,
+   "sender_id": "jose-maria-meira",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso deitar o cabelo… kkkk trufa, caviar, vieiras, foie, wagyu",
+   "editorial_note": "Sobre o cardápio sugerido para o almoço, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Precisa pegar 4 vinhos top na minha adega. 5 na verdade",
+   "editorial_note": "Sobre os vinhos da adega pessoal de Vorcaro para o almoço, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Isso não podia, né. Fale com ele pra mim que eu não vou gostar disso",
+   "editorial_note": "Insatisfeito ao saber da foto do chef com o ministro, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se o ministro pediu tudo bem. Menos mal",
+   "editorial_note": "Aliviado ao ser informado de que o pedido da foto teria partido do próprio ministro, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Almoço para o ministro Alexandre de Moraes em residência na área do hotel Six Senses Botanique, em Campos do Jordão (SP), articulado por Fábio Faria; menu com caviar beluga, vieiras com ovas de salmão, ovo trufado, foie gras, carne dry aged, wagyu e trufas, com vinhos raros (Château Mouton Rothschild, Haut-Brion, Cheval Blanc) da adega pessoal de Vorcaro; nove convidados e quatro seguranças. Vorcaro chamou Moraes de seu 'convidado mais importante até hoje' e não compareceu, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     },
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "O chef José Maria Meira e a equipe recebiam R$ 120 mil mensais de Vorcaro para eventos privados; convidados do almoço receberam caixas de vinhos, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Episódio da foto: o chef tirou foto com Moraes; Vorcaro reagiu mal, mas funcionário ('Michael') relatou que o pedido partiu do próprio ministro, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Em janeiro/2024, o escritório de Viviane Barci de Moraes fechou contrato de R$ 129 milhões com o Banco Master — em resposta, ela afirma que nunca conduziu causa do banco no STF e lista 36 pareceres, equipe de 15 advogados e 94 reuniões (79 presenciais).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Evellyn Paola e Igor Gadelha)",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/brasil/evita-falar-nome-ate-o-meu-alertou-vorcaro-a-chef-de-almoco-para-moraes"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (Evellyn Paola e Igor Gadelha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  }
+ ]
+}

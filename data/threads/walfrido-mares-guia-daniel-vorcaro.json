@@ -1,0 +1,529 @@
+{
+ "id": "walfrido-mares-guia-daniel-vorcaro",
+ "title": "Walfrido dos Mares Guia",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "walfrido-mares-guia"
+ ],
+ "source": {
+  "document": "Folha de S.Paulo, 30/09/2026 (espelhada pelo Times Brasil): mensagens da PF entre Vorcaro e o ex-ministro Walfrido dos Mares Guia — acionista relevante da biotecnológica Biomm — tratando de inauguração de fábrica com Lula, pedido de ajuda para ver o presidente (25/10/2024), PDP da insulina e indicações para a Anvisa. Defesas de Mares Guia, Anvisa, Padilha e Noleto registradas nos eventos.",
+  "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "Olavo me enviou mensagem falando que gostou muito de você",
+   "editorial_note": "Sobre Olavo Noleto, então secretário-executivo do Ministério da Saúde; transcrição conforme a Veja — a Folha publica o original com erros de digitação, identificando Noleto como 'braço direito' do ministro Padilha.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Grande amigo. Ja te chamo em seguida",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-04-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "De toda forma estarei torcendo a distancia para que o evento de inauguração marque inicio novo tempo da companhia",
+   "editorial_note": "Chateado por não poder ir à inauguração da fábrica da Biomm em Nova Lima (MG), por estar em Londres, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-04-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fico mais chateado ainda em nào ter nosso mais entusiasmado socio conosco no dia 26.",
+   "editorial_note": "Erro de digitação ('nào') consta da transcrição da Folha.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "Virá muita gente mas vc fará falta.",
+   "editorial_note": "Na mesma mensagem, informa que Lula confirmou presença na inauguração de 26/4, às 10h, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-10-25",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Que otimo. Estamos precisando muito ver o Lula, por conta desses ataques que tenho sofrido. Depois queria sua ajuda.",
+   "editorial_note": "Ao saber que Mares Guia teria audiências com Geraldo Alckmin e com Lula em Brasília; convida para falar ao fim do dia em sua casa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-10-25",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "19 horas",
+   "editorial_note": "Complementando o convite, conforme espelho da apuração.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Times Brasil (espelho da apuração da Folha)",
+      "date": "2026-09-30",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-recebeu-alexandre-padilha-em-jantar-e-dois-dias-depois-disse-a-mares-guia-que-precisava-muito-ver-o-lula"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Times Brasil (espelho da apuração da Folha) (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ja tivemos o primeiro pedido da PDP da insulina humana",
+   "editorial_note": "PDP: Parcerias para o Desenvolvimento Produtivo; o espelho da apuração data a mensagem em 17/12/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "O indicado para presidir a [Anvisa] é nosso aliado no Min da Saude.Conhece tudo sobre a Biomm",
+   "editorial_note": "Colchetes constam da transcrição da Folha; as indicações para a agência foram anunciadas em agosto/2025 (evento abaixo).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-mares-guia",
+   "content_kind": "verbatim_excerpt",
+   "content": "A nova diretora Daniela Marreco tb otima pessoa e conhece a Biomm",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-04-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Lula inaugura a fábrica da Biomm em Nova Lima (MG), com presença confirmada às 10h; Vorcaro não compareceu.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-10-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Jantar na casa de Vorcaro em Brasília, às 22h, com cinco convidados: o então ministro Alexandre Padilha (Relações Institucionais), o secretário-executivo Olavo Noleto, 'Fernando (primo)', um assessor de Padilha e Júlio Cezar; não constou da agenda pública de Padilha, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro é recebido por Lula no Planalto, encontro intermediado por Guido Mantega; reclamou da concentração bancária, e Lula teria encaminhado o tema ao Banco Central (Gabriel Galípolo), segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Contratos do Ministério da Saúde com a Biomm: R$ 34,3 milhões (insulina regular, abril/2024) e R$ 20,6 milhões (insulina glargina, dezembro/2024); PDP com Bio-Manguinhos/Fiocruz, Biomm e Gan & Lee aprovada em fevereiro/2025. Em agosto/2025, os nomes de Safatle e Daniela Marreco foram escolhidos para a Anvisa; Safatle é o diretor-presidente da agência.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "Defesas: a Anvisa diz que Safatle nunca teve relação ou contato com Vorcaro e que a Biomm recebeu tratamento igual ao das demais; Mares Guia afirma não ter intimidade com Vorcaro — contatos por causa da Biomm — e nega ter intermediado reunião com Lula; sobre o jantar, Padilha e Noleto dizem tratar-se de atividade rotineira do cargo, que Padilha não era ministro da Saúde em 2024 e que não havia acusações contra o Master à época.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-30",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/vorcaro-teve-jantar-restrito-com-padilha-antes-de-encontro-com-lula-em-2024-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  }
+ ]
+}

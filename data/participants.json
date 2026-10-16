@@ -360,22 +360,6 @@
   ]
  },
  {
-  "id": "geraldo-brazil-journal",
-  "name": "Geraldo (Brazil Journal)",
-  "photo": null,
-  "role": "Interlocutor no celular de Vorcaro",
-  "aliases": [
-   "GERALDO BRAZIL JOURNAL"
-  ],
-  "summary": "Contato salvo como “Geraldo Brazil Journal”. Segundo o IPJ-A, recebeu de Vorcaro, em 26/04/2024, o repasse de pedido atribuído ao ministro Alexandre de Moraes para incluir informação sobre encontro de ministros do STF com Tony Blair em matéria jornalística.",
-  "profile_sources": [
-   {
-    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-   }
-  ]
- },
- {
   "id": "paulo-sergio",
   "name": "Paulo Sergio",
   "photo": null,
@@ -807,9 +791,16 @@
   "photo": null,
   "role": "Jornalista; fundador do Brazil Journal",
   "aliases": [
-   "Samor"
+   "Samor",
+   "GERALDO BRAZIL JOURNAL"
   ],
-  "summary": "Consultava Vorcaro sobre reportagens do Master antes da publicação e atendia pedidos de alteração, segundo o UOL (15/10/2026); a participação do banqueiro no site se dava via Foone (49,86% da BJ Conteúdo). Não respondeu ao UOL. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+  "summary": "Contato salvo no celular de Vorcaro como 'Geraldo Brazil Journal' — consolidado em 2026-10 como o jornalista Geraldo Samor, fundador do Brazil Journal, após cruzamento do episódio Tony Blair (IPJ-A nº 3298613/2026 e apuração do UOL). Consultava Vorcaro sobre reportagens do Master antes da publicação e atendia pedidos de alteração, segundo o UOL (15/10/2026); a participação do banqueiro no site se dava via Foone (49,86% da BJ Conteúdo). Não respondeu ao UOL. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
+   }
+  ]
  },
  {
   "id": "diogo-batista",
@@ -838,5 +829,25 @@
   "role": "Intermediador que trabalhava agenciando modelos",
   "aliases": [],
   "summary": "Explicou a Vorcaro o propósito da agência ('ajustar as meninas indiretamente') e ofereceu a Allure e a Ford Models, segundo o UOL (13/10/2026). Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "walfrido-mares-guia",
+  "name": "Walfrido dos Mares Guia",
+  "photo": null,
+  "role": "Ex-ministro; acionista da biotecnológica Biomm",
+  "aliases": [
+   "Mares Guia"
+  ],
+  "summary": "Ex-ministro e amigo de Lula, mineiro como Vorcaro. Segundo a Folha (30/09/2026), trocaram mensagens sobre a Biomm (fábrica inaugurada por Lula em abril/2024, contratos com o Ministério da Saúde e PDP da insulina), um jantar com Padilha e Olavo Noleto (23/10/2024) e o pedido de ajuda para ver Lula; em dezembro/2024, anunciou-lhe o primeiro pedido da PDP e falou de indicações para a Anvisa. Nega intimidade e ter intermediado reunião com Lula. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "jose-maria-meira",
+  "name": "José Maria Meira (Zé Maria)",
+  "photo": null,
+  "role": "Chef de cozinha; organizava eventos privados de Vorcaro",
+  "aliases": [
+   "Zé Maria"
+  ],
+  "summary": "Chef e equipe recebiam R$ 120 mil mensais de Vorcaro para eventos privados, segundo o Metrópoles (30/09/2026). Organizou o almoço oferecido ao ministro Alexandre de Moraes em 30/12/2023, em Campos do Jordão, seguindo orientações de discrição de Vorcaro. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  }
 ]

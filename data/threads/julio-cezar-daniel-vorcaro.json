@@ -258,6 +258,41 @@
   },
   {
    "id": "m-00008",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos tentar concluir os que abrimos",
+   "editorial_note": "Na sequência de 08/04/2024 sobre Petros e Postalis, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00009",
    "date": "2024-05",
    "time": null,
    "timestamp_precision": "month",
@@ -292,7 +327,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00009",
+   "id": "m-00010",
    "date": "2024-05",
    "time": null,
    "timestamp_precision": "month",
@@ -327,7 +362,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00010",
+   "id": "m-00011",
    "date": "2024-10",
    "time": null,
    "timestamp_precision": "month",
@@ -362,7 +397,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00011",
+   "id": "m-00012",
    "date": "2024-10",
    "time": null,
    "timestamp_precision": "month",
@@ -397,7 +432,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00012",
+   "id": "m-00013",
    "date": "2024-10",
    "time": null,
    "timestamp_precision": "month",
@@ -432,7 +467,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00013",
+   "id": "m-00014",
    "date": "2024-10",
    "time": null,
    "timestamp_precision": "month",
@@ -467,7 +502,112 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00014",
+   "id": "m-00015",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, desculpa tá apertando, mas é que você é a única pessoa que eu possa falar isso!!… Quero ir pro jantar tranquilo",
+   "editorial_note": "Na cobrança do adiantamento de R$ 500 mil, à véspera do jantar de 23/10/2024 em Brasília, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00016",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, tô insistindo aqui porque já conversaram com PR e ele gostou da conversa! Olavo pediu pra retornar…",
+   "editorial_note": "Sobre a articulação com o grupo de Padilha, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00017",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, não esquece do Olavo. Ele vai te passar informações. E fazer agenda. Porque semana que vem é sua reunião importante",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00018",
    "date": "2024-10-24",
    "time": null,
    "timestamp_precision": "date",
@@ -502,7 +642,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00015",
+   "id": "m-00019",
    "date": "2024-10-24",
    "time": null,
    "timestamp_precision": "date",
@@ -537,7 +677,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00016",
+   "id": "m-00020",
    "date": "2024-10-24",
    "time": null,
    "timestamp_precision": "date",
@@ -572,7 +712,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00017",
+   "id": "m-00021",
    "date": "2025-06",
    "time": null,
    "timestamp_precision": "month",
@@ -608,7 +748,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00018",
+   "id": "m-00022",
    "date": "2025-06",
    "time": null,
    "timestamp_precision": "month",
@@ -643,7 +783,42 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00019",
+   "id": "m-00023",
+   "date": "2025-06",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos já há mais de 12 meses tentando uma boleta (investimento). Não dá pra mobilizar a equipe…",
+   "editorial_note": "Parêntese de explicação consta da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00024",
    "date": "2025-08",
    "time": null,
    "timestamp_precision": "month",
@@ -678,7 +853,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00020",
+   "id": "m-00025",
    "date": "2025-08",
    "time": null,
    "timestamp_precision": "month",
@@ -713,7 +888,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00021",
+   "id": "m-00026",
    "date": "2025-08",
    "time": null,
    "timestamp_precision": "month",
@@ -748,7 +923,77 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00022",
+   "id": "m-00027",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cara, essa é a última chance. Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho…",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00028",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sexta que vem — não entrando — vida que segue. Lá na frente bolamos outra coisa juntos",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00029",
    "date": "2025-11",
    "time": null,
    "timestamp_precision": "month",
@@ -784,7 +1029,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00023",
+   "id": "m-00030",
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -818,7 +1063,7 @@
    "literal_brackets": true
   },
   {
-   "id": "m-00024",
+   "id": "m-00031",
    "date": null,
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
@@ -851,7 +1096,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00025",
+   "id": "m-00032",
    "date": null,
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
@@ -981,6 +1226,37 @@
    },
    "source_ref": "Relato de Veja (2026-10-10)",
    "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Notas à reportagem: Lula afirma que 'jamais solicitou ou recebeu qualquer vantagem financeira nem autorizou terceiros a receber recursos de Vorcaro em seu nome'; Padilha nega relação com Vorcaro; Olavo Noleto nega qualquer relação com Vorcaro ou recebimento de recursos; a PGR registra que as tratativas de colaboração foram mediadas por advogados de Vorcaro, 'sem juízo nem recusas prévias'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
   }
  ]
 }

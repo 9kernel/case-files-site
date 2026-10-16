@@ -13,6 +13,76 @@
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Entramos na lista exaustiva. Resolvido",
+   "editorial_note": "Sobre a inclusão do Banco Master na lista de bancos autorizados a operar com recursos de fundos de pensão e RPPS; no mesmo dia, segundo a reportagem, Júlio Cezar cobrou de Vorcaro o adiantamento de R$ 500 mil.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você é foda",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00003",
    "date": "2025-01-29",
    "time": null,
    "timestamp_precision": "date",
@@ -47,7 +117,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00002",
+   "id": "m-00004",
    "date": "2025-01-29",
    "time": null,
    "timestamp_precision": "date",
@@ -82,7 +152,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00003",
+   "id": "m-00005",
    "date": "2025-01-29",
    "time": null,
    "timestamp_precision": "date",
@@ -117,7 +187,7 @@
    "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00004",
+   "id": "m-00006",
    "date": "2025-01-29",
    "time": null,
    "timestamp_precision": "date",
@@ -183,6 +253,68 @@
    },
    "source_ref": "Relato de Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
    "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Na proposta de delação rejeitada pela PGR e pela PF, Vorcaro alega que Augusto Lima, 'através dos caciques do PT da Bahia, se reuniu com João Vaccari Neto', e que pagamentos de cerca de R$ 30 milhões em espécie, 'por fora', teriam sido exigidos para um documentário no exterior sobre Lula, além de valores ao Instituto Lula. Em áudio citado pela reportagem, Vorcaro diz: 'O Augusto adianta ali para o Okamotto do Instituto Lula…'. As autoridades descartaram o material por falta de provas.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Defesa de Augusto Lima: os relatos são 'mentirosos, falsos e delirantes', de proposta de delação recusada pelas autoridades, sem valor probatório; pede investigação rigorosa do vazamento. Lula nega ter solicitado ou recebido qualquer vantagem; Padilha nega relação com Vorcaro; Olavo Noleto nega relação com Vorcaro ou recebimento de recursos.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-09)",
+   "added_in": "ingest-press5-20261016"
   }
  ]
 }

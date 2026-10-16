@@ -126,7 +126,7 @@
    "daniel-vorcaro",
    "augusto-lima"
   ],
-  "message_count": 4,
+  "message_count": 6,
   "last_message_preview": "Vamos vencer",
   "featured": false,
   "note": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria repor"
@@ -240,7 +240,7 @@
    "daniel-vorcaro",
    "fabio-faria"
   ],
-  "message_count": 20,
+  "message_count": 26,
   "last_message_date": "2024-04-06",
   "last_message_preview": "18h na casa do Alexandre",
   "featured": false,
@@ -324,32 +324,14 @@
   "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: conversas de out/2023 a jul/2025 entre Vorcaro e o então diretor-geral de Mídia Impressa e Rádio do Grupo Globo — patrocínios (Baile da Vogue 2024: R$"
  },
  {
-  "id": "geraldo-brazil-journal-daniel-vorcaro",
-  "title": "Geraldo (Brazil Journal)",
-  "participants_ids": [
-   "daniel-vorcaro",
-   "geraldo-brazil-journal"
-  ],
-  "message_count": 1,
-  "last_message_date": "2024-04-26",
-  "last_message_preview": "os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro",
-  "featured": false,
-  "note": "Repassa pedido atribuído ao ministro para incluir informação sobre encontro com Tony Blair em matéria jornalística.",
-  "source": {
-   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
-   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-   "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
-  }
- },
- {
   "id": "geraldo-samor-daniel-vorcaro",
   "title": "Geraldo Samor",
   "participants_ids": [
    "daniel-vorcaro",
    "geraldo-samor"
   ],
-  "message_count": 7,
-  "last_message_preview": "Na nossa opinião, perdeu muito. Mas entendemos a limitação",
+  "message_count": 8,
+  "last_message_preview": "os 3 ministros do STF se reuniram privativamente com o ex primeiro ministro",
   "featured": false,
   "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: o fundador do Brazil Journal consultava Vorcaro sobre reportagens do Master antes de publicá-las e atendia pedidos de alteração. A participação do ban"
  },
@@ -470,13 +452,25 @@
   "last_message_date": null
  },
  {
+  "id": "jose-maria-meira-daniel-vorcaro",
+  "title": "José Maria Meira (Zé Maria)",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "jose-maria-meira"
+  ],
+  "message_count": 5,
+  "last_message_preview": "Se o ministro pediu tudo bem. Menos mal",
+  "featured": false,
+  "note": "Metrópoles, 30/09/2026 (Evellyn Paola e Igor Gadelha): orientações de Vorcaro ao chef Zé Maria na organização do almoço oferecido ao ministro Alexandre de Moraes em 30/12/2023, em Campos do Jordão — d"
+ },
+ {
   "id": "julio-cezar-daniel-vorcaro",
   "title": "Júlio Cezar",
   "participants_ids": [
    "daniel-vorcaro",
    "julio-cezar"
   ],
-  "message_count": 25,
+  "message_count": 32,
   "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!",
   "featured": false,
   "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo"
@@ -852,6 +846,18 @@
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
    "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
   }
+ },
+ {
+  "id": "walfrido-mares-guia-daniel-vorcaro",
+  "title": "Walfrido dos Mares Guia",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "walfrido-mares-guia"
+  ],
+  "message_count": 10,
+  "last_message_preview": "A nova diretora Daniela Marreco tb otima pessoa e conhece a Biomm",
+  "featured": false,
+  "note": "Folha de S.Paulo, 30/09/2026 (espelhada pelo Times Brasil): mensagens da PF entre Vorcaro e o ex-ministro Walfrido dos Mares Guia — acionista relevante da biotecnológica Biomm — tratando de inauguraçã"
  },
  {
   "id": "walfrido-warde-daniel-vorcaro",
