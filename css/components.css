@@ -720,9 +720,9 @@ a.doc-card:hover { background: #fff; }
 /* meta do evento editorial */
 .event-meta .new-flag { margin-right: 4px; }
 
-/* lista lateral: chip discreto ao lado do título */
-.chat-item-top { gap: 6px; }
-.chat-item-top .new-flag { margin-top: 3px; }
+/* lista lateral: chip no canto direito da linha, logo acima do selo de contagem */
+.chat-item-title { margin-right: auto; }
+.chat-item-top .new-flag { margin-top: 1px; }
 
 /* ============ Encaminhadas: atribuição nunca vira remetente (§17) ============ */
 .fwd-attribution {

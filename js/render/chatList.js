@@ -105,8 +105,7 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
       <span class="chat-item-main">
         <span class="chat-item-top">
           <span class="chat-item-title">${esc(entry.title || entry.id)}</span>
-          ${newChip}
-          <span class="chat-item-date">${date}</span>
+          <span class="chat-item-date">${date}</span>${newChip}
         </span>
         <span class="chat-item-bottom">
           <span class="chat-item-preview">${previewHtml}</span>
