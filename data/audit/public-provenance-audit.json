@@ -3,11 +3,11 @@
  "scope": "todas as threads públicas de data/threads/",
  "summary": {
   "threads": 58,
-  "records": 859,
-  "ok": 859,
+  "records": 885,
+  "ok": 885,
   "problems": 0,
   "by_category": {
-   "OK_PUBLIC_INVESTIGATION": 548,
+   "OK_PUBLIC_INVESTIGATION": 574,
    "OK_OFFICIAL": 276,
    "OK_SECONDARY": 35
   }
@@ -4269,6 +4269,206 @@
    "reason": null
   },
   {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00028",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00029",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00030",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00031",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00032",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00035",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "m-00036",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
    "kind": "event",
    "thread": "fabio-faria-daniel-vorcaro",
    "message_id": "e-00001",
@@ -4410,6 +4610,24 @@
    "primary_source": null,
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "message_id": "e-00009",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
   {
@@ -8816,6 +9034,186 @@
    "kind": "message",
    "thread": "hugo-motta-daniel-vorcaro",
    "message_id": "m-00001",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "m-00010",
    "sender_id": "hugo-motta",
    "content_kind": "audio_transcript",
    "verification_level": "public_investigation",
@@ -8835,7 +9233,7 @@
   {
    "kind": "message",
    "thread": "hugo-motta-daniel-vorcaro",
-   "message_id": "m-00002",
+   "message_id": "m-00011",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -8855,7 +9253,7 @@
   {
    "kind": "message",
    "thread": "hugo-motta-daniel-vorcaro",
-   "message_id": "m-00003",
+   "message_id": "m-00012",
    "sender_id": "hugo-motta",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -8875,7 +9273,7 @@
   {
    "kind": "message",
    "thread": "hugo-motta-daniel-vorcaro",
-   "message_id": "m-00004",
+   "message_id": "m-00013",
    "sender_id": "hugo-motta",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -9094,6 +9492,60 @@
    "kind": "event",
    "thread": "hugo-motta-daniel-vorcaro",
    "message_id": "e-00012",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "e-00013",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "e-00014",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "message_id": "e-00015",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -12352,8 +12804,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "CNN Brasil",
-    "Folha de S.Paulo (coluna Mônica Bergamo)"
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -12373,8 +12824,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "CNN Brasil",
-    "Folha de S.Paulo (coluna Mônica Bergamo)"
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -12383,6 +12833,26 @@
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
    "message_id": "m-00006",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00007",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -12403,7 +12873,49 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00007",
+   "message_id": "m-00008",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "CNN Brasil",
+    "Folha de S.Paulo (coluna Mônica Bergamo)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "CNN Brasil",
+    "Folha de S.Paulo (coluna Mônica Bergamo)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00010",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",

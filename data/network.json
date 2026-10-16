@@ -10,6 +10,13 @@
    "msg_count": 90
   },
   {
+   "id": "fabio-faria",
+   "name": "Fábio Faria",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "title": "Fábio Faria",
+   "msg_count": 36
+  },
+  {
    "id": "thiago-miranda",
    "name": "Thiago Miranda",
    "thread": "thiago-miranda-daniel-vorcaro",
@@ -36,13 +43,6 @@
    "thread": "diogo-batista-daniel-vorcaro",
    "title": "Diogo Batista",
    "msg_count": 27
-  },
-  {
-   "id": "fabio-faria",
-   "name": "Fábio Faria",
-   "thread": "fabio-faria-daniel-vorcaro",
-   "title": "Fábio Faria",
-   "msg_count": 26
   },
   {
    "id": "walfrido-warde",
@@ -129,6 +129,13 @@
    "msg_count": 13
   },
   {
+   "id": "hugo-motta",
+   "name": "Hugo Motta",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "title": "Hugo Motta",
+   "msg_count": 13
+  },
+  {
    "id": "antonio-rueda",
    "name": "Antonio Rueda",
    "thread": "antonio-rueda-daniel-vorcaro",
@@ -154,6 +161,13 @@
    "name": "Leonardo Serrano",
    "thread": "leonardo-serrano-daniel-vorcaro",
    "title": "Leonardo Serrano",
+   "msg_count": 10
+  },
+  {
+   "id": "luiz-renno",
+   "name": "Luiz Rennó",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "title": "Luiz Rennó",
    "msg_count": 10
   },
   {
@@ -203,13 +217,6 @@
    "name": "Alexandre de Moraes",
    "thread": "alexandre-moraes-daniel-vorcaro",
    "title": "Alexandre de Moraes",
-   "msg_count": 7
-  },
-  {
-   "id": "luiz-renno",
-   "name": "Luiz Rennó",
-   "thread": "luiz-renno-daniel-vorcaro",
-   "title": "Luiz Rennó",
    "msg_count": 7
   },
   {
@@ -301,13 +308,6 @@
    "name": "Fernando Mascarenhas",
    "thread": "fernando-mascarenhas-daniel-vorcaro",
    "title": "Fernando Mascarenhas",
-   "msg_count": 4
-  },
-  {
-   "id": "hugo-motta",
-   "name": "Hugo Motta",
-   "thread": "hugo-motta-daniel-vorcaro",
-   "title": "Hugo Motta",
    "msg_count": 4
   },
   {
@@ -675,6 +675,35 @@
   },
   {
    "type": "mention",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "from": "fabio-faria",
+   "to": "hugo-motta",
+   "count": 5,
+   "evidence": [
+    {
+     "id": "m-00027",
+     "sender": "fabio-faria",
+     "date": "2024-05-10"
+    },
+    {
+     "id": "m-00030",
+     "sender": "daniel-vorcaro",
+     "date": "2024-05-24"
+    },
+    {
+     "id": "m-00032",
+     "sender": "fabio-faria",
+     "date": "2024-08-20"
+    },
+    {
+     "id": "m-00033",
+     "sender": "fabio-faria",
+     "date": "2024-09-03"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "felipe-mourao-daniel-vorcaro",
    "from": "felipe-mourao",
    "to": "fabiano-zettel",
@@ -733,18 +762,42 @@
   },
   {
    "type": "mention",
+   "thread": "fabio-faria-daniel-vorcaro",
+   "from": "fabio-faria",
+   "to": "camara",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00028",
+     "sender": "daniel-vorcaro",
+     "date": "2024-05-10"
+    },
+    {
+     "id": "m-00029",
+     "sender": "daniel-vorcaro",
+     "date": "2024-05-24"
+    },
+    {
+     "id": "m-00030",
+     "sender": "daniel-vorcaro",
+     "date": "2024-05-24"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "hugo-motta-daniel-vorcaro",
    "from": "hugo-motta",
    "to": "davi-alcolumbre",
    "count": 4,
    "evidence": [
     {
-     "id": "m-00002",
+     "id": "m-00011",
      "sender": "daniel-vorcaro",
      "date": "2025-07-17"
     },
     {
-     "id": "m-00003",
+     "id": "m-00012",
      "sender": "hugo-motta",
      "date": "2025-07-17"
     }
@@ -877,12 +930,12 @@
    "count": 3,
    "evidence": [
     {
-     "id": "m-00002",
+     "id": "m-00011",
      "sender": "daniel-vorcaro",
      "date": "2025-07-17"
     },
     {
-     "id": "m-00003",
+     "id": "m-00012",
      "sender": "hugo-motta",
      "date": "2025-07-17"
     }
@@ -1089,7 +1142,7 @@
    "count": 2,
    "evidence": [
     {
-     "id": "m-00002",
+     "id": "m-00011",
      "sender": "daniel-vorcaro",
      "date": "2025-07-17"
     }
@@ -1670,11 +1723,25 @@
    "type": "mention",
    "thread": "hugo-motta-daniel-vorcaro",
    "from": "hugo-motta",
+   "to": "camara",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00005",
+     "sender": "daniel-vorcaro",
+     "date": "2024-11-06"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "hugo-motta-daniel-vorcaro",
+   "from": "hugo-motta",
    "to": "brb",
    "count": 1,
    "evidence": [
     {
-     "id": "m-00002",
+     "id": "m-00011",
      "sender": "daniel-vorcaro",
      "date": "2025-07-17"
     }
@@ -1747,6 +1814,48 @@
      "id": "m-00002",
      "sender": "luiz-renno",
      "date": "2024-10"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "from": "luiz-renno",
+   "to": "hugo-motta",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00004",
+     "sender": "luiz-renno",
+     "date": "2025-02"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "from": "luiz-renno",
+   "to": "camara",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00004",
+     "sender": "luiz-renno",
+     "date": "2025-02"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "from": "luiz-renno",
+   "to": "bc",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00006",
+     "sender": "luiz-renno",
+     "date": "2025-02"
     }
    ]
   },

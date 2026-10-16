@@ -13,6 +13,321 @@
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tenho muito orgulho de poder te chamar de amigo irmão. Estamos juntos sempre, para o que der e vier! Você tem aqui um irmão que te admira muito e estará sempre a seu lado pra qualquer guerra",
+   "editorial_note": "Trecho da mensagem de aniversário enviada a Motta em setembro/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu que agradeço a oportunidade de conviver com uma pessoa tão correta como vc, saiba que tens um amigo para contar em todos os momentos e que estaremos sempre juntos para enfrentar os desafios que a vida nos impõe",
+   "editorial_note": "Resposta enviada tempos depois, chamando Vorcaro de irmão e agradecendo a lembrança, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso chamar o Arthur aqui para tratar um assunto com ele?",
+   "editorial_note": "Sobre o imóvel de Vorcaro que Motta usava no período de campanha, inclusive para receber políticos — entre eles Arthur Lira, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Claro. Casa é sua",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-11-06",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ta tudo muito alinhado, ficar quieto agora e trabalhar bastidor",
+   "editorial_note": "Sobre a estratégia na disputa pela presidência da Câmara, após tratarem de convite a evento em Portugal; concordou com Motta em evitar exposição e sugeriu focar na eleição, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-11-06",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Só o que tô procurando fazer, depois que concluir os partidos é partir para o individual com cada deputado. São 3 meses até a eleição, tempo demais",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-12-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, manda só uma msg para Arthur agradecendo que ele ligou para o Rodrigo hoje",
+   "editorial_note": "No contexto do uso do helicóptero do banqueiro por Motta e por Arthur Lira em dezembro/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-12-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso pegar o helicóptero em Congonhas?",
+   "editorial_note": "Sobre a aeronave que o levaria de São Paulo a Brasília; no mesmo dia, trataram de uso do helicóptero pelo deputado e por Arthur Lira, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-12-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00010",
    "date": "2025-01-01",
    "time": null,
    "timestamp_precision": "date",
@@ -57,7 +372,7 @@
    }
   },
   {
-   "id": "m-00002",
+   "id": "m-00011",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -92,7 +407,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "m-00003",
+   "id": "m-00012",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -127,7 +442,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "m-00004",
+   "id": "m-00013",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -275,6 +590,39 @@
   },
   {
    "id": "e-00005",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "No início de setembro, Marcos Pereira (Republicanos-SP) retirou o nome da disputa pela presidência da Câmara, abrindo caminho para a candidatura de Motta; nos bastidores, a manobra para trocar Elmar Nascimento (candidato do grupo de Arthur Lira) por Motta foi creditada ao senador Ciro Nogueira, amigo de Vorcaro, segundo a reportagem. Além da troca de aniversário, Motta e Vorcaro conversaram ao menos quatro vezes em setembro (dias 18, 20, 24 e 25).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "e-00006",
    "date": "2024-11-06",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -296,7 +644,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00006",
+   "id": "e-00007",
    "date": "2024-11-19",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -318,7 +666,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00007",
+   "id": "e-00008",
    "date": "2025-02-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -340,7 +688,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00008",
+   "id": "e-00009",
    "date": "2025-03-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -362,7 +710,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00009",
+   "id": "e-00010",
    "date": "2025-03-23",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -384,7 +732,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00010",
+   "id": "e-00011",
    "date": "2025-05-08",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -406,7 +754,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00011",
+   "id": "e-00012",
    "date": null,
    "content": "Vorcaro busca apoio de Motta para o projeto de lei do mercado de carbono; Motta pede estudo sobre o Fundo Garantidor de Créditos e sugere retomar o tema em Brasília, segundo a reportagem.",
    "event_kind": "editorial_context",
@@ -437,7 +785,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "e-00012",
+   "id": "e-00013",
    "date": null,
    "content": "Vorcaro disponibiliza aeronave para trecho Guarulhos–Brasília de Motta. Em nota, Motta nega 'nenhum ilícito' e afirma que o empréstimo ocorreu antes de as investigações do Master se tornarem públicas.",
    "event_kind": "editorial_context",
@@ -466,6 +814,68 @@
    },
    "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00014",
+   "date": null,
+   "content": "Em outubro e novembro de 2024, com Motta já trabalhando pela Presidência da Câmara, o deputado usou um imóvel de Vorcaro, inclusive para receber políticos — entre eles Arthur Lira, um dos principais interessados na disputa, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "e-00015",
+   "date": null,
+   "content": "Nota de Hugo Motta: o contato com o empresariado e representantes da sociedade é 'inerente ao exercício da atividade de qualquer parlamentar'; 'os diálogos publicados não exteriorizam, portanto, qualquer tipo de mácula à minha atuação parlamentar, sendo certo que todos os meus contatos mantidos com integrantes do setor privado sempre foram pautados pela institucionalidade e pela probidade'; e a 'descontextualização proposital de conversas tem o único propósito viabilizar o desferimento de ataques pessoais às vésperas da eleição nacional de 2026'. Procurada, a defesa de Vorcaro não respondeu.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   }
  ]
 }

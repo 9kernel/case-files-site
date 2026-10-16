@@ -66,17 +66,24 @@ vazamento não oficial.
   peça específica ainda não localizada) · ○ fonte jornalística (reportagem
   citada). Promoções de nível exigem evidência documental — nunca automáticas.
 
-**Auditorias realizadas (07/10/2026):**
+**Auditorias — histórico e números correntes:**
 
-- *Proveniência*: 384/384 registros verificados — toda mensagem
-  `official_document` aponta para peça com publicidade confirmada; nenhum
-  documento inexistente; nenhuma página faltante (relatório público:
-  `PUBLIC-PROVENANCE-AUDIT.md`).
-- *Fidelidade*: comparação citação-por-citação contra o texto das peças e das
-  reportagens (método: extração por página + substring normalizada; figuras
-  conferidas por timestamp e leitura visual): **zero divergências em 335
-  mensagens**; 11 citações (em figuras/imagem ou matéria que bloqueia robôs)
-  mantêm corroboração indireta registrada e pendência de leitura visual.
+- *Snapshot histórico (07/10/2026)* — fidelidade conferida citação por
+  citação contra o texto das peças e das reportagens (método: extração por
+  página + substring normalizada; figuras conferidas por timestamp e leitura
+  visual): **zero divergências em 335 mensagens**; 11 citações (em
+  figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
+  registrada e pendência de leitura visual. Naquela data: 384 registros
+  auditados.
+- *Números correntes (16/10/2026)*: **58 conversas · 703 mensagens · 182
+  eventos** — 885 registros públicos auditados (574 investigação pública,
+  276 documento oficial, 35 fonte jornalística), zero problemas de
+  proveniência. Os totais mudam a cada rodada de inclusão: o valor
+  atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md` (regenerado pelo CI
+  a cada commit) e em `data/threads.json`.
+- *Proveniência (contínua)*: toda mensagem `official_document` aponta para
+  peça com publicidade confirmada; nenhum documento inexistente; nenhuma
+  página faltante (relatório público: `PUBLIC-PROVENANCE-AUDIT.md`).
 - **Imutável e rastreável**: mensagem nunca é editada em silêncio — toda
   alteração é um commit assinado e auditável.
 

@@ -8,13 +8,13 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 ## Resultado
 
-- 58 threads · 859 registros (681 mensagens + 178 eventos)
-- **859 OK** · **0 com problema**
+- 58 threads · 885 registros (703 mensagens + 182 eventos)
+- **885 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 276 |
-| OK_PUBLIC_INVESTIGATION | 548 |
+| OK_PUBLIC_INVESTIGATION | 574 |
 | OK_SECONDARY | 35 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |

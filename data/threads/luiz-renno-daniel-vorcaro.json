@@ -132,6 +132,111 @@
   },
   {
    "id": "m-00004",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Com Hugo transita bem tbem?",
+   "editorial_note": "Um dia após a vitória de Motta na eleição da presidência da Câmara (fevereiro/2025), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Transito bem? Kkkk. Sou number 1. Amigo irmao",
+   "editorial_note": "Resposta 'em algumas mensagens seguidas', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Boa. Então temos BC, Congresso, presidente. Trabalhar certo. Forte.",
+   "editorial_note": "Resposta otimista na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00007",
    "date": "2025-07-04",
    "time": null,
    "timestamp_precision": "date",
@@ -171,7 +276,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00005",
+   "id": "m-00008",
    "date": "2025-07-04",
    "time": null,
    "timestamp_precision": "date",
@@ -211,7 +316,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00006",
+   "id": "m-00009",
    "date": "2025-08-08",
    "time": null,
    "timestamp_precision": "date",
@@ -251,7 +356,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00007",
+   "id": "m-00010",
    "date": "2025-08-08",
    "time": null,
    "timestamp_precision": "date",
