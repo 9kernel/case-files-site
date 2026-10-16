@@ -686,6 +686,44 @@ a.doc-card:hover { background: #fff; }
 
 .msg-row.in .kind-tag { color: #0E7A6C; }
 
+/* ============ Selo "novo" (inclusão recente ao acervo; apaga sozinho ao envelhecer) ============ */
+.new-flag {
+  display: inline-block;
+  flex: 0 0 auto;
+  font-size: 9.6px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.07em;
+  line-height: 1;
+  color: var(--wa-teal, #128C7E);
+  background: rgba(18, 140, 126, 0.1);
+  border: 1px solid rgba(18, 140, 126, 0.35);
+  border-radius: 999px;
+  padding: 3px 7px 2px;
+  vertical-align: middle;
+}
+
+/* dentro do rodapé da bolha, junto ao horário */
+.bubble-meta .new-flag {
+  font-size: 8.8px;
+  padding: 2px 6px 1px;
+  margin: 0 2px 0 0;
+}
+
+/* bolhas do dono (fundo teal): selo claro translúcido */
+.msg-row.out .bubble-meta .new-flag {
+  color: #E7FFF8;
+  background: rgba(255, 255, 255, 0.16);
+  border-color: rgba(255, 255, 255, 0.42);
+}
+
+/* meta do evento editorial */
+.event-meta .new-flag { margin-right: 4px; }
+
+/* lista lateral: chip discreto ao lado do título */
+.chat-item-top { gap: 6px; }
+.chat-item-top .new-flag { margin-top: 3px; }
+
 /* ============ Encaminhadas: atribuição nunca vira remetente (§17) ============ */
 .fwd-attribution {
   font-size: 12px;

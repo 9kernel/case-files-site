@@ -2,12 +2,13 @@
 // Busca instantânea local por título/participante E, sob demanda, dentro
 // das mensagens públicas (data/search-index.json, build-search-index.mjs).
 
-import { getThreadIndex, getParticipants, participantMap, getSearchIndex } from '../api.js';
+import { getThreadIndex, getParticipants, participantMap, getSearchIndex, getWhatsNew } from '../api.js';
 import { state } from '../state.js';
 import { openProfileDialog, wireProfileDialog } from './profile.js';
-import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml } from '../utils.js';
+import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml, dateWithinWindow } from '../utils.js';
 
 let participants = null;
+let whatsNew = null;
 
 function matches(entry, pmap, query) {
   if (!query) return true;
@@ -71,6 +72,17 @@ function contentSearch(messages, query) {
   return { snippetHtml, hitCount };
 }
 
+/** Inclusões da conversa dentro da janela rolante (baldes do whatsnew.json). */
+function recentCount(threadId) {
+  const buckets = whatsNew?.threads?.[threadId];
+  if (!buckets) return 0;
+  let n = 0;
+  for (const [date8, count] of Object.entries(buckets)) {
+    if (dateWithinWindow(date8, whatsNew?.window_days || 30)) n += count;
+  }
+  return n;
+}
+
 function itemHtml(entry, pmap, activeId, searchCtx) {
   const count = entry.message_count ?? 0;
   const date = formatDateBR(entry.last_message_date);
@@ -85,6 +97,10 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
   const badge = searchCtx
     ? `<span class="badge-count hit" title="${searchCtx.hitCount} mensagem(ns) com este termo">${searchCtx.hitCount}</span>`
     : `<span class="badge-count">${count}</span>`;
+  const news = recentCount(entry.id);
+  const newChip = news
+    ? `<span class="new-flag" title="${news} registro(s) incluído(s) nos últimos ${whatsNew?.window_days || 30} dias">novo</span>`
+    : '';
   return `<li>
     <a class="chat-item ${entry.id === activeId ? 'active' : ''}" href="#/thread/${esc(entry.id)}" data-thread-id="${esc(entry.id)}">
       <span class="avatar avatar-btn" data-profile="${esc(contactId)}" role="button" tabindex="0"
@@ -93,6 +109,7 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
       <span class="chat-item-main">
         <span class="chat-item-top">
           <span class="chat-item-title">${esc(entry.title || entry.id)}</span>
+          ${newChip}
           <span class="chat-item-date">${date}</span>
         </span>
         <span class="chat-item-bottom">
@@ -111,6 +128,13 @@ export async function renderChatList() {
 
   if (!participants) {
     participants = participantMap(await getParticipants());
+  }
+  if (!whatsNew) {
+    try {
+      whatsNew = await getWhatsNew();
+    } catch {
+      whatsNew = { threads: {} }; // sem artefato: lista segue sem o selo
+    }
   }
   const index = await getThreadIndex();
   const query = normalize(state.chatListQuery);

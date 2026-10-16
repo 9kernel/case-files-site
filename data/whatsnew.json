@@ -1,0 +1,188 @@
+{
+ "generated_at": "2026-10-16",
+ "window_days": 7,
+ "note": "Inclusões por data de lote (added_in) por conversa — o cliente soma os baldes dentro da janela rolante para o selo \"novo\". pending_review excluído.",
+ "threads": {
+  "acm-neto-daniel-vorcaro": {
+   "20261016": 17
+  },
+  "alberto-felix-daniel-vorcaro": {
+   "20261006": 2
+  },
+  "alexandre-moraes-daniel-vorcaro": {
+   "20261006": 20
+  },
+  "ana-claudia-financeiro-daniel-vorcaro": {
+   "20261006": 1
+  },
+  "ana-matos-daniel-vorcaro": {
+   "20261006": 10
+  },
+  "angelo-silva-daniel-vorcaro": {
+   "20261006": 4,
+   "20261007": 3
+  },
+  "antonio-rueda-daniel-vorcaro": {
+   "20261011": 12
+  },
+  "augusto-lima-daniel-vorcaro": {
+   "20261015": 5
+  },
+  "cezinha-de-madureira-daniel-vorcaro": {
+   "20261011": 9
+  },
+  "ciro-soares-daniel-vorcaro": {
+   "20261006": 25
+  },
+  "davi-alcolumbre-daniel-vorcaro": {
+   "20261011": 6
+  },
+  "diogo-batista-daniel-vorcaro": {
+   "20261016": 32
+  },
+  "eduardo-barcellos-daniel-vorcaro": {
+   "20261016": 8
+  },
+  "elsinho-mouco-daniel-vorcaro": {
+   "20261016": 7
+  },
+  "fabiano-zettel-daniel-vorcaro": {
+   "20261007": 8,
+   "20261016": 5
+  },
+  "fabio-faria-daniel-vorcaro": {
+   "20261006": 28
+  },
+  "felipe-mourao-daniel-vorcaro": {
+   "20261007": 92,
+   "20261016": 4
+  },
+  "fernando-mascarenhas-daniel-vorcaro": {
+   "20261015": 6
+  },
+  "flavio-bolsonaro-daniel-vorcaro": {
+   "20261006": 27,
+   "20261016": 6
+  },
+  "flavio-carneiro-daniel-vorcaro": {
+   "20261006": 11,
+   "20261016": 14
+  },
+  "frederic-kachar-daniel-vorcaro": {
+   "20261016": 26
+  },
+  "geraldo-brazil-journal-daniel-vorcaro": {
+   "20261006": 1
+  },
+  "geraldo-samor-daniel-vorcaro": {
+   "20261016": 10
+  },
+  "grupo-ciro-daniel-fabio-hugo": {
+   "20261015": 9
+  },
+  "guilherme-sodre-daniel-vorcaro": {
+   "20261015": 4
+  },
+  "hamilton-buzelin-daniel-vorcaro": {
+   "20261015": 3
+  },
+  "hugo-motta-daniel-vorcaro": {
+   "20261011": 12,
+   "20261016": 4
+  },
+  "iraja-daniel-vorcaro": {
+   "20261011": 18
+  },
+  "isaac-sidney-daniel-vorcaro": {
+   "20261016": 17
+  },
+  "isadora-alencar-daniel-vorcaro": {
+   "20261015": 7
+  },
+  "joao-doria-daniel-vorcaro": {
+   "20261011": 6
+  },
+  "julio-cezar-daniel-vorcaro": {
+   "20261015": 28
+  },
+  "leonardo-palhares-daniel-vorcaro": {
+   "20261006": 19
+  },
+  "leonardo-serrano-daniel-vorcaro": {
+   "20261016": 14
+  },
+  "lilian-tahan-daniel-vorcaro": {
+   "20261016": 20
+  },
+  "luciano-huck-daniel-vorcaro": {
+   "20261011": 10,
+   "20261016": 5
+  },
+  "luiz-renno-daniel-vorcaro": {
+   "20261006": 1,
+   "20261016": 10
+  },
+  "manuela-carta-daniel-vorcaro": {
+   "20261016": 5
+  },
+  "marcio-conjur-daniel-vorcaro": {
+   "20261006": 7
+  },
+  "marcos-da-mata-daniel-vorcaro": {
+   "20261006": 10
+  },
+  "marcus-vinicius-daniel-vorcaro": {
+   "20261011": 3
+  },
+  "mario-frias-daniel-vorcaro": {
+   "20261006": 19
+  },
+  "martha-graeff-daniel-vorcaro": {
+   "20261015": 18,
+   "20261016": 11
+  },
+  "michel-temer-daniel-vorcaro": {
+   "20261016": 6
+  },
+  "nikolas-ferreira-daniel-vorcaro": {
+   "20261011": 4
+  },
+  "paulo-henrique-daniel-vorcaro": {
+   "20261007": 18
+  },
+  "paulo-sergio-daniel-vorcaro": {
+   "20261006": 1
+  },
+  "roberto-campos-neto-daniel-vorcaro": {
+   "20261011": 6
+  },
+  "roberto-justus-daniel-vorcaro": {
+   "20261006": 10
+  },
+  "rodrigo-fux-daniel-vorcaro": {
+   "20261011": 9
+  },
+  "romy-banco-master-daniel-vorcaro": {
+   "20261006": 5
+  },
+  "thiago-miranda-daniel-vorcaro": {
+   "20261006": 34
+  },
+  "tiago-polo-daniel-vorcaro": {
+   "20261016": 4
+  },
+  "vanessa-souza-daniel-vorcaro": {
+   "20261006": 4
+  },
+  "viviane-de-moraes-daniel-vorcaro": {
+   "20261006": 7
+  },
+  "walfrido-warde-daniel-vorcaro": {
+   "20261007": 17,
+   "20261016": 15
+  },
+  "yasmin-brunet-daniel-vorcaro": {
+   "20261011": 18
+  }
+ }
+}

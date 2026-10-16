@@ -226,3 +226,21 @@ export function hashHue(text) {
   }
   return h % 360;
 }
+
+/** Data do lote de inclusão (sufixo YYYYMMDD do added_in) como YYYY-MM-DD. */
+export function addedDateISO(record) {
+  const m = /(\d{4})(\d{2})(\d{2})$/.exec(String(record?.added_in || ''));
+  return m ? `${m[1]}-${m[2]}-${m[3]}` : null;
+}
+
+/** true quando a data (YYYY-MM-DD ou YYYYMMDD) cai na janela rolante de dias. */
+export function dateWithinWindow(dateStr, days = 30) {
+  const m = /(\d{4})-?(\d{2})-?(\d{2})/.exec(String(dateStr || ''));
+  if (!m) return false;
+  return Date.now() - Date.UTC(+m[1], +m[2] - 1, +m[3]) < days * 86400000;
+}
+
+/** Selo "novo": registro incluído no acervo dentro da janela rolante. */
+export function isRecentlyAdded(record, days = 30) {
+  return dateWithinWindow(addedDateISO(record), days);
+}
