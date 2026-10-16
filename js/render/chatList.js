@@ -72,11 +72,12 @@ function contentSearch(messages, query) {
   return { snippetHtml, hitCount };
 }
 
-/** Inclusões da conversa no último lote inserido (latest_batch do whatsnew.json). */
+/** Inclusões da conversa nos lotes correntes (current_batches do whatsnew.json). */
 function recentCount(threadId) {
   const buckets = whatsNew?.threads?.[threadId];
-  const latest = whatsNew?.latest_batch;
-  return (latest && buckets && buckets[latest]) || 0;
+  const current = whatsNew?.current_batches;
+  if (!buckets || !Array.isArray(current) || !current.length) return 0;
+  return current.reduce((n, label) => n + (buckets[label] || 0), 0);
 }
 
 function itemHtml(entry, pmap, activeId, searchCtx) {

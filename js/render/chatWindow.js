@@ -365,13 +365,12 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   const timeline = buildTimeline({ messages, timeline_events: events });
   filtered = applyFilters(timeline, state.filters);
   const docs = documentMap(await getDocuments());
-  // lote do selo "novo": o mais recente do acervo (build-whatsnew.mjs)
-  let latestBatch = null;
+  // lotes do selo "novo": a última rodada de inclusão (build-whatsnew.mjs)
+  let currentBatches = [];
   try {
-    const raw8 = (await getWhatsNew())?.latest_batch;
-    if (raw8) latestBatch = `${raw8.slice(0, 4)}-${raw8.slice(4, 6)}-${raw8.slice(6, 8)}`;
+    currentBatches = (await getWhatsNew())?.current_batches || [];
   } catch { /* sem artefato: sem selo */ }
-  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, docs, isGroup: raw.participants_ids.length > 2, latestBatch };
+  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, docs, isGroup: raw.participants_ids.length > 2, currentBatches };
 
   // resolução do deep-link
   let banner = '';

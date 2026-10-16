@@ -6,7 +6,7 @@
 // TODO conteúdo dinâmico passa por escapeHtml antes de innerHTML.
 // Ícones: SVGs inline mínimos (sem biblioteca).
 
-import { escapeHtml as esc, escapeAttr, nl2br, timeLabel, formatDateBR, formatDuration, hashHue, addedDateISO } from '../utils.js';
+import { escapeHtml as esc, escapeAttr, nl2br, timeLabel, formatDateBR, formatDuration, hashHue } from '../utils.js';
 import { documentPageUrl } from '../api.js';
 
 const I = {
@@ -178,10 +178,9 @@ function sourceBadgeHtml(m) {
     title="Ver fonte da mensagem (documento e folha)">${I.docSmall}<span>${esc(m.source_ref)}</span></button>`;
 }
 
-/** Selo do último lote inserido no acervo (latest_batch do whatsnew.json). */
+/** Selo dos lotes correntes do acervo (current_batches do whatsnew.json). */
 function newFlagHtml(m, ctx) {
-  const batch = addedDateISO(m);
-  return batch && batch === ctx?.latestBatch
+  return Array.isArray(ctx?.currentBatches) && ctx.currentBatches.includes(m?.added_in)
     ? '<span class="new-flag" title="Registro incluído na última atualização do acervo">novo</span>'
     : '';
 }

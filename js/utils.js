@@ -226,9 +226,3 @@ export function hashHue(text) {
   }
   return h % 360;
 }
-
-/** Data do lote de inclusão (sufixo YYYYMMDD do added_in) como YYYY-MM-DD. */
-export function addedDateISO(record) {
-  const m = /(\d{4})(\d{2})(\d{2})$/.exec(String(record?.added_in || ''));
-  return m ? `${m[1]}-${m[2]}-${m[3]}` : null;
-}
