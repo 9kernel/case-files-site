@@ -686,7 +686,7 @@ a.doc-card:hover { background: #fff; }
 
 .msg-row.in .kind-tag { color: #0E7A6C; }
 
-/* ============ Selo "novo" (inclusão recente ao acervo; apaga sozinho ao envelhecer) ============ */
+/* ============ Selo "novo" (último lote inserido; migra para a próxima rodada) ============ */
 .new-flag {
   display: inline-block;
   flex: 0 0 auto;
@@ -703,11 +703,11 @@ a.doc-card:hover { background: #fff; }
   vertical-align: middle;
 }
 
-/* dentro do rodapé da bolha, junto ao horário */
+/* dentro do rodapé da bolha: sempre o item mais à direita (após hora/checks) */
 .bubble-meta .new-flag {
   font-size: 8.8px;
   padding: 2px 6px 1px;
-  margin: 0 2px 0 0;
+  margin: 0 0 0 4px;
 }
 
 /* bolhas do dono (fundo teal): selo claro translúcido */

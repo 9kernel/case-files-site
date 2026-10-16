@@ -1,7 +1,7 @@
 {
  "generated_at": "2026-10-16",
- "window_days": 7,
- "note": "Inclusões por data de lote (added_in) por conversa — o cliente soma os baldes dentro da janela rolante para o selo \"novo\". pending_review excluído.",
+ "latest_batch": "20261016",
+ "note": "Inclusões por data de lote (added_in) por conversa; latest_batch é o lote mais recente do acervo. O selo \"novo\" acende apenas nos registros do latest_batch. pending_review excluído.",
  "threads": {
   "acm-neto-daniel-vorcaro": {
    "20261016": 17

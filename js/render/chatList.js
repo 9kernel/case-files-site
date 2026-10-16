@@ -5,7 +5,7 @@
 import { getThreadIndex, getParticipants, participantMap, getSearchIndex, getWhatsNew } from '../api.js';
 import { state } from '../state.js';
 import { openProfileDialog, wireProfileDialog } from './profile.js';
-import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml, dateWithinWindow } from '../utils.js';
+import { escapeHtml as esc, normalize, formatDateBR, initials, hashHue, debounce, avatarPhotoHtml } from '../utils.js';
 
 let participants = null;
 let whatsNew = null;
@@ -72,15 +72,11 @@ function contentSearch(messages, query) {
   return { snippetHtml, hitCount };
 }
 
-/** Inclusões da conversa dentro da janela rolante (baldes do whatsnew.json). */
+/** Inclusões da conversa no último lote inserido (latest_batch do whatsnew.json). */
 function recentCount(threadId) {
   const buckets = whatsNew?.threads?.[threadId];
-  if (!buckets) return 0;
-  let n = 0;
-  for (const [date8, count] of Object.entries(buckets)) {
-    if (dateWithinWindow(date8, whatsNew?.window_days || 30)) n += count;
-  }
-  return n;
+  const latest = whatsNew?.latest_batch;
+  return (latest && buckets && buckets[latest]) || 0;
 }
 
 function itemHtml(entry, pmap, activeId, searchCtx) {
@@ -99,7 +95,7 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
     : `<span class="badge-count">${count}</span>`;
   const news = recentCount(entry.id);
   const newChip = news
-    ? `<span class="new-flag" title="${news} registro(s) incluído(s) nos últimos ${whatsNew?.window_days || 30} dias">novo</span>`
+    ? `<span class="new-flag" title="${news} registro(s) incluído(s) na última atualização do acervo">novo</span>`
     : '';
   return `<li>
     <a class="chat-item ${entry.id === activeId ? 'active' : ''}" href="#/thread/${esc(entry.id)}" data-thread-id="${esc(entry.id)}">
