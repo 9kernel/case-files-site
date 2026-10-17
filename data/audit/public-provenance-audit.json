@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-16",
+ "generated_at": "2026-10-17",
  "scope": "todas as threads públicas de data/threads/",
  "summary": {
-  "threads": 60,
-  "records": 995,
-  "ok": 995,
+  "threads": 62,
+  "records": 1105,
+  "ok": 1105,
   "problems": 0,
   "by_category": {
-   "OK_PUBLIC_INVESTIGATION": 540,
+   "OK_PUBLIC_INVESTIGATION": 641,
    "OK_OFFICIAL": 275,
-   "OK_SECONDARY": 180
+   "OK_SECONDARY": 189
   }
  },
  "documents": [
@@ -164,26 +164,6 @@
    "thread": "acm-neto-daniel-vorcaro",
    "message_id": "m-00003",
    "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Revista Oeste"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": null
-  },
-  {
-   "kind": "message",
-   "thread": "acm-neto-daniel-vorcaro",
-   "message_id": "m-00004",
-   "sender_id": "acm-neto",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
    "document_id": null,
@@ -453,6 +433,124 @@
   },
   {
    "kind": "event",
+   "thread": "acm-neto-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alberto-felix-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alberto-felix-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alberto-felix-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alberto-felix-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alberto-felix-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
    "thread": "alberto-felix-daniel-vorcaro",
    "message_id": "e-00001",
    "sender_id": null,
@@ -538,6 +636,28 @@
   {
    "kind": "message",
    "thread": "alexandre-moraes-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL",
+    "Times Brasil",
+    "g1 / Jornal Nacional"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alexandre-moraes-daniel-vorcaro",
    "message_id": "m-00008",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -581,6 +701,28 @@
     "R7 (reproduzido pela Rádio Guaíba)"
    ],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "alexandre-moraes-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL",
+    "Times Brasil",
+    "g1 / Jornal Nacional"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
   {
@@ -996,6 +1138,192 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360",
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00018",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00020",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00021",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00022",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
    "message_id": "m-00004",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
@@ -1035,6 +1363,108 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00024",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Poder360"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00026",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
   {
@@ -1194,6 +1624,171 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00028",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00029",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00030",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Times Brasil/CNBC",
+    "Estadão (reproduzido pelo Terra)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00031",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00032",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Times Brasil/CNBC",
+    "Estadão (reproduzido pelo Terra)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Diário do Centro do Mundo"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Diário do Centro do Mundo"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00035",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Diário do Centro do Mundo"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
    "message_id": "m-00013",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
@@ -1227,6 +1822,219 @@
    "primary_source": null,
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00003",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00004",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "andre-kruschewsky",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "andre-kruschewsky",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "andre-kruschewsky",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "andre-kruschewsky",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -1271,6 +2079,46 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "angelo-silva-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "angelo-silva-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
   {
@@ -1558,6 +2406,48 @@
   {
    "kind": "message",
    "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "m-00013",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "antonio-rueda-daniel-vorcaro",
    "message_id": "m-00010",
    "sender_id": "antonio-rueda",
    "content_kind": "verbatim",
@@ -1596,6 +2486,100 @@
    "reason": null
   },
   {
+   "kind": "message",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "e-00003",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "e-00004",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
    "kind": "event",
    "thread": "antonio-rueda-daniel-vorcaro",
    "message_id": "e-00001",
@@ -1614,6 +2598,24 @@
    "reason": null
   },
   {
+   "kind": "event",
+   "thread": "antonio-rueda-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
    "kind": "message",
    "thread": "augusto-lima-daniel-vorcaro",
    "message_id": "m-00001",
@@ -1628,7 +2630,8 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "Veja"
+    "Veja",
+    "UOL — coluna Cezar Feitoza"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -3838,6 +4841,86 @@
   {
    "kind": "message",
    "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00035",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00036",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
    "message_id": "m-00008",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -4346,6 +5429,24 @@
   {
    "kind": "event",
    "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabiano-zettel-daniel-vorcaro",
    "message_id": "e-00001",
    "sender_id": null,
    "content_kind": "editorial_context",
@@ -4419,6 +5520,24 @@
    "kind": "event",
    "thread": "fabiano-zettel-daniel-vorcaro",
    "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "e-00007",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "secondary_source",
@@ -5357,6 +6476,220 @@
   },
   {
    "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabio-medina-osorio-daniel-vorcaro",
+   "message_id": "e-00003",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
    "thread": "felipe-mourao-daniel-vorcaro",
    "message_id": "m-00001",
    "sender_id": "felipe-mourao",
@@ -5441,6 +6774,66 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00088",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00089",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00090",
+   "sender_id": "felipe-mourao",
+   "content_kind": "forwarded_message",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha de S.Paulo — C-Level (José Marques)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
   {
@@ -7376,6 +8769,126 @@
   {
    "kind": "message",
    "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00010",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
    "message_id": "m-00001",
    "sender_id": "fernando-mascarenhas",
    "content_kind": "verbatim_excerpt",
@@ -7411,6 +8924,46 @@
    "secondary_sources": [
     "UOL — coluna Cezar Feitoza",
     "Vespeiro (resenha da reportagem do UOL)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "fernando-mascarenhas-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -8069,6 +9622,24 @@
    "primary_source": null,
    "secondary_sources": [],
    "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "flavio-bolsonaro-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -10005,6 +11576,242 @@
     "UOL (Renata Agostini e Tiago Dantas)"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00010",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "guilherme-barros-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -12184,26 +13991,6 @@
   {
    "kind": "message",
    "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00021",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": null
-  },
-  {
-   "kind": "message",
-   "thread": "julio-cezar-daniel-vorcaro",
    "message_id": "m-00022",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -12244,27 +14031,7 @@
   {
    "kind": "message",
    "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00024",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": null
-  },
-  {
-   "kind": "message",
-   "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00025",
+   "message_id": "m-00033",
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -12276,7 +14043,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "Veja"
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -12284,8 +14051,28 @@
   {
    "kind": "message",
    "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00026",
-   "sender_id": "daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "julio-cezar",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "julio-cezar-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
    "document_id": null,
@@ -14096,6 +15883,108 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00013",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
    "message_id": "m-00002",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -14130,6 +16019,152 @@
    "secondary_sources": [
     "CNN Brasil",
     "Folha de S.Paulo (coluna Mônica Bergamo)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00018",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00020",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00021",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00022",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão",
+    "Brasil 247 (transcrições do Estadão)"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
@@ -14275,6 +16310,82 @@
     "CNN Brasil",
     "Folha de S.Paulo (coluna Mônica Bergamo)"
    ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00023",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00024",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": null
   },
@@ -17089,6 +19200,66 @@
   {
    "kind": "message",
    "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "paulo-sergio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Revista piauí — \"Os vestígios da noite\""
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
    "message_id": "m-00001",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -18518,6 +20689,24 @@
    "primary_source": null,
    "secondary_sources": [],
    "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "thiago-miranda-daniel-vorcaro",
+   "message_id": "e-00003",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {

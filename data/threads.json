@@ -6,10 +6,11 @@
    "daniel-vorcaro",
    "acm-neto"
   ],
-  "message_count": 13,
+  "message_count": 12,
   "last_message_preview": "Depois, confirma o horário e o local que falamos",
   "featured": false,
-  "note": "Revista Oeste, 02/10/2026 — Isabela Jordão: diálogos obtidos pela PF no celular de Vorcaro registram encontros, troca de elogios e articulações com o então deputado ACM Neto (União Brasil-BA) e com An"
+  "note": "Revista Oeste, 02/10/2026 — Isabela Jordão: diálogos obtidos pela PF no celular de Vorcaro registram encontros, troca de elogios e articulações com o então deputado ACM Neto (União Brasil-BA) e com Antônio Rueda. UOL (16/10/2026) relata articulação nas previdências; ACM nega irregularidades. Registro familiar de jul/2024 minimizado por privacidade (evento).",
+  "last_message_date": "2024-10-31"
  },
  {
   "id": "alberto-felix-daniel-vorcaro",
@@ -18,11 +19,11 @@
    "daniel-vorcaro",
    "alberto-felix"
   ],
-  "message_count": 0,
-  "last_message_date": null,
-  "last_message_preview": "",
+  "message_count": 5,
+  "last_message_date": "2025-02-28",
+  "last_message_preview": "Como assim Alberto. Estava 800. Vocês piraram.",
   "featured": false,
-  "note": "Orientações de pagamento ao escritório (incluindo proibição de PIX).",
+  "note": "Tesouraria do Master: comissão do Amapá e operações de previdências (jul–ago/2024); uso do compulsório informado em 28/02/2025. Orientações de pagamento ao escritório (incluindo proibição de PIX).",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -36,7 +37,7 @@
    "daniel-vorcaro",
    "alexandre-moraes"
   ],
-  "message_count": 7,
+  "message_count": 9,
   "last_message_preview": "Acho que pode inibir.",
   "featured": true,
   "note": "Pedidos do banqueiro ao ministro do STF. Mensagens localizadas no documento da PF (IPJ-A nº 3298613/2026, PET 16662/STF), revelado pelo R7 após desclassificação de André Mendonça (01/09/2026). Só o lado de Vorcaro sobreviveu (mensagens temporárias de 24h no outro aparelho).",
@@ -72,15 +73,33 @@
    "daniel-vorcaro",
    "ana-matos"
   ],
-  "message_count": 13,
-  "last_message_date": "2025-07-22",
-  "last_message_preview": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divi",
+  "message_count": 35,
+  "last_message_date": "2025-09-01",
+  "last_message_preview": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo n",
   "featured": false,
-  "note": "Organização dos Fóruns de Londres: listas, convites e reclamações atribuídas a “Alexandre”.",
+  "note": "Fóruns de Londres; produção de conteúdo com influenciadores (incl. Gabriela Prioli, que nega contrato, contato e pagamento — ver evento de 16/10/2026) e recepção de Eduardo Oinegue em 01/09/2025.",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
    "pages": "Cópia pública (reprodução jornalística) do documento oficial da PF; página e figura citadas em cada mensagem."
+  }
+ },
+ {
+  "id": "andre-kruschewsky-daniel-vorcaro",
+  "title": "André Kruschewsky",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "andre-kruschewsky"
+  ],
+  "message_count": 6,
+  "last_message_date": "2024-09-05",
+  "last_message_preview": "Porra eu tinha mandado esperar. Todo mundo presonontem. Esse",
+  "featured": false,
+  "note": "Ex-diretor jurídico do Master (segundo o Brasil 247). Assinatura do MOU da bet.bet e do fundo Oracle (05/09/2024), com reação contrariada de Vorcaro. Memorando não comprova investimento nem sociedade formal.",
+  "source": {
+   "document": "Estadão (16/10/2026), transcrições reproduzidas pelo Brasil 247",
+   "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/",
+   "pages": "Mensagens conforme transcrições das reportagens; manifestações e contexto em eventos editoriais."
   }
  },
  {
@@ -90,9 +109,9 @@
    "daniel-vorcaro",
    "angelo-silva"
   ],
-  "message_count": 5,
-  "last_message_date": "2024-03-15",
-  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq outra vinculação.",
+  "message_count": 7,
+  "last_message_date": "2025-02-28",
+  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq",
   "featured": false,
   "note": "Comprovantes e execução dos pagamentos ao Escritório Barci de Moraes.",
   "source": {
@@ -108,16 +127,16 @@
    "daniel-vorcaro",
    "antonio-rueda"
   ],
-  "message_count": 11,
-  "last_message_preview": "Irmão minha filha é minha esposa pode pegar uma carona c vc?",
+  "message_count": 15,
+  "last_message_preview": "PH precisando falar c vc",
   "featured": false,
-  "note": null,
+  "note": "Presidente nacional do União Brasil. Jatinhos e hotel; captações de previdências com pedido de apagamento de mensagens (12/07/2024); lançamento da bet.bet (jun/2024). Nota dele registrada em evento.",
   "source": {
    "document": "UOL / O Globo — “Mensagens mostram Vorcaro cedendo avião a Rueda em viagem a Miami e colocando aeronave à disposição” (01/10/2026)",
    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm",
    "pages": "Reportagem do UOL com base no jornal O Globo (01/10/2026). Erros de digitação mantidos conforme divulgados. A menção de Vorcaro e Ana Matos a Rueda em evento de Londres (18/07/2025) está documentada no IPJ-A nº 3298613/2026 (peça pública) e aparece na thread de Ana Matos. Horários não divulgados."
   },
-  "last_message_date": "2024-06-13"
+  "last_message_date": "2024-07-12"
  },
  {
   "id": "augusto-lima-daniel-vorcaro",
@@ -240,10 +259,11 @@
    "daniel-vorcaro",
    "fabiano-zettel"
   ],
-  "message_count": 32,
+  "message_count": 36,
   "last_message_preview": "acho que tem que ser os dois",
   "featured": false,
-  "note": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53)."
+  "note": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53).",
+  "last_message_date": "2025-03-12"
  },
  {
   "id": "fabio-faria-daniel-vorcaro",
@@ -264,16 +284,35 @@
   }
  },
  {
+  "id": "fabio-medina-osorio-daniel-vorcaro",
+  "title": "Fábio Medina Osório",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "fabio-medina-osorio"
+  ],
+  "message_count": 8,
+  "last_message_date": "2024-02-15",
+  "last_message_preview": "Vamos cuidar disso. O procurador sabe a quantidade de amigos",
+  "featured": false,
+  "note": "Advogado. Mensagens de 15/02/2024 sobre inquérito sigiloso envolvendo Nelson Tanure: propostas de cooperação com o MPF “em roupagem de compliance”. Sua manifestação (recebeu o material de um jornalista e sugeriu cooperação) registrada em evento.",
+  "source": {
+   "document": "Folha de S.Paulo — C-Level (José Marques), 16/10/2026, 23h",
+   "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml",
+   "pages": "Mensagens conforme transcrição da reportagem; o inquérito sigiloso não é reproduzido nem armazenado."
+  }
+ },
+ {
   "id": "felipe-mourao-daniel-vorcaro",
   "title": "Felipe Mourão",
   "participants_ids": [
    "daniel-vorcaro",
    "felipe-mourao"
   ],
-  "message_count": 87,
+  "message_count": 90,
   "last_message_preview": "Maurício Correlatos.pdf",
   "featured": false,
-  "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos."
+  "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos.",
+  "last_message_date": "2025-07-28"
  },
  {
   "id": "fernando-mascarenhas-daniel-vorcaro",
@@ -282,10 +321,11 @@
    "daniel-vorcaro",
    "fernando-mascarenhas"
   ],
-  "message_count": 4,
+  "message_count": 12,
   "last_message_preview": "Show",
   "featured": false,
-  "note": "UOL (coluna Cezar Feitoza, 12/10/2026), resenhado pelo Vespeiro: mensagens entre Vorcaro e Fernando Mascarenhas, então diretor comercial do Master, sobre a inclusão do banco na lista de instituições a"
+  "note": "Então diretor comercial do Master: captações de previdências estaduais (nov/2023–jul/2024), viagens articuladas com Rueda e a inclusão do Master na lista de RPPS (abr–mai/2024).",
+  "last_message_date": "2024-07-12"
  },
  {
   "id": "flavio-bolsonaro-daniel-vorcaro",
@@ -368,10 +408,16 @@
    "daniel-vorcaro",
    "guilherme-barros"
   ],
-  "message_count": 1,
-  "last_message_preview": "A Lilian gostou muito de vc. Foi muito bom ter te colocado com o Luis Estevão. Eu te",
+  "message_count": 11,
+  "last_message_preview": "amigo, vc merece muito, vamos ajustar",
   "featured": false,
-  "note": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagem do então consultor de Vorcaro relatando a"
+  "note": "Então assessor de Vorcaro. Sequência de agosto/2024 sobre reportagem da Folha: Metrópoles afirma pagamento de R$ 1 milhão para adiar/amenizar; a Folha nega e Barros defende seu trabalho — versões contraditórias registradas em eventos.",
+  "last_message_date": "2024-08-09",
+  "source": {
+   "document": "Metrópoles (16/10/2026) e UOL (15/10/2026)",
+   "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo",
+   "pages": "Mensagens conforme transcrição do Metrópoles; respostas da Folha e nota de Barros em eventos editoriais."
+  }
  },
  {
   "id": "guilherme-sodre-daniel-vorcaro",
@@ -494,10 +540,11 @@
    "daniel-vorcaro",
    "julio-cezar"
   ],
-  "message_count": 32,
-  "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!",
+  "message_count": 31,
+  "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da",
   "featured": false,
-  "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo"
+  "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo",
+  "last_message_date": "2025-11"
  },
  {
   "id": "leonardo-palhares-daniel-vorcaro",
@@ -566,11 +613,11 @@
    "daniel-vorcaro",
    "luiz-renno"
   ],
-  "message_count": 10,
-  "last_message_date": "2024-04-19",
-  "last_message_preview": "Esse aí. Único 'meu' que faltou",
+  "message_count": 24,
+  "last_message_date": "2025-08-08",
+  "last_message_preview": "Rueda seria nosso cara! Precisaria ter entrado no banco mais",
   "featured": false,
-  "note": "“Evento super exclusivo com alexandre de moraes em londres”.",
+  "note": "Tratativas da bet.bet e do fundo Oracle (set–out/2024): aportes, beneficiário final e pleito de diretorias; precatórios e previdências. Participação nas tratativas não comprova sociedade formal.",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
@@ -722,11 +769,11 @@
    "daniel-vorcaro",
    "paulo-sergio"
   ],
-  "message_count": 1,
+  "message_count": 4,
   "last_message_date": "2025-03-19",
   "last_message_preview": "com Moraes aqui",
   "featured": false,
-  "note": "Diretor do Banco Central: “com Moraes aqui”.",
+  "note": "Diretor do Banco Central (segundo o IPJ-A). Em 28/02/2025, questiona uso de R$ 800 milhões do compulsório; em 19/03/2025, Vorcaro escreve que está “com Moraes aqui”.",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",

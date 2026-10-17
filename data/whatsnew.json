@@ -1,18 +1,21 @@
 {
- "generated_at": "2026-10-16",
+ "generated_at": "2026-10-17",
  "current_batches": [
-  "ingest-press7-20261016"
+  "audit-20261017"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
   "acm-neto-daniel-vorcaro": {
-   "ingest-press3-20261016": 17
+   "ingest-press3-20261016": 16,
+   "audit-20261017": 1
   },
   "alberto-felix-daniel-vorcaro": {
+   "audit-20261017": 5,
    "ingest-ipja-20261006": 2
   },
   "alexandre-moraes-daniel-vorcaro": {
    "ingest-bm-r7-20261006": 10,
+   "audit-20261017": 2,
    "ingest-ipja-20261006": 10
   },
   "ana-claudia-financeiro-daniel-vorcaro": {
@@ -21,15 +24,21 @@
   },
   "ana-matos-daniel-vorcaro": {
    "ingest-press4-20261016": 3,
+   "audit-20261017": 25,
    "ingest-ipja-20261006": 10,
    "audit-fix2-20261016": 1
   },
+  "andre-kruschewsky-daniel-vorcaro": {
+   "audit-20261017": 8
+  },
   "angelo-silva-daniel-vorcaro": {
    "ingest-ipja-20261006": 4,
+   "audit-20261017": 2,
    "ingest-pf2-20261007": 3
   },
   "antonio-rueda-daniel-vorcaro": {
-   "ingest-imprensa-20261011": 12
+   "ingest-imprensa-20261011": 12,
+   "audit-20261017": 8
   },
   "augusto-lima-daniel-vorcaro": {
    "ingest-press5-20261016": 4,
@@ -60,6 +69,7 @@
   "fabiano-zettel-daniel-vorcaro": {
    "ingest-press2-20261016": 5,
    "ingest-pf-20261007": 8,
+   "audit-20261017": 6,
    "ingest-press7-20261016": 24
   },
   "fabio-faria-daniel-vorcaro": {
@@ -67,17 +77,23 @@
    "ingest-press5-20261016": 6,
    "ingest-press6-20261016": 11
   },
+  "fabio-medina-osorio-daniel-vorcaro": {
+   "audit-20261017": 11
+  },
   "felipe-mourao-daniel-vorcaro": {
    "ingest-pf-20261007": 88,
+   "audit-20261017": 3,
    "ingest-press4-20261016": 4,
    "privacy-20261007": 1
   },
   "fernando-mascarenhas-daniel-vorcaro": {
+   "audit-20261017": 8,
    "ingest-press-20261015": 6
   },
   "flavio-bolsonaro-daniel-vorcaro": {
    "ingest-bm-piaui-20261006": 27,
-   "ingest-press2-20261016": 2
+   "ingest-press2-20261016": 2,
+   "audit-20261017": 1
   },
   "flavio-carneiro-daniel-vorcaro": {
    "ingest-press4-20261016": 14,
@@ -95,7 +111,8 @@
    "ingest-press-grupo-20261015": 9
   },
   "guilherme-barros-daniel-vorcaro": {
-   "audit-fix2-20261016": 1
+   "audit-fix2-20261016": 1,
+   "audit-20261017": 12
   },
   "guilherme-sodre-daniel-vorcaro": {
    "ingest-press-20261015": 4
@@ -124,8 +141,9 @@
    "ingest-press5-20261016": 9
   },
   "julio-cezar-daniel-vorcaro": {
-   "ingest-press-20261015": 28,
-   "ingest-press5-20261016": 8
+   "ingest-press-20261015": 25,
+   "ingest-press5-20261016": 8,
+   "audit-20261017": 2
   },
   "leonardo-palhares-daniel-vorcaro": {
    "ingest-ipja-20261006": 19
@@ -143,6 +161,7 @@
   },
   "luiz-renno-daniel-vorcaro": {
    "ingest-ipja-20261006": 1,
+   "audit-20261017": 16,
    "ingest-press2-20261016": 8,
    "ingest-press6-20261016": 3,
    "ingest-press3-20261016": 2
@@ -178,6 +197,7 @@
    "audit-fix-20261016": 35
   },
   "paulo-sergio-daniel-vorcaro": {
+   "audit-20261017": 3,
    "ingest-ipja-20261006": 1
   },
   "roberto-campos-neto-daniel-vorcaro": {
@@ -194,7 +214,8 @@
   },
   "thiago-miranda-daniel-vorcaro": {
    "ingest-bm-piaui-20261006": 34,
-   "ingest-press7-20261016": 7
+   "ingest-press7-20261016": 7,
+   "audit-20261017": 1
   },
   "tiago-polo-daniel-vorcaro": {
    "ingest-press4-20261016": 4

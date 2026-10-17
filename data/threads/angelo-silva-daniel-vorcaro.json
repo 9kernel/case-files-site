@@ -109,6 +109,78 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
+   "id": "m-00006",
+   "date": "2025-02-28",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Demite Alberto. Vamos voltar eu e você e tentar salvar.",
+   "editorial_note": "Sobre Alberto Felix e o uso do compulsório; somente o diálogo financeiro é reproduzido, conforme a reportagem da piauí.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí — \"Os vestígios da noite\"",
+      "date": "2026-10-15",
+      "url": "https://piaui.uol.com.br/web/kassio-vorcaro-triplex-noite/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Revista piauí (2026-10-15)",
+   "added_in": "audit-20261017",
+   "time": "20:26",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-02-28",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O cara deixou o banco com -1.250.",
+   "editorial_note": "Referência a R$ 1,25 bilhão em compulsório utilizado, segundo a reportagem; horário não divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí — \"Os vestígios da noite\"",
+      "date": "2026-10-15",
+      "url": "https://piaui.uol.com.br/web/kassio-vorcaro-triplex-noite/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Revista piauí (2026-10-15)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00003",
    "date": null,
    "sender_id": "angelo-silva",

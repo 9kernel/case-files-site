@@ -285,6 +285,150 @@
    "added_in": "ingest-pf-20261007"
   },
   {
+   "id": "m-00033",
+   "date": "2024-10",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Marcos Moura (ACM) me chamando. O que eu faço?",
+   "editorial_note": "Na semana seguinte ao encontro com ACM Neto na charutaria de São Paulo, segundo o UOL; Marcos Moura é identificado pela reportagem como assessor de ACM Neto.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-10",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pega com Gustavo\nE Minas",
+   "editorial_note": "Encaminhamento a “Gustavo” e a “Minas” — interlocutores não identificados com segurança pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-10",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cara do ACM está aqui em SP na minha cola",
+   "editorial_note": "Nos dias seguintes, segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-10",
+   "sender_id": "fabiano-zettel",
+   "content_kind": "verbatim_excerpt",
+   "content": "Gustavo me encontrou. Minas tenho que buscar também?",
+   "editorial_note": "Nos dias seguintes, segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
    "id": "m-00008",
    "date": "2025-01",
    "sender_id": "fabiano-zettel",
@@ -1190,6 +1334,39 @@
  ],
  "timeline_events": [
   {
+   "id": "e-00006",
+   "date": "2024-10",
+   "content": "ACM Neto pede a Vorcaro uma conversa “eu, você e Rueda” e o encontro na charutaria ocorre em outubro/2024; nove dias depois, ACM escreve que “saiu tudo como desejávamos na política” (ver thread de ACM Neto), segundo o UOL.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month"
+  },
+  {
    "id": "e-00001",
    "date": "2025-02-11",
    "content": "Zettel relata que o câmbio recusava a operação por cadastro e que 'as informações são meio estranhas…' — obstáculos cambiais descritos pela reportagem.",
@@ -1343,6 +1520,39 @@
    },
    "source_ref": "Relato de CartaCapital (2026-09-21)",
    "added_in": "ingest-press7-20261016"
+  },
+  {
+   "id": "e-00007",
+   "date": "2026-10-16",
+   "content": "Dark Horse — resposta do liquidante à Câmara: em resposta a pedido de informação do deputado Lindbergh Farias (PT-RJ), o liquidante da massa do Master, Eduardo Bianchini, informou que “não foram encontrados documentos, registros contábeis ou contratuais” que evidenciem operações de “financiamento, patrocínio ou aporte de recursos” ao filme — diretos ou via terceiros —, “nos limites das informações examinadas”; tampouco registros de operações das instituídas com o fundo Havengate Development Fund LP ligadas ao filme. A reportagem relata que a PF rastreou repasses de R$ 62 milhões ao filme via Entre Investimentos e que, segundo a coluna, em declaração à PF o delator conhecido como Mineiro relatou que o pedido de remessa partiu de Zettel, apresentado como subscrição em fundo de private equity imobiliário nos EUA — versão em que Mineiro diz não ter sido informado do destino ao filme. A origem final dos recursos permanece sem explicação; o ofício do liquidante não foi localizado na forma original (número e data não divulgados), por isso o registro é secondary_source.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — coluna Mônica Bergamo",
+      "date": "2026-10-16",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/dinheiro-pedido-por-flavio-a-vorcaro-para-dark-horse-nao-saiu-de-patrocinio-do-banco-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
   }
  ]
 }

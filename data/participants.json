@@ -224,11 +224,11 @@
   "id": "ana-matos",
   "name": "Ana Matos",
   "photo": null,
-  "role": "Funcionária de Vorcaro (eventos)",
+  "role": "Diretora de marketing de Vorcaro; organização dos Fóruns de Londres",
   "aliases": [
    "Ana Matos Mkt"
   ],
-  "summary": "Funcionária de Vorcaro, contato salvo como “Ana Matos Mkt”. Segundo o IPJ-A, tratou da organização dos Fóruns de Londres (2024 e 2025, o segundo cancelado), incluindo listas de convidados e passagens.",
+  "summary": "Funcionária de Vorcaro, contato salvo como “Ana Matos Mkt”. Segundo o IPJ-A, tratou da organização dos Fóruns de Londres (2024 e 2025, o segundo cancelado), incluindo listas de convidados e passagens. Reportagens de outubro/2026 (Estadão/Terra, Times Brasil, Poder360) relatam que tratava também da produção de conteúdo com influenciadores — entre eles Gabriela Prioli, que nega publicamente qualquer contrato, contato ou pagamento — e da recepção do jornalista Eduardo Oinegue em 01/09/2025.",
   "profile_sources": [
    {
     "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
@@ -397,7 +397,7 @@
   "aliases": [
    "Sicário"
   ],
-  "summary": "Apelidado de 'Sicário' nas conversas, conforme registra o relatório. A PF atribui a ele a execução de demandas de Vorcaro junto ao núcleo que o documento chama de 'Os Meninos'. Perfil resumido exclusivamente a partir dos documentos linkados; não constitui acusação nem conclusão sobre responsabilidade individual."
+  "summary": "Apelidado de 'Sicário' nas conversas, conforme registra o relatório. A PF atribui a ele a execução de demandas de Vorcaro junto ao núcleo que o documento chama de 'Os Meninos'. Perfil resumido exclusivamente a partir dos documentos linkados; não constitui acusação nem conclusão sobre responsabilidade individual. A Folha (C-Level, 16/10/2026) o identifica como Luiz Phillipi Machado de Moraes Mourão, referido na reportagem como “o Sicário”, e registra que morreu em março/2026 em cela da PF em Minas Gerais."
  },
  {
   "id": "walfrido-warde",
@@ -865,5 +865,42 @@
   "role": "Consultor; então assessor de Vorcaro",
   "aliases": [],
   "summary": "Consultor de Vorcaro em 2024; apresentou o banqueiro a Lilian Tahan e sugeriu o contato com Luiz Estevão, conforme mensagem publicada pelo UOL (15/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "fabio-medina-osorio",
+  "name": "Fábio Medina Osório",
+  "photo": null,
+  "role": "Advogado",
+  "aliases": [
+   "Medina Osório"
+  ],
+  "summary": "Advogado que, segundo a Folha (C-Level, 16/10/2026), trocou mensagens com Vorcaro em 15/02/2024 sobre um inquérito sigiloso envolvendo Nelson Tanure e o Master. Afirma ter recebido a cópia do inquérito de um jornalista e sugerido a Vorcaro cooperação com o Ministério Público — recusada, segundo sua nota. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "Folha de S.Paulo — C-Level (José Marques), 16/10/2026",
+    "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+   }
+  ]
+ },
+ {
+  "id": "andre-kruschewsky",
+  "name": "André Kruschewsky",
+  "photo": null,
+  "role": "Ex-diretor jurídico do Banco Master (segundo o Brasil 247)",
+  "aliases": [
+   "Kruschewsky",
+   "André"
+  ],
+  "summary": "Ex-diretor jurídico do Banco Master, conforme o Brasil 247 ao reproduzir transcrições do Estadão (16/10/2026). Nas mensagens de 05/09/2024, comunica a Vorcaro a assinatura do memorando de entendimentos da plataforma de apostas bet.bet e do fundo Oracle. Não é o presidente do União Brasil citado na manchete do Estadão — a reportagem se refere a Antônio Rueda. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "Estadão — Diálogos de Vorcaro citam parceria com presidente do União Brasil em bet (16/10/2026)",
+    "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+   },
+   {
+    "label": "Brasil 247 — transcrições reproduzidas (16/10/2026)",
+    "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+   }
+  ]
  }
 ]

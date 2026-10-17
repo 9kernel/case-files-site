@@ -1087,6 +1087,39 @@
    },
    "source_ref": "Relato de Revista piauí (2026-10-01)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": "2026-10-16",
+   "content": "Dark Horse — resposta do liquidante à Câmara: em resposta a pedido do deputado Lindbergh Farias, o liquidante do Master, Eduardo Bianchini, informou que “não foram encontrados documentos, registros contábeis ou contratuais” que evidenciem financiamento, patrocínio ou aporte institucional das instituições liquidadas ao filme, “nos limites das informações examinadas”. A coluna registra que Flávio Bolsonaro, que pediu o patrocínio a Vorcaro, descreve a operação como transação privada de patrocínio, sem apresentar contrato formal; sua assessoria afirma que ele apenas captou o patrocínio junto a Vorcaro e não participou nem foi informado sobre a forma dos pagamentos. A PF rastreou R$ 62 milhões ao filme via Entre Investimentos; a origem final permanece sem explicação — a ausência de registros na massa não identifica a origem dos recursos. Ofício original não localizado (número e data não divulgados) — registro secondary_source.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — coluna Mônica Bergamo",
+      "date": "2026-10-16",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/10/dinheiro-pedido-por-flavio-a-vorcaro-para-dark-horse-nao-saiu-de-patrocinio-do-banco-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
   }
  ]
 }

@@ -19,7 +19,7 @@
    "sender_id": "augusto-lima",
    "content_kind": "verbatim_excerpt",
    "content": "Entramos na lista exaustiva. Resolvido",
-   "editorial_note": "Sobre a inclusão do Banco Master na lista de bancos autorizados a operar com recursos de fundos de pensão e RPPS; no mesmo dia, segundo a reportagem, Júlio Cezar cobrou de Vorcaro o adiantamento de R$ 500 mil.",
+   "editorial_note": "Sobre a inclusão do Banco Master na lista de bancos autorizados a operar com recursos de fundos de pensão e RPPS; no mesmo dia, segundo a reportagem, Júlio Cezar cobrou de Vorcaro o adiantamento de R$ 500 mil. [Correção 17/10/2026: declaração atribuída ao remetente em 29/04/2024 — não comprova a data da publicação oficial da lista, cuja atualização foi publicada em 02/05/2024, conforme o UOL (coluna Cezar Feitoza, 12/10/2026).]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -31,7 +31,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
+    "verified_at": "2026-10-17",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -41,6 +41,11 @@
       "publication": "Veja",
       "date": "2026-10-09",
       "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     },
+     {
+      "publication": "UOL — coluna Cezar Feitoza",
+      "date": "2026-10-12",
+      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.ghtm"
      }
     ]
    },

@@ -112,6 +112,52 @@
    }
   },
   {
+   "id": "m-00011",
+   "date": "2025-11-15",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "To achando que é melhor eu sair do país um tempo. O que vc acha?",
+   "editorial_note": "Dois dias antes da prisão de Vorcaro (18/11/2025); mensagem do celular de Vorcaro constante do relatório da PF, sem página/figura divulgadas pelas reportagens. A resposta do ministro não foi recuperada (mensagens temporárias de 24h) — não é inferido que o pedido tenha sido respondido ou atendido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-indicam-que-vorcaro-consultou-moraes-sobre-risco-de-prisao.ghtm"
+     },
+     {
+      "publication": "Times Brasil",
+      "date": "2026-09-01",
+      "url": "https://timesbrasil.com.br/brasil/judiciario/vorcaro-moraes-mensagens-prisao/"
+     },
+     {
+      "publication": "g1 / Jornal Nacional",
+      "date": "2026-09-01",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/01/dois-dias-antes-de-ser-preso-vorcaro-perguntou-a-moraes-se-tinha-que-deixar-o-brasil-revela-relatorio-da-pf.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL e Times Brasil e g1 / Jornal Nacional (2026-09-01)",
+   "added_in": "audit-20261017",
+   "time": "20:07",
+   "timestamp_precision": "minute"
+  },
+  {
    "id": "m-00008",
    "date": "2025-11-15",
    "time": "22:12",
@@ -210,6 +256,52 @@
     "page": 129,
     "figure": 128
    }
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-11-16",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Existe chance de ter operação policial amanhã de manhã?",
+   "editorial_note": "Véspera da deflagração da Operação Compliance Zero (17/11/2025); horário não divulgado. A resposta do ministro não foi recuperada — não é inferido que o pedido tenha sido respondido ou atendido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-01",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/01/mensagens-indicam-que-vorcaro-consultou-moraes-sobre-risco-de-prisao.ghtm"
+     },
+     {
+      "publication": "Times Brasil",
+      "date": "2026-09-01",
+      "url": "https://timesbrasil.com.br/brasil/judiciario/vorcaro-moraes-mensagens-prisao/"
+     },
+     {
+      "publication": "g1 / Jornal Nacional",
+      "date": "2026-09-01",
+      "url": "https://g1.globo.com/jornal-nacional/noticia/2026/09/01/dois-dias-antes-de-ser-preso-vorcaro-perguntou-a-moraes-se-tinha-que-deixar-o-brasil-revela-relatorio-da-pf.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL e Times Brasil e g1 / Jornal Nacional (2026-09-01)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00009",

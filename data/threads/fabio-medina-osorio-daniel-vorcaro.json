@@ -1,0 +1,404 @@
+{
+ "id": "fabio-medina-osorio-daniel-vorcaro",
+ "title": "Fábio Medina Osório",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "fabio-medina-osorio"
+ ],
+ "source": {
+  "document": "Folha de S.Paulo (C-Level, José Marques), 16/10/2026, 23h: mensagens de 15/02/2024 entre o advogado Fábio Medina Osório e Vorcaro sobre um inquérito sigiloso envolvendo Nelson Tanure e o Master, extraídas pela PF e divulgadas pela reportagem. O advogado afirma ter recebido o material de um jornalista e sugerido cooperação com o MPF.",
+  "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml",
+  "pages": "Mensagens conforme transcrição da reportagem; nada além do que foi divulgado é inferido. O inquérito sigiloso não é reproduzido, armazenado nem linkado neste arquivo."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "um assunto preocupante",
+   "editorial_note": "Após chamada telefônica com Vorcaro, diz ter detectado o caso; na sequência envia um resumo e depois os autos integrais do inquérito, segundo a reportagem. Os autos sigilosos não são reproduzidos nem armazenados neste arquivo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso ir lá e me apresentar como responsável por teu compliance",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quem coopera não tem razão para sofrer medidas cautelares",
+   "editorial_note": "Na sequência, propõe preparar uma lista de documentos a apresentar ao MPF como forma de cooperação, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou pensar num check list de documentos",
+   "editorial_note": "Checklist a ser proposto ao MPF e submetido ao crivo de Vorcaro, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não vejo risco nessa semana. Fica tranquilo",
+   "editorial_note": "Avalia que ainda não haveria elementos reunidos, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quando nos antecipamos, e cooperamos, esvaziamos a cautelar",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "E ainda por cima em roupagem de compliance.",
+   "editorial_note": "Continuação do raciocínio de cooperação preventiva, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-02-15",
+   "sender_id": "fabio-medina-osorio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos cuidar disso. O procurador sabe a quantidade de amigos que tenho no MPF",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-02-15",
+   "content": "Às 11h36, um advogado não identificado pela reportagem envia a Vorcaro: “Compliance do Master pediu informações sobre processos. Desse não temos notícia” — primeira menção ao inquérito que atravessa as conversas do dia. Um minuto depois, Vorcaro encaminha o caso a Felipe Mourão. A Folha não atribui esta mensagem a Fábio Medina Osório.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": "11:36",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-02-15",
+   "content": "Vorcaro propõe reunião por videoconferência com Osório e pede que ele ainda não faça contato com terceiros, segundo a reportagem — sem transcrição literal divulgada.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Manifestação de Fábio Medina Osório à reportagem: afirma ter recebido a cópia do inquérito de um jornalista, tê-la repassado a Vorcaro e sugerido que cooperasse com o Ministério Público — cooperação que Vorcaro teria recusado, encerrando o assunto. Diz ter tomado conhecimento da atuação de Felipe Mourão no episódio somente com a publicação da reportagem. A defesa de Nelson Tanure (advogado Pablo Naves Testoni) afirma desconhecer o contexto das mensagens entre terceiros e nega irregularidades na operação debatida. As mensagens, por si só, não comprovam participação criminosa do advogado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017"
+  }
+ ]
+}

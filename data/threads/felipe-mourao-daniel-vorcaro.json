@@ -184,6 +184,118 @@
    "added_in": "ingest-pf-20261007"
   },
   {
+   "id": "m-00088",
+   "date": "2024-02-15",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dá uma olhada urgente pra mim",
+   "editorial_note": "Enviada com o número de um inquérito sigiloso envolvendo Nelson Tanure e o Master, não reproduzido na reportagem; um minuto após um advogado não identificado enviar a Vorcaro menção ao caso, conforme a Folha. A interpretação investigativa de acesso indevido a sistemas é da reportagem e da PF, não das mensagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": "11:37",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00089",
+   "date": "2024-02-15",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim",
+   "content": "Agora",
+   "editorial_note": "Resposta direta de Mourão; horário não divulgado. Na reportagem da Folha, Mourão é referido pelo codinome “o Sicário”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00090",
+   "date": "2024-02-15",
+   "sender_id": "felipe-mourao",
+   "content_kind": "forwarded_message",
+   "content": "Já estou em contato com a tropa aqui. A gente vai dar uma atenção especial nessa situação aí",
+   "editorial_note": "Mensagem encaminhada por Mourão e atribuída pela reportagem à sua rede de contatos — que incluiria um policial federal aposentado e um da ativa, alvos da Operação Compliance Zero. A autoria nominal do texto original não foi identificada: não é fala comprovada de Mourão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo — C-Level (José Marques)",
+      "date": "2026-10-16",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-acessou-inquerito-sigiloso-sobre-tanure-e-acionou-espioes-indicam-mensagens.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date",
+   "forwarded_attribution": {
+    "name": null,
+    "verified_direct_contact": false
+   }
+  },
+  {
    "id": "m-00005",
    "date": "2024-03-23",
    "timestamp_precision": "date",

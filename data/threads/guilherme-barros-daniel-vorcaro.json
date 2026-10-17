@@ -6,9 +6,9 @@
   "guilherme-barros"
  ],
  "source": {
-  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: mensagem de Guilherme Barros, então consultor de Vorcaro, relatando a apresentação a Lilian Tahan e sugerindo o contato com Luiz Estevão. Apenas esta mensagem foi divulgada; nenhuma resposta de Vorcaro foi publicada.",
-  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm",
-  "pages": "Mensagens conforme transcrição da reportagem; nada além do que foi divulgado é inferido."
+  "document": "Metrópoles (16/10/2026, 19h36) e UOL (Renata Agostini e Tiago Dantas, 15/10/2026): mensagens do celular de Vorcaro com Guilherme Barros, então consultor/assessor de imprença de Vorcaro. Sobre a reportagem da Folha de ago/2024, Metrópoles e Folha apresentam versões contraditórias — registradas em eventos editoriais.",
+  "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo",
+  "pages": "Mensagens conforme transcrição da reportagem do Metrópoles (capturas publicadas); nada além do que foi divulgado é inferido. As respostas da Folha e a nota de Barros estão registradas em eventos."
  },
  "messages": [
   {
@@ -44,7 +44,430 @@
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "audit-fix2-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-08-07",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Gasta todos os cartuchos aí, se voce conseguir segurar e nao sair nada vc tem um prêmio de R$ 1mm.",
+   "editorial_note": "Sobre reportagem da Folha de S.Paulo em preparação sobre Vorcaro; “R$ 1mm” = R$ 1 milhão, conforme a leitura do Metrópoles. A existência e o efetivo pagamento do valor não são comprovados documentalmente — ver evento com as versões contraditórias.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-08-07",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se eles soltam isso agora eles vao quebrar o banco",
+   "editorial_note": "A transcrição do Metrópoles grava “(sic)” no original; a reportagem contextualiza: no dia 08/08/2024 o Banco Central aprovaria aumento de capital do BRB viabilizando a operação de carteira com o Master.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-08-08",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "A Folha vai segurar a matéria. O Sérgio me respondeu agora",
+   "editorial_note": "“Sérgio” é Sérgio Dávila, então diretor da redação da Folha, segundo a reportagem. A Folha nega que a reportagem tenha sido segurada — ver evento com as versões contraditórias.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": "13:27",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-08-09",
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "O Sérgio Dávila acabou de me pedir uma data para tomar um café contigo e eu.",
+   "editorial_note": "Segundo o Metrópoles, a reunião ocorreu em 12/08/2024 na sede da Folha com Dávila e dois editores; a Folha afirma que a visita foi pedida por Barros e não foi registrada na coluna Painel a pedido dele.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-08-09",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Pode marcar qq dia",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00007",
+   "date": null,
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "No episódio da matéria da Folha, vc tinha me falado sobre um success fee, caso a matéria não saísse.",
+   "editorial_note": "Cobrança posterior pela remuneração prometida; data não divulgada pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "m-00008",
+   "date": null,
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "A matéria, evidentemente, saiu, porem muito mais branda, o que espero que concorde.",
+   "editorial_note": "A Folha nega que a reportagem tenha sido amenizada: saiu “na versão original”, com acréscimos posteriores apenas sobre a prisão, com aviso aos leitores.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "m-00009",
+   "date": null,
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "nao fiz e jamais vou fazer qualquer trabalho para amigos como voce movido por success fee ou qualquer coisa do genero.",
+   "editorial_note": "Na sequência da cobrança, Barros nega ter trabalhado movido por “success fee” e mantém o pedido de ajuda; a transcrição do Metrópoles grava “(sic)”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "m-00010",
+   "date": null,
+   "sender_id": "guilherme-barros",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sinta-se realmente a vontade. Vou entender perfeitamente, muito embora, qualquer ajuda seria muito bem-vinda. Abração",
+   "editorial_note": "Fecho da cobrança; a transcrição do Metrópoles grava “(sic)”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "m-00011",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "amigo, vc merece muito, vamos ajustar",
+   "editorial_note": "Na sequência, o Metrópoles afirma que Vorcaro “fez o Pix” — o pagamento não é comprovado documentalmente na reportagem e sua finalidade não é fato estabelecido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
   }
  ],
- "timeline_events": []
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-08-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "A Folha publica a reportagem “Novato na Faria Lima, banqueiro de 40 anos chama a atenção para aquisição em séries e festa com Alok”. O Metrópoles afirma que a matéria ficou segurada por ao menos 22 dias e saiu mais branda; a Folha nega — ver evento de 16/10/2026 com as versões contraditórias.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "e-00002",
+   "date": "2026-10-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Versões contraditórias sobre o episódio. Metrópoles: Vorcaro pagou R$ 1 milhão a Barros para adiar e amenizar a reportagem, num momento crítico para a operação com o BRB. Folha, em resposta ao Metrópoles: “A reportagem não foi segurada, porque nem estava pronta”; Vorcaro só pediu prazo para ser ouvido; “os anseios de Vorcaro não foram atendidos, a reportagem não foi segurada, saiu no prazo programado, e não foi amenizada”; a visita foi pedida por Barros; Dávila tomou conhecimento do valor “apenas depois de ler as mensagens vazadas”; a Folha recebeu R$ 516.441,60 em publicidade Master em cinco anos e nota que o Metrópoles é do grupo de Luiz Estevão. Barros, em nota, diz ter feito trabalho normal de assessoria — organização de entrevistas e apresentação dos argumentos do cliente — “com ética” e com independência editorial da Folha. Nenhuma das versões atribui a jornalistas da Folha recebimento de valores.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-16",
+      "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo"
+     },
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-16",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/metropoles-prepara-reportagem-em-retaliacao-a-denuncia-sobre-o-site-revelada-pelo-uol-e-republicada-pela-folha.shtml"
+     }
+    ]
+   },
+   "source_ref": "Manifestações de Metrópoles, Folha e Guilherme Barros (2026-10-16)",
+   "added_in": "audit-20261017"
+  }
+ ]
 }

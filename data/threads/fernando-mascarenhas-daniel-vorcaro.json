@@ -12,6 +12,222 @@
  },
  "messages": [
   {
+   "id": "m-00005",
+   "date": "2023-11-12",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Rueda me ligou aqui, vai tá no banco amanhã? Good news",
+   "editorial_note": "Abre a sequência de novembro/2023 sobre viagens e captações de previdências, segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00006",
+   "date": "2023-11-14",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Aquele nosso amigo marcou de irmos segunda final da tarde em Porto Alegre e terça em Rondônia e Amazonas! Posso confirmar?",
+   "editorial_note": "Dois dias após a mensagem anterior, conforme a reportagem; “nosso amigo” refere-se a Rueda, segundo o UOL. Vorcaro teria respondido que organizaria a logística (fala indireta).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00007",
+   "date": "2023-11-21",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, o negócio vai ficar gigante, nosso amigo até final do ano resolve 1,2 b",
+   "editorial_note": "À noite, segundo a reportagem; “1,2 b” = R$ 1,2 bilhão, na leitura do UOL sobre captações previstas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00008",
+   "date": "2023-11-21",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Foguete",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-04",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amapá, confirmado 400",
+   "editorial_note": "Sobre captação de R$ 400 milhões no Amapá, segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-04",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quero ver nosso amigo apertar o enter",
+   "editorial_note": "“Nosso amigo” = Rueda, segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
    "id": "m-00001",
    "date": "2024-04-23",
    "time": null,
@@ -92,6 +308,78 @@
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Cezar Feitoza (2026-10-12)",
    "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-07-12",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "Aprovado 200 M agora no Amapá. Nesse minuto",
+   "editorial_note": "Cerca de uma hora após Rueda pedir o apagamento de mensagens (11h45), segundo o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-07-12",
+   "sender_id": "fernando-mascarenhas",
+   "content_kind": "verbatim_excerpt",
+   "content": "400 Amapá, 350 RJ, 250 Amazonas, 160 Campos dos Goytacazes, 500 Maricá, 100 BH, 200 Alagoas",
+   "editorial_note": "Lista de captações potenciais por estado, em milhões de reais, conforme o UOL.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00003",

@@ -6,11 +6,192 @@
   "alberto-felix"
  ],
  "source": {
-  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 155–157",
+  "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 155–157; UOL (coluna Fabio Serapião, 16/10/2026) e Revista piauí (15/10/2026) para as mensagens divulgadas por reportagem",
   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Orientações de pagamento ao Escritório Barci de Moraes (sem citações literais no trecho)."
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Orientações de pagamento ao Escritório Barci de Moraes (sem citações literais no trecho). Mensagens de 2024–2025 conforme transcrições das reportagens indicadas em cada registro."
  },
- "messages": [],
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-07-12",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "content": "A reunião lá do Amapá está acontecendo. Mas o Rueda que disse que ia segurar as operações",
+   "editorial_note": "No mesmo dia, Felix avisou que a operação não sairia naquele dia “por causa da notícia da CEF”, segundo o UOL; a reportagem relata crise na Caixa Asset revelada na mesma data.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-07",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deu 8,9 mm. Já pediram para pagar",
+   "editorial_note": "Sobre a comissão da “consultoria do Ricardo/Raphael” pela operação do Amapá, conforme o UOL; no dia seguinte, Vorcaro teria autorizado uma nota de R$ 8 milhões (fala indireta da reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-08-01",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pagamos 11 mm contas a pagar, comissão Amapá",
+   "editorial_note": "Registro atribuído pela reportagem à tesouraria do banco, sob Felix; valores em milhões de reais.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-02-28",
+   "sender_id": "alberto-felix",
+   "content_kind": "verbatim",
+   "content": "1.250",
+   "editorial_note": "Resposta a Vorcaro sobre quanto o banco havia usado do compulsório — R$ 1,25 bilhão, segundo a piauí; a pergunta de Vorcaro não foi transcrita literalmente.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí — \"Os vestígios da noite\"",
+      "date": "2026-10-15",
+      "url": "https://piaui.uol.com.br/web/kassio-vorcaro-triplex-noite/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Revista piauí (2026-10-15)",
+   "added_in": "audit-20261017",
+   "time": "20:20",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-02-28",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Como assim Alberto. Estava 800. Vocês piraram.",
+   "editorial_note": "Reação ao valor, cotejando os R$ 800 milhões informados por Paulo Sergio horas antes; horário não divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí — \"Os vestígios da noite\"",
+      "date": "2026-10-15",
+      "url": "https://piaui.uol.com.br/web/kassio-vorcaro-triplex-noite/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Revista piauí (2026-10-15)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  }
+ ],
  "timeline_events": [
   {
    "id": "e-00001",

@@ -6,9 +6,9 @@
   "antonio-rueda"
  ],
  "source": {
-  "document": "UOL / O Globo — “Mensagens mostram Vorcaro cedendo avião a Rueda em viagem a Miami e colocando aeronave à disposição” (01/10/2026)",
+  "document": "UOL / O Globo (01/10/2026), UOL (Fabio Serapião e outros, 16/10/2026) e Estadão (16/10/2026): mensagens do celular de Vorcaro com Antônio Rueda, presidente nacional do União Brasil — jatinhos, captações de previdências estaduais, plataforma bet.bet e pedido de apagamento de mensagens.",
   "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm",
-  "pages": "Reportagem do UOL com base no jornal O Globo (01/10/2026). Erros de digitação mantidos conforme divulgados. A menção de Vorcaro e Ana Matos a Rueda em evento de Londres (18/07/2025) está documentada no IPJ-A nº 3298613/2026 (peça pública) e aparece na thread de Ana Matos. Horários não divulgados."
+  "pages": "Mensagens conforme transcrições das reportagens indicadas em cada registro; nada além do que foi divulgado é inferido."
  },
  "messages": [
   {
@@ -324,6 +324,88 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
+   "id": "m-00012",
+   "date": "2024-06-08",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Já no ar. É só testar agora e partir o lançamento",
+   "editorial_note": "Sobre a plataforma de apostas bet.bet; Rueda enviou junto o endereço do site, segundo o Estadão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-06-08",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Show",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00010",
    "date": "2024-06-13",
    "time": null,
@@ -392,9 +474,186 @@
    },
    "source_ref": "UOL / O Globo, 01/10/2026",
    "added_in": "ingest-imprensa-20261011"
+  },
+  {
+   "id": "m-00014",
+   "date": "2024-07-12",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "Apaga essas mensagens",
+   "editorial_note": "Minutos antes, Rueda havia apagado dez mensagens seguidas da conversa, segundo o UOL; o conteúdo apagado não foi recuperado e não é reconstruído aqui.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": "11:45",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00015",
+   "date": "2024-07",
+   "sender_id": "antonio-rueda",
+   "content_kind": "verbatim",
+   "content": "PH precisando falar c vc",
+   "editorial_note": "Dois dias após mensagem ao PH, segundo o UOL; a reportagem não detalha o contexto nem identifica “PH” com segurança.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
   }
  ],
  "timeline_events": [
+  {
+   "id": "e-00003",
+   "date": "2024-03",
+   "content": "Após Rueda escrever “Cuida de mim” (m-00004), Vorcaro trata de apartamento e do hotel Rosewood para hospedá-lo, segundo o UOL — sem transcrição literal completa divulgada.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-06-14",
+   "content": "Rueda envia a Vorcaro o contato de Kleryston Pontes, segundo o Estadão; a reportagem não transcreve o texto da mensagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00004",
+   "date": "2024-08",
+   "content": "O jurídico do Master apresentou contratação do escritório Rueda & Rueda em quatro ações trabalhistas, por R$ 15,4 milhões, em agosto/2024, segundo o Estadão e o UOL.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de Estadão e UOL (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month"
+  },
   {
    "id": "e-00001",
    "date": "2025-07-18",
@@ -439,6 +698,37 @@
      }
     ]
    }
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "Nota de Rueda ao UOL: as contratações do seu escritório pelo Master são “de natureza eminentemente profissional”, com notas fiscais emitidas, e não têm relação com as mensagens trocadas; nega ter intermediado liberação de recursos públicos do Ministério da Previdência. O UOL relata que a PF pediu busca e apreensão no caso das previdências, não autorizada pelo STF, e que proposta de delação de Vorcaro mencionava comissão de 10% — percentual que, segundo a reportagem, coincide com o de comissões citadas nas mensagens; as mensagens não registram pagamento direto a Rueda ou a ACM Neto.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (2026-10-16)",
+   "added_in": "audit-20261017"
   }
  ]
 }

@@ -56,6 +56,196 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
+   "id": "m-00011",
+   "date": "2024-09-11",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fala, André e Rueda então na cola para a bet. Dando de bobo aqui",
+   "editorial_note": "André é André Kruschewsky; Vorcaro respondeu não ter entendido, segundo o Estadão (fala indireta).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-09-11",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "André e o Rueda estão na cola pq da bet. Aporte etc",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-09-11",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos fazer o aporte aos poucos",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00014",
+   "date": "2024-09-11",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cara, me Coloca nessas reuniões. O banco precisará nomear um diretor jurídico estatutário!",
+   "editorial_note": "Rennó pleiteia participação nas tratativas da bet.bet; na sequência acrescenta ter estratégia para “ficar solto”, conforme o Estadão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00015",
+   "date": "2024-09-11",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "E já tenho a estratégia para ficar solto!",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00002",
    "date": "2024-10",
    "time": null,
@@ -131,6 +321,288 @@
    },
    "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00016",
+   "date": "2024-10",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fala irmão! Assunto bet. Aquilo que te falei, vc não pode aparecer e teremos que informar quem é o beneficiário final !",
+   "editorial_note": "Início de outubro/2024, segundo o Estadão; pergunta a Vorcaro se tem sugestão de nome (fala indireta da reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00017",
+   "date": "2024-10",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Assunto bet- precisamos retirar o beneficiário final – só me falar quem gostaria de colocar que operacionalizo.",
+   "editorial_note": "Na sequência, menciona não achar interessante abrir a operação no Master nem na Reag, conforme o Estadão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00018",
+   "date": "2024-10",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "nao acho interessante abrir no master",
+   "editorial_note": "Fragmento transcrito pelo Estadão na mesma sequência; mensagem integral não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00019",
+   "date": "2024-10",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Kleriston",
+   "editorial_note": "Indicação de Kleryston Pontes como beneficiário final, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00020",
+   "date": "2024-10",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falei com Rueda e ele falou que estava desconfortável sobre isso. O kleriston estava desconfortável",
+   "editorial_note": "Relato de Rennó sobre as reações de Rueda e Kleryston; desconforto alegado, não comprovado documentalmente.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00021",
+   "date": "2024-10",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Foi o que combinamos",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
+  },
+  {
+   "id": "m-00022",
+   "date": "2024-10",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos olhar alguem da gente! Melhor! Financeiro e jurídico é nosso! Vai operar clean",
+   "editorial_note": "Proposta de indicar pessoa do próprio círculo como beneficiário final, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month",
+   "time": null
   },
   {
    "id": "m-00004",
@@ -403,9 +875,150 @@
    },
    "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
    "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00023",
+   "date": null,
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "assunto RJ, caixa Rueda",
+   "editorial_note": "Fragmento citado pelo UOL ao relatar que Rennó e Vorcaro precisavam tratar do “assunto RJ, caixa Rueda”; mensagem integral e data não divulgadas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017"
+  },
+  {
+   "id": "m-00024",
+   "date": null,
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Rueda seria nosso cara! Precisaria ter entrado no banco mais cedo! Ele tem alguns estados",
+   "editorial_note": "Defesa de Rueda como articulador de previdências estaduais, em fala de Rennó citada pelo UOL; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — Fabio Serapião, Natália Portinari e Cézar Feitoza",
+      "date": "2026-10-16",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/16/mensagens-mostram-rueda-e-acm-neto-atuando-em-previdencias-para-o-master.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-16)",
+   "added_in": "audit-20261017"
   }
  ],
  "timeline_events": [
+  {
+   "id": "e-00006",
+   "date": "2024-09-05",
+   "content": "Contexto da tratativa: o memorando de entendimentos da bet.bet foi assinado por intermédio de André Kruschewsky (ver thread dele); as mensagens registram negociação e questionamentos de Vorcaro — participação nas tratativas não comprova investimento financeiro nem participação societária formal de Rennó ou Rueda.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Estadão (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00005",
+   "date": "2024-09-27",
+   "content": "O Ministério da Fazenda exige a identificação do beneficiário final do fundo Oracle, ligado à bet.bet, segundo o Estadão; nos documentos formais, o cotista registrado era Adriano Garzon, despachante mineiro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão",
+      "date": "2026-10-16",
+      "url": "https://www.estadao.com.br/politica/dialogos-de-vorcaro-citam-parceria-com-presidente-do-uniao-brasil-em-bet/"
+     },
+     {
+      "publication": "Brasil 247 (transcrições do Estadão)",
+      "date": "2026-10-16",
+      "url": "https://www.brasil247.com/brasil/mensagens-citam-parceria-de-vorcaro-com-presidente-do-uniao-brasil-para-criar-bet/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Estadão e Brasil 247 (transcrições do Estadão) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
   {
    "id": "e-00001",
    "date": "2024-10-01",

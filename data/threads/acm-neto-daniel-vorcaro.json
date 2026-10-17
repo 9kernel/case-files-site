@@ -120,42 +120,6 @@
    "added_in": "ingest-press3-20261016"
   },
   {
-   "id": "m-00004",
-   "date": "2024-07",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "acm-neto",
-   "content_kind": "verbatim_excerpt",
-   "content": "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois a bolsa de minha esposa rompeu e meu filho que iria nascer na sexta acabou nascendo nessa madrugada.",
-   "editorial_note": "Acrescentou, em fala indireta, que não poderia viajar a São Paulo e que um interlocutor cuidaria de remarcar ou realizar a reunião sem ele, segundo a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Revista Oeste",
-      "date": "2026-10-02",
-      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Revista Oeste (2026-10-02)",
-   "added_in": "ingest-press3-20261016"
-  },
-  {
    "id": "m-00005",
    "date": "2024-10-22",
    "time": null,
@@ -552,7 +516,7 @@
    "date": "2024-10-31",
    "time": null,
    "timestamp_precision": "date",
-   "content": "Dia do 2º turno das eleições municipais: nas mensagens, ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem.",
+   "content": "Mensagens de 31/10/2024 — quatro dias após o 2º turno das eleições municipais, realizado em 27/10/2024, conforme o calendário oficial do TSE: ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem. [Correção 17/10/2026: a versão anterior afirmava que 31/10 havia sido o dia do 2º turno — a votação ocorreu em 27/10/2024; a data das mensagens permanece 31/10.]",
    "event_kind": "editorial_context",
    "verification": {
     "level": "public_investigation",
@@ -565,7 +529,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
+    "verified_at": "2026-10-17",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -575,6 +539,11 @@
       "publication": "Revista Oeste",
       "date": "2026-10-02",
       "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens"
+     },
+     {
+      "publication": "TSE — calendário oficial (2º turno municipal em 27/10/2024)",
+      "date": "2024-10-15",
+      "url": "https://www.tse.jus.br/comunicacao/noticias/2024/Outubro/15-capitais-terao-2o-turno-na-disputa-pelo-cargo-de-prefeito"
      }
     ]
    },
@@ -612,6 +581,39 @@
    },
    "source_ref": "Relato de Revista Oeste (2026-10-02)",
    "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": "2024-07",
+   "content": "Em julho/2024, ACM Neto pede a Vorcaro uma ligação e informa que não viajaria a São Paulo, dizendo que um interlocutor cuidaria de remarcar ou realizar a reunião sem ele, segundo a reportagem. A comunicação trazia detalhes familiares (nascimento de filho) sem interesse público evidente — conteúdo retirado da publicação e dos índices em revisão de privacidade de 17/10/2026; permanece este registro minimizado como trilha de auditoria. [Substitui a mensagem m-00004, divulgada pela Revista Oeste em 02/10/2026.]",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista Oeste",
+      "date": "2026-10-02",
+      "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens"
+     }
+    ]
+   },
+   "source_ref": "Relato de Revista Oeste (2026-10-02)",
+   "added_in": "audit-20261017",
+   "timestamp_precision": "month"
   }
  ]
 }
