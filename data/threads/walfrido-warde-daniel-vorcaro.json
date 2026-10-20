@@ -12,6 +12,129 @@
  },
  "messages": [
   {
+   "id": "m-00027",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou conseguir tua audiência com o PR",
+   "editorial_note": "Promessa de audiência de Vorcaro com o presidente; a edição de 18/10/2026 transcreve a variante \"Vou conseguir uma audiência tua com o PR\".",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09); Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00028",
+   "date": "2024-05-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Saí da sala do presidente",
+   "editorial_note": "Conforme transcrição da edição de 18/10/2026; na sequência, Warde relata pergunta do presidente sobre Vorcaro. Registros oficiais consultados pela reportagem registram a última visita formal de Warde ao Planalto em abril/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18); Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00029",
+   "date": "2024-05-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele me perguntou o teu e-mail",
+   "editorial_note": "Ao informar que saíra da sala do presidente; a edição de 18/10/2026 transcreve a variante \"do teu e-mail\". Relato do advogado — a reportagem não comprova o teor da conversa presidencial.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09); Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
    "id": "m-00001",
    "date": "2024-08",
    "time": null,
@@ -156,6 +279,632 @@
    "added_in": "ingest-press2-20261016"
   },
   {
+   "id": "m-00030",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você vai gostar, muito importante para você",
+   "editorial_note": "Após Warde relatar ter estado \"com o presidente Lula longamente ontem\" (fragmento citado em fala indireta pela edição de 18/10/2026); a edição de 09/10 registra que Warde contou ter se reunido com Lula.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00031",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você falou de mim?",
+   "editorial_note": "Na sequência do relato de reunião de Warde com o presidente, segundo as reportagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09); Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00032",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Claro",
+   "editorial_note": "Resposta a \"Você falou de mim?\", na mesma sequência de setembro/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09); Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00033",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quando você pode encontrar o presidente?",
+   "editorial_note": "Articulação da audiência que ocorreria em 4/12/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tudo ajustado",
+   "editorial_note": "Confirmação do agendamento com o presidente.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tua reunião será na quarta às 11",
+   "editorial_note": "Dia e horário constam da própria mensagem, não são inferidos; a audiência com Lula ocorreria em 4/12/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Abra o teu coração. Fale, ainda que elegantemente, mal do cara que quer te comprar",
+   "editorial_note": "Conselho de Warde antes do encontro de Vorcaro com o presidente em 4/12/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00037",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "É a bala de prata",
+   "editorial_note": "Sobre o encontro de 4/12/2024, que Warde ajudou a articular.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00038",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "O presidente está um pouco impaciente hoje",
+   "editorial_note": "No dia da reunião de 4/12/2024, conforme a edição de 18/10/2026.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00039",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Soube que foi muito bom",
+   "editorial_note": "Após a reunião; Warde disse ainda que daria \"um feedback\" da conversa com o \"homem\" (fala indireta da reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00040",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Isso porque ele não sabe das quengas",
+   "editorial_note": "Piada relatada pela reportagem no episódio posterior à reunião de 4/12/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00041",
+   "date": "2025-01-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estive com o PR hoje",
+   "editorial_note": "Episódio de 22/01/2025 conforme a edição de 09/10/2026; registros oficiais de visitas de Warde ao Planalto pararam de ser registrados após abril/2024, observa a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18); Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00042",
+   "date": "2025-01-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele perguntou se você estava bem e mais tranquilo",
+   "editorial_note": "Warde relatou ainda que o presidente \"agradeceu mais uma vez o whisky\" — relato do advogado, não checado de forma independente pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00043",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "forwarded_message",
+   "content": "PR disse que topa receber o Vorcaro. Mas disse que dessa vez chamara tb o Jaques p participar (por causa do outro sócio)",
+   "editorial_note": "Mensagem recebida de terceiro não identificado pela reportagem e encaminhada por Warde a Vorcaro — o texto não é de autoria de Warde. A edição de 18/10/2026 transcreve a variante \"PR disse que topa receber o chefe. Mas disse que vai chamar o Jaques para participar\". \"Jaques\" é o senador Jaques Wagner (PT-BA), conforme o contexto reportado (evento e-00002); o Planalto nega que esse segundo encontro tenha ocorrido.",
+   "forwarded_attribution": {
+    "name": null,
+    "verified_direct_contact": false
+   },
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09; 2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00044",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Presidente vai me ligar daqui a alguns minutos. Vou ajustar a data do seu encontro",
+   "editorial_note": "Sobre a articulação de novo encontro de Vorcaro com o presidente; o Planalto nega que ele tenha ocorrido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00045",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "audio_transcript",
+   "content": "A Globo tá querendo quebrar o teu apoio interno dentro do PT. É isso que eles querem. Eles querem tirar o apoio do presidente. Já entenderam que o teu apoio vem do presidente, então eles querem tirar o teu apoio",
+   "editorial_note": "Áudio de ~27 segundos enviado dois dias após o Conselho de Administração do BRB aprovar, em 28/03/2025, a compra de 58% do capital do Master; Warde anexou print de notícia da coluna de Lauro Jardim (O Globo) sobre as consultorias de Guido Mantega. Avaliação do advogado sobre um suposto apoio político — a reportagem ressalva que as mensagens, por si, não comprovam compromisso do presidente. Comunicação entre advogado e cliente: reprodução restrita aos trechos já publicados pela imprensa; o arquivo de áudio não foi copiado ao repositório. A Veja transcreve o trecho inicial como \"A Globo tá querendo, basicamente, quebrar o teu apoio interno dentro do PT\".",
+   "transcription_complete": false,
+   "transcription": {
+    "kind": "publisher_transcription",
+    "source": "Estado de Minas e Veja (transcrições jornalísticas parciais e divergentes)",
+    "complete": false
+   },
+   "media": {
+    "id": "media-audio-warde-20250330",
+    "status": "secondary_media",
+    "type": "audio",
+    "publisher": "Veja",
+    "external_url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/",
+    "local_file": null,
+    "sha256": null,
+    "duration_seconds": 27,
+    "official_media_located": false,
+    "media_representation": "publisher_reproduction",
+    "original_file": false,
+    "verified": false,
+    "note": "Áudio reportado pela Veja (18/10/2026) e pelo Estado de Minas (19/10/2026); original não localizado em fonte oficial e não copiado — registra-se apenas a transcrição parcial divulgada."
+   },
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     },
+     {
+      "publication": "Estado de Minas",
+      "date": "2026-10-19",
+      "url": "https://www.em.com.br/politica/2026/10/7523355-teu-apoio-vem-do-presidente-o-que-advogado-disse-a-vorcaro.html"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18) e Estado de Minas (2026-10-19)",
+   "added_in": "audit-20261019"
+  },
+  {
    "id": "m-00005",
    "date": "2025-07",
    "time": null,
@@ -298,6 +1047,83 @@
    },
    "source_ref": "Mensagem divulgada por UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
    "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00046",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Galípolo acabou reunião agora. Inventou nova desculpa",
+   "editorial_note": "Sobre Gabriel Galípolo, então presidente do Banco Central, cuja autorização a venda ao BRB dependia, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00047",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse cara é um merda. Avise o presidente amanhã e vamos para a guerra",
+   "editorial_note": "Resposta na sequência, atribuída a Warde pela edição de 09/10/2026. A edição de 18/10/2026 apresenta o trecho \"Avise o presidente amanhã e vamos para a guerra\" como recado de Vorcaro a Lula transmitido por Warde — divergência de enquadramento entre as duas reportagens, registrada aqui. Nenhuma delas registra resposta do presidente.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09); Veja (2026-10-18)",
+   "added_in": "audit-20261019"
   },
   {
    "id": "m-00009",
@@ -1094,7 +1920,7 @@
    "date": "2025-03",
    "time": null,
    "timestamp_precision": "month",
-   "content": "Mensagens de Warde em março de 2025 citam possível audiência de Vorcaro com Lula com presença do senador Jaques Wagner (PT-BA), investigado na Operação Compliance Zero sob suspeita de receber benefícios para favorecer o Master no Congresso; o Planalto nega encontros além do de dezembro de 2024.",
+   "content": "Mensagens de Warde em março de 2025 citam possível audiência de Vorcaro com Lula com presença do senador Jaques Wagner (PT-BA), investigado na Operação Compliance Zero sob suspeita de receber benefícios para favorecer o Master no Congresso; o Planalto nega encontros além do de dezembro de 2024. A Veja (09 e 18/10/2026) divulga a mensagem encaminhada em que o \"PR\" aceitaria receber Vorcaro com a presença de Jaques (ver m-00043).",
    "event_kind": "editorial_context",
    "verification": {
     "level": "public_investigation",
@@ -1107,7 +1933,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
+    "verified_at": "2026-10-19",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -1122,11 +1948,60 @@
       "publication": "Gazeta do Povo (resenha da apuração)",
       "date": "2026-10-08",
       "url": "https://www.gazetadopovo.com.br/republica/mensagens-revelam-que-banqueiro-tentou-nova-aproximacao-com-lula-e-moraes"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
      }
     ]
    },
    "source_ref": "Relato de UOL (material apurado pelo Estado de S. Paulo) (2026-10-08)",
    "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00007",
+   "date": "2025-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Em julho de 2025, por um grupo de WhatsApp denominado \"Amigos\", Warde enviou mensagens a Marco Aurélio Santana, o \"Marcola\" (chefe de gabinete), criticando Gabriel Galípolo: \"O Gabriel (Galípolo) não tem estofo pro cargo\"; \"Avisa o chefe por favor.\"; \"Vai ser ruim irmão. Nós vamos quebrar tudo\"; \"Ele pediu pra fazer a operação do BRB e está embarreirando. Temos prova de tudo\". Marcola garantiu que o recado chegaria ao presidente e, no dia seguinte, Warde encaminhou a Vorcaro a resposta recebida (\"O PR falou com o Guido ontem por telefone\"; Guido informou que estava em Londres — ver m-00005, possível transcrição distinta do mesmo encaminhamento). A composição do grupo não foi divulgada e a reportagem não afirma que Vorcaro participava dele — por isso registro editorial, e não conversa. A edição de 18/10/2026 transcreve \"Nós vamos quebrar tudo\" e \"Avisa o chefe por favor\" sem explicitar o destinatário.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Veja (2026-10-09; 2026-10-18)",
+   "added_in": "audit-20261019"
   },
   {
    "id": "e-00003",

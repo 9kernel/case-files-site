@@ -1,21 +1,30 @@
 # PUBLIC-PROVENANCE-AUDIT — Auditoria de publicidade e proveniência por mensagem
 
-Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-17**.
+Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-20**.
 Versão legível por máquina: [`data/audit/public-provenance-audit.json`](data/audit/public-provenance-audit.json).
 
 Regra máxima: a força da afirmação do site nunca pode ser maior que a força da
 evidência documental. `official_document` exige peça com `public_access_verified = true`.
 
+`OK_PUBLIC_INVESTIGATION` exige, por registro, procedimento público declarado (ou
+referência documental identificável) E fonte jornalística registrada. A peça primária
+individual permanece NÃO localizada nesse nível: o OK certifica a estrutura da
+proveniência — ausência de conflito e base declarada — e não autentica
+individualmente cada mensagem. Registros sem base ou sem fonte viram
+`INV_NO_BASIS`/`INV_NO_PRESS_SOURCE`.
+
 ## Resultado
 
-- 62 threads · 1105 registros (884 mensagens + 221 eventos)
-- **1105 OK** · **0 com problema**
+- 62 threads · 1129 registros (907 mensagens + 222 eventos)
+- **1129 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 641 |
+| OK_PUBLIC_INVESTIGATION | 665 |
 | OK_SECONDARY | 189 |
+| INV_NO_BASIS | 0 |
+| INV_NO_PRESS_SOURCE | 0 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |
 | MISSING_PAGE | 0 |
@@ -38,5 +47,6 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 ## Registros com problema
 
 **Nenhum.** Toda mensagem `official_document` aponta para peça com publicidade
-confirmada; nenhum `pending_review` visível; nenhuma fonte em conflito.
+confirmada; nenhum `pending_review` visível; nenhuma fonte em conflito;
+nenhum `public_investigation` sem procedimento declarado e fonte jornalística.
 

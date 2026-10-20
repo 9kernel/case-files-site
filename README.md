@@ -79,11 +79,12 @@ vazamento não oficial.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (16/10/2026)*: **60 conversas · 795 mensagens · 200
-  eventos** — 995 registros públicos auditados (540 investigação pública com
-  procedimento declarado, 275 documento oficial, 180 fonte jornalística),
-  zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
-  o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
+- *Números correntes (19/10/2026)*: **62 conversas · 907 mensagens · 222
+  eventos** — 1129 registros públicos auditados (665 investigação pública com
+  procedimento declarado e fonte jornalística registrada — verificação por
+  registro, não aprovação automática; 275 documento oficial, 189 fonte
+  jornalística), zero problemas de proveniência. Os totais mudam a cada rodada
+  de inclusão: o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.
 - *Proveniência (contínua)*: toda mensagem `official_document` aponta para
   peça com publicidade confirmada; nenhum documento inexistente; nenhuma

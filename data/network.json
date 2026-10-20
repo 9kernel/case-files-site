@@ -10,17 +10,24 @@
    "msg_count": 90
   },
   {
-   "id": "frederic-kachar",
-   "name": "Frederic Kachar",
-   "thread": "frederic-kachar-daniel-vorcaro",
-   "title": "Frederic Kachar",
-   "msg_count": 45
+   "id": "walfrido-warde",
+   "name": "Walfrido Warde",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "title": "Walfrido Warde",
+   "msg_count": 47
   },
   {
    "id": "paulo-henrique",
    "name": "Paulo Henrique Costa",
    "thread": "paulo-henrique-daniel-vorcaro",
    "title": "Paulo Henrique (BRB)",
+   "msg_count": 46
+  },
+  {
+   "id": "frederic-kachar",
+   "name": "Frederic Kachar",
+   "thread": "frederic-kachar-daniel-vorcaro",
+   "title": "Frederic Kachar",
    "msg_count": 45
   },
   {
@@ -71,13 +78,6 @@
    "thread": "diogo-batista-daniel-vorcaro",
    "title": "Diogo Batista",
    "msg_count": 27
-  },
-  {
-   "id": "walfrido-warde",
-   "name": "Walfrido Warde",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "title": "Walfrido Warde",
-   "msg_count": 26
   },
   {
    "id": "lilian-tahan",
@@ -248,17 +248,17 @@
    "msg_count": 7
   },
   {
-   "id": "andre-kruschewsky",
-   "name": "André Kruschewsky",
-   "thread": "andre-kruschewsky-daniel-vorcaro",
-   "title": "André Kruschewsky",
-   "msg_count": 6
-  },
-  {
    "id": "augusto-lima",
    "name": "Augusto Lima",
    "thread": "augusto-lima-daniel-vorcaro",
    "title": "Augusto Lima",
+   "msg_count": 7
+  },
+  {
+   "id": "andre-kruschewsky",
+   "name": "André Kruschewsky",
+   "thread": "andre-kruschewsky-daniel-vorcaro",
+   "title": "André Kruschewsky",
    "msg_count": 6
   },
   {
@@ -1007,6 +1007,35 @@
   },
   {
    "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "brb",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00009",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00013",
+     "sender": "daniel-vorcaro",
+     "date": "2025-11-12"
+    },
+    {
+     "id": "m-00014",
+     "sender": "paulo-henrique",
+     "date": null
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "acm-neto-daniel-vorcaro",
    "from": "acm-neto",
    "to": "antonio-rueda",
@@ -1092,30 +1121,6 @@
      "id": "m-00016",
      "sender": "daniel-vorcaro",
      "date": "2025-03"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "from": "paulo-henrique",
-   "to": "brb",
-   "count": 3,
-   "evidence": [
-    {
-     "id": "m-00008",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
-    },
-    {
-     "id": "m-00013",
-     "sender": "daniel-vorcaro",
-     "date": "2025-11-12"
-    },
-    {
-     "id": "m-00014",
-     "sender": "paulo-henrique",
-     "date": null
     }
    ]
   },
@@ -1507,6 +1512,25 @@
   },
   {
    "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "banco-master",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00009",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "romy-banco-master-daniel-vorcaro",
    "from": "romy-banco-master",
    "to": "banco-master",
@@ -1563,6 +1587,25 @@
      "id": "m-00001",
      "sender": "vanessa-souza",
      "date": "2025-10-29"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "from": "walfrido-warde",
+   "to": "brb",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00045",
+     "sender": "walfrido-warde",
+     "date": "2025-03-30"
+    },
+    {
+     "id": "m-00046",
+     "sender": "daniel-vorcaro",
+     "date": "2025-07-17"
     }
    ]
   },
@@ -1745,6 +1788,20 @@
      "id": "m-00004",
      "sender": "daniel-vorcaro",
      "date": null
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "augusto-lima-daniel-vorcaro",
+   "from": "augusto-lima",
+   "to": "pf",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00007",
+     "sender": "daniel-vorcaro",
+     "date": "2024-12-11"
     }
    ]
   },
@@ -2310,20 +2367,6 @@
   },
   {
    "type": "mention",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "from": "paulo-henrique",
-   "to": "banco-master",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00008",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
-    }
-   ]
-  },
-  {
-   "type": "mention",
    "thread": "paulo-sergio-daniel-vorcaro",
    "from": "paulo-sergio",
    "to": "brb",
@@ -2445,6 +2488,34 @@
      "id": "m-00002",
      "sender": "daniel-vorcaro",
      "date": "2024-01-15"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "from": "walfrido-warde",
+   "to": "banco-master",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00045",
+     "sender": "walfrido-warde",
+     "date": "2025-03-30"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "from": "walfrido-warde",
+   "to": "bc",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00046",
+     "sender": "daniel-vorcaro",
+     "date": "2025-07-17"
     }
    ]
   },

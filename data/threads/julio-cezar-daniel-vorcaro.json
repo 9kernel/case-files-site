@@ -1164,7 +1164,7 @@
    "date": "2024-04-29",
    "time": null,
    "timestamp_precision": "date",
-   "content": "29/04/2024: Augusto Lima comunica a Vorcaro “Entramos na lista exaustiva” — declaração atribuída ao remetente naquele dia; a atualização pública da lista de instituições autorizadas a receber recursos de fundos de pensão foi publicada em 02/05/2024, conforme o UOL. No mesmo 29/04, segundo a reportagem, Vorcaro pagou R$ 500 mil de adiantamento a Júlio Cezar. [Correção 17/10/2026: a versão anterior associava o dia 29/04 à entrada oficial do Master na lista — a data de publicação da atualização é 02/05/2024, e a mensagem de Augusto Lima permanece como declaração atribuída ao remetente.]",
+   "content": "29/04/2024: Augusto Lima comunica a Vorcaro “Entramos na lista exaustiva” — declaração atribuída ao remetente naquele dia; a atualização pública da lista de instituições autorizadas a receber recursos de fundos de pensão foi publicada em 02/05/2024, conforme o UOL. No mesmo 29/04, segundo a reportagem, Vorcaro pagou R$ 500 mil de adiantamento a Júlio Cezar. [Correção 17/10/2026: a versão anterior associava o dia 29/04 à entrada oficial do Master na lista — a data de publicação da atualização é 02/05/2024, e a mensagem de Augusto Lima permanece como declaração atribuída ao remetente. Complemento 19/10/2026: a página oficial do Ministério da Previdência foi publicada em 23/04/2024 (10h43) e atualizada em 02/05/2024 (14h58); o PDF da lista nela vinculado tem a data 29/04/2024 no próprio nome do arquivo — a data de atualização da página, isoladamente, não comprova a data de inclusão de cada instituição.]",
    "event_kind": "editorial_context",
    "verification": {
     "level": "public_investigation",
@@ -1177,7 +1177,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-19",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -1192,6 +1192,11 @@
       "publication": "UOL — coluna Cezar Feitoza",
       "date": "2026-10-12",
       "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.ghtm"
+     },
+     {
+      "publication": "Ministério da Previdência (gov.br) — página oficial da Lista Exaustiva",
+      "date": "2024-05-02",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/destaques/atualizacao-da-lista-exaustiva-2013-inciso-i-do-ss2o-e-ss8o-do-art-21-da-resolucao-cmn-no-4-963-2021"
      }
     ]
    },

@@ -7,6 +7,7 @@ import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
 import { validateData } from './validate.mjs';
+import { classify } from './audit-public-provenance.mjs';
 
 const tmpRoot = fs.mkdtempSync(path.join(os.tmpdir(), 'validate-test-'));
 const dataDir = path.join(tmpRoot, 'data');
@@ -203,6 +204,12 @@ ok = runCase('public_investigation sem procedimento identificável', (t) => {
 }, ['E_INV_BASIS']) && ok;
 ok = runCase('public_investigation com proceeding declarado passa', (t) => {
   t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: 'Operação Compliance Zero — PF/STF' };
+}, []) && ok;
+ok = runCase('public_investigation com proceeding vazio/blank é rejeitado', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: '   ' };
+}, ['E_INV_BASIS']) && ok;
+ok = runCase('public_investigation com official_url como base documental passa', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', official_url: 'https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133' };
 }, []) && ok;
 ok = runCase('nível != official_document com primary_document_located=true', (t) => { t.messages[0].verification = { ...t.messages[0].verification, primary_document_located: true }; }, ['E_VERIFICATION_SHAPE']) && ok;
 ok = runCase('datas fora de ordem', (t) => { t.messages[1].date = '2024-03-10'; }, ['E_TIMESTAMP_ORDER']) && ok;
@@ -460,6 +467,42 @@ fs.writeFileSync(path.join(dataDir, 'participants.json'), '[{]');
   } else {
     console.error('✗ participante duplicado não foi detectado');
     ok = false;
+  }
+}
+
+/* classify (audit-public-provenance.mjs) — base individual de public_investigation:
+   a aprovação nunca pode ser automática; exige procedimento/referência + fonte */
+{
+  const press = { secondary: [{ publication: 'Veja', date: '2026-10-18', url: 'https://ex.org/materia' }] };
+  const classifyCases = [
+    ['proceeding declarado + fonte → OK_PUBLIC_INVESTIGATION',
+      classify('public_investigation', null, press, false, undefined, false, null, { proceeding: 'Operação Compliance Zero — PF/STF' }), 'OK_PUBLIC_INVESTIGATION'],
+    ['sem proceeding nem referência documental → INV_NO_BASIS',
+      classify('public_investigation', null, press, false, undefined, false, null, {}), 'INV_NO_BASIS'],
+    ['proceeding vazio não é base → INV_NO_BASIS',
+      classify('public_investigation', null, press, false, undefined, false, null, { proceeding: '   ' }), 'INV_NO_BASIS'],
+    ['official_url como base documental → OK',
+      classify('public_investigation', null, press, false, undefined, false, null, { official_url: 'https://ex.org/processo' }), 'OK_PUBLIC_INVESTIGATION'],
+    ['source.document_id como base documental → OK',
+      classify('public_investigation', { document_id: 'pf-ipja-3298613-2026' }, press, true, { public_access_verified: null }, false, null, {}), 'OK_PUBLIC_INVESTIGATION'],
+    ['sem fonte jornalística → INV_NO_PRESS_SOURCE',
+      classify('public_investigation', null, { secondary: [] }, false, undefined, false, null, { proceeding: 'Operação X — PF/STF' }), 'INV_NO_PRESS_SOURCE'],
+    ['sources.primary.document_id → SOURCE_CONFLICT',
+      classify('public_investigation', null, { primary: { document_id: 'd1' }, secondary: [] }, false, undefined, false, null, { proceeding: 'X' }), 'SOURCE_CONFLICT'],
+    ['evento com source_ref + proceeding → OK',
+      classify('public_investigation', null, null, false, undefined, true, 'Relato de Veja (2026-10-18)', { proceeding: 'Operação X — PF/STF' }), 'OK_PUBLIC_INVESTIGATION'],
+    ['evento sem source_ref → INV_NO_PRESS_SOURCE',
+      classify('public_investigation', null, null, false, undefined, true, '  ', { proceeding: 'Operação X — PF/STF' }), 'INV_NO_PRESS_SOURCE'],
+    ['secondary_source com fonte → OK_SECONDARY (não promove reportagem a oficial)',
+      classify('secondary_source', null, press, false, undefined, false, 'Relato de Veja (2026-10-18)'), 'OK_SECONDARY'],
+  ];
+  for (const [name, got, expected] of classifyCases) {
+    if (got?.category === expected) {
+      console.log(`✓ classify: ${name}`);
+    } else {
+      console.error(`✗ classify: ${name} — esperava ${expected}, obtive ${got?.category}`);
+      ok = false;
+    }
   }
 }
 

@@ -752,8 +752,9 @@ function checkVerification(m, where, err, { isMessage }) {
     // referência documental (case/document/official_url/página) OU declaração
     // explícita do procedimento (verification.proceeding). Material cuja única
     // base é reportagem sem procedimento conhecido deve ser secondary_source.
+    // proceeding vazio/blank NÃO é base.
     const hasDocRef = v.case || v.document || v.official_url || m.source?.document_id;
-    if (!hasDocRef && typeof v.proceeding !== 'string') {
+    if (!hasDocRef && (typeof v.proceeding !== 'string' || v.proceeding.trim() === '')) {
       err('E_INV_BASIS', where,
         'public_investigation exige procedimento público identificável (verification.proceeding) ou referência documental (case/document/official_url/página) — caso contrário, use secondary_source.');
     }

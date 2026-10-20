@@ -19,7 +19,7 @@
    "sender_id": "augusto-lima",
    "content_kind": "verbatim_excerpt",
    "content": "Entramos na lista exaustiva. Resolvido",
-   "editorial_note": "Sobre a inclusão do Banco Master na lista de bancos autorizados a operar com recursos de fundos de pensão e RPPS; no mesmo dia, segundo a reportagem, Júlio Cezar cobrou de Vorcaro o adiantamento de R$ 500 mil. [Correção 17/10/2026: declaração atribuída ao remetente em 29/04/2024 — não comprova a data da publicação oficial da lista, cuja atualização foi publicada em 02/05/2024, conforme o UOL (coluna Cezar Feitoza, 12/10/2026).]",
+   "editorial_note": "Sobre a inclusão do Banco Master na lista de bancos autorizados a operar com recursos de fundos de pensão e RPPS; no mesmo dia, segundo a reportagem, Júlio Cezar cobrou de Vorcaro o adiantamento de R$ 500 mil. [Correção 17/10/2026: declaração atribuída ao remetente em 29/04/2024 — não comprova a data da publicação oficial da lista, cuja atualização foi publicada em 02/05/2024, conforme o UOL (coluna Cezar Feitoza, 12/10/2026) e a página oficial do Ministério da Previdência — publicada em 23/04/2024 (10h43), atualizada em 02/05/2024 (14h58), com o PDF da lista vinculado trazendo a data 29/04/2024 no próprio nome do arquivo; a data de atualização da página, isoladamente, não comprova a de inclusão de cada instituição.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -31,7 +31,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-19",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -46,6 +46,11 @@
       "publication": "UOL — coluna Cezar Feitoza",
       "date": "2026-10-12",
       "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.ghtm"
+     },
+     {
+      "publication": "Ministério da Previdência (gov.br) — página oficial da Lista Exaustiva",
+      "date": "2024-05-02",
+      "url": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/destaques/atualizacao-da-lista-exaustiva-2013-inciso-i-do-ss2o-e-ss8o-do-art-21-da-resolucao-cmn-no-4-963-2021"
      }
     ]
    },
@@ -87,6 +92,47 @@
    },
    "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
    "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-12-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Na traaaveeeee",
+   "editorial_note": "Comentário de Vorcaro ao encaminhar a Augusto Lima, seu sócio, notícia sobre a cirurgia de Lula em 10/12/2024 (Hospital Sírio-Libanês, hemorragia intracraniana após queda), uma semana após o encontro de Vorcaro com Lula em 4/12/2024; mensagens extraídas pela PF do celular de Vorcaro, conforme apuração do jornal O Globo (coluna Lauro Jardim) reproduzida pelas fontes. A leitura de que a frase ironizaria ou lamentaria a recuperação é interpretação jornalística — a mensagem literal não contém declaração de desejo de morte.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estado de Minas",
+      "date": "2026-10-19",
+      "url": "https://www.em.com.br/politica/2026/10/7523335-vorcaro-ironizou-cirurgia-cerebral-de-lula-na-traaaveeeee.html"
+     },
+     {
+      "publication": "Bahia Notícias",
+      "date": "2026-10-18",
+      "url": "https://www.bahianoticias.com.br/noticia/322609-vorcaro-lamentou-que-lula-nao-morreu-apos-queda-no-banheiro-na-traaaveeeee-disse-o-banqueiro-a-augusto-lima"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estado de Minas (2026-10-19) e Bahia Notícias (2026-10-18), apud O Globo",
+   "added_in": "audit-20261019"
   },
   {
    "id": "m-00003",
