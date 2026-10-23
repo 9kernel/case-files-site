@@ -204,6 +204,16 @@ ok = runCase('public_investigation sem procedimento identificável', (t) => {
 ok = runCase('public_investigation com proceeding declarado passa', (t) => {
   t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: 'Operação Compliance Zero — PF/STF' };
 }, []) && ok;
+/* regressão 2026-10-23 (correção de proveniência): semântica documentada de
+   public_investigation — fonte exclusivamente jornalística é legítima apenas
+   com amarra declarada a procedimento público (README §2); string vazia não
+   é amarra */
+ok = runCase('public_investigation com origin press report e proceeding declarado é legítimo (semântica documentada)', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', origin: 'press report', authority: 'Polícia Federal', proceeding: 'PF — mensagens extraídas do celular de Vorcaro, declarada pela reportagem' };
+}, []) && ok;
+ok = runCase('public_investigation com proceeding em branco é rejeitado', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: '   ' };
+}, ['E_INV_BASIS']) && ok;
 ok = runCase('nível != official_document com primary_document_located=true', (t) => { t.messages[0].verification = { ...t.messages[0].verification, primary_document_located: true }; }, ['E_VERIFICATION_SHAPE']) && ok;
 ok = runCase('datas fora de ordem', (t) => { t.messages[1].date = '2024-03-10'; }, ['E_TIMESTAMP_ORDER']) && ok;
 ok = runCase('horas fora de ordem no mesmo dia', (t) => { t.messages[1].time = '07:00'; }, ['E_TIMESTAMP_ORDER']) && ok;

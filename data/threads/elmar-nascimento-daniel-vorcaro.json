@@ -52,7 +52,7 @@
   {
    "id": "e-00001",
    "date": null,
-   "content": "Segundo o UOL (22/10/2026), às 23h27 de 24/10/2024 — véspera do 2º turno das eleições municipais — um motorista de Vorcaro entregou um volume, não identificado pela reportagem, a uma pessoa indicada pelo deputado Elmar Nascimento em São Paulo; no dia seguinte, às 9h30, Elmar agradeceu (“Filho, ontem o senhor salvou a pátria!!”). A PF apura a entrega em período eleitoral; o conteúdo do volume segue sem identificação pública e não se afirma que continha dinheiro. A mesma reportagem descreve patrocínio de R$ 1 milhão ao Festival das Esmeraldas via Fabiano Zettel (ver conversa própria).",
+   "content": "Segundo o UOL (22/10/2026), às 23h27 de 24/10/2024 — três dias antes do 2º turno das eleições municipais (votado em 27/10/2024) — um motorista de Vorcaro entregou um volume, não identificado pela reportagem, a uma pessoa indicada pelo deputado Elmar Nascimento em São Paulo; no dia seguinte, às 9h30, Elmar agradeceu (“Filho, ontem o senhor salvou a pátria!!”). A PF apura a entrega em período eleitoral; o conteúdo do volume segue sem identificação pública e não se afirma que continha dinheiro. A mesma reportagem descreve patrocínio de R$ 1 milhão ao Festival das Esmeraldas via Fabiano Zettel (ver conversa própria).",
    "event_kind": "editorial_context",
    "verification": {
     "level": "secondary_source",
@@ -78,7 +78,8 @@
     ]
    },
    "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press8-20261023",
+   "editorial_note": "[Corrigido 2026-10-23: a versão anterior chamava 24/10/2024 de véspera do 2º turno — a votação ocorreu em 27/10/2024.]"
   }
  ]
 }

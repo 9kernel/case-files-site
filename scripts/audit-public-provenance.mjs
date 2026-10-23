@@ -41,7 +41,7 @@ const addRecord = (rec) => {
   records.push(rec);
 };
 
-function classify(level, source, sources, docExists, doc, isEvent = false, sourceRef = null) {
+function classify(level, source, sources, docExists, doc, isEvent = false, sourceRef = null, verification = null) {
   const did = source?.document_id ?? null;
   const primary = sources?.primary ?? null;
   if (level === 'official_document') {
@@ -58,6 +58,16 @@ function classify(level, source, sources, docExists, doc, isEvent = false, sourc
   if (level === 'public_investigation') {
     if (primary && primary.document_id != null) {
       return { category: 'SOURCE_CONFLICT', reason: 'public_investigation não deve ter sources.primary.document_id (nível inferior a official_document)' };
+    }
+    // Semântica documentada (validador E_INV_BASIS + README §2): public_investigation
+    // NÃO afirma acesso ao documento primário (primary_document_located=false) — declara
+    // que a fonte publicada amarra o material a procedimento público identificável
+    // (verification.proceeding) ou a referência documental. Fonte exclusivamente
+    // jornalística é legítima NESTE nível somente com essa amarra declarada; sem ela,
+    // o registro deve ser secondary_source.
+    const hasDocRef = verification?.case || verification?.document || verification?.official_url || did;
+    if (!hasDocRef && (typeof verification?.proceeding !== 'string' || !verification.proceeding.trim())) {
+      return { category: 'SOURCE_CONFLICT', reason: 'public_investigation sem procedimento público declarado (verification.proceeding) nem referência documental — espelha E_INV_BASIS do validador; caso contrário, use secondary_source' };
     }
     return { category: 'OK_PUBLIC_INVESTIGATION', reason: null };
   }
@@ -86,6 +96,7 @@ for (const file of files) {
     const doc = did != null ? docsById.get(did) : undefined;
     const { category, reason } = classify(
       m.verification?.level, m.source, m.sources, did != null ? doc !== undefined : false, doc,
+      false, null, m.verification,
     );
     addRecord({
       kind: 'message',
@@ -110,7 +121,7 @@ for (const file of files) {
     const did = ev.source?.document_id ?? null;
     const doc = did != null ? docsById.get(did) : undefined;
     const { category, reason } = classify(
-      ev.verification?.level, ev.source, null, did != null ? doc !== undefined : false, doc, true, ev.source_ref,
+      ev.verification?.level, ev.source, null, did != null ? doc !== undefined : false, doc, true, ev.source_ref, ev.verification,
     );
     addRecord({
       kind: 'event',

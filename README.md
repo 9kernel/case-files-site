@@ -72,11 +72,17 @@ conhecimento absoluto sobre a origem última dessas reportagens.
 - **Níveis de verificação por registro**: ✓ documento oficial (localizado na
   peça pública, com página) · ◉ investigação pública (procedimento público
   identificável — peça específica ainda não localizada; o campo
-  `verification.proceeding` declara qual procedimento, e o validador o exige
-  na ausência de referência documental) · ○ fonte jornalística (reportagem
-  citada; usada sempre que o material publicado não amarra a mensagem a um
-  procedimento público). Promoções de nível exigem evidência documental —
-  nunca automáticas.
+  `verification.proceeding` declara qual procedimento, e o validador e o
+  auditor o exigem na ausência de referência documental) · ○ fonte jornalística
+  (reportagem citada; usada sempre que o material publicado não amarra a
+  mensagem a um procedimento público). **Definição explícita de ◉**: fonte
+  exclusivamente jornalística é legítima neste nível somente quando a
+  reportagem declara a cadeia investigativa do material (ex.: mensagens
+  extraídas pela PF do celular apreendido); o nível **não** afirma acesso ao
+  documento primário (`primary_document_located: false`) — a simples menção a
+  uma operação, ou material anexado por partes a ações judiciais sem
+  procedimento público identificável, permanece em ○. Promoções de nível
+  exigem evidência documental — nunca automáticas.
 
 **Auditorias — histórico e números correntes:**
 
@@ -88,8 +94,8 @@ conhecimento absoluto sobre a origem última dessas reportagens.
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
 - *Números correntes (23/10/2026)*: **64 conversas · 861 mensagens · 208
-  eventos** — 1069 registros públicos auditados (602 investigação pública com
-  procedimento declarado, 275 documento oficial, 192 fonte jornalística),
+  eventos** — 1069 registros públicos auditados (588 investigação pública com
+  procedimento declarado, 275 documento oficial, 206 fonte jornalística),
   zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
   o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.

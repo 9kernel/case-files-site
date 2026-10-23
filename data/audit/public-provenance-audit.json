@@ -7,8 +7,8 @@
   "ok": 1069,
   "problems": 0,
   "by_category": {
-   "OK_PUBLIC_INVESTIGATION": 602,
-   "OK_SECONDARY": 192,
+   "OK_PUBLIC_INVESTIGATION": 588,
+   "OK_SECONDARY": 206,
    "OK_OFFICIAL": 275
   }
  },
@@ -17759,7 +17759,7 @@
    "message_id": "m-00046",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17770,7 +17770,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17779,7 +17779,7 @@
    "message_id": "m-00047",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17790,7 +17790,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17799,7 +17799,7 @@
    "message_id": "m-00048",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17810,7 +17810,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17819,7 +17819,7 @@
    "message_id": "m-00049",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17830,7 +17830,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17839,7 +17839,7 @@
    "message_id": "m-00050",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17850,7 +17850,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17859,7 +17859,7 @@
    "message_id": "m-00051",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17870,7 +17870,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17879,7 +17879,7 @@
    "message_id": "m-00052",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17890,7 +17890,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17899,7 +17899,7 @@
    "message_id": "m-00053",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17910,7 +17910,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17919,7 +17919,7 @@
    "message_id": "m-00054",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17930,7 +17930,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17939,7 +17939,7 @@
    "message_id": "m-00055",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17950,7 +17950,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17959,7 +17959,7 @@
    "message_id": "m-00056",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17970,7 +17970,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17979,7 +17979,7 @@
    "message_id": "m-00057",
    "sender_id": "paulo-henrique",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -17990,7 +17990,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -17999,7 +17999,7 @@
    "message_id": "m-00058",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -18010,7 +18010,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -18019,7 +18019,7 @@
    "message_id": "m-00059",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -18030,7 +18030,7 @@
    "secondary_sources": [
     "UOL — coluna Natália Portinari"
    ],
-   "category": "OK_PUBLIC_INVESTIGATION",
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {

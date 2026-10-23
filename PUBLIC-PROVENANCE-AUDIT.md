@@ -14,8 +14,8 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 602 |
-| OK_SECONDARY | 192 |
+| OK_PUBLIC_INVESTIGATION | 588 |
+| OK_SECONDARY | 206 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |
 | MISSING_PAGE | 0 |
