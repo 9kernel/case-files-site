@@ -62,21 +62,32 @@ vazamento não oficial.
 - **Horários e referências nunca são inventados**: o que a fonte não divulga
   aparece como “não divulgado”; na dúvida, o campo fica nulo.
 - **Níveis de verificação por registro**: ✓ documento oficial (localizado na
-  peça pública, com página) · ◉ investigação pública (procedimento público,
-  peça específica ainda não localizada) · ○ fonte jornalística (reportagem
-  citada). Promoções de nível exigem evidência documental — nunca automáticas.
+  peça pública, com página) · ◉ investigação pública (procedimento público
+  identificável — peça específica ainda não localizada; o campo
+  `verification.proceeding` declara qual procedimento, e o validador o exige
+  na ausência de referência documental) · ○ fonte jornalística (reportagem
+  citada; usada sempre que o material publicado não amarra a mensagem a um
+  procedimento público). Promoções de nível exigem evidência documental —
+  nunca automáticas.
 
-**Auditorias realizadas (07/10/2026):**
+**Auditorias — histórico e números correntes:**
 
-- *Proveniência*: 384/384 registros verificados — toda mensagem
-  `official_document` aponta para peça com publicidade confirmada; nenhum
-  documento inexistente; nenhuma página faltante (relatório público:
-  `PUBLIC-PROVENANCE-AUDIT.md`).
-- *Fidelidade*: comparação citação-por-citação contra o texto das peças e das
-  reportagens (método: extração por página + substring normalizada; figuras
-  conferidas por timestamp e leitura visual): **zero divergências em 335
-  mensagens**; 11 citações (em figuras/imagem ou matéria que bloqueia robôs)
-  mantêm corroboração indireta registrada e pendência de leitura visual.
+- *Snapshot histórico (07/10/2026)* — fidelidade conferida citação por
+  citação contra o texto das peças e das reportagens (método: extração por
+  página + substring normalizada; figuras conferidas por timestamp e leitura
+  visual): **zero divergências em 335 mensagens**; 11 citações (em
+  figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
+  registrada e pendência de leitura visual. Naquela data: 384 registros
+  auditados.
+- *Números correntes (16/10/2026)*: **60 conversas · 795 mensagens · 200
+  eventos** — 995 registros públicos auditados (540 investigação pública com
+  procedimento declarado, 275 documento oficial, 180 fonte jornalística),
+  zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
+  o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
+  (regenerado pelo CI a cada commit) e em `data/threads.json`.
+- *Proveniência (contínua)*: toda mensagem `official_document` aponta para
+  peça com publicidade confirmada; nenhum documento inexistente; nenhuma
+  página faltante (relatório público: `PUBLIC-PROVENANCE-AUDIT.md`).
 - **Imutável e rastreável**: mensagem nunca é editada em silêncio — toda
   alteração é um commit assinado e auditável.
 
@@ -112,13 +123,28 @@ Este arquivo existe e se apoia, em síntese, nos seguintes fundamentos
 
 ## 4. Privacidade e minimização
 
-Sem mídia dos autos publicada (política escrita: prints/áudios só após revisão
-individual); sem fotos de pessoas; sem dados pessoais além do necessário à
-compreensão documental; o projeto **não redistribui peças** (política
-link-only: leitura sempre na origem pública). Correções e contestações: página
-de política no site.
+**Mídias dos autos** — nenhuma foto, print, áudio ou vídeo proveniente dos
+autos é publicado ou re-hospedado (política escrita: prints/áudios só após
+revisão individual; áudios de fonte jornalística são sempre linkados na
+origem, nunca re-hospedados).
+
+**Fotos de pessoas** — as únicas imagens de pessoas no site são fotos de
+perfil **públicas** (titulares de função ou figuras públicas, em contexto
+jornalístico) obtidas do Wikimedia Commons sob licença livre, com atribuição
+obrigatória arquivo por arquivo em `public/media/people/CREDITS.md`. São
+avatars de navegação, não mídia dos autos; nenhuma foto privada é veiculada.
+
+Sem dados pessoais além do necessário à compreensão documental; o projeto
+**não redistribui peças** (política link-only: leitura sempre na origem
+pública). Correções e contestações: página de política no site.
 
 ## 5. Verificação automatizada (CI)
+
+**Protocolo de backup local** — antes de qualquer rodada de mutação de dados,
+executar `python scripts/backup_local.py`: cria `.backups/data-<sha>-<ts>.zip`
+(gitignored) com todo o acervo curado. O git permanece o backup primário
+(commits assinados por rodada); o zip preserva o estado pré-mutação para
+restauração rápida. Restaurar = descompactar sobre a raiz do repositório.
 
 Todo push roda, sem dependências externas (Node puro):
 

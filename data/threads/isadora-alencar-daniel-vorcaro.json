@@ -6,9 +6,9 @@
   "isadora-alencar"
  ],
  "source": {
-  "document": "Folha — “Vorcaro financiou startup de filha de Otto Alencar e negociou obras de arte com aliado de Jaques Wagner” (09/10/2026)",
+  "document": "Folha de S.Paulo, 09/10/2026: mensagens sobre o investimento na startup Ecoari, de Isadora Alencar (filha do senador Otto Alencar, PSD-BA). Ela afirma que foi um empréstimo regular e que a compra do Master não se concretizou; Otto Alencar nega ter conversado com Vorcaro. A B3 alertou o Coaf três vezes sobre ativos da Ecoari no Master.",
   "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml",
-  "pages": "Reportagem de José Marques e João Gabriel. Isadora Alencar, filha do senador Otto Alencar (PSD-BA), é empreendedora da startup Ecoari, de Salvador. Em nota, Isadora disse tratar-se de “um empréstimo regular” junto ao Master, “dentro das regras previstas em lei”, com conversas de “conteúdo profissional”, e que a aquisição citada não se concretizou; Otto Alencor disse ao O Globo não ter estado com Vorcaro. Datas individuais das mensagens, em geral, não divulgadas."
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
  },
  "messages": [
   {
@@ -18,11 +18,11 @@
    "timestamp_precision": "month",
    "sender_id": "isadora-alencar",
    "content_kind": "verbatim_excerpt",
-   "content": "próximos passos da aquisição da Ecoari",
-   "editorial_note": "Trecho da mensagem de apresentação de Isadora a Vorcaro, no início de setembro/2024; o contato teria sido passado por “Ciro”. A reportagem resume o restante sem transcrição.",
+   "content": "Deu tudo certo com a abertura da conta! Ainda não assinamos o contrato, mas permaneço à disposição...",
+   "editorial_note": "Reticências constam da transcrição da reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -31,30 +31,33 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-10-09",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00002",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
    "sender_id": "isadora-alencar",
-   "content_kind": "verbatim",
-   "content": "Deu tudo certo com a abertura da conta! Ainda não assinamos o contrato, mas permaneço à disposição para a entrega de qualquer documentação complementar",
-   "editorial_note": "Enviada cerca de uma semana após enviar lista de nomes de empresas e pessoas, não respondida.",
+   "content_kind": "verbatim_excerpt",
+   "content": "Assinamos o contrato e o banco já fez o repasse do valor! Gostaria de agradecer muito pela confiança e parceria...",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -63,30 +66,33 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-10-09",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00003",
-   "sender_id": "isadora-alencar",
-   "content_kind": "verbatim",
-   "content": "Assinamos o contrato e o banco já fez o repasse do valor! Gostaria de agradecer muito pela confiança e parceria",
-   "editorial_note": "Cinco dias depois da mensagem anterior, segundo a reportagem.",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "que bacana!",
+   "editorial_note": "Comentário às notícias da contratação, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -95,129 +101,33 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-10-09",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00004",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "não travar nada que você precisar",
-   "editorial_note": "Ao indicar uma pessoa do banco para a estratégia de investimento pedida por Isadora, Vorcaro sugere deixar os recursos em CDB com liquidez, para “não travar nada que você precisar”; trecho entre aspas na reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00005",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "parabéns",
-   "editorial_note": "Resposta curta às mensagens de Isadora relatando citações em revistas, eventos em Brasília e parcerias, no segundo semestre de 2024.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00006",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "que bacana!",
-   "editorial_note": null,
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00007",
    "date": "2025-09",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "isadora-alencar",
-   "content_kind": "verbatim",
-   "content": "Gostaria de agradecer pela presença ontem, de verdade! Também agradeço muito pela delicadeza nos presentes!",
-   "editorial_note": "Um dia após o aniversário de Isadora, em setembro/2025.",
+   "content_kind": "verbatim_excerpt",
+   "content": "Gostaria de agradecer pela presença ontem, de verdade! Também agradeço muito pela delicadeza nos presentes!...",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -226,33 +136,33 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-10-09",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
   },
   {
-   "id": "m-00008",
+   "id": "m-00005",
    "date": "2025-09",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Fiquei muito feliz de estar com vocês! Você merece tudo de bom desse mundo! Família querida!",
-   "editorial_note": null,
+   "content_kind": "verbatim_excerpt",
+   "content": "Fiquei muito feliz de estar com vocês! ... Família querida! Que seja um ciclo maravilhoso para você",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -261,32 +171,33 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-10-09",
       "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015"
   }
  ],
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": "2024-10",
+   "date": "2024-09",
+   "time": null,
    "timestamp_precision": "month",
+   "content": "Contrato assinado e repasse do investimento na Ecoari, que mantinha os recursos no Master; a chegada de Isadora teria sido por indicação de 'Ciro' (provável advogado Ciro Soares), segundo a reportagem.",
    "event_kind": "editorial_context",
-   "content": "A B3 envia ao Coaf alerta sobre mais de R$ 9 milhões custodiados no Master, incompatíveis com o porte da Ecoari; novo alerta em novembro/2024.",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -295,20 +206,32 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
-   "date": "2025-09",
+   "date": "2024-10",
+   "time": null,
    "timestamp_precision": "month",
+   "content": "A B3 alertou o Coaf três vezes: ativos da Ecoari no Master incompatíveis com o porte da empresa — mais de R$ 9 milhões (out/nov 2024) e R$ 2,8 milhões (set 2025).",
    "event_kind": "editorial_context",
-   "content": "O Coaf recebe novo alerta sobre R$ 2,8 milhões relacionados à startup.",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -317,10 +240,21 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15"
    },
-   "source_ref": "Folha, 09/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-10-09",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-10-09)",
+   "added_in": "ingest-press-20261015",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

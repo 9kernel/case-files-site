@@ -746,6 +746,18 @@ function checkVerification(m, where, err, { isMessage }) {
       err('E_VERIFICATION_SECONDARY', where, 'verification.level "secondary_source" exige ao menos uma fonte em sources.secondary (publication obrigatória).');
     }
   }
+
+  if (v.level === 'public_investigation') {
+    // "investigação pública" exige procedimento público identificável:
+    // referência documental (case/document/official_url/página) OU declaração
+    // explícita do procedimento (verification.proceeding). Material cuja única
+    // base é reportagem sem procedimento conhecido deve ser secondary_source.
+    const hasDocRef = v.case || v.document || v.official_url || m.source?.document_id;
+    if (!hasDocRef && typeof v.proceeding !== 'string') {
+      err('E_INV_BASIS', where,
+        'public_investigation exige procedimento público identificável (verification.proceeding) ou referência documental (case/document/official_url/página) — caso contrário, use secondary_source.');
+    }
+  }
 }
 
 /* ---------- CLI ---------- */

@@ -83,6 +83,13 @@ export function getSearchIndex() {
   return searchIndexCache;
 }
 
+/** Inclusões por data de lote por conversa (selo "novo") — build-whatsnew.mjs. */
+let whatsNewCache = null;
+export function getWhatsNew() {
+  whatsNewCache ??= fetchJSON('data/whatsnew.json');
+  return whatsNewCache;
+}
+
 /** Thread RAW (inclui registros pending_review) — uso interno/deep-link. */
 export function getThreadRaw(id) {
   // slug simples para evitar traversal de caminho

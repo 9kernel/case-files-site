@@ -34,6 +34,10 @@ jobs:
         run: |
           node scripts/build-search-index.mjs
           git diff --exit-code data/search-index.json
+      - name: build-whatsnew.mjs (mapa de inclusões recentes em sincronia com as threads)
+        run: |
+          node scripts/build-whatsnew.mjs
+          git diff --exit-code data/whatsnew.json
 
   deploy:
     name: Publicar no GitHub Pages (sem build)

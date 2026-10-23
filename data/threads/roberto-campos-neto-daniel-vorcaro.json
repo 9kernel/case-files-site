@@ -19,9 +19,9 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "apresentar o trabalho que estamos desenvolvendo no banco e nossas perspectivas",
-   "editorial_note": "Vorcaro pedia encontro; o trecho entre aspas é reproduzido pela reportagem.",
+   "editorial_note": "Vorcaro pedia encontro; o trecho entre aspas é reproduzido pela reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -54,9 +54,9 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "content": "Merecido! Parabéns!",
-   "editorial_note": "Resposta a uma imagem não recuperada pela reportagem; coincide com o BC ser eleito banco central do ano (Central Banking Awards 2024).",
+   "editorial_note": "Resposta a uma imagem não recuperada pela reportagem; coincide com o BC ser eleito banco central do ano (Central Banking Awards 2024). [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -89,9 +89,9 @@
    "sender_id": "roberto-campos-neto",
    "content_kind": "verbatim",
    "content": "Muito obrigado, Daniel. Um grande abraço e sucesso",
-   "editorial_note": "Agradecimento do então presidente do BC.",
+   "editorial_note": "Agradecimento do então presidente do BC. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -125,7 +125,7 @@
    "event_kind": "editorial_context",
    "content": "Campos Neto propõe encontro em 22/12 (presencial ou por vídeo) ou na semana seguinte na Fazenda Boa Vista, em Porto Feliz (SP), onde estaria com a família, e diz que depois passaria o endereço.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -138,7 +138,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "C-Level/Folha, 01/10/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -147,7 +148,7 @@
    "event_kind": "editorial_context",
    "content": "Na véspera, Campos Neto confirma o convite e menciona morar no mesmo condomínio de um diretor da XP; o encontro em casa foi cancelado por causa de dedetização do imóvel.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -160,7 +161,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "C-Level/Folha, 01/10/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00003",
@@ -169,7 +171,7 @@
    "event_kind": "editorial_context",
    "content": "Reunião substituída por encontro na sede do BC na Av. Paulista (São Paulo), das 17h às 18h, fechada à imprensa.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -182,7 +184,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "C-Level/Folha, 01/10/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

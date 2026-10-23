@@ -205,50 +205,6 @@
   {
    "id": "m-00005",
    "date": "2023-12-26",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Mesmo esquema entrar na garagem correto",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 22,
-    "figure": 18
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 22,
-    "figure": 18,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 22,
-     "figure": 18,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00006",
-   "date": "2023-12-26",
    "time": "11:43",
    "timestamp_precision": "minute",
    "sender_id": "fabio-faria",
@@ -300,7 +256,267 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
+   "id": "m-00006",
+   "date": "2023-12-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mesmo esquema entrar na garagem correto",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 22,
+    "figure": 18
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 22,
+    "figure": 18,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 22,
+     "figure": 18,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 22 · fig. 18",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
    "id": "m-00007",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode ser dia 30 o almoço?",
+   "editorial_note": "Mensagem encaminhada por Fábio Faria a Vorcaro, na articulação do almoço, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, Alex quer ir almoçar lá no dia 30",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2023-12-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já estamos aqui, obrigado (sic)",
+   "editorial_note": "Encaminhada por Fábio no dia do almoço, por volta das 14h15, com mensagem aparentemente do próprio ministro; '(sic)' consta da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Opa. Parece que sim. Ele me ligou. E a turma lá disse que foi tudo certo. Ainda estão lá",
+   "editorial_note": "Por volta das 18h30, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00012",
+   "date": "2023-12-30",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Campos? Top! Bom demais",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Igor Gadelha",
+      "date": "2026-09-30",
+      "url": "https://www.metropoles.com/colunas/igor-gadelha/caviar-e-trufa-almoco-de-moraes-foi-articulado-por-fabio-faria-com-vorcaro"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Igor Gadelha (2026-09-30)",
+   "added_in": "ingest-press5-20261016"
+  },
+  {
+   "id": "m-00013",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -344,7 +560,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00008",
+   "id": "m-00014",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -388,7 +604,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00009",
+   "id": "m-00015",
    "date": "2024-01-15",
    "time": null,
    "timestamp_precision": "date",
@@ -432,7 +648,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00010",
+   "id": "m-00016",
    "date": "2024-03-15",
    "time": "15:07",
    "timestamp_precision": "minute",
@@ -476,7 +692,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00011",
+   "id": "m-00017",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -524,7 +740,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00012",
+   "id": "m-00018",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -572,7 +788,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00013",
+   "id": "m-00019",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -616,7 +832,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00014",
+   "id": "m-00020",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -660,7 +876,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00015",
+   "id": "m-00021",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -708,7 +924,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00016",
+   "id": "m-00022",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -752,7 +968,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00017",
+   "id": "m-00023",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -800,7 +1016,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00018",
+   "id": "m-00024",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -844,7 +1060,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00019",
+   "id": "m-00025",
    "date": "2024-04-03",
    "time": null,
    "timestamp_precision": "date",
@@ -888,7 +1104,7 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
-   "id": "m-00020",
+   "id": "m-00026",
    "date": "2024-04-06",
    "time": null,
    "timestamp_precision": "date",
@@ -934,6 +1150,366 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 183 · fig. 189",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00027",
+   "date": "2024-05-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Isnalldinho, Dr Luizinho, Hugo etc",
+   "editorial_note": "Fragmento: Faria avisa Vorcaro sobre chamar para um encontro 'o Isnalldinho, Dr Luizinho, Hugo etc', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00028",
+   "date": "2024-05-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Decidir essa eleição da câmara hoje / No charuto / Kkkk",
+   "editorial_note": "Após liberar o convite do encontro a todos, sobre a eleição da Câmara, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00029",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "só aumenta a fofoca",
+   "editorial_note": "Fragmento: pede a Faria que não toque no tema da 'fofoca da Câmara' citada em conversa anterior, porque 'só aumenta a fofoca', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00030",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Turma falando que eu to apoiando Hugo pra presidente da Câmara",
+   "editorial_note": "Na mesma conversa, sobre o encontro de Faria com 'Elmar e Esteves', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00031",
+   "date": "2024-08-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que o Artur passou um blefe no Ciro",
+   "editorial_note": "Quando a possibilidade de Motta entrar na disputa começava a surgir; o plano era atrair Lira, apoiador de Elmar Nascimento, com a promessa de que Marcos Pereira sairia caso ele apoiasse Motta, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00032",
+   "date": "2024-08-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falando q apoiaria Hugo",
+   "editorial_note": "Sequência da mesma mensagem, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00033",
+   "date": "2024-09-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Parece que deu certo o Hugo",
+   "editorial_note": "Por volta das 20h do dia em que Marcos Pereira saiu oficialmente da disputa; em seguida, Faria enviou reportagem sobre a desistência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-09-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nossa cara",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-09-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vai ser demais se for",
+   "editorial_note": "Sequência da mesma conversa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-09-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "fabio-faria",
+   "content_kind": "verbatim_excerpt",
+   "content": "Melhor q fazer o presidente. Cenário perfeito",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   }
  ],
  "timeline_events": [
@@ -1160,6 +1736,40 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 198 · fig. 207",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00009",
+   "date": "2024-05-24",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Faria avisa Vorcaro sobre um encontro com Elmar Nascimento e Esteves e pede detalhes da 'fofoca da Câmara' citada em conversa anterior; Vorcaro pede que não toque no tema. A conversa registra que, já em maio/2024, circulava a informação de que Vorcaro apoiava Hugo Motta para a presidência da Câmara.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   }
  ]
 }

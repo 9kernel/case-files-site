@@ -1,0 +1,183 @@
+{
+ "id": "manuela-carta-daniel-vorcaro",
+ "title": "Manuela Carta",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "manuela-carta"
+ ],
+ "source": {
+  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: a diretora da CartaCapital avisou Vorcaro da necessidade de recursos para a folha de pagamentos; a revista fechou em 2021 contrato de patrocínio de cinco anos com o então Banco Máxima, que já havia adiantado R$ 300 mil em dezembro de 2020. Negociação de compra da revista por Vorcaro não se concretizou. Nota de CartaCapital registrada nos eventos.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": null,
+   "sender_id": "manuela-carta",
+   "content_kind": "verbatim_excerpt",
+   "content": "mais um recurso para a próxima folha de pagamentos",
+   "editorial_note": "Fragmento: no início de 2021, Carta avisou a Vorcaro que precisaria de 'mais um recurso para a próxima folha de pagamentos', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2020-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "O Banco Máxima (futuro Master) adianta R$ 300 mil à CartaCapital; em 2021, é firmado contrato de patrocínio de cinco anos. O dinheiro ajudava a pagar salários, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": "2023-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Carta e Vorcaro se encontram para tratar da eventual entrada dele como sócio da revista, possibilidade discutida havia um ano; três dias depois, ela envia dados sobre a dívida da revista e sinaliza aguardar proposta. A negociação não se concretiza.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Em 2024, Carta pediu um 'adiantamento de publicidade', e Vorcaro se ofereceu para ajudar 'fora do banco', segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Em nota, Manuela Carta, publisher da CartaCapital, informou que o Banco Master 'fechou um contrato de publicidade com a editora em 2021 e anunciou na revista até 2023. Tratava-se de um contrato regular de veiculação de anúncio, conforme as regras do mercado publicitário'; que o grupo voltou a anunciar por meio da Kovr e do Will; e que Vorcaro nunca a procurou para pedir notícias positivas ou interferir em conteúdo jornalístico, 'o que, obviamente, seria um erro, dada a separação entre a área comercial e a redação'.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
+}

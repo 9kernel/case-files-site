@@ -1,0 +1,257 @@
+{
+ "id": "elsinho-mouco-daniel-vorcaro",
+ "title": "Elsinho Mouco",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "elsinho-mouco"
+ ],
+ "source": {
+  "document": "UOL (apuração de O Globo), 14/10/2026: o publicitário Elsinho Mouco, interlocutor do ex-presidente Michel Temer, enviou a Vorcaro e cobrou pagamentos do contrato de até R$ 30 milhões entre o Master e o escritório de Temer, firmado em 03/09/2025 para tentar viabilizar a venda do banco ao BRB — vetada pelo Banco Central.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-09-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "elsinho-mouco",
+   "content_kind": "verbatim_excerpt",
+   "content": "Assim que assinar o contrato e fizerem a transferência, me envia o comprovante. Vamos à luta!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-10-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Minha vida tá uma loucura",
+   "editorial_note": "Relatando problemas para liberar pagamentos com o Master em dificuldades e a venda ao BRB já barrada, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-10-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Luta tá grande aqui pra ficar de pe",
+   "editorial_note": "Sequência do mesmo desabafo, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-11-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "elsinho-mouco",
+   "content_kind": "verbatim_excerpt",
+   "content": "Entrou a metade",
+   "editorial_note": "Segundo a reportagem, parte do dinheiro entrou poucos dias antes da prisão de Vorcaro, sem detalhamento de valores. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou no Banco Central hoje, consigo chamar somente mais tarde",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": null,
+   "sender_id": "elsinho-mouco",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tranquilo. Depois checa com sua equipe se já fizeram o pagamento",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2025-09-03",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Contrato entre o Master e o escritório de Temer: R$ 10 milhões de honorários iniciais (R$ 5 milhões na assinatura e R$ 5 milhões após 30 dias) e R$ 20 milhões de êxito condicionados ao avanço da venda ao BRB. Cláusula: 'Assinado em definitivo o Contrato após autorização do Banco Central do Brasil, os honorários de êxito deverão ser pagos 20 dias após esse fato'. Frentes: ação judicial ligada ao BC, representação no TCU e mediação junto a 'todos os organismos competentes'. A transação dependia de autorização do BC, que vetou o negócio.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (apuração de O Globo)",
+      "date": "2026-10-14",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/14/escritorio-de-temer-negociou-contrato-de-ate-r-30-milhoes-com-master.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (apuração de O Globo) (2026-10-14)",
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
+  }
+ ]
+}

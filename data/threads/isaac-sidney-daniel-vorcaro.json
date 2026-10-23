@@ -1,0 +1,603 @@
+{
+ "id": "isaac-sidney-daniel-vorcaro",
+ "title": "Isaac Sidney",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "isaac-sidney"
+ ],
+ "source": {
+  "document": "UOL — coluna Natália Portinari, 15/10/2026: mensagens da PF sobre a interlocução de Vorcaro com o presidente da Febraban — aluguel e compra do apartamento na Vila Olímpia (com R$ 1,2 milhão pagos ao vendedor fora da escritura), processos da CVM, regras do FGC e a consultoria de Henrique Meirelles. Proposta de delação de Vorcaro citava Sidney; PGR e PF rejeitaram por ausência de provas. Defesa extensa registrada nos eventos.",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2019-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não precisa tratar nada de comercial. Deixa isso comigo. Valores etc.",
+   "editorial_note": "Ao negociar com o dono do imóvel a locação da cobertura para Isaac, então advogado do Master, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2020-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Achei duro",
+   "editorial_note": "Sobre parecer da área técnica da CVM contra acordo proposto por Vorcaro, que Isaac lhe enviara, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2020-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falei com ele na quarta",
+   "editorial_note": "Ao enviar a Vorcaro, junto de minuta da escritura do apartamento, despacho da CVM em processo contra Vorcaro e o Máxima; sem dizer com quem falou, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Disseram a ele que o banco estava na mira do BC",
+   "editorial_note": "Sobre o ex-ministro Henrique Meirelles, convidado a prestar consultoria ao Master, que ligou para Isaac pedindo referências, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Penso que consegui desfazer os senões.",
+   "editorial_note": "Sequência da mesma conversa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode deixar que vou dar um toque no Paulo e no Belline",
+   "editorial_note": "Vorcaro pedira que Meirelles ligasse também para 'o Belline ou Paulo', servidores da supervisão do BC suspeitos, segundo a proposta de delação de Vorcaro, de receberem propina.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Foi boa a conversa do Meirelles com Paulo Sérgio",
+   "editorial_note": "No dia seguinte, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se não tivesse você, seria um tiro bem ruim",
+   "editorial_note": "Agradecimento na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": null,
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você nem imagina o que ouvi do presidente do BC e de um diretor, mas saí em sua defesa. Às vezes, o prestígio não é o que se vê, mas o que nem se sabe. Lealdade é o maior prestígio que posso lhe oferecer",
+   "editorial_note": "No fim de 2023, quando o BC preparava mudanças nas regras do FGC que atingiam o Master, em parte por pedido da própria Febraban, após Vorcaro reclamar que Isaac não lhe dava atenção, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": null,
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "para que vocês tivessem a oportunidade de mostrar a lisura da atuação do banco",
+   "editorial_note": "Fragmento: duas semanas depois, contou ter levado o diretor-executivo do FGC e o vice-presidente da ABBC ao Master, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": null,
+   "sender_id": "isaac-sidney",
+   "content_kind": "verbatim_excerpt",
+   "content": "Até um paper dos pontos críticos fiz chegar a você",
+   "editorial_note": "Sequência da mesma conversa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2019-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Locação da cobertura para Isaac: contrato formal de R$ 15 mil mensais registrou só a parte dele (R$ 174 mil adiantados pelo primeiro ano), mas o dono pedia R$ 50 mil; pela conta do vendedor, Vorcaro cobriria a diferença por 18 meses, mais impostos — 'Isso tudo dá 946', escreveu, em referência a R$ 946 mil. Vorcaro pagou entre março e abril de 2019. O aluguel antecipado cobre período em que Isaac já estava na Febraban.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": "2020-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Venda do apartamento a Isaac por R$ 7,3 milhões (escritura: R$ 1,8 milhão de recursos próprios e R$ 5,5 milhões de empréstimo do Master). Nos documentos no celular de Vorcaro constam ainda transferências do Master ao vendedor de R$ 1,2 milhão fora da escritura: R$ 535 mil (boleto Itaú, 17/11/2020), R$ 534 mil (sinal à construtora Yuny, 22/12) e R$ 131 mil à conta do vendedor. O vendedor cobrara um 'saldo' de R$ 665 mil dizendo que os valores não estavam documentados. O empréstimo foi quitado 13 meses depois, antes da primeira parcela.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Vorcaro conhece o dono do duplex de 410 m² na Vila Olímpia ao querer alugar o imóvel para morar com a família, que desistiu de se mudar para São Paulo; em 2019, surge a ideia de alugá-lo a Isaac Sidney, então advogado do Master.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Isaac Sidney foi chefe de gabinete de Henrique Meirelles no Banco Central, depois advogado do Banco Máxima/Master (aprovou-se junto ao BC a transferência do banco para Vorcaro) e assumiu a vice-presidência da Febraban em maio/2019 e a presidência em março/2020.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "Na proposta de delação apresentada à PF e à PGR, Vorcaro dedicou um capítulo a Isaac, afirmando que o apartamento foi pagamento 'em contrapartida à influência exercida junto ao Banco Central, em favor do Colaborador e do Banco Master'. A proposta foi rejeitada por ausência de provas; Sidney atribui a inclusão a retaliação por seu papel em denunciar as fraudes do Master em ofícios da Febraban ao BC.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "Defesa: Sidney diz que desconhece os pagamentos fora da escritura, que 'é falsa e sórdida qualquer especulação' de benefício em troca de influência no BC ('Jamais recebi qualquer bem, nem houve transferência para meu nome'); que a escritura 'refletiu integralmente a negociação final'; que acompanhou o boleto do Itaú apenas porque 'sem a quitação do saldo devedor, o imóvel não poderia ser dado em garantia em novo crédito imobiliário'; que o contrato de locação é de março/2019, antes da Febraban; que as despesas do flat inicial foram pagas 'a título de honorários advocatícios'; que foi 'a primeira voz do setor bancário a alertar o Banco Central' sobre a concentração da captação garantida pelo FGC, em três ofícios assinados por ele, e o primeiro dirigente a apoiar a liquidação do Master; que as referências a 'lealdade' e 'defesa' refletem 'interlocuções institucionais com bancos associados'; que só atuou para o Máxima depois de cumprida a quarentena; e que, no episódio Meirelles, sugeriu que ele procurasse a área de fiscalização do BC, como faria com qualquer dirigente de banco.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/15/vorcaro-pagou-parte-de-imovel-de-r-73-mi-para-presidente-da-febraban.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
+}

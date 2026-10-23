@@ -304,5 +304,26 @@
   "bytes": 28496484,
   "local_copy": null,
   "hash_note": null
+ },
+ {
+  "id": "pf-nota-imprensa-20261009",
+  "title": "Nota à imprensa da Polícia Federal — 09/10/2026 (matéria de Veja sobre Vorcaro)",
+  "authority": "Polícia Federal",
+  "unit": "Coordenação-Geral de Comunicação Social da PF",
+  "date": "2026-10-09",
+  "court": null,
+  "case": null,
+  "reporting_judge": null,
+  "pages": 1,
+  "edoc": null,
+  "official_process_url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/nota-a-imprensa-1/",
+  "public_copy_url": null,
+  "copy_kind": "official_web_page",
+  "copy_note": "Nota oficial publicada na página da PF; documento de página única.",
+  "public_access_verified": true,
+  "public_access_date": "2026-10-16",
+  "public_access_basis": "página oficial pública (gov.br/pf), acesso direto",
+  "sha256": null,
+  "bytes": null
  }
 ]

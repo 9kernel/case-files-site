@@ -360,22 +360,6 @@
   ]
  },
  {
-  "id": "geraldo-brazil-journal",
-  "name": "Geraldo (Brazil Journal)",
-  "photo": null,
-  "role": "Interlocutor no celular de Vorcaro",
-  "aliases": [
-   "GERALDO BRAZIL JOURNAL"
-  ],
-  "summary": "Contato salvo como “Geraldo Brazil Journal”. Segundo o IPJ-A, recebeu de Vorcaro, em 26/04/2024, o repasse de pedido atribuído ao ministro Alexandre de Moraes para incluir informação sobre encontro de ministros do STF com Tony Blair em matéria jornalística.",
-  "profile_sources": [
-   {
-    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
-    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
-   }
-  ]
- },
- {
   "id": "paulo-sergio",
   "name": "Paulo Sergio",
   "photo": null,
@@ -662,196 +646,159 @@
   "id": "julio-cezar",
   "name": "Júlio Cezar",
   "photo": null,
-  "role": "Consultor apontado como operador junto a fundos de pensão",
+  "role": "Consultor apontado pela Veja como operador do grupo de Padilha junto a fundos de pensão",
   "aliases": [
    "Júlio"
   ],
-  "summary": "Dono de consultoria em Goiânia, identificado pela reportagem da Veja como operador do grupo do então ministro Alexandre Padilha junto a fundos de pensão. A conversa com Vorcaro soma mais de 450 mensagens e 180 telefonemas; a tese da PF de captação de R$ 10 bilhões com 10% de propina é registrada como tese da investigação. Padilha nega as acusações.",
-  "profile_sources": [
-   {
-    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
-    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Mais de 450 mensagens e 180 telefonemas com Vorcaro",
-    "source": "Veja (10/10/2026), linkada em profile_sources"
-   },
-   {
-    "claim": "Apontado como operador do grupo de Padilha junto a fundos de pensão (tese da investigação; Padilha nega)",
-    "source": "Veja (10/10/2026), linkada em profile_sources"
-   }
-  ]
- },
- {
-  "id": "hamilton-buzelin",
-  "name": "Hamilton Buzelin",
-  "photo": null,
-  "role": "Ex-diretor de Finanças Corporativas do Banco Máxima",
-  "aliases": [
-   "Buzelin"
-  ],
-  "summary": "Ex-diretor de Finanças Corporativas do Banco Máxima. Retomou contato com Vorcaro em fevereiro/2024 e articulou o encontro de Vorcaro com Júlio Cezar no Planalto, em março/2024, conforme a reportagem da Veja.",
-  "profile_sources": [
-   {
-    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
-    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Ex-diretor de Finanças Corporativas do Banco Máxima",
-    "source": "Apresentação dele na própria conversa, reproduzida pela Veja (10/10/2026)"
-   }
-  ]
+  "summary": "Consultor de Goiânia. Segundo a Veja (10/10/2026), trocou mais de 450 mensagens e 180 telefonemas com Vorcaro buscando captação de R$ 10 bilhões em fundos de pensão, com propina de 10%. Negativas dos acusados na própria reportagem. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  },
  {
   "id": "martha-graeff",
   "name": "Martha Graeff",
   "photo": null,
-  "role": "Namorada de Daniel Vorcaro; influenciadora",
-  "aliases": [
-   "Martha"
-  ],
-  "summary": "Identificada pela Folha como namorada de Vorcaro e influenciadora. A ela Vorcaro teria escrito, em mensagens obtidas pela CPI mista do INSS, que o encontro com o presidente Lula (dezembro/2024) “foi ótimo”.",
-  "profile_sources": [
-   {
-    "label": "Folha — “Vorcaro diz em mensagens que encontro com Lula foi ‘ótimo’” (05/03/2026)",
-    "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Destinatária das mensagens sobre o encontro com Lula",
-    "source": "Folha (05/03/2026), linkada em profile_sources"
-   }
-  ]
+  "role": "Blogueira; então companheira de Daniel Vorcaro",
+  "aliases": [],
+  "summary": "Destinatária dos relatos de Vorcaro sobre encontros com autoridades dos três Poderes, nas mensagens da quebra de sigilo enviadas à CPI do INSS e reportadas pela Folha (05/03/2026). Perfil resumido exclusivamente a partir das reportagens linkadas."
  },
  {
   "id": "fernando-mascarenhas",
   "name": "Fernando Mascarenhas",
   "photo": null,
   "role": "Então diretor comercial do Banco Master",
-  "aliases": [
-   "Mascarenhas"
-  ],
-  "summary": "Diretor comercial do Banco Master em 2024. Trocou com Vorcaro mensagens sobre a exclusão do banco da “lista exaustiva” de instituições autorizadas a captar recursos de RPPS e sobre a agenda de reuniões com Caixa e com o então ministro Carlos Lupi. Procurado, não se manifestou.",
-  "profile_sources": [
-   {
-    "label": "UOL — “Master entrou em lista para captar fundos públicos…” (12/10/2026)",
-    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Então diretor comercial do Banco Master",
-    "source": "UOL (12/10/2026), linkada em profile_sources"
-   }
-  ]
- },
- {
-  "id": "acm-neto",
-  "name": "ACM Neto",
-  "photo": null,
-  "role": "Político; então pré-candidato ao governo da Bahia",
-  "aliases": [
-   "ACM"
-  ],
-  "summary": "As conversas com Vorcaro (2023–2024) registram encontros, elogios e articulações; ACM Neto o chama de “irmão”. Segundo a Revista Oeste, empresa ligada a ele recebeu R$ 3,6 milhões do Master e da gestora Reag, conforme apontamentos enviados ao COAF — ele nega irregularidades. Sobre a inclusão do Master na lista de RPPS, nega atuar para destravar os investimentos e condena “vazamentos seletivos e manipulados”.",
-  "profile_sources": [
-   {
-    "label": "Revista Oeste — “Vorcaro mantinha conversas com ACM Neto por mensagens” (02/10/2026)",
-    "url": "https://revistaoeste.com/politica/vorcaro-mantinha-conversas-com-acm-neto-por-mensagens/"
-   },
-   {
-    "label": "UOL — “Master entrou em lista para captar fundos públicos…” (12/10/2026)",
-    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.htm"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Mensagens de 2023–2024 no celular de Vorcaro obtidas pela PF",
-    "source": "Revista Oeste (02/10/2026), linkada em profile_sources"
-   },
-   {
-    "claim": "Recebeu R$ 3,6 milhões via empresa ligada, conforme apontamentos ao COAF (ele nega irregularidades)",
-    "source": "Revista Oeste (02/10/2026), linkada em profile_sources"
-   }
-  ]
+  "aliases": [],
+  "summary": "Interlocutor de Vorcaro no episódio de inclusão do Master na lista de instituições aptas a captar recursos de RPPS (maio/2024), conforme UOL (12/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  },
  {
   "id": "isadora-alencar",
   "name": "Isadora Alencar",
   "photo": null,
-  "role": "Empreendedora; filha do senador Otto Alencar",
-  "aliases": [
-   "Isadora"
-  ],
-  "summary": "Filha do senador Otto Alencar (PSD-BA) e empreendedora da startup Ecoari, de Salvador, que premia em dinheiro quem descarta lixo em pontos de reciclagem. Fechou com o Master empréstimo que, em nota, classifica como “um empréstimo regular”, “dentro das regras previstas em lei”, com conversas de “conteúdo profissional”; a aquisição citada não se concretizou. Alertas do Coaf registraram valores incompatíveis com o porte da empresa.",
-  "profile_sources": [
-   {
-    "label": "Folha — “Vorcaro financiou startup de filha de Otto Alencar…” (09/10/2026)",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Fundadora da Ecoari, de Salvador",
-    "source": "Folha (09/10/2026), linkada em profile_sources"
-   },
-   {
-    "claim": "Nota da própria: empréstimo regular dentro das regras da lei",
-    "source": "Folha (09/10/2026), linkada em profile_sources"
-   }
-  ]
+  "role": "Empreendedora; filha do senador Otto Alencar (PSD-BA)",
+  "aliases": [],
+  "summary": "Sócia da startup Ecoari, que recebeu investimento de Vorcaro e mantinha recursos no Master, conforme a Folha (09/10/2026). Ela afirma que foi um empréstimo regular e que a compra do Master não se concretizou. Perfil resumido exclusivamente a partir das reportagens linkadas."
  },
  {
   "id": "guilherme-sodre",
   "name": "Guilherme Sodré (Guiga)",
   "photo": null,
-  "role": "Articulador apontado pela PF como homem de confiança de Jaques Wagner",
+  "role": "Aliado do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré",
   "aliases": [
-   "Guiga",
-   "Guiga Sodré"
+   "Guiga"
   ],
-  "summary": "Apontado pela PF como homem de confiança e articulador do senador Jaques Wagner (PT-BA); pai de Eduardo Sodré, enteado do senador e secretário de Meio Ambiente da Bahia. Negociou obras de arte com Vorcaro (“Ouro Preto”, de Guignard, e “Casamento na Roça”, de Portinari) e lhe encaminhou o telefone de Wagner. Procurado pela Folha, não se manifestou.",
-  "profile_sources": [
-   {
-    "label": "Folha — “Vorcaro financiou startup de filha de Otto Alencar…” (09/10/2026)",
-    "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-financiou-startup-de-filha-de-otto-alencar-e-negociou-obras-de-arte-com-aliado-de-jaques-wagner.shtml"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Apontado pela PF como articulador de Jaques Wagner",
-    "source": "Folha (09/10/2026), linkada em profile_sources"
-   }
-  ]
+  "summary": "Negociou obras de arte com Vorcaro e encaminhou o contato de Jaques Wagner, conforme a Folha (09/10/2026). A defesa de Wagner nega relação com Vorcaro. Perfil resumido exclusivamente a partir das reportagens linkadas."
+ },
+ {
+  "id": "hamilton-buzelin",
+  "name": "Hamilton Buzelin",
+  "photo": null,
+  "role": "Ex-diretor de Finanças Corporativas do Banco Máxima",
+  "aliases": [],
+  "summary": "Aproximou Vorcaro de Júlio Cezar e agendou encontro no Planalto, conforme a Veja (10/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  },
  {
   "id": "augusto-lima",
   "name": "Augusto Lima",
   "photo": null,
   "role": "Ex-sócio e ex-diretor do Banco Master; depois presidente do Banco Voiter/Pleno",
+  "aliases": [],
+  "summary": "Comandava a originação de crédito consignado no Master, segundo relato de Vorcaro à PF reportado pela Jovem Pan (25/09/2026). Perfil resumido exclusivamente a partir das reportagens linkadas."
+ },
+ {
+  "id": "ciro-nogueira",
+  "name": "Ciro Nogueira",
+  "photo": null,
+  "role": "Senador (PP-PI); ex-ministro da Casa Civil",
   "aliases": [
-   "Augusto"
+   "Ciro"
   ],
-  "summary": "Foi sócio e diretor do Banco Master; segundo depoimento de Vorcaro à PF citado pela Jovem Pan, comandou a área de originação de crédito consignado. Deixou a sociedade e assumiu a presidência do Banco Voiter, depois renomeado Pleno. Nas mensagens, destinatário do desabafo de Vorcaro sobre amizades (“Na minha vida só sobrou você mesmo”); na Veja, participa da troca sobre a “lista exaustiva” e é listado entre os presentes a jantar na casa de Vorcaro. Padilha, Lula, Olavo Noleto e Augusto Lima negam as acusações em nota.",
+  "summary": "Criador do grupo 'Ciro Daniel Fábio Hugo', segundo o UOL (30/09/2026). A reportagem relata suspeita de mesadas — não confirmada — e negócios com Vorcaro; sua assessoria não comentou o conteúdo das conversas. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "acm-neto",
+  "name": "ACM Neto",
+  "photo": "acm-neto.jpg",
+  "role": "Deputado federal (BA); ex-prefeito de Salvador",
+  "aliases": [
+   "Antônio Carlos Magalhães Neto"
+  ],
+  "summary": "Ex-prefeito de Salvador (2013–2020) e deputado federal. Segundo a Revista Oeste (02/10/2026), trocou com Vorcaro mensagens entre 2023 e 2024 com encontros, elogios e articulações envolvendo Antônio Rueda (União Brasil); apontamentos ao Coaf indicam R$ 3,6 milhões do Master e da gestora Reag a empresa a ele ligada. Nega ter cometido irregularidades. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "photo_credit": "Foto: Palácio do Planalto · CC BY 2.0 · via Wikimedia Commons"
+ },
+ {
+  "id": "lilian-tahan",
+  "name": "Lilian Tahan",
+  "photo": null,
+  "role": "CEO do grupo Metrópoles",
+  "aliases": [],
+  "summary": "Segundo o UOL (15/10/2026), mantinha linha direta com Vorcaro: ao menos 14 textos do Metrópoles lhe foram enviados antes de publicados, 11 alterados a pedido dele. Contratos de publicidade somam R$ 1 milhão (2024), R$ 900 mil (Kovr/Will) e R$ 20 milhões. Defende-se dizendo que checagem com fontes é prática jornalística e negando vínculo entre contrato e cobertura. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "frederic-kachar",
+  "name": "Frederic Kachar",
+  "photo": null,
+  "role": "Ex-diretor-geral de Mídia Impressa e Rádio do Grupo Globo",
+  "aliases": [
+   "Fred Kachar"
+  ],
+  "summary": "Liderava O Globo, Extra, Valor, revistas da Editora Globo e o sistema de rádio. Segundo o UOL (15/10/2026), negociava patrocínios com Vorcaro, pautava publicações a pedido dele e usava o código 'guerra na Ucrânia'. Foi demitido em 15/10/2026 após o vazamento; o Grupo Globo classificou a relação como 'inadequada' com um anunciante e reafirmou a independência editorial. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "elsinho-mouco",
+  "name": "Elsinho Mouco",
+  "photo": null,
+  "role": "Publicitário; interlocutor de Michel Temer nas tratativas com o Master",
+  "aliases": [],
+  "summary": "Fez a ponte entre Vorcaro e o escritório do ex-presidente Michel Temer no contrato de até R$ 30 milhões para viabilizar a venda do Master ao BRB (setembro/2025), enviando o contrato e cobrando pagamentos, conforme mensagens reportadas pelo UOL (14/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "michel-temer",
+  "name": "Michel Temer",
+  "photo": null,
+  "role": "Ex-presidente da República (2016-2018); advogado",
+  "aliases": [
+   "Temer"
+  ],
+  "summary": "Seu escritório de advocacia firmou em setembro/2025 contrato de até R$ 30 milhões com o Master para consultoria e mediação da venda ao BRB, barrada pelo BC. Confirmou em abril/2026 ter recebido honorários e que o contrato terminou sem resultado. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "manuela-carta",
+  "name": "Manuela Carta",
+  "photo": null,
+  "role": "Publisher e diretora da CartaCapital",
+  "aliases": [],
+  "summary": "Segundo o UOL (15/10/2026), avisou Vorcaro da necessidade de recurso para a folha de pagamentos (2021) e tratou de eventual sociedade com ele (2023), não concretizada. Em nota, afirma que o contrato com o banco era 'regular' de publicidade e que Vorcaro nunca pediu interferência editorial. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "isaac-sidney",
+  "name": "Isaac Sidney",
+  "photo": null,
+  "role": "Presidente da Febraban; ex-diretor do BC e ex-advogado do Banco Máxima/Master",
+  "aliases": [
+   "Isaac"
+  ],
+  "summary": "Foi chefe de gabinete de Meirelles no BC, advogou para o Máxima na aprovação da transferência do controle a Vorcaro e preside a Febraban desde 2020. Segundo o UOL (15/10/2026), Vorcaro pagou R$ 1,2 milhão fora da escritura ao vendedor do apartamento dele e custeou parte do aluguel; a proposta de delação de Vorcaro o citou — rejeitada por falta de provas. Nega qualquer benefício e diz ter alertado o BC sobre o Master em ofícios da Febraban. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "eduardo-barcellos",
+  "name": "Eduardo Barcellos",
+  "photo": null,
+  "role": "Empresário; vendedor do apartamento alugado e vendido a Isaac Sidney",
+  "aliases": [],
+  "summary": "Tratou com Vorcaro o aluguel e a venda do duplex da Vila Olímpia ao presidente da Febraban; recebeu R$ 1,2 milhão fora da escritura, segundo mensagens reportadas pelo UOL (15/10/2026). Procurado, disse não se lembrar da venda e desligou o telefone. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "geraldo-samor",
+  "name": "Geraldo Samor",
+  "photo": null,
+  "role": "Jornalista; fundador do Brazil Journal",
+  "aliases": [
+   "Samor",
+   "GERALDO BRAZIL JOURNAL"
+  ],
+  "summary": "Contato salvo no celular de Vorcaro como 'Geraldo Brazil Journal' — consolidado em 2026-10 como o jornalista Geraldo Samor, fundador do Brazil Journal, após cruzamento do episódio Tony Blair (IPJ-A nº 3298613/2026 e apuração do UOL). Consultava Vorcaro sobre reportagens do Master antes da publicação e atendia pedidos de alteração, segundo o UOL (15/10/2026); a participação do banqueiro no site se dava via Foone (49,86% da BJ Conteúdo). Não respondeu ao UOL. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
   "profile_sources": [
    {
-    "label": "Jovem Pan — “Só decepção…” (25/09/2026)",
-    "url": "https://jovempan.com.br/colunistas/bruno-pinheiro/so-decepcao-em-conversa-com-ex-socio-vorcaro-desabafou-sobre-amizades/"
-   },
-   {
-    "label": "Veja — “Em áudio, operador de propinas do Planalto…” (10/10/2026)",
-    "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Ex-sócio do Master; presidiu o Voiter/Pleno",
-    "source": "Jovem Pan (25/09/2026), linkada em profile_sources"
+    "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
+    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf"
    }
   ]
  },
@@ -859,72 +806,64 @@
   "id": "diogo-batista",
   "name": "Diogo Batista",
   "photo": null,
-  "role": "Promotor de eventos",
+  "role": "Promotor de eventos em São Paulo",
   "aliases": [
    "Diogo"
   ],
-  "summary": "Promotor de eventos apontado pela investigação como intermediário de Vorcaro na suposta rede de agenciamento (tese da PF, sob investigação). Nas mensagens, trata do recrutamento de refugiadas — incluindo ucranianas —, da compra da Allure Eventos e da “creche”, termo que a reportagem atribui às mais jovens. Linguagem das mensagens mantida por fidelidade documental.",
-  "profile_sources": [
-   {
-    "label": "UOL — “Vorcaro era sócio oculto de agência de prostituição…” (13/10/2026)",
-    "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.htm"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Promotor de eventos; intermediário na suposta rede (tese da investigação)",
-    "source": "UOL (13/10/2026), linkada em profile_sources"
-   }
-  ]
+  "summary": "Ganhava R$ 120 mil por mês de Vorcaro como executor do esquema de agenciamento investigado pela PF — um dos principais investigados, ao lado de Leonardo Serrano; não respondeu ao UOL. Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  },
  {
   "id": "leonardo-serrano",
-  "name": "Leonardo Serrano Giunchetti",
+  "name": "Leonardo Serrano",
   "photo": null,
-  "role": "Organizador de eventos (SL Consulting)",
+  "role": "Empresário de eventos; dono da SL Consulting (Flórida)",
   "aliases": [
-   "Leonardo Serrano",
-   "Giunchetti",
-   "Serrano"
+   "Leo Serrano"
   ],
-  "summary": "Da SL Consulting, era o organizador encarregado das viagens e festas internacionais de Vorcaro, incluindo a logística do 1º Fórum Jurídico Brasil de Ideias (Londres, abril/2024) com cerca de 40 autoridades hospedadas no Hotel The Peninsula. Advertiu Vorcaro sobre gastos com autoridades e tratou do pagamento do hotel e do ocultamento do Master da lista de convidados.",
-  "profile_sources": [
-   {
-    "label": "Revista piauí — “Além do Macallan…” (04/10/2026)",
-    "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
-   }
-  ],
-  "profile_verification": [
-   {
-    "claim": "Organizador das viagens pela SL Consulting",
-    "source": "Revista piauí (04/10/2026), linkada em profile_sources"
-   }
-  ]
+  "summary": "Cuidava da logística internacional dos eventos e emitia faturas (cerca de US$ 70 milhões em 21 notas) à Moriah Asset, repassadas ao financeiro do Master, segundo o UOL (13/10/2026). Um dos principais investigados pela PF; não respondeu ao UOL. Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  },
  {
-  "id": "ciro-nogueira",
-  "name": "Ciro Nogueira",
+  "id": "tiago-polo",
+  "name": "Tiago Polo",
   "photo": null,
-  "role": "Senador (PP-PI)",
+  "role": "Intermediador que trabalhava agenciando modelos",
+  "aliases": [],
+  "summary": "Explicou a Vorcaro o propósito da agência ('ajustar as meninas indiretamente') e ofereceu a Allure e a Ford Models, segundo o UOL (13/10/2026). Publicamos aqui apenas os trechos de interesse público, preservando a privacidade das pessoas vulneráveis. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "walfrido-mares-guia",
+  "name": "Walfrido dos Mares Guia",
+  "photo": null,
+  "role": "Ex-ministro; acionista da biotecnológica Biomm",
   "aliases": [
-   "Ciro"
+   "Mares Guia"
   ],
-  "summary": "Criou, em abril/2024, o grupo de WhatsApp com Vorcaro, Hugo Motta e Fábio Faria para organizar encontros, jantares e viagens, com mensagens até o dia da prisão do banqueiro (17/11/2025). Sua assessoria disse que o parlamentar não vai se pronunciar sobre as mensagens.",
-  "profile_sources": [
-   {
-    "label": "UOL — “Grupo de zap para organizar encontros…” (30/09/2026)",
-    "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/09/30/grupo-de-zap-para-organizar-encontros-reunia-vorcaro-ciro-motta-e-faria.ghtm"
-   },
-   {
-    "label": "Gazeta do Povo — “Vorcaro tinha grupo com Motta, Ciro Nogueira e Faria…” (30/09/2026)",
-    "url": "https://www.gazetadopovo.com.br/republica/vorcaro-grupo-motta-ciro-nogueira-fabio-faria-organizar-encontros/"
-   }
+  "summary": "Ex-ministro e amigo de Lula, mineiro como Vorcaro. Segundo a Folha (30/09/2026), trocaram mensagens sobre a Biomm (fábrica inaugurada por Lula em abril/2024, contratos com o Ministério da Saúde e PDP da insulina), um jantar com Padilha e Olavo Noleto (23/10/2024) e o pedido de ajuda para ver Lula; em dezembro/2024, anunciou-lhe o primeiro pedido da PDP e falou de indicações para a Anvisa. Nega intimidade e ter intermediado reunião com Lula. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "jose-maria-meira",
+  "name": "José Maria Meira (Zé Maria)",
+  "photo": null,
+  "role": "Chef de cozinha; organizava eventos privados de Vorcaro",
+  "aliases": [
+   "Zé Maria"
   ],
-  "profile_verification": [
-   {
-    "claim": "Criador do grupo com Vorcaro, Motta e Fábio Faria (abril/2024)",
-    "source": "UOL/Gazeta do Povo (30/09/2026), linkadas em profile_sources"
-   }
-  ]
+  "summary": "Chef e equipe recebiam R$ 120 mil mensais de Vorcaro para eventos privados, segundo o Metrópoles (30/09/2026). Organizou o almoço oferecido ao ministro Alexandre de Moraes em 30/12/2023, em Campos do Jordão, seguindo orientações de discrição de Vorcaro. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "daniel-monteiro",
+  "name": "Daniel Monteiro",
+  "photo": null,
+  "role": "Advogado mencionado nas negociações de imóveis ligados a Paulo Henrique",
+  "aliases": [],
+  "summary": "Advogado. Segundo o Metrópoles (16/04/2026), tratou com Vorcaro a estrutura de compra, pagamento e documentação dos imóveis ligados a Paulo Henrique, ex-presidente do BRB, em mensagens citadas em decisão do STF. A reportagem não reproduz manifestação sua. Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "guilherme-barros",
+  "name": "Guilherme Barros",
+  "photo": null,
+  "role": "Consultor; então assessor de Vorcaro",
+  "aliases": [],
+  "summary": "Consultor de Vorcaro em 2024; apresentou o banqueiro a Lilian Tahan e sugeriu o contato com Luiz Estevão, conforme mensagem publicada pelo UOL (15/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
  }
 ]

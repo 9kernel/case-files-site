@@ -1,26 +1,29 @@
 {
  "id": "leonardo-serrano-daniel-vorcaro",
- "title": "Leonardo Serrano Giunchetti",
+ "title": "Leonardo Serrano",
  "participants_ids": [
   "daniel-vorcaro",
   "leonardo-serrano"
  ],
  "source": {
-  "document": "Revista piauí — “Além do Macallan: os luxos de Vorcaro e autoridades em festas” (04/10/2026)",
-  "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan",
-  "pages": "Serrano, da SL Consulting, era o organizador das viagens internacionais de Vorcaro, incluindo a logística do 1º Fórum Jurídico Brasil de Ideias (Londres, abril/2024, com ~40 autoridades; hospedagem no Hotel The Peninsula) e a viagem de março/2024 (jogo Brasil x Inglaterra em Wembley). A reportagem atribui a ele as mensagens transcritas; datas individuais não divulgadas, salvo indicação. A matéria não registra nota de defesa de Giunchetti."
+  "document": "UOL — coluna Natália Portinari, 13/10/2026: 'Leo' Serrano, dono da SL Consulting (sede na Flórida), cuidava da logística internacional — voos, hotéis, 'flores' (como chamava as garotas) e faturas: 21 notas de abr/2024 a mar/2025 somam cerca de US$ 70 milhões, emitidas à Moriah Asset como 'orçamento antecipado'. É um dos principais investigados pela PF; não respondeu ao UOL. Curadoria restrita: publicados apenas os trechos de interesse público (estrutura, pagamentos e o recrutamento de refugiadas); vocabulário degradante e detalhes que individualizem mulheres vulneráveis foram deliberadamente excluídos.",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
  },
  "messages": [
   {
    "id": "m-00001",
-   "sender_id": "leonardo-serrano",
-   "content_kind": "verbatim",
-   "content": "A gente tá vendo as flores com um cara que arruma para as festas do Di Caprio tbm",
-   "editorial_note": "“Flores” era o código para as acompanhantes no Ciprani/Nikita, conforme a reportagem; grafia conforme o veículo.",
+   "date": "2023-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O cara tá cheio de brasileira lá às minhas custas",
+   "editorial_note": "Na festa de Halloween de 2023, segundo a reportagem; Leo depois informou que eram 'mais de 120 meninas' trazidas por Diogo.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -28,34 +31,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Revista piauí",
-      "date": "2026-10-04",
-      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
      }
     ]
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
   },
   {
    "id": "m-00002",
-   "date": "2024-04",
+   "date": "2023-11",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "leonardo-serrano",
    "content_kind": "verbatim_excerpt",
-   "content": "Todos esses upgrades de quartos de autoridades, etc., serão conta nossa. Isso, em teoria, por lei, não pode.",
-   "editorial_note": "Advertência sobre os gastos com autoridades hospedadas, em abril/2024; trecho inicial da mensagem conforme reproduzido.",
+   "content": "As passagens aéreas e hotel de todas essas meninas [...] vou faturar pra Prime",
+   "editorial_note": "Sobre a destinação das despesas com as mulheres no Brasil à empresa Prime You; reticências entre colchetes constam da reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -63,34 +67,144 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Revista piauí",
-      "date": "2026-10-04",
-      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
      }
     ]
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
   },
   {
    "id": "m-00003",
+   "date": "2024-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu tô traficando é nada! Isso é trabalho do doidinho seu lá",
+   "editorial_note": "Tentando se distanciar de Diogo no recrutamento de estrangeiras, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso considerar 5 pirulitos e 30 flores pro Annabels?",
+   "editorial_note": "'Flores' era como Leo se referia às garotas, segundo a reportagem; sobre casa noturna em Londres, em viagem que também contava com políticos.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "6 macacos 20/30 flores",
+   "editorial_note": "Resposta na mesma sequência; 'macacos' era como se referiam aos profissionais masculinos dos eventos, contratados em menor proporção.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00006",
    "date": "2024-04",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "leonardo-serrano",
    "content_kind": "verbatim_excerpt",
-   "content": "Acho que tudo bem, né? Pois quero evitar dar M para vocês depois",
-   "editorial_note": "Sobre a fatura do hotel e o fluxo financeiro do fórum; trecho final da mensagem conforme reproduzido.",
+   "content": "Iremos tirar o celular de todas meninas",
+   "editorial_note": "Antes do evento de Londres, que contava com autoridades de Brasília; segundo a reportagem, 99 mulheres trabalharam no evento, sete trazidas do Brasil.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -98,34 +212,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Revista piauí",
-      "date": "2026-10-04",
-      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
      }
     ]
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
   },
   {
-   "id": "m-00004",
-   "date": "2024-04-23",
+   "id": "m-00007",
+   "date": "2024-10",
    "time": null,
-   "timestamp_precision": "date",
+   "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Master da lista de convidados",
-   "editorial_note": "Em 23/04/2024, véspera do evento, Vorcaro pede que retire o “Master da lista de convidados” e diz ser preciso evitar “a qq custo” a exposição do banco e a sua própria; trechos entre aspas na reportagem.",
+   "content": "Não é pra NENHUM homem entrar",
+   "editorial_note": "Sobre a festa em Roma, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -133,34 +248,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Revista piauí",
-      "date": "2026-10-04",
-      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
      }
     ]
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
   },
   {
-   "id": "m-00005",
-   "date": "2024-04-24",
+   "id": "m-00008",
+   "date": "2024-10",
    "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "O negócio do pgto do hotel pode dar merda grande. Vc tem que pedir invoice total pra Voto",
-   "editorial_note": "Sobre o pagamento do The Peninsula; a reportagem não transcreve a resposta de Serrano.",
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Turma Zoltan umas 30 [...] Turma Diogo umas 20 [...] Do Brasil foram 8",
+   "editorial_note": "A conta da festa de Roma; reticências entre colchetes constam da reportagem. De Roma, parte das mulheres seguiu para Dubai.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -168,33 +284,109 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Revista piauí",
-      "date": "2026-10-04",
-      "url": "https://piaui.uol.com.br/web/vorcaro-festas-londres-macallan"
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
      }
     ]
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-serrano",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu NÃO vou me responsabilizar pelas pessoas que o Diogo mandar para a festa [...] não ganho nada com isso.",
+   "editorial_note": "Reclamando das mulheres enviadas pelo parceiro; reticências entre colchetes constam da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-01",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não é pra ter pagamento nenhum seu de qualquer coisa de Diogo a partir deste ano",
+   "editorial_note": "Corte de pagamentos determinado a Leo, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
   }
  ],
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": "2024-04",
+   "date": "2023-11",
+   "time": null,
    "timestamp_precision": "month",
+   "content": "Halloween na boate Madame Satã: Leo contou 74 garotas; Diogo trouxe outras 40, hospedadas em 21 quartos do hotel Rosewood, segundo a reportagem.",
    "event_kind": "editorial_context",
-   "content": "Viagem a Londres para o jogo Brasil x Inglaterra em Wembley, em março/2024, organizada por Serrano, e o 1º Fórum Jurídico Brasil de Ideias, em abril/2024, com cerca de 40 autoridades hospedadas no Hotel The Peninsula — contexto das mensagens desta conversa, conforme a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -202,10 +394,117 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
-   "source_ref": "piauí, 04/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "A SL Consulting, de Leonardo Serrano, cuidava da logística internacional: encomendava as garotas a promoters de cada cidade, reservava voos e hotéis e liberava dinheiro. As faturas (21 localizadas pelo UOL, de abril/2024 a março/2025, somando cerca de US$ 70 milhões) eram emitidas para a Moriah Asset, gestora de Belo Horizonte, como 'orçamento antecipado' para 'eventos, hospitalidade, hospedagem e fretamentos', e Vorcaro as repassava ao financeiro do Master. Despesas da 'turma do Diogo': faturas de R$ 350 mil (setembro/2024) e R$ 260 mil (outubro/2024) autorizadas por Leo.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Em junho/2024, Leo propôs liberar 3 mil euros para compras a cada uma das oito mulheres de uma festa na França; Vorcaro autorizou 4 mil. Em fevereiro/2025, para o Carnaval, Diogo pediu 'umas 15 florzinhas de fora' para as festas no Rio. Em outra passagem, Leo disse que o promoter de Londres também trabalhava para festas de Leonardo DiCaprio.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Leonardo Serrano é um dos principais investigados pela PF no inquérito; não respondeu aos contatos do UOL.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-13",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/13/vorcaro-era-socio-oculto-de-agencia-de-prostituicao-e-recrutou-refugiadas.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-13)",
+   "added_in": "ingest-press4-20261016"
   }
  ]
 }

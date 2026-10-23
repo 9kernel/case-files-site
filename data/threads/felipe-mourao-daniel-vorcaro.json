@@ -959,6 +959,78 @@
   },
   {
    "id": "m-00023",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dcm está pago e fechado",
+   "editorial_note": "Confirmando o acordo com o site, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00024",
+   "date": "2025-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "tirar isso imediato",
+   "editorial_note": "Sobre artigo crítico ao Master publicado pelo DCM; o texto foi apagado no mesmo dia, segundo mensagem de Mourão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00025",
    "date": "2025-05-20",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1001,7 +1073,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00024",
+   "id": "m-00026",
    "date": "2025-06-01",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1044,7 +1116,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00025",
+   "id": "m-00027",
    "date": "2025-06-08",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1087,7 +1159,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00026",
+   "id": "m-00028",
    "date": "2025-07-23",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1130,13 +1202,13 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00027",
+   "id": "m-00029",
    "date": "2025-07-25",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "um filho da puta me filmou com a stella minha filha e esta espalhando na internet. Preciso matar esse cara",
-   "editorial_note": "Contexto do relatório: Figura 69 – Conversa entre DANIEL BUENO VORCARO e FELIPE MOURAO, onde ele sugere a internação forjada de A.C.. Em outro registro datado de 25/07/2025, DANIEL BUENO VORCARO encaminha seguinte mensagem: “um filho da puta me filmou com a minha filha (nome não reproduzido neste site) e esta espalhando na internet. Preciso matar esse cara”. ",
+   "content": "um filho da puta me filmou com a [nome suprimido] minha filha e esta espalhando na internet. Preciso matar esse cara",
+   "editorial_note": "Contexto do relatório: Figura 69 – Conversa entre DANIEL BUENO VORCARO e FELIPE MOURAO, onde ele sugere a internação forjada de A.C.. Em outro registro datado de 25/07/2025, DANIEL BUENO VORCARO encaminha seguinte mensagem: “um filho da puta me filmou com a minha filha (nome não reproduzido neste site) e esta espalhando na internet. Preciso matar esse cara”. Nome da familiar suprimido editorialmente (política de minimização — familiar que não é objeto da investigação); a supressão está marcada entre colchetes e o trecho não deve ser lido como reprodução integral.",
    "source": {
     "document_id": "pf-ipja-1020625-2026",
     "page": 60,
@@ -1170,10 +1242,11 @@
     "secondary": []
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 60 · fig. 69",
-   "added_in": "ingest-pf-20261007"
+   "added_in": "ingest-pf-20261007",
+   "literal_brackets": true
   },
   {
-   "id": "m-00028",
+   "id": "m-00030",
    "date": "2025-07-25",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1216,7 +1289,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00029",
+   "id": "m-00031",
    "date": "2025-07-28",
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
@@ -1259,7 +1332,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00030",
+   "id": "m-00032",
    "date": "2025-07-28",
    "timestamp_precision": "date",
    "sender_id": "felipe-mourao",
@@ -1299,91 +1372,6 @@
     "secondary": []
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 36 · fig. 42",
-   "added_in": "ingest-pf-20261007"
-  },
-  {
-   "id": "m-00031",
-   "date": "2026-01-09",
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "no momento em que estou é que preciso de vocês",
-   "editorial_note": "Contexto do relatório: nova captura de tela realizada no dia 09/01/2026, H.V. tentou ligar para M.R.. Tendo em vista que MARILSON não atendeu a ligação, HENRIQUE manda mensagens pedindo para que MARILSON o retornasse e afirma que “no momento em que estou é que preciso de vocês” – referindo-se, provavelmente, ao grupo “",
-   "source": {
-    "document_id": "pf-repr-pet15-499",
-    "page": 9,
-    "figure": null
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 15.499/STF",
-    "document": "Representação PF (PET 15.499/STF)",
-    "page": 9,
-    "figure": null,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-repr-pet15-499",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 15.499/STF",
-     "document": "Representação PF (PET 15.499/STF)",
-     "page": 9,
-     "figure": null,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · Representação PF (PET 15.499/STF) · fl. 9",
-   "added_in": "ingest-pf-20261007"
-  },
-  {
-   "id": "m-00032",
-   "date": null,
-   "sender_id": "felipe-mourao",
-   "content_kind": "verbatim_excerpt",
-   "content": "Vai ser 1mm como normalmente?",
-   "editorial_note": "Contexto do relatório: no mesmo dia, DANIEL BUENO VORCARO encaminha os dados da empresa de FELIPE MOURAO para transferência bancária para um contato salvo como “Ana Claudia Financeiro1” (telefone não reproduzido). Na sequência, Ana Claudia pergunta: “Vai ser 1mm como normalmente?” ao que DV responde: “Sim”. Em seguida Ana Claudia envia o ",
-   "source": {
-    "document_id": "pf-ipja-1020625-2026",
-    "page": 5,
-    "figure": 2
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 15978",
-    "document": "IPJ-A nº 1020625/2026",
-    "page": 5,
-    "figure": 2,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-1020625-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 15978",
-     "document": "IPJ-A nº 1020625/2026",
-     "page": 5,
-     "figure": 2,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7576893"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 5 · fig. 2",
    "added_in": "ingest-pf-20261007"
   },
   {
@@ -3618,48 +3606,6 @@
    "date": null,
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "lá tem a sucinta falando do que se trata",
-   "editorial_note": "Contexto do relatório: prida com uma certa urgência e complementa que qualquer informação sobre o procedimento seria de grande valia. MARILSON afirma a WANDER que não precisaria conseguir acesso aos autos, pois ele seria sigiloso. Em seguida, afirma que “lá tem a sucinta falando do que se trata” e que essa Página 104 de 238",
-   "source": {
-    "document_id": "pf-repr-pet15-499",
-    "page": 104,
-    "figure": null
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 15.499/STF",
-    "document": "Representação PF (PET 15.499/STF)",
-    "page": 104,
-    "figure": null,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-repr-pet15-499",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 15.499/STF",
-     "document": "Representação PF (PET 15.499/STF)",
-     "page": 104,
-     "figure": null,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7509111"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · Representação PF (PET 15.499/STF) · fl. 104",
-   "added_in": "ingest-pf-20261007"
-  },
-  {
-   "id": "m-00087",
-   "date": null,
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
    "content": "dar um pulão nele",
    "editorial_note": "Contexto do relatório: tiona WANDER quando ele estaria de plantão e explica sobre a situação de um DJ, afirmando que, no sábado, passaria mais detalhes a respeito, deixando claro seria uma demanda para o CEO do banco, ou seja, DANIEL VORCARO, afirmando que seria interessante “dar um pulão nele” quando ele chegasse ao Brasil, dando a entender",
    "source": {
@@ -3698,7 +3644,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00088",
+   "id": "m-00087",
    "date": null,
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -3742,26 +3688,6 @@
  ],
  "timeline_events": [
   {
-   "id": "e-00004",
-   "content": "Nota deste arquivo: as pessoas citadas na narrativa da PF como alvos de apuração, de 'pressão' ou de acompanhamento são identificadas apenas por iniciais neste site e NÃO figuram nos autos públicos como investigadas, réus ou condenadas — a elas se aplica integralmente a presunção de inocência. Os documentos originais, públicos no pacote do STF, trazem os nomes completos.",
-   "event_kind": "editorial_context",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "nota editorial do projeto",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-07"
-   },
-   "source_ref": "Nota editorial do projeto sobre os autos públicos do caso Master (pacote Arquivos Pet 16704/STF)",
-   "added_in": "privacy-20261007"
-  },
-  {
    "id": "e-00001",
    "date": "2024-06-20",
    "time": null,
@@ -3791,6 +3717,60 @@
   },
   {
    "id": "e-00002",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Após nota negativa, Vorcaro mandou Mourão fazer 'uma parceria direito' com o DCM (Diário do Centro do Mundo), com 'um valor mensal', sob a condição de não sair 'uma frase com meu nome ou Master'. Segundo Mourão, o diretor do site quis 'saber sobre os alvos' antes de fechar; dois dias depois o acordo estava firmado, o site removeria textos negativos e o grupo poderia publicar todo mês 'uma matéria positiva ou negativa de alguém'. O DCM foi procurado após a publicação.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "content": "Nota deste arquivo: as pessoas citadas na narrativa da PF como alvos de apuração, de 'pressão' ou de acompanhamento são identificadas apenas por iniciais neste site e NÃO figuram nos autos públicos como investigadas, réus ou condenadas — a elas se aplica integralmente a presunção de inocência. Os documentos originais, públicos no pacote do STF, trazem os nomes completos.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "nota editorial do projeto",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-07"
+   },
+   "source_ref": "Nota editorial do projeto sobre os autos públicos do caso Master (pacote Arquivos Pet 16704/STF)",
+   "added_in": "privacy-20261007"
+  },
+  {
+   "id": "e-00004",
    "date": null,
    "content": "Mourão compartilha consulta do Sistema Aptus do MPF registrada sob o login de uma servidora do MPF, conforme análise da PF (fl. 20, fig. 24).",
    "event_kind": "editorial_context",
@@ -3816,7 +3796,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "e-00003",
+   "id": "e-00005",
    "date": null,
    "content": "Mourão encaminha lista de nomes para consulta de processos sigilosos; Vorcaro responde pedindo para 'adicionar + gente' (fls. 20-21).",
    "event_kind": "editorial_context",
@@ -3840,6 +3820,38 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 20 · fig. 25",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "Mourão já submetia a Vorcaro os textos que sairiam no site: em janeiro/2024, o banqueiro vetou menção ao pai, Henrique Vorcaro, e pediu que o nome dele fosse sempre desvinculado das reportagens.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
   }
  ]
 }

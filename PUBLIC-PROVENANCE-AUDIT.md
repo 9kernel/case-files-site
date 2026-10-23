@@ -1,6 +1,6 @@
 # PUBLIC-PROVENANCE-AUDIT — Auditoria de publicidade e proveniência por mensagem
 
-Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-14**.
+Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-16**.
 Versão legível por máquina: [`data/audit/public-provenance-audit.json`](data/audit/public-provenance-audit.json).
 
 Regra máxima: a força da afirmação do site nunca pode ser maior que a força da
@@ -8,14 +8,14 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 
 ## Resultado
 
-- 48 threads · 633 registros (536 mensagens + 97 eventos)
-- **633 OK** · **0 com problema**
+- 60 threads · 995 registros (795 mensagens + 200 eventos)
+- **995 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
-| OK_OFFICIAL | 276 |
-| OK_PUBLIC_INVESTIGATION | 322 |
-| OK_SECONDARY | 35 |
+| OK_OFFICIAL | 275 |
+| OK_PUBLIC_INVESTIGATION | 540 |
+| OK_SECONDARY | 180 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
 | MISSING_DOCUMENT | 0 |
 | MISSING_PAGE | 0 |
@@ -31,8 +31,9 @@ evidência documental. `official_document` exige peça com `public_access_verifi
 | `pf-ipja-1070759-2026` | PET 15978 | 3 | **confirmada** (2026-09-15) | 1 | 0 |
 | `pf-ipja-1020625-2026` | PET 15978 | 4 | **confirmada** (2026-09-15) | 98 | 5 |
 | `pf-ipj-1752768-2026` | PET 15978 | 14 | **confirmada** (2026-09-15) | 0 | 0 |
-| `pf-repr-pet15-499` | PET 15499 · INQ 5026 | — | **confirmada** (2026-09-15) | 12 | 0 |
+| `pf-repr-pet15-499` | PET 15499 · INQ 5026 | — | **confirmada** (2026-09-15) | 10 | 0 |
 | `pf-ipja-1252786-2026` | INQ 5026 | 792 | **confirmada** (2026-09-15) | 18 | 3 |
+| `pf-nota-imprensa-20261009` | — | — | **confirmada** (2026-10-16) | 0 | 1 |
 
 ## Registros com problema
 

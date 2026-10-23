@@ -8,7 +8,7 @@
  "source": {
   "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF), fls. 184–185",
   "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",
-  "pages": "Cópia pública (reprodução jornalística) do documento oficial. Complementada pela coluna Mônica Bergamo (Folha, set/2026): diálogos que citam o filho de Kassio Nunes Marques e pagamento de R$ 500 mil/mês via Consult."
+  "pages": "Cópia pública (reprodução jornalística) do documento oficial."
  },
  "messages": [
   {
@@ -57,17 +57,53 @@
   },
   {
    "id": "m-00002",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "vencemos Alcídia",
+   "editorial_note": "Após decisão do STF no caso dos precatórios (destilaria Alcídia/Atvos), segundo a CNN.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "m-00003",
    "date": "2024-10-01",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "luiz-renno",
-   "content_kind": "verbatim",
+   "content_kind": "verbatim_excerpt",
    "content": "Dominado aqui",
-   "editorial_note": "Em 01/10/2024, Rennó repassa a Vorcaro a decisão do STF favorável à destilaria Alcídia (que reconheceu responsabilidade da União por prejuízos a usinas) e envia print com os contatos de Kevin Marques, filho do ministro Nunes Marques, com essa legenda; no julgamento, Nunes Marques declarou-se inicialmente impedido, reviu a posição e desempatou a favor da tese.",
+   "editorial_note": "Na sequência, compartilhou o contato de Kevin Marques, filho do ministro Nunes Marques, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -75,34 +111,148 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha (coluna Mônica Bergamo)",
-      "date": "2026-09",
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
       "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
-   "source_ref": "Folha (Mônica Bergamo), set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00003",
+   "id": "m-00004",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Com Hugo transita bem tbem?",
+   "editorial_note": "Um dia após a vitória de Motta na eleição da presidência da Câmara (fevereiro/2025), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Transito bem? Kkkk. Sou number 1. Amigo irmao",
+   "editorial_note": "Resposta 'em algumas mensagens seguidas', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Boa. Então temos BC, Congresso, presidente. Trabalhar certo. Forte.",
+   "editorial_note": "Resposta otimista na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00007",
    "date": "2025-07-04",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "luiz-renno",
-   "content_kind": "verbatim",
-   "content": "Esse aqui _ 500 mil mês - mantém? Kkkkkkkkk. Então esse aqui já era, né?",
-   "editorial_note": "Em 04/07/2025, reenviando o print com os contatos de Kevin Marques; segundo a coluna, os pagamentos seriam feitos por meio da Consult Inteligência Tributária, com valores mensais de R$ 500 mil.",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse aqui - 500 mil mês - mantém? kkkkkkk. Então esse aqui já era",
+   "editorial_note": "Ao reenviar o contato do filho do ministro; a reportagem caracteriza os valores como alegação negada pelas defesas.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -110,34 +260,40 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha (coluna Mônica Bergamo)",
-      "date": "2026-09",
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
       "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
-   "source_ref": "Folha (Mônica Bergamo), set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00004",
+   "id": "m-00008",
    "date": "2025-07-04",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Kkkkkkk",
-   "editorial_note": null,
+   "content_kind": "verbatim_excerpt",
+   "content": "kkkkkkk",
+   "editorial_note": "Resposta na mesma sequência.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -145,34 +301,40 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha (coluna Mônica Bergamo)",
-      "date": "2026-09",
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
       "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
-   "source_ref": "Folha (Mônica Bergamo), set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00005",
+   "id": "m-00009",
    "date": "2025-08-08",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "luiz-renno",
-   "content_kind": "verbatim",
-   "content": "Dos pagamentos essenciais está faltando a Consult",
-   "editorial_note": null,
+   "content_kind": "verbatim_excerpt",
+   "content": "Dos pagamentos essenciais está faltando a consult",
+   "editorial_note": "Segundo a reportagem, em referência à Consult Inteligência Tributária.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -180,34 +342,40 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha (coluna Mônica Bergamo)",
-      "date": "2026-09",
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
       "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
-   "source_ref": "Folha (Mônica Bergamo), set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00006",
+   "id": "m-00010",
    "date": "2025-08-08",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "luiz-renno",
-   "content_kind": "verbatim",
-   "content": "Aqui. Esse aí. Único ‘meu’ que faltou",
-   "editorial_note": "Reenvia o print com os contatos de Kevin Marques. Em nota, a assessoria de Kevin Marques diz que ele “não prestou serviço ao banco Master nem recebeu dinheiro” de Vorcaro e que recebeu R$ 281,6 mil da Consult por serviços jurídicos tributários administrativos, sem relação com o STF; a assessoria de Nunes Marques afirma que o ministro nunca votou a favor do Banco Master e que o filho nunca recebeu dinheiro de Vorcaro.",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse aí. Único 'meu' que faltou",
+   "editorial_note": "Encaminhando novamente o contato de Kevin Marques, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -215,20 +383,158 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha (coluna Mônica Bergamo)",
-      "date": "2026-09",
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     },
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
       "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
      }
     ]
    },
-   "source_ref": "Folha (Mônica Bergamo), set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-10-01",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "O STF, por 3 votos a 2, acolhe tese favorável à destilaria Alcídia sobre responsabilidade da União por prejuízos a usinas nos anos 1980-90 — tema de indenizações bilionárias ligadas à carteira de precatórios sucroalcooleiros do Master, estimada em mais de R$ 10 bilhões pela PF. Votaram a favor Fachin, Toffoli e Nunes Marques; Nunes Marques, que se declarara inicialmente impedido, reverteu o posicionamento e desempatou, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (coluna Mônica Bergamo) (2026-09-15)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "As mensagens fazem parte do material da PF enviado a ministros do STF; a reportagem liga os diálogos à carteira de precatórios sucroalcooleiros (acima de R$ 10 bilhões, segundo a PF) e ao julgamento da Alcídia, em que Nunes Marques votou a favor da usina após declarar-se inicialmente impedido.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Relato de CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Nunes Marques negou que o filho tenha prestado serviços ao Master e afirmou 'nunca' ter trocado mensagens com Vorcaro; a assessoria de Kevin Marques foi procurada. A defesa contesta as informações, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-15",
+      "url": "https://www.cnnbrasil.com.br/politica/dialogos-de-vorcaro-citam-suposta-mesada-de-r-500-mil-para-filho-de-nunes"
+     }
+    ]
+   },
+   "source_ref": "Relato de CNN Brasil (2026-09-15)",
+   "added_in": "ingest-press2-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "A reportagem liga os diálogos a pagamentos mensais de R$ 500 mil que seriam feitos via Consult Inteligência Tributária. Em nota, a assessoria de Nunes Marques afirma que ele 'nunca votou a favor do Banco Master' e que o filho 'nunca recebeu dinheiro de Daniel Vorcaro'; a assessoria de Kevin Marques nega prestação de serviços ao Master ou recebimento de Vorcaro e informa pagamento de R$ 281,6 mil pela Consult por serviços tributários administrativos, sem relação com o STF.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo (coluna Mônica Bergamo)",
+      "date": "2026-09-15",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/dialogos-de-vorcaro-citam-filho-de-kassio-nunes-marques-e-pagamento-de-r-500-mil.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (coluna Mônica Bergamo) (2026-09-15)",
+   "added_in": "ingest-press3-20261016"
   }
  ]
 }

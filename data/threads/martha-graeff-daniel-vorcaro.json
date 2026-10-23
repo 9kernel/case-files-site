@@ -6,21 +6,24 @@
   "martha-graeff"
  ],
  "source": {
-  "document": "Folha — “Vorcaro diz em mensagens que encontro com Lula foi ‘ótimo’” (05/03/2026)",
-  "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml",
-  "pages": "Mensagens obtidas pela CPI mista do INSS, conforme a reportagem; a maioria do conteúdo é descrito em resumo, sem transcrição integral — apenas os trechos abaixo aparecem entre aspas. Martha Graeff é identificada como namorada de Vorcaro e influenciadora. Datas das mensagens não divulgadas."
+  "document": "Folha de S.Paulo, 05/03/2026: mensagens da quebra de sigilo da PF (autorizada pelo ministro André Mendonça) enviadas à CPI do INSS; conversas de 2024 a agosto de 2025 com a então companheira de Vorcaro relatando encontros com autoridades dos três Poderes e negociações patrimoniais.",
+  "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
  },
  "messages": [
   {
    "id": "m-00001",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "foi ótimo",
-   "editorial_note": "Avaliação de Vorcaro, em mensagem à namorada, sobre o encontro com o presidente Lula em dezembro/2024; trecho entre aspas na reportagem, sem transcrição da mensagem integral.",
+   "content": "Quero te apresentar. Um dos meus grandes amigos de vida",
+   "editorial_note": "Sobre Ciro Nogueira (PP), segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "CPI do INSS",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -28,31 +31,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-03-05",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 05/03/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00002",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "presidente do Banco Central que vai entrar",
-   "editorial_note": "Nas mensagens, Vorcaro diz que Lula chamou o “presidente do Banco Central que vai entrar” — referência a Gabriel Galípolo, então diretor do BC, presente ao encontro; trecho entre aspas na reportagem.",
+   "content": "Ciro soltou um projeto de lei agora que é uma bomba atômica no mercado financeiro!",
+   "editorial_note": "Sobre o projeto que elevava o FGC de R$ 250 mil para R$ 1 milhão ('emenda Master'), depois engavetado.",
    "verification": {
     "level": "public_investigation",
-    "origin": "CPI do INSS",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -60,33 +67,918 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
+      "publication": "Folha de S.Paulo",
       "date": "2026-03-05",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/03/vorcaro-diz-em-mensagens-que-encontro-com-lula-foi-otimo.shtml"
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
      }
     ]
    },
-   "source_ref": "Folha, 05/03/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ajuda os bancos médios e diminui poder dos grandes! Está todo mundo louco",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acabou agora amor",
+   "editorial_note": "Logo após o encontro com o presidente Lula no Planalto, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tudo bem?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim amor trabalhando",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como foi?!!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Foi otimo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Yessssssssssssssss",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "To louca pra saber de tudo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muito forte",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele chamou presidente do banco central que vai entrar",
+   "editorial_note": "Sobre o encontro com Lula no Planalto no mesmo dia, com presença de ministros e de Gabriel Galípolo, então indicado ao Banco Central, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "3 ministros",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     },
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "m-00014",
+   "date": "2025-02",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tô num jantar na residência oficial com Hugo [Motta…] e seis empresários",
+   "editorial_note": "Jantar na residência oficial da Câmara, com o então presidente Hugo Motta.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00015",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Me manda mensagem quando acabar aí. Você está com gente aí? Ou está me ignorando de propósito?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00016",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou sim, acabou chegando Hugo e Ciro aqui pra falarem com Alexandre...",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00017",
+   "date": "2025-04-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Indo encontrar Alexandre [de] Moraes aqui perto de casa",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-04-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como assim amor. Ele está em Campos???? Ou foi pra te ver?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-04-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele tá passando feriado",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "quem era o primeiro cara [?]",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00021",
+   "date": "2025-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Alexandre [de] Moraes",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00022",
+   "date": "2025-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "martha-graeff",
+   "content_kind": "verbatim_excerpt",
+   "content": "Morri. Ele gostou da casa amor!?? Tá muito mais astral",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00023",
+   "date": "2025-04-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sin [sic]. Falou que é [sic] bem melhor. E ele adorava apto [apartamento]",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00024",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Foi bom",
+   "editorial_note": "Sobre encontro na residência oficial do Senado, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00025",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Terça teremos outra",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
   }
  ],
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": "2024-12",
+   "date": "2024-08",
+   "time": null,
    "timestamp_precision": "month",
+   "content": "Ciro Nogueira apresenta o projeto apelidado de 'emenda Master' (elevação do teto do FGC), posteriormente engavetado, segundo a reportagem.",
    "event_kind": "editorial_context",
-   "content": "Encontro de Vorcaro com o presidente Lula no Palácio do Planalto, revelado por Lauro Jardim (O Globo) em março/2025 e confirmado pela Folha: Vorcaro foi ao Planalto com Guido Mantega e Augusto Lima; Mantega tinha conversa marcada com Marco Aurélio Santana Ribeiro (“Marcola”), chefe de gabinete de Lula, e depois pediu falar com o presidente, que convocou os ministros Rui Costa e Alexandre Silveira, além de Galípolo. Segundo a reportagem, Vorcaro reclamou da concentração bancária e Lula disse que o tema cabia ao BC.",
    "verification": {
     "level": "public_investigation",
-    "origin": "CPI do INSS",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -94,10 +986,121 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
-   "source_ref": "Folha, 05/03/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-12-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Vorcaro encontra-se com o presidente Lula no Planalto, a pedido do banqueiro e levado pelo ex-ministro Guido Mantega, com presença de ministros e de Gabriel Galípolo, então indicado ao Banco Central; o encontro não constava da agenda oficial. Lula confirmou o encontro em fevereiro de 2026 e afirmou ter dito a Vorcaro que não haveria posição política 'pró ou contra' o Master, apenas investigação técnica do Banco Central. As mensagens com Martha Graeff são do mesmo dia, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "G1 (espelho da apuração da Folha)",
+      "date": "2026-03-05",
+      "url": "https://g1.globo.com/politica/noticia/2026/03/05/vorcaro-sugere-em-mensagem-que-encontro-com-lula-foi-otimo.ghtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de G1 (espelho da apuração da Folha) (2026-03-05)",
+   "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": "2025-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Vorcaro relata a Martha encontros com o ministro Alexandre de Moraes em Campos (RJ), incluindo visita à sua residência; o STF não comentou, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "As mensagens integram quebra de sigilo telefônico autorizada pelo ministro André Mendonça (20/2) e enviada pela PF à CPI do INSS; cobrem 2024 a agosto de 2025.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-03-05",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/03/mensagens-de-vorcaro-mostram-transito-entre-stf-congresso-governo-e-empresarios.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-03-05)",
+   "added_in": "ingest-press-20261015"
   }
  ]
 }

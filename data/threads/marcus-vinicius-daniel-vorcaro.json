@@ -19,9 +19,9 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "content": "O André Mendonça me convidou pra ir pra casa dele na terça de noite...",
-   "editorial_note": "Trecho publicado; a continuação da mensagem não foi divulgada na íntegra.",
+   "editorial_note": "Trecho publicado; a continuação da mensagem não foi divulgada na íntegra. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -55,7 +55,7 @@
    "event_kind": "editorial_context",
    "content": "Vorcaro conversa com o advogado identificado como Marcus Vinicius sobre uma reunião com o então ministro André Mendonça, conforme a reportagem.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -68,7 +68,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "UOL/Folha, 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -77,7 +78,7 @@
    "event_kind": "editorial_context",
    "content": "Registro de jantar na sequência da conversa divulgada; a reportagem não detalha os participantes.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -90,7 +91,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "UOL/Folha, 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }

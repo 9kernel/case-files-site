@@ -8,22 +8,22 @@
  "source": {
   "document": "CNN Brasil / Jornal Grande Bahia — “Hugo Motta e Daniel Vorcaro trocaram 202 ligações e marcaram 19 encontros…” (30/09/2026)",
   "url": "https://jornalgrandebahia.com.br/2026/09/deputado-hugo-motta-e-daniel-vorcaro-trocaram-202-ligacoes-e-marcaram-19-encontros-mensagens-citam-fgc-eleicao-da-camara-viagens-e-negocio-de-r-22-milhoes/",
-  "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados. Complementada pela Folha — “Mensagens de Motta com Vorcaro citam sociedade em negócio e discussão sobre projeto de lei na Câmara” (set/2026)."
+  "pages": "Reportagem da CNN resumida pelo Jornal Grande Bahia (30/09/2026): a PF contabilizou 202 registros telefônicos (100 chamadas concluídas e 102 não atendidas) e ao menos 19 encontros entre março/2024 e outubro/2025. Trechos publicados em áudio/paráfrase aparecem como eventos editoriais. Horários não divulgados."
  },
  "messages": [
   {
-   "id": "m-00005",
-   "date": "2024-03-09",
+   "id": "m-00001",
+   "date": "2024-09",
    "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "hugo-motta",
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "formato de sociedade que ficou combinado",
-   "editorial_note": "Em 09/03/2024 (sábado à noite), Motta pede desculpas por incomodar, diz estar reunido finalizando a compra de uma área em João Pessoa, menciona que a cunhada não sabia do formato de sociedade e pede orientação por causa do prazo curto para pagar a Intercement; trecho entre aspas na reportagem.",
+   "content": "Tenho muito orgulho de poder te chamar de amigo irmão. Estamos juntos sempre, para o que der e vier! Você tem aqui um irmão que te admira muito e estará sempre a seu lado pra qualquer guerra",
+   "editorial_note": "Trecho da mensagem de aniversário enviada a Motta em setembro/2024.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -31,34 +31,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
      }
     ]
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   },
   {
-   "id": "m-00006",
-   "date": "2024-03",
+   "id": "m-00002",
+   "date": "2024-09",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "hugo-motta",
    "content_kind": "verbatim_excerpt",
-   "content": "analisa e me avisa",
-   "editorial_note": "Por volta de 13/03/2024: Vorcaro diz estar com “nosso amigo” (trecho entre aspas) e Motta responde que o sogro está ali, que acabaram de resolver as assinaturas que faltavam para prosseguir o pagamento e pede que Vorcaro “analisa e me avisa”.",
+   "content": "Eu que agradeço a oportunidade de conviver com uma pessoa tão correta como vc, saiba que tens um amigo para contar em todos os momentos e que estaremos sempre juntos para enfrentar os desafios que a vida nos impõe",
+   "editorial_note": "Resposta enviada tempos depois, chamando Vorcaro de irmão e agradecendo a lembrança, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -66,34 +67,179 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
      }
     ]
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Posso chamar o Arthur aqui para tratar um assunto com ele?",
+   "editorial_note": "Sobre o imóvel de Vorcaro que Motta usava no período de campanha, inclusive para receber políticos — entre eles Arthur Lira, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-10-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Claro. Casa é sua",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-11-06",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ta tudo muito alinhado, ficar quieto agora e trabalhar bastidor",
+   "editorial_note": "Sobre a estratégia na disputa pela presidência da Câmara, após tratarem de convite a evento em Portugal; concordou com Motta em evitar exposição e sugeriu focar na eleição, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-11-06",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "hugo-motta",
+   "content_kind": "verbatim_excerpt",
+   "content": "Só o que tô procurando fazer, depois que concluir os partidos é partir para o individual com cada deputado. São 3 meses até a eleição, tempo demais",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   },
   {
    "id": "m-00007",
-   "date": "2024-03-15",
+   "date": "2024-12-05",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "hugo-motta",
    "content_kind": "verbatim_excerpt",
-   "content": "a confiança e a parceria",
-   "editorial_note": "Em 15/03/2024, Motta agradece “a confiança e a parceria”, diz que deu tudo certo a tempo de cumprir o contrato e propõe conversa para “traçar os próximos passos” (trechos entre aspas na reportagem).",
+   "content": "Irmão, manda só uma msg para Arthur agradecendo que ele ligou para o Rodrigo hoje",
+   "editorial_note": "No contexto do uso do helicóptero do banqueiro por Motta e por Arthur Lira em dezembro/2024, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -101,139 +247,35 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
      }
     ]
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   },
   {
    "id": "m-00008",
-   "date": "2024-03-15",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "o início de uma parceria de vida",
-   "editorial_note": "Em 15/03/2024, Vorcaro diz estar feliz por estarem juntos, manifesta admiração por Motta e chama o episódio de “o início de uma parceria de vida”; Motta retribui dizendo que a admiração é recíproca.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00009",
-   "date": "2024-04-27",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "já vai estar te esperando",
-   "editorial_note": "Em 27/04/2024, sobre o avião de Guarulhos para Brasília: Motta pergunta de onde sairia a aeronave e Vorcaro responde que ela “já vai estar te esperando”.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00010",
-   "date": "2024-11-19",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "consegue encontrar mais tarde hoje",
-   "editorial_note": "Em 19/11/2024, sobre o PL do carbono: Vorcaro pergunta se Motta “consegue encontrar mais tarde hoje”.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
-     }
-    ]
-   },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00011",
-   "date": "2024-11-19",
+   "date": "2024-12-05",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "hugo-motta",
    "content_kind": "verbatim_excerpt",
-   "content": "pegando o texto aqui para te mandar",
-   "editorial_note": "Resposta de Motta confirmando o encontro, pois estava “pegando o texto aqui para te mandar” — informações sobre o texto aprovado no Senado.",
+   "content": "Posso pegar o helicóptero em Congonhas?",
+   "editorial_note": "Sobre a aeronave que o levaria de São Paulo a Brasília; no mesmo dia, trataram de uso do helicóptero pelo deputado e por Arthur Lira, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -241,32 +283,69 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
-      "date": "2026-09",
-      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
      }
     ]
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   },
   {
-   "id": "m-00001",
+   "id": "m-00009",
+   "date": "2024-12-05",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00010",
    "date": "2025-01-01",
    "time": null,
    "timestamp_precision": "date",
    "sender_id": "hugo-motta",
    "content_kind": "audio_transcript",
    "content": "desejando saúde para continuarem cada vez mais juntos",
-   "editorial_note": "Trecho do áudio de réveillon transcrito pela reportagem; transcrição parcial do que foi divulgado.",
+   "editorial_note": "Trecho do áudio de réveillon transcrito pela reportagem; transcrição parcial do que foi divulgado. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -302,7 +381,7 @@
    }
   },
   {
-   "id": "m-00002",
+   "id": "m-00011",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -321,7 +400,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -337,7 +417,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "m-00003",
+   "id": "m-00012",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -356,7 +436,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -372,7 +453,7 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "m-00004",
+   "id": "m-00013",
    "date": "2025-07-17",
    "time": null,
    "timestamp_precision": "date",
@@ -391,7 +472,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -405,16 +487,19 @@
    },
    "source_ref": "CNN Brasil (blog Matheus Teixeira), 25/09/2026",
    "added_in": "ingest-imprensa-20261011"
-  },
+  }
+ ],
+ "timeline_events": [
   {
-   "id": "m-00012",
-   "sender_id": "hugo-motta",
-   "content_kind": "verbatim_excerpt",
-   "content": "tentar encaixar esse assunto",
-   "editorial_note": "Sobre o FGC (23/3, sem ano indicado na reprodução consultada): Motta pede que Vorcaro peça ao seu pessoal um estudo sobre o FGC e sugere retomar o assunto em Brasília para “tentar encaixar esse assunto”; data não divulgada.",
+   "id": "e-00001",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Início do diálogo: a cunhada de Motta obtém crédito de ao menos R$ 22 milhões junto ao Master que financia, em abril, a compra de área de 400+ hectares em João Pessoa por R$ 45 milhões, segundo a reportagem.",
+   "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -423,25 +508,24 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "Folha",
-      "date": "2026-09",
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
       "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
      }
     ]
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
-  }
- ],
- "timeline_events": [
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
+  },
   {
-   "id": "e-00001",
+   "id": "e-00002",
    "date": "2024-03-09",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -457,13 +541,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00002",
+   "id": "e-00003",
    "date": "2024-03-15",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -479,13 +564,82 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00003",
+   "id": "e-00004",
+   "date": "2024-03-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Concluída a operação, Motta agradece a Vorcaro pela 'confiança e a parceria'; Vorcaro responde que está 'muito feliz' e chama a iniciativa de 'parceria de vida' — fragmentos citados pela reportagem, que registra tratamento de 'amigo' e 'irmão' entre os dois.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
+  },
+  {
+   "id": "e-00005",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "No início de setembro, Marcos Pereira (Republicanos-SP) retirou o nome da disputa pela presidência da Câmara, abrindo caminho para a candidatura de Motta; nos bastidores, a manobra para trocar Elmar Nascimento (candidato do grupo de Arthur Lira) por Motta foi creditada ao senador Ciro Nogueira, amigo de Vorcaro, segundo a reportagem. Além da troca de aniversário, Motta e Vorcaro conversaram ao menos quatro vezes em setembro (dias 18, 20, 24 e 25).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "e-00006",
    "date": "2024-11-06",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -501,13 +655,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00004",
+   "id": "e-00007",
    "date": "2024-11-19",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -523,13 +678,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00005",
+   "id": "e-00008",
    "date": "2025-02-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -545,13 +701,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00006",
+   "id": "e-00009",
    "date": "2025-03-01",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -567,13 +724,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00007",
+   "id": "e-00010",
    "date": "2025-03-23",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -589,13 +747,14 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00008",
+   "id": "e-00011",
    "date": "2025-05-08",
    "timestamp_precision": "date",
    "event_kind": "editorial_context",
@@ -611,20 +770,20 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-11",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "source_ref": "CNN Brasil / Jornal Grande Bahia, 30/09/2026",
    "added_in": "ingest-imprensa-20261011"
   },
   {
-   "id": "e-00009",
-   "date": "2024-03",
-   "timestamp_precision": "month",
+   "id": "e-00012",
+   "date": null,
+   "content": "Vorcaro busca apoio de Motta para o projeto de lei do mercado de carbono; Motta pede estudo sobre o Fundo Garantidor de Créditos e sugere retomar o tema em Brasília, segundo a reportagem.",
    "event_kind": "editorial_context",
-   "content": "Empréstimo de pelo menos R$ 22 milhões do Banco Master à cunhada de Motta, usado na compra, por R$ 45 milhões (valor fiscal de R$ 101 milhões), de terreno de mais de 400 hectares de fábrica de cimento desativada em João Pessoa, a ser loteado como novo bairro — conforme a reportagem, que teve acesso às mensagens divulgadas em 28/09/2026 pelo Fatos Online. Em nota, a defesa de Motta afirma que manteve diálogo com diversos segmentos do empresariado, que “não há nenhum ilícito retratado”, que tem “vida limpa” e que o empréstimo entre privados ocorreu antes do conhecimento público das investigações.",
    "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
+    "level": "secondary_source",
+    "origin": "press report",
     "authority": null,
     "court": null,
     "case": null,
@@ -633,10 +792,117 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-16"
    },
-   "source_ref": "Folha, set/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
+  },
+  {
+   "id": "e-00013",
+   "date": null,
+   "content": "Vorcaro disponibiliza aeronave para trecho Guarulhos–Brasília de Motta. Em nota, Motta nega 'nenhum ilícito' e afirma que o empréstimo ocorreu antes de as investigações do Master se tornarem públicas.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-28",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/mensagens-de-motta-com-vorcaro-citam-sociedade-em-negocio-e-discussao-sobre-projeto-de-lei-na-camara.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha de S.Paulo (2026-09-28)",
+   "added_in": "ingest-press2-20261016",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
+  },
+  {
+   "id": "e-00014",
+   "date": null,
+   "content": "Em outubro e novembro de 2024, com Motta já trabalhando pela Presidência da Câmara, o deputado usou um imóvel de Vorcaro, inclusive para receber políticos — entre eles Arthur Lira, um dos principais interessados na disputa, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "e-00015",
+   "date": null,
+   "content": "Nota de Hugo Motta: o contato com o empresariado e representantes da sociedade é 'inerente ao exercício da atividade de qualquer parlamentar'; 'os diálogos publicados não exteriorizam, portanto, qualquer tipo de mácula à minha atuação parlamentar, sendo certo que todos os meus contatos mantidos com integrantes do setor privado sempre foram pautados pela institucionalidade e pela probidade'; e a 'descontextualização proposital de conversas tem o único propósito viabilizar o desferimento de ataques pessoais às vésperas da eleição nacional de 2026'. Procurada, a defesa de Vorcaro não respondeu.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)",
+      "date": "2026-10-02",
+      "url": "https://noticias.uol.com.br/colunas/fabio-serapiao/2026/10/02/vorcaro-apoiou-ida-de-motta-a-presidencia-da-camara-e-ofereceu-aviao-e-casa.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
+   "added_in": "ingest-press6-20261016"
   }
  ]
 }

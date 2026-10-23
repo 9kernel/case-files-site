@@ -1,400 +1,892 @@
 {
-  "id": "flavio-carneiro-daniel-vorcaro",
-  "title": "Flávio Carneiro",
-  "participants_ids": [
-    "daniel-vorcaro",
-    "flavio-carneiro"
-  ],
-  "source": {
-    "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
-    "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
-    "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; quando não divulgados, exibimos “horário não divulgado”. Notas editoriais e contexto da reportagem aparecem fora das bolhas de mensagem; “…” indica corte na citação."
+ "id": "flavio-carneiro-daniel-vorcaro",
+ "title": "Flávio Carneiro",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "flavio-carneiro"
+ ],
+ "source": {
+  "document": "Revista piauí — “As 96 mensagens entre Flávio e Vorcaro, 90 dias antes da prisão” (01/10/2026)",
+  "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/",
+  "pages": "Reportagem de Ana Clara Costa, João Batista Jr. e Breno Pires, sobre extração da PF de 18/11/2025. Horários conforme a reportagem; quando não divulgados, exibimos “horário não divulgado”. Notas editoriais e contexto da reportagem aparecem fora das bolhas de mensagem; “…” indica corte na citação."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2023-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não dá pra ele aparecer como sócio do Geraldo no Brazil Journal. Vai sujar a água",
+   "editorial_note": "Sobre como incluir Antônio Carlos Freixo Júnior (o 'Mineiro', dono da IstoÉ) na Foone sem ligá-lo ao site, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
   },
-  "messages": [
-    {
-      "id": "m-00001",
-      "date": "2024-12-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "Thiago tá cobrando se você vai num jantar c meu xará e o pai dele pelo que entendi, você tá ciente disso?",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00002",
-      "date": "2024-12-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "Acho uma roubada danada.",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00003",
-      "date": "2024-12-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Não sei nem de quem tá falando.",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00004",
-      "date": "2024-12-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim_excerpt",
-      "content": "o meu xará e o pai",
-      "editorial_note": "Segundo a reportagem, no contexto, Thiago Miranda insistia em juntá-lo com o seu xará e o pai deste.",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00005",
-      "date": "2024-12-08",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Temos que pensar nisso.",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00006",
-      "date": "2024-12-09",
-      "time": "20:00",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Não fala dessa reunião bolso pra ninguém!",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00007",
-      "date": "2024-12-09",
-      "time": "20:00",
-      "timestamp_precision": "minute",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim",
-      "content": "Esse negócio acaba comigo.",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00008",
-      "date": "2024-12-09",
-      "time": "20:00",
-      "timestamp_precision": "minute",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim_excerpt",
-      "content": "morrendo de medo",
-      "editorial_note": "Segundo a reportagem, respondeu estar morrendo de medo.",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00009",
-      "date": "2024-12-09",
-      "time": "20:00",
-      "timestamp_precision": "minute",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim_excerpt",
-      "content": "receio do xará",
-      "editorial_note": "Segundo a reportagem, comentou ter receio do xará.",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00010",
-      "date": "2025-02-27",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "daniel-vorcaro",
-      "content_kind": "verbatim_excerpt",
-      "content": "boa pro bolso",
-      "editorial_note": "Segundo a reportagem, perguntou se a entrevista do presidente à Leo Dias TV havia sido boa pro bolso.",
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    },
-    {
-      "id": "m-00011",
-      "date": "2025-02-27",
-      "time": null,
-      "timestamp_precision": "date",
-      "sender_id": "flavio-carneiro",
-      "content_kind": "verbatim",
-      "content": "Segundo o meu xará foi fantástico",
-      "editorial_note": null,
-      "verification": {
-        "level": "secondary_source",
-        "origin": "PF extraction",
-        "authority": null,
-        "court": null,
-        "case": null,
-        "document": null,
-        "page": null,
-        "figure": null,
-        "official_url": null,
-        "primary_document_located": false,
-        "verified_at": "2026-10-06"
-      },
-      "sources": {
-        "primary": null,
-        "secondary": [
-          {
-            "publication": "Revista piauí",
-            "date": "2026-10-01",
-            "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
-          }
-        ]
-      },
-      "source_ref": "piauí, 01/10/2026",
-      "added_in": "ingest-bm-piaui-20261006"
-    }
-  ]
+  {
+   "id": "m-00002",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Qualquer coisa de Ciro, Arthur, Hugo não pode sair nada sem me falar",
+   "editorial_note": "Em setembro/2024, sobre publicações envolvendo Ciro Nogueira, Arthur Lira e Hugo Motta, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou colocar o Lira nessa lista agora",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-12-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim",
+   "content": "Thiago tá cobrando se você vai num jantar c meu xará e o pai dele pelo que entendi, você tá ciente disso?",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-12-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim",
+   "content": "Acho uma roubada danada.",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-12-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Não sei nem de quem tá falando.",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-12-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "o meu xará e o pai",
+   "editorial_note": "Segundo a reportagem, no contexto, Thiago Miranda insistia em juntá-lo com o seu xará e o pai deste.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-12-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Temos que pensar nisso.",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-12-09",
+   "time": "20:00",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Não fala dessa reunião bolso pra ninguém!",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-12-09",
+   "time": "20:00",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Esse negócio acaba comigo.",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-12-09",
+   "time": "20:00",
+   "timestamp_precision": "minute",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "morrendo de medo",
+   "editorial_note": "Segundo a reportagem, respondeu estar morrendo de medo.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-12-09",
+   "time": "20:00",
+   "timestamp_precision": "minute",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "receio do xará",
+   "editorial_note": "Segundo a reportagem, comentou ter receio do xará.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-02-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "boa pro bolso",
+   "editorial_note": "Segundo a reportagem, perguntou se a entrevista do presidente à Leo Dias TV havia sido boa pro bolso.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00014",
+   "date": "2025-02-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim",
+   "content": "Segundo o meu xará foi fantástico",
+   "editorial_note": null,
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Revista piauí",
+      "date": "2026-10-01",
+      "url": "https://piaui.uol.com.br/web/mensagens-celular-flavio-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "piauí, 01/10/2026",
+   "added_in": "ingest-bm-piaui-20261006"
+  },
+  {
+   "id": "m-00015",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou te mandando as minutas e você analisa e publicamos",
+   "editorial_note": "Em março/2025, dois dias após o anúncio da compra do Master pelo BRB, sobre o site PlatôBR, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00016",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Entra agora à noite!",
+   "editorial_note": "Ao enviar a Vorcaro a íntegra de entrevista do presidente do BRB, Paulo Henrique Costa, ao PlatôBR, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00017",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Colocar esse tema precatório no subtítulo também não é legal",
+   "editorial_note": "Reclamação da chamada da matéria; na manhã seguinte, com o texto já corrigido, voltou a reclamar do destaque aos precatórios, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamo alterar agora",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não deixa Platô falar de Ciro e Rueda",
+   "editorial_note": "Em referência aos presidentes do PP, Ciro Nogueira, e do União Brasil, Antônio Rueda, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem que pegar o Platô e moer esse Cappelli",
+   "editorial_note": "Sobre Ricardo Cappelli, então presidente da ABDI e pré-candidato ao governo do DF, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00021",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamo desancar esse desgraçado",
+   "editorial_note": "Resposta na mesma sequência; disse ainda que iria 'alinhar isso no Platô e no Correio', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00022",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Na IstoÉ é que controlamos mais",
+   "editorial_note": "Em 2024, ao encomendar a Carneiro capa da IstoÉ Dinheiro sobre a farmacêutica Biomm, em que havia investido, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "A Foone, empresa de Carneiro, é sócia do PlatôBR e teve 49,86% da BJ Conteúdo (Brazil Journal), criada em 2023; Carneiro também era investidor das publicações IstoÉ e IstoÉ Dinheiro, controladas por Antônio Carlos Freixo Júnior, o 'Mineiro', apontado pela reportagem como operador financeiro de Vorcaro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00002",
+   "date": null,
+   "content": "Sobre a compra da Allure, a solução sugerida para incluir o 'Mineiro' foi 'fazer uma Foone 2 e pôr só o BJ lá', segundo a reportagem. Em abril/2025, quando o PlatôBR publicou notas negativas sobre o banco, Carneiro disse que pediria para tirar as reportagens do ar.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00003",
+   "date": null,
+   "content": "Segundo o UOL (15/10/2026, matéria sobre a demissão de Kachar), Vorcaro manifestou interesse em comprar espaço publicitário no Estadão e na Folha, mas comprou publicidade nos dois jornais através da Foone. Procurado sobre as mensagens e sua relação com PlatôBR e IstoÉ, Carneiro não se posicionou até a publicação.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ]
 }

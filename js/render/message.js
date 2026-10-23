@@ -178,6 +178,13 @@ function sourceBadgeHtml(m) {
     title="Ver fonte da mensagem (documento e folha)">${I.docSmall}<span>${esc(m.source_ref)}</span></button>`;
 }
 
+/** Selo dos lotes correntes do acervo (current_batches do whatsnew.json). */
+function newFlagHtml(m, ctx) {
+  return Array.isArray(ctx?.currentBatches) && ctx.currentBatches.includes(m?.added_in)
+    ? '<span class="new-flag" title="Registro incluído na última atualização do acervo">novo</span>'
+    : '';
+}
+
 function actionButtonsHtml() {
   return `<button type="button" class="mini-btn" data-action="copy-link" title="Copiar link da mensagem" aria-label="Copiar link da mensagem">${I.link}</button>
   <button type="button" class="mini-btn" data-action="copy-citation" title="Copiar citação" aria-label="Copiar citação">${I.quote}</button>`;
@@ -192,7 +199,7 @@ export function renderEvent(ev, ctx) {
     <span class="event-tag">${I.info} evento editorial</span>
     <p class="event-content">${nl2br(esc(ev.content || ''))}</p>
     <span class="event-meta">
-      <time>${esc(dateTimeShort(ev))}</time>
+      ${newFlagHtml(ev, ctx)}<time>${esc(dateTimeShort(ev))}</time>
       · <button type="button" class="source-badge sys-badge" data-action="source" title="Ver fonte">${I.docSmall}<span>${esc(ev.source_ref)}</span></button>
     </span>
   </div>`;
@@ -229,7 +236,7 @@ export function renderMessage(m, ctx) {
     <div class="bubble-col">
       <div class="bubble${noTime}">
         ${kindTagHtml(m)}${senderLabel}${quoteFor(m, ctx)}${fwdAttributionHtml(m)}${bodyFor(m, ctx)}
-        <span class="bubble-meta"><time>${esc(timeLabel(m))}</time>${out ? I.ticks : ''}</span>
+        <span class="bubble-meta"><time>${esc(timeLabel(m))}</time>${out ? I.ticks : ''}${newFlagHtml(m, ctx)}</span>
       </div>
       <div class="msg-side">${provenanceBadgeHtml(m)}${sourceBadgeHtml(m)}${actionButtonsHtml()}</div>
       ${editorialNoteHtml(m)}

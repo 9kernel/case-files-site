@@ -1,0 +1,220 @@
+{
+ "generated_at": "2026-10-16",
+ "current_batches": [
+  "ingest-press7-20261016"
+ ],
+ "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
+ "threads": {
+  "acm-neto-daniel-vorcaro": {
+   "ingest-press3-20261016": 17
+  },
+  "alberto-felix-daniel-vorcaro": {
+   "ingest-ipja-20261006": 2
+  },
+  "alexandre-moraes-daniel-vorcaro": {
+   "ingest-bm-r7-20261006": 10,
+   "ingest-ipja-20261006": 10
+  },
+  "ana-claudia-financeiro-daniel-vorcaro": {
+   "ingest-ipja-20261006": 1,
+   "audit-fix-20261016": 1
+  },
+  "ana-matos-daniel-vorcaro": {
+   "ingest-press4-20261016": 3,
+   "ingest-ipja-20261006": 10,
+   "audit-fix2-20261016": 1
+  },
+  "angelo-silva-daniel-vorcaro": {
+   "ingest-ipja-20261006": 4,
+   "ingest-pf2-20261007": 3
+  },
+  "antonio-rueda-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 12
+  },
+  "augusto-lima-daniel-vorcaro": {
+   "ingest-press5-20261016": 4,
+   "ingest-press-20261015": 5,
+   "audit-fix2-20261016": 1
+  },
+  "cezinha-de-madureira-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 9
+  },
+  "ciro-soares-daniel-vorcaro": {
+   "ingest-ipja-20261006": 25
+  },
+  "daniel-monteiro-daniel-vorcaro": {
+   "audit-fix-20261016": 6
+  },
+  "davi-alcolumbre-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 6
+  },
+  "diogo-batista-daniel-vorcaro": {
+   "ingest-press4-20261016": 32
+  },
+  "eduardo-barcellos-daniel-vorcaro": {
+   "ingest-press4-20261016": 8
+  },
+  "elsinho-mouco-daniel-vorcaro": {
+   "ingest-press4-20261016": 7
+  },
+  "fabiano-zettel-daniel-vorcaro": {
+   "ingest-press2-20261016": 5,
+   "ingest-pf-20261007": 8,
+   "ingest-press7-20261016": 24
+  },
+  "fabio-faria-daniel-vorcaro": {
+   "ingest-ipja-20261006": 28,
+   "ingest-press5-20261016": 6,
+   "ingest-press6-20261016": 11
+  },
+  "felipe-mourao-daniel-vorcaro": {
+   "ingest-pf-20261007": 88,
+   "ingest-press4-20261016": 4,
+   "privacy-20261007": 1
+  },
+  "fernando-mascarenhas-daniel-vorcaro": {
+   "ingest-press-20261015": 6
+  },
+  "flavio-bolsonaro-daniel-vorcaro": {
+   "ingest-bm-piaui-20261006": 27,
+   "ingest-press2-20261016": 2
+  },
+  "flavio-carneiro-daniel-vorcaro": {
+   "ingest-press4-20261016": 14,
+   "ingest-bm-piaui-20261006": 11
+  },
+  "frederic-kachar-daniel-vorcaro": {
+   "ingest-press4-20261016": 26,
+   "ingest-press7-20261016": 26
+  },
+  "geraldo-samor-daniel-vorcaro": {
+   "ingest-press4-20261016": 10,
+   "ingest-ipja-20261006": 1
+  },
+  "grupo-ciro-daniel-fabio-hugo": {
+   "ingest-press-grupo-20261015": 9
+  },
+  "guilherme-barros-daniel-vorcaro": {
+   "audit-fix2-20261016": 1
+  },
+  "guilherme-sodre-daniel-vorcaro": {
+   "ingest-press-20261015": 4
+  },
+  "hamilton-buzelin-daniel-vorcaro": {
+   "ingest-press-20261015": 3
+  },
+  "hugo-motta-daniel-vorcaro": {
+   "ingest-press6-20261016": 12,
+   "ingest-imprensa-20261011": 12,
+   "ingest-press2-20261016": 4
+  },
+  "iraja-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 18
+  },
+  "isaac-sidney-daniel-vorcaro": {
+   "ingest-press4-20261016": 17
+  },
+  "isadora-alencar-daniel-vorcaro": {
+   "ingest-press-20261015": 7
+  },
+  "joao-doria-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 6
+  },
+  "jose-maria-meira-daniel-vorcaro": {
+   "ingest-press5-20261016": 9
+  },
+  "julio-cezar-daniel-vorcaro": {
+   "ingest-press-20261015": 28,
+   "ingest-press5-20261016": 8
+  },
+  "leonardo-palhares-daniel-vorcaro": {
+   "ingest-ipja-20261006": 19
+  },
+  "leonardo-serrano-daniel-vorcaro": {
+   "ingest-press4-20261016": 14
+  },
+  "lilian-tahan-daniel-vorcaro": {
+   "ingest-press4-20261016": 17,
+   "audit-fix2-20261016": 15
+  },
+  "luciano-huck-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 10,
+   "ingest-press2-20261016": 5
+  },
+  "luiz-renno-daniel-vorcaro": {
+   "ingest-ipja-20261006": 1,
+   "ingest-press2-20261016": 8,
+   "ingest-press6-20261016": 3,
+   "ingest-press3-20261016": 2
+  },
+  "manuela-carta-daniel-vorcaro": {
+   "ingest-press4-20261016": 5
+  },
+  "marcio-conjur-daniel-vorcaro": {
+   "ingest-ipja-20261006": 7
+  },
+  "marcos-da-mata-daniel-vorcaro": {
+   "ingest-ipja-20261006": 10
+  },
+  "marcus-vinicius-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 3
+  },
+  "mario-frias-daniel-vorcaro": {
+   "ingest-intercept-20261006": 4,
+   "ingest-bm-piaui-20261006": 15
+  },
+  "martha-graeff-daniel-vorcaro": {
+   "ingest-press-20261015": 18,
+   "ingest-press3-20261016": 11
+  },
+  "michel-temer-daniel-vorcaro": {
+   "ingest-press4-20261016": 6
+  },
+  "nikolas-ferreira-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 4
+  },
+  "paulo-henrique-daniel-vorcaro": {
+   "ingest-pf2-20261007": 18,
+   "audit-fix-20261016": 35
+  },
+  "paulo-sergio-daniel-vorcaro": {
+   "ingest-ipja-20261006": 1
+  },
+  "roberto-campos-neto-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 6
+  },
+  "roberto-justus-daniel-vorcaro": {
+   "ingest-bm-terra-20261006": 10
+  },
+  "rodrigo-fux-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 9
+  },
+  "romy-banco-master-daniel-vorcaro": {
+   "ingest-ipja-20261006": 5
+  },
+  "thiago-miranda-daniel-vorcaro": {
+   "ingest-bm-piaui-20261006": 34,
+   "ingest-press7-20261016": 7
+  },
+  "tiago-polo-daniel-vorcaro": {
+   "ingest-press4-20261016": 4
+  },
+  "vanessa-souza-daniel-vorcaro": {
+   "ingest-bm-cb-20261006": 4
+  },
+  "viviane-de-moraes-daniel-vorcaro": {
+   "ingest-ipja-20261006": 7
+  },
+  "walfrido-mares-guia-daniel-vorcaro": {
+   "ingest-press5-20261016": 15
+  },
+  "walfrido-warde-daniel-vorcaro": {
+   "ingest-press2-20261016": 8,
+   "ingest-press3-20261016": 7,
+   "ingest-pf-20261007": 17
+  },
+  "yasmin-brunet-daniel-vorcaro": {
+   "ingest-imprensa-20261011": 18
+  }
+ }
+}

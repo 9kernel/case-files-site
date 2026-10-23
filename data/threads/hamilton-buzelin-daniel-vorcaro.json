@@ -6,9 +6,9 @@
   "hamilton-buzelin"
  ],
  "source": {
-  "document": "Veja — “Em áudio, operador de propinas do Planalto diz que iria colocar Vorcaro ‘na boca do gol’ no BB” (10/10/2026)",
-  "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/",
-  "pages": "Reportagem de Robson Bonin e Hugo Marques. Buzelin é identificado como ex-diretor de Finanças Corporativas do Banco Máxima. Horários não divulgados."
+  "document": "Veja (coluna Radar), 10/10/2026: ex-diretor de Finanças Corporativas do Banco Máxima; aproximou Vorcaro de Júlio Cezar após reunião cancelada na Petros (fev/2024) e agendou o encontro no Planalto. As mensagens abaixo são transcrições da própria reportagem.",
+  "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
  },
  "messages": [
   {
@@ -17,13 +17,13 @@
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "hamilton-buzelin",
-   "content_kind": "verbatim",
-   "content": "Salve, Daniel. Aqui é Hamilton Buzelin, ex-diretor de Finanças Corporativas do Máxima. Há muito não nos falamos.",
-   "editorial_note": "Primeira mensagem reproduzida, em fevereiro/2024, após o cancelamento de reunião na Petros; na continuação, pede conversa urgente e pessoal sobre a reunião cancelada no Rio.",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou com uma demanda de falar com você com uma certa urgência (…) preciso que seja pessoalmente",
+   "editorial_note": "Reticências constam da transcrição da reportagem.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -31,7 +31,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -39,55 +40,27 @@
      {
       "publication": "Veja",
       "date": "2026-10-10",
-      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Veja, 10/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015",
+   "literal_brackets": true
   },
   {
    "id": "m-00002",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Não sei de que tema estamos falando e nem dessa reunião de quinta",
-   "editorial_note": null,
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-10",
-      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
-     }
-    ]
-   },
-   "source_ref": "Veja, 10/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00003",
+   "date": "2024-02",
+   "time": null,
+   "timestamp_precision": "month",
    "sender_id": "hamilton-buzelin",
-   "content_kind": "verbatim",
-   "content": "Foi uma reunião na Petros, no Rio de Janeiro, que seria na quinta",
-   "editorial_note": null,
+   "content_kind": "verbatim_excerpt",
+   "content": "o Júlio já vai indo para o palácio e vai te esperar lá",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem, que registra confusão entre Alvorada e Planalto.",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -95,7 +68,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -103,26 +77,26 @@
      {
       "publication": "Veja",
       "date": "2026-10-10",
-      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Veja, 10/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
+  }
+ ],
+ "timeline_events": [
   {
-   "id": "m-00004",
+   "id": "e-00001",
    "date": "2024-02-28",
    "time": null,
    "timestamp_precision": "date",
-   "sender_id": "hamilton-buzelin",
-   "content_kind": "verbatim_excerpt",
-   "content": "Salve Daniel, obrigado por me receber, já está confirmado sexta-feira às 14 horas",
-   "editorial_note": "Enviada na tarde de 28/02/2024; na continuação, pede que Vorcaro e Júlio Cezar se encontrem antes, porque “Vocês precisam se conhecer”.",
+   "content": "Encontro entre Buzelin e Vorcaro em São Paulo, após o qual ele aproximou Vorcaro de Júlio Cezar, segundo a reportagem.",
+   "event_kind": "editorial_context",
    "verification": {
     "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
+    "origin": "press report",
+    "authority": "Polícia Federal",
     "court": null,
     "case": null,
     "document": null,
@@ -130,7 +104,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-14"
+    "verified_at": "2026-10-15",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
     "primary": null,
@@ -138,56 +113,12 @@
      {
       "publication": "Veja",
       "date": "2026-10-10",
-      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Veja, 10/10/2026",
-   "added_in": "ingest-imprensa-20261014"
-  },
-  {
-   "id": "m-00005",
-   "date": "2024-03-01",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "hamilton-buzelin",
-   "content_kind": "audio_transcript",
-   "content": "Daniel, o Júlio já vai indo para o palácio e vai te esperar lá.",
-   "editorial_note": "Áudio de 01/03/2024 transcrito parcialmente pela reportagem: explica a logística do encontro, confunde o Alvorada com o Planalto e diz que Júlio desceria na portaria para não “deixar muito estourar a hora”.",
-   "transcription_complete": false,
-   "transcription": {
-    "kind": "publisher_transcription",
-    "source": "Veja",
-    "complete": false
-   },
-   "media": {
-    "status": "transcript_only"
-   },
-   "verification": {
-    "level": "public_investigation",
-    "origin": "PF extraction",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-14"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-10",
-      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb/"
-     }
-    ]
-   },
-   "source_ref": "Veja, 10/10/2026",
-   "added_in": "ingest-imprensa-20261014"
+   "source_ref": "Relato de Veja (2026-10-10)",
+   "added_in": "ingest-press-20261015"
   }
  ]
 }

@@ -198,6 +198,12 @@ ok = runCase('official_document com primary_document_located=false', (t) => { t.
 ok = runCase('official_document sem sources.primary', (t) => { t.messages[1].sources = { primary: null, secondary: [] }; }, ['E_VERIFICATION_SHAPE']) && ok;
 ok = runCase('secondary_source sem fonte secundária', (t) => { t.messages[0].sources = { primary: null, secondary: [] }; }, ['E_VERIFICATION_SECONDARY']) && ok;
 ok = runCase('secondary_source com fonte inválida', (t) => { t.messages[0].sources = { primary: null, secondary: [{ date: '2026-10-01' }] }; }, ['E_VERIFICATION_SECONDARY']) && ok;
+ok = runCase('public_investigation sem procedimento identificável', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation' };
+}, ['E_INV_BASIS']) && ok;
+ok = runCase('public_investigation com proceeding declarado passa', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: 'Operação Compliance Zero — PF/STF' };
+}, []) && ok;
 ok = runCase('nível != official_document com primary_document_located=true', (t) => { t.messages[0].verification = { ...t.messages[0].verification, primary_document_located: true }; }, ['E_VERIFICATION_SHAPE']) && ok;
 ok = runCase('datas fora de ordem', (t) => { t.messages[1].date = '2024-03-10'; }, ['E_TIMESTAMP_ORDER']) && ok;
 ok = runCase('horas fora de ordem no mesmo dia', (t) => { t.messages[1].time = '07:00'; }, ['E_TIMESTAMP_ORDER']) && ok;

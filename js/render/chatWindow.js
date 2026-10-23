@@ -8,7 +8,7 @@
 // registros pending_review nunca são renderizados (filtro em api.js).
 
 import { CONFIG } from '../config.js';
-import { getThreadRaw, getParticipants, participantMap, getDocuments, documentMap, documentPageUrl } from '../api.js';
+import { getThreadRaw, getParticipants, participantMap, getDocuments, documentMap, documentPageUrl, getWhatsNew } from '../api.js';
 import { state, freshFilters } from '../state.js';
 import { renderMessage, icons } from './message.js';
 import { openProfileDialog } from './profile.js';
@@ -365,7 +365,12 @@ export async function renderChatWindow(container, threadId, targetMsgId) {
   const timeline = buildTimeline({ messages, timeline_events: events });
   filtered = applyFilters(timeline, state.filters);
   const docs = documentMap(await getDocuments());
-  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, docs, isGroup: raw.participants_ids.length > 2 };
+  // lotes do selo "novo": a última rodada de inclusão (build-whatsnew.mjs)
+  let currentBatches = [];
+  try {
+    currentBatches = (await getWhatsNew())?.current_batches || [];
+  } catch { /* sem artefato: sem selo */ }
+  ctx = { threadId, ownerId: raw.participants_ids[0], pmap, byId, docs, isGroup: raw.participants_ids.length > 2, currentBatches };
 
   // resolução do deep-link
   let banner = '';

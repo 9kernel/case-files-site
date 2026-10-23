@@ -1,0 +1,1845 @@
+{
+ "id": "frederic-kachar-daniel-vorcaro",
+ "title": "Frederic Kachar",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "frederic-kachar"
+ ],
+ "source": {
+  "document": "UOL (Renata Agostini e Tiago Dantas), 15/10/2026: conversas de out/2023 a jul/2025 entre Vorcaro e o então diretor-geral de Mídia Impressa e Rádio do Grupo Globo — patrocínios (Baile da Vogue 2024: R$ 825 mil; camarote no Carnaval 2023: R$ 1,6 milhão), pedidos de pauta e o código 'guerra na Ucrânia'. Kachar foi demitido em 15/10/2026, após o vazamento; a nota oficial do Grupo Globo está registrada nos eventos.",
+  "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm",
+  "pages": "Mensagens conforme transcrição da(s) reportagem(ns) indicada(s) em cada registro; nada além do que foi divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já está na Ucrânia, rs?",
+   "editorial_note": "Horas depois de Vorcaro anunciar um 'plano ataque soviético'; 'guerra na Ucrânia' era a expressão do grupo de Vorcaro para festas com mulheres estrangeiras, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Temos guerra na Ucrânia nessa semana?",
+   "editorial_note": "Uma semana depois, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem hoje. Bora?",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-03",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se tiver, tô dentro",
+   "editorial_note": "Disse que não conseguiria ir naquele dia e perguntou se haveria na semana seguinte, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se tiver algum erro na coluna da Malu, peço a correção imediata",
+   "editorial_note": "Após Vorcaro reclamar de post da colunista Malu Gaspar sobre o fórum de Londres, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não estou entendendo esse seu tom comigo.",
+   "editorial_note": "Sequência da mesma conversa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-04",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quer que a gente o entreviste no Valor?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00008",
+   "date": "2024-04",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não sabia que a Veste tinha esse ceo",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00009",
+   "date": "2024-05",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dessa vez eu vou!",
+   "editorial_note": "Ao ser convidado para um camarote com a cúpula do Grupo Globo no show de Madonna; Vorcaro anunciou que haveria 'festa' na terça, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00010",
+   "date": "2024-05-31",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Entrou em supermercados também? Estás incontrolável rs!",
+   "editorial_note": "Sobre reportagem do G1 envolvendo o Banco Master e o setor de supermercados, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-05-31",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Info totalmente errada",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-05-31",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quer que eu peça pra corrigir?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
+   "date": "2024-05-31",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deve!",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00014",
+   "date": "2024-05-31",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Agora ficou certo",
+   "editorial_note": "Após a atualização do texto, segundo a reportagem — a correção da matéria está registrada em evento.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00015",
+   "date": "2024-07",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não tem campanha alguma, claro",
+   "editorial_note": "Vorcaro dissera que Lauro Jardim havia publicado 'informação falsa' e perguntou se havia 'campanha corporativa' contra ele, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00016",
+   "date": "2024-07",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "amizade que supera negócios",
+   "editorial_note": "Fragmento: assim definiu a relação, em julho/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00017",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eles colocaram os dois lados",
+   "editorial_note": "Sobre reportagem do Valor sobre os resultados do banco, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00018",
+   "date": "2024-09",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não dá pra fazer matéria sem olhar pra todos os fatos.",
+   "editorial_note": "Sequência da mesma conversa, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00019",
+   "date": "2024-10",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Depois me diz se faltou algo",
+   "editorial_note": "Ao enviar os links das publicações sobre Martha Graeff, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00020",
+   "date": "2024-10",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "só a Marie Claire deu uma batidinha no final rsrs esses repórteres são uma bênção",
+   "editorial_note": "Sobre as matérias publicadas; a reportagem do UOL registrara a reclamação em versão resumida ('deu uma batidinha no final').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00021",
+   "date": "2024-10-12",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "De presente pra ela",
+   "editorial_note": "Ao pedir capa da Vogue para Martha Graeff, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00022",
+   "date": "2025-02",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos poder curtir juntos amanhã?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00023",
+   "date": "2025-02",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Querido, me dá um sinal de vida pra eu não ir e dar com a cara na porta rs?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00024",
+   "date": "2025-02",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Para não te deixar na mão, te bonifico um branded content [...] da marca na Glamour e na Vogue [Brasil]",
+   "editorial_note": "Colchetes e reticências constam da transcrição da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00025",
+   "date": "2025-02-25",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "fez falta no sábado",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00026",
+   "date": "2025-02-25",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou no voo com Lauro [Jardim], que vai conhecer sua sede nova antes de mim.",
+   "editorial_note": "Colchete consta da transcrição da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00027",
+   "date": "2025-03-29",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Matéria maldosa, malfeita. Isso é porque seu grupo deu o furo da operação. Parceria, como sempre, de uma via apenas",
+   "editorial_note": "Sobre a análise do Valor Econômico de 29/03/2025 sobre a negociação entre BRB e Master, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00028",
+   "date": "2025-03-29",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Com toda a liberdade de desabafo, me sinto por varias vezes um bobo focando na parceria aí",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00029",
+   "date": "2025-03-29",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "O que concordo com você é que não poderia fazer análise sem sua visão do 'deal' e já reclamei",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00030",
+   "date": "2025-03-29",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Meu amigo, claro que não é pra ficar como está. Se a gente discorda em algumas coisas, temos de conversar",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00031",
+   "date": "2025-03-29",
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "O Álvaro [Campos] incluiu aspas suas nessa análise. Vamos falar amanhã?",
+   "editorial_note": "Duas horas depois; colchete consta da transcrição da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00032",
+   "date": "2025-03-29",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não vale a pena pra mim falar. Vira (sic) o caso Malu [Gaspar]. Tudo que eu falo usam contra mim.",
+   "editorial_note": "'(sic)' e colchete constam da transcrição; referência ao episódio registrado em evento na conversa com Thiago Miranda.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00033",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "De repente ver se você consegue uma capa pra ela na Vogue. Ela tem cancha pra isso",
+   "editorial_note": "Sobre Martha Graeff, então namorada de Vorcaro, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00034",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "um processo mais longo",
+   "editorial_note": "Fragmento: Kachar respondeu que capa na Vogue era 'um processo mais longo', segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00035",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu te asseguro um destaque importante pra Martha. E falarei de capa também com Marie Claire e Ela",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00036",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou pautar Vogue, Marie Claire e Ela",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00037",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ficaram ótimas, obrigado",
+   "editorial_note": "Três dias depois, sobre as reportagens das três publicações sobre a Happy Aging, segundo a reportagem; ele reclamou apenas da Marie Claire, que 'deu uma batidinha no final'.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00038",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Próximo passo é uma capa a Ela ou Marie Claire. Só precisamos de um fato novo",
+   "editorial_note": "Na semana seguinte, retomando a negociação, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00039",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Capa será muito legal",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00040",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos trabalhando pra isso!",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00041",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "destravar o uso do novo contrato",
+   "editorial_note": "Fragmento: pediu ajuda a Vorcaro para 'destravar o uso do novo contrato' de publicidade do banco com a editora, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00042",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tínhamos um plano robusto pra outubro",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00043",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Será feito",
+   "editorial_note": "Vorcaro disse que tinha falado com a responsável e respondeu, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00044",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tirei o banco nos dois casos",
+   "editorial_note": "Em 2025, com os problemas do Master aparecendo, sobre as propostas do Baile da Vogue e do camarote, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00045",
+   "date": null,
+   "sender_id": "frederic-kachar",
+   "content_kind": "verbatim_excerpt",
+   "content": "500k na Vogue e 800k no camarote",
+   "editorial_note": "Fragmento: valores combinados para 2025 com as marcas Desinchá e Happy Aging, de Vorcaro, no lugar do banco, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-05-31",
+   "content": "Após o pedido de Vorcaro, a reportagem do G1 sobre o Master e o setor de supermercados foi corrigida/atualizada — 'Agora ficou certo', registrou o banqueiro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00002",
+   "date": "2025-02",
+   "content": "Propostas de fevereiro/2025: R$ 1,79 milhão em participação e R$ 4,92 milhões para camarote na Sapucaí; Vorcaro pagou R$ 1,3 milhão pelos dois eventos, segundo a reportagem.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016",
+   "time": null,
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "e-00003",
+   "date": "2026-10-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "O Grupo Globo comunica a demissão de Kachar da direção-geral de Mídia Impressa e Rádio após o vazamento. Em nota, o presidente João Roberto Marinho diz que as conversas (out/2023 a jul/2025) 'revelaram uma relação inadequada do executivo com um anunciante da Editora Globo', reafirma 'a absoluta independência editorial do jornalismo' e informa que Luís Henrique Guimarães acumula interinamente o cargo.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00004",
+   "date": null,
+   "content": "Patrocínios do Master ao grupo, conforme tabela enviada por Kachar: R$ 825 mil no Baile da Vogue de 2024 e R$ 1,6 milhão no camarote da editora no Carnaval de 2023. Em 2025, os materiais do baile foram impressos com as marcas Desinchá e Happy Aging, de Vorcaro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00005",
+   "date": null,
+   "content": "'Guerra na Ucrânia' era a expressão usada no grupo de Vorcaro para festas com mulheres estrangeiras; como mostrou o UOL, refugiadas ucranianas integravam um negócio de prostituição financiado por Vorcaro, investigado pela PF.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/grupo-globo-demite-diretor-geral-apos-vazamento-de-conversas-com-vorcaro.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00006",
+   "date": null,
+   "content": "Falas de Kachar sobre a jornalista Malu Gaspar, publicadas em fala indireta: 'a Malu é livre. Ninguém a escala'; 'Eu não gosto do que ela postou, por isso reforcei que a cobertura do Globo é a que está no site'; sobre a piauí, que 'virou denuncista'. Sobre a independência dos jornalistas, a Agência Pública trata as interferências como apontadas pelas mensagens interceptadas pela PF — não como conclusão judicial.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016"
+  },
+  {
+   "id": "e-00007",
+   "date": null,
+   "content": "Notas: a defesa de Vorcaro disse que se manifestaria após depoimento (sobre outras mensagens, afirmou que foram tiradas de contexto e que jamais determinou violência); Kachar não retornou; Álvaro Campos e Malu Gaspar preferiram não comentar; a nota do Grupo Globo sobre a demissão já está registrada no evento de 15/10/2026.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública (Ed Wanderley e Thiago Domenici)",
+      "date": "2026-10-15",
+      "url": "https://apublica.org/2026/10/a-linha-direta-de-vorcaro-dentro-do-grupo-globo-quer-que-peca-pra-corrigir/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
+   "added_in": "ingest-press7-20261016"
+  }
+ ]
+}

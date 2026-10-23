@@ -19,9 +19,9 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "content": "Quero te chamar para me ajudar num caso",
-   "editorial_note": null,
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -51,9 +51,9 @@
    "sender_id": "rodrigo-fux",
    "content_kind": "verbatim",
    "content": "Será um prazer se eu puder ajudar",
-   "editorial_note": null,
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -83,9 +83,9 @@
    "sender_id": "rodrigo-fux",
    "content_kind": "verbatim",
    "content": "Tapete vermelho, irmão",
-   "editorial_note": "Ao combinar uma reunião; a data exata não foi divulgada.",
+   "editorial_note": "Ao combinar uma reunião; a data exata não foi divulgada. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -115,9 +115,9 @@
    "sender_id": "rodrigo-fux",
    "content_kind": "verbatim",
    "content": "17:30 tô lá",
-   "editorial_note": "Após receber um endereço em Brasília.",
+   "editorial_note": "Após receber um endereço em Brasília. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -147,9 +147,9 @@
    "sender_id": "rodrigo-fux",
    "content_kind": "verbatim",
    "content": "Bom dia. 10:30hs tô aí",
-   "editorial_note": "Em mensagem de março/2025, conforme a reportagem.",
+   "editorial_note": "Em mensagem de março/2025, conforme a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -183,7 +183,7 @@
    "event_kind": "editorial_context",
    "content": "Videochamada sobre um caso e envio de documento para análise; o conteúdo não foi esclarecido pela reportagem.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -196,7 +196,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "Jovem Pan (com UOL), 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -205,7 +206,7 @@
    "event_kind": "editorial_context",
    "content": "Encontros combinados em Brasília, Rio e São Paulo entre dezembro/2024 e março/2025; em um caso, Rodrigo disse que sairia do STJ para se encontrar com Vorcaro.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -218,7 +219,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "Jovem Pan (com UOL), 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00003",
@@ -227,7 +229,7 @@
    "event_kind": "editorial_context",
    "content": "Vorcaro oferece área reservada de camarote no Carnaval do Rio; Rodrigo envia dados dele, da esposa e de convidados.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -240,7 +242,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "Jovem Pan (com UOL), 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   },
   {
    "id": "e-00004",
@@ -249,7 +252,7 @@
    "event_kind": "editorial_context",
    "content": "Rodrigo orienta Vorcaro a enviar e-mail à secretária do ministro Luiz Fux no STF, com cópia para ele.",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "PF extraction",
     "authority": null,
     "court": null,
@@ -262,7 +265,8 @@
     "verified_at": "2026-10-11"
    },
    "source_ref": "Jovem Pan (com UOL), 15/09/2026",
-   "added_in": "ingest-imprensa-20261011"
+   "added_in": "ingest-imprensa-20261011",
+   "editorial_note": " [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]"
   }
  ]
 }
