@@ -1,0 +1,189 @@
+{
+ "id": "netinho-lins-daniel-vorcaro",
+ "title": "Netinho Lins",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "netinho-lins"
+ ],
+ "source": {
+  "document": "UOL — coluna Natália Portinari (22/10/2026): “Deputado agradece Vorcaro após receber pacote na eleição: ‘Salvou a pátria’”",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm",
+  "pages": "Mensagens do celular de Vorcaro conforme transcrição da reportagem; nada além do divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-10-10",
+   "timestamp_precision": "date",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "Obrigado, chefe. Estamos nos finalmentes para o nosso festival",
+   "editorial_note": "Sobre o Festival das Esmeraldas, que ocorreria em Angatuba (SP), organizado por Netinho com Zé Maria, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-10-10",
+   "timestamp_precision": "date",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "Prepara o coração que o festival vai ser gigante",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-10-12",
+   "timestamp_precision": "date",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "Rapaiz... de novo?",
+   "editorial_note": "Dois dias depois, conforme a reportagem; objeto da mensagem não detalhado na transcrição.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-10-12",
+   "timestamp_precision": "date",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "chegou",
+   "editorial_note": "Na mesma sequência, segundo a reportagem; não detalha a que se refere.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": "2024-10",
+   "timestamp_precision": "month",
+   "content": "No dia 10/10/2024, R$ 2 milhões saíram da conta Master Distributed Orc Cloud, do Master, conforme apuração da PF reportada pelo UOL, um dia após o Festival das Esmeraldas ser noticiado e horas depois das mensagens de Netinho Lins a Vorcaro; a reportagem não estabelece vínculo direto entre o repasse e o festival nem identifica o conteúdo de entregas associadas. O patrocínio de R$ 1 milhão ao festival foi tratado com Fabiano Zettel em setembro de 2025 (ver conversa própria).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ]
+}

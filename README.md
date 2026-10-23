@@ -46,8 +46,16 @@ Braziliense/O Globo, R7/Rádio Guaíba e The Intercept.
 
 **Regra inegociável**: nenhuma mensagem é publicada como “documento oficial”
 apontando para peça sem `public_access_verified: true` — o CI do repositório
-**rejeita o build** se isso acontecer. Nada provém de material sigiloso ou de
-vazamento não oficial.
+**rejeita o build** se isso acontecer. O projeto só trabalha com: (i) peças
+públicas oficiais; (ii) transcrições literais publicadas por veículos
+jornalísticos — sempre citadas registro a registro —; e (iii) manifestações
+públicas das próprias partes (como comunicados institucionais). O projeto não
+obtém nem publica material sigiloso e nenhuma inclusão depende de fonte não
+pública; a origem remota primária do material que a imprensa reporta, porém,
+não é individualmente verificável pelo projeto — por isso cada registro de
+origem jornalística carrega nível de evidência próprio (fonte jornalística ou
+investigação pública com procedimento declarado), sem afirmação de
+conhecimento absoluto sobre a origem última dessas reportagens.
 
 ## 2. O que está no site é exatamente o que está nos autos e nas publicações
 
@@ -79,9 +87,9 @@ vazamento não oficial.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (16/10/2026)*: **60 conversas · 795 mensagens · 200
-  eventos** — 995 registros públicos auditados (540 investigação pública com
-  procedimento declarado, 275 documento oficial, 180 fonte jornalística),
+- *Números correntes (23/10/2026)*: **64 conversas · 861 mensagens · 208
+  eventos** — 1069 registros públicos auditados (602 investigação pública com
+  procedimento declarado, 275 documento oficial, 192 fonte jornalística),
   zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
   o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.

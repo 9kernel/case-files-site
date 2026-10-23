@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16",
+ "generated_at": "2026-10-23",
  "note": "Conteúdo textual público (mensagens + eventos) por conversa; busca acento-insensível no cliente. pending_review excluído.",
  "threads": [
   {
@@ -8,7 +8,7 @@
     "Irmão, foi bom demais. Não vou mais tomar falta de jeito nenhum. Rsss",
     "Valeu demais!!!!",
     "Boa. Vamos juntos. Bom estar contigo, energia boa demais",
-    "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois a bolsa de minha esposa rompeu e meu filho que iria nascer na sexta acabou nascendo nessa madrugada.",
+    "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois [trecho suprimido — informações familiares]",
     "Irmão, Rueda pousa 18:30. Veja aonde e q hs deseja encontrar e me avise. Abs",
     "Ja no caruso?",
     "Isso. Chego em 7 lá",
@@ -20,7 +20,7 @@
     "Depois, confirma o horário e o local que falamos",
     "Os diálogos cobrem o período 2023–2024 e registram encontros periódicos entre os dois, com ACM Neto tratando Vorcaro de 'irmão' em várias conversas, segundo a reportagem.",
     "Encontro em tabacaria em São Paulo, com a chegada de Antônio Rueda, presidente nacional do União Brasil, anunciada para as 18h30; Vorcaro pede 'sala privada', segundo as mensagens.",
-    "Dia do 2º turno das eleições municipais: nas mensagens, ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem.",
+    "Quatro dias após o 2º turno das eleições municipais (votado em 27/10/2024): nas mensagens, ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem.",
     "Apontamentos bancários reportados ao Coaf indicam R$ 3,6 milhões em pagamentos do Banco Master e da gestora Reag a empresa ligada a ACM Neto; a revelação inicial foi da coluna de Lauro Jardim, em O Globo. ACM Neto nega ter cometido irregularidades, segundo a reportagem."
    ]
   },
@@ -79,7 +79,16 @@
     "reclamou MUITO do evento",
     "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
     "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?",
-    "Ana Matos envia lista de painelistas e comenta sobre “Rueda” (Antonio Rueda), indicando não colocá-lo como moderador; Vorcaro responde com as mensagens ao lado."
+    "Eu me dou muito bem com ele [Nikolas]. Ele não citaria",
+    "Está alinhado com vc consultoria estratégica Felipe Nunes, empresa Quaest, 150 mil mês? 12 meses",
+    "Acho que Augusto que fechou […] Alinha c ele",
+    "Sim, foi ele. Como ele está alinhado. Vou seguir então",
+    "Acabei de ver que Pablo Marçal postou coisa do banco. Vou precisar que você entre no circuito pra mim delicadamente",
+    "Tenta fazer ele falar de concentração bancária e não especificamente do banco",
+    "Fala com ele pra mim",
+    "Deus amado. Eu ligo pra ele",
+    "Ana Matos envia lista de painelistas e comenta sobre “Rueda” (Antonio Rueda), indicando não colocá-lo como moderador; Vorcaro responde com as mensagens ao lado.",
+    "A reportagem do Metrópoles (21/10/2026) descreve consultoria estratégica de R$ 150 mil mensais (R$ 1,8 milhão em 12 meses) associada a Felipe Nunes, então CEO da Quaest, contratada no âmbito do Master; não foi divulgado quantas parcelas foram quitadas. Felipe Nunes nega relação com Vorcaro e afirma que o trabalho foi “estritamente técnico”, dentre os prestados a 53 instituições em 2024, iniciado antes de questionamentos públicos ao banco e não renovado antes da liquidação."
    ]
   },
   {
@@ -119,6 +128,9 @@
     "Só decepção",
     "Não é quanto, é com quem",
     "Vamos vencer",
+    "Você acha legal fazermos um negócio com Neymar no Will?",
+    "Está queimado com uma série de assuntos pessoais e profissionais. Não passa credibilidade.",
+    "É descer muito de Vini Jr par a Neymar.",
     "Nota oficial da Polícia Federal (09/10/2026): Daniel Vorcaro 'não prestou depoimento com o teor relatado na matéria' da Veja nem entregou 'anexos, documentos ou informações com o conteúdo ali descrito'. As propostas de colaboração da defesa 'não foram acolhidas em razão do não atendimento aos requisitos legais', em decisão fundamentada conhecida da defesa. A PF registrou ainda ter recebido notícia-crime sobre fatos relacionados à publicação e tê-la encaminhado à área técnica. A nota não menciona gravações nem sua autenticidade. Fonte oficial: gov.br/pf (link em verification.official_url).",
     "Augusto Lima foi sócio e diretor do Master (crédito consignado) e depois presidiu o Banco Voiter, renomeado Pleno, segundo a reportagem; as mensagens integram material reunido pela PF.",
     "Na proposta de delação rejeitada pela PGR e pela PF, Vorcaro alega que Augusto Lima, 'através dos caciques do PT da Bahia, se reuniu com João Vaccari Neto', e que pagamentos de cerca de R$ 30 milhões em espécie, 'por fora', teriam sido exigidos para um documentário no exterior sobre Lula, além de valores ao Instituto Lula. Em áudio citado pela reportagem — gravação de autenticidade não estabelecida —, Vorcaro diz: 'O Augusto adianta ali para o Okamotto do Instituto Lula…'. As autoridades descartaram o material por falta de provas.",
@@ -240,6 +252,13 @@
    ]
   },
   {
+   "id": "elmar-nascimento-daniel-vorcaro",
+   "messages": [
+    "Filho, ontem o senhor salvou a pátria!!",
+    "Segundo o UOL (22/10/2026), às 23h27 de 24/10/2024 — véspera do 2º turno das eleições municipais — um motorista de Vorcaro entregou um volume, não identificado pela reportagem, a uma pessoa indicada pelo deputado Elmar Nascimento em São Paulo; no dia seguinte, às 9h30, Elmar agradeceu (“Filho, ontem o senhor salvou a pátria!!”). A PF apura a entrega em período eleitoral; o conteúdo do volume segue sem identificação pública e não se afirma que continha dinheiro. A mesma reportagem descreve patrocínio de R$ 1 milhão ao Festival das Esmeraldas via Fabiano Zettel (ver conversa própria)."
+   ]
+  },
+  {
    "id": "elsinho-mouco-daniel-vorcaro",
    "messages": [
     "Assim que assinar o contrato e fizerem a transferência, me envia o comprovante. Vamos à luta!",
@@ -286,6 +305,9 @@
     "mas nao da pra deixar ele solo. Vc tem que ir pra contemporizar",
     "Que FDP!. Sicário tem os nomes e onde achar?",
     "acho que tem que ser os dois",
+    "Fabiano, quero te ajudar a realizar o festival das esmeraldas! Bora fazer 1m?",
+    "Estou dentro! Vou formalizar o contrato",
+    "Ancorado. Fecha com eles por favor e me cobra",
     "Zettel relata que o câmbio recusava a operação por cadastro e que 'as informações são meio estranhas…' — obstáculos cambiais descritos pela reportagem.",
     "Documento citado pela reportagem: PDF com comprovante de transferência de US$ 2 milhões da Entre Investimentos e Participações (de Antonio Carlos Freixo Júnior, o 'Mineiro') ao Havengate Development Fund LP (Texas/EUA, ligado ao advogado Paulo Calixto, aliado de Eduardo Bolsonaro, segundo a reportagem).",
     "A PF descreve combinação de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro envolvendo Vorcaro, Zettel e Mourão (fls. 48-50, figs. 56-58).",
@@ -507,9 +529,11 @@
     "Tem que pegar o Platô e moer esse Cappelli",
     "Vamo desancar esse desgraçado",
     "Na IstoÉ é que controlamos mais",
+    "Esse Nikolas eu banquei todos os voos dele",
     "A Foone, empresa de Carneiro, é sócia do PlatôBR e teve 49,86% da BJ Conteúdo (Brazil Journal), criada em 2023; Carneiro também era investidor das publicações IstoÉ e IstoÉ Dinheiro, controladas por Antônio Carlos Freixo Júnior, o 'Mineiro', apontado pela reportagem como operador financeiro de Vorcaro.",
     "Sobre a compra da Allure, a solução sugerida para incluir o 'Mineiro' foi 'fazer uma Foone 2 e pôr só o BJ lá', segundo a reportagem. Em abril/2025, quando o PlatôBR publicou notas negativas sobre o banco, Carneiro disse que pediria para tirar as reportagens do ar.",
-    "Segundo o UOL (15/10/2026, matéria sobre a demissão de Kachar), Vorcaro manifestou interesse em comprar espaço publicitário no Estadão e na Folha, mas comprou publicidade nos dois jornais através da Foone. Procurado sobre as mensagens e sua relação com PlatôBR e IstoÉ, Carneiro não se posicionou até a publicação."
+    "Segundo o UOL (15/10/2026, matéria sobre a demissão de Kachar), Vorcaro manifestou interesse em comprar espaço publicitário no Estadão e na Folha, mas comprou publicidade nos dois jornais através da Foone. Procurado sobre as mensagens e sua relação com PlatôBR e IstoÉ, Carneiro não se posicionou até a publicação.",
+    "Em comunicado editorial publicado em 22/10/2026 (“Um dia triste”), o Brazil Journal anuncia que Flávio Carneiro “decidiu se afastar da sociedade e de suas funções executivas na empresa” após a divulgação dos diálogos com Vorcaro, e afirma que “o nome do Brazil Journal foi usado indevidamente e de forma que coloca em risco a credibilidade do veículo”. Manifestação empresarial primária — não é documento oficial da PF nem conclusão judicial sobre responsabilidade individual."
    ]
   },
   {
@@ -612,6 +636,29 @@
     "Ao vivo são ainda mais lindas",
     "Guiga envia informações sobre obras como 'Ouro Preto' (Guignard) e 'Casamento na Roça' (Portinari) em negociação com Vorcaro.",
     "Após telefonema de 2 minutos, Guiga encaminha a Vorcaro o telefone do senador Jaques Wagner e lhe deseja sorte, segundo a reportagem."
+   ]
+  },
+  {
+   "id": "gusttavo-lima-daniel-vorcaro",
+   "messages": [
+    "mano, tá ae ?!",
+    "fala, irmão",
+    "obrigado pelo apoio",
+    "estamos juntos sempre! Bora pra guerra",
+    "Saudades de ti. Vamos [nos] encontrar para avançar nos temas",
+    "Uai, urgente, bebê. Cheguei, tô no Brasil, cheguei hoje. Saudades, cara.",
+    "vamos falar sobre o meio de pagamento? Operação Super BH",
+    "temos que andar rápido ou perdemos",
+    "vamos",
+    "Vamos distribuir as maquininhas em cada loja física. 23 bi ano que vem é o movimento",
+    "Vamos trabalhar, bb. Pelo amor de Deus. Focar",
+    "Bora. Amanhã alinhamos",
+    "Irmão, essas são as taxas do Super BH.",
+    "se conseguir cobrir o que for, seja 1%, tá fechado com a gente",
+    "Deve passar uns 20 bi no próximo ano",
+    "meio [de] pagamento. Bora explodir ele. Super BH",
+    "Você é foda. Que loucura. Vou ser seu ministro da Fazenda rsrs",
+    "A Agência Pública (21/10/2026) descreve proposta comercial para fornecimento de maquininhas de cartão à rede Super BH (mais de 300 lojas em MG e ES, do empresário Pedro Lourenço, amigo e padrinho de casamento do cantor), com projeção — não confirmada — de R$ 23 bilhões em transações por ano, valor coerente com o faturamento real da rede. Segundo a reportagem, inquéritos da PF e do BC suspeitam que Vorcaro usaria marcas do Grupo Entre (Entrepay, Acqio, Octa) para movimentar e lavar dinheiro; a matéria não confirma que o acordo saiu do papel, e as trocas seguiram até cerca de uma semana antes da primeira prisão de Vorcaro (novembro de 2025). Gusttavo Lima, a rede Super BH e a defesa de Vorcaro não comentaram até a publicação. Não confundir a projeção de transações com remuneração pessoal ou contrato executado."
    ]
   },
   {
@@ -760,12 +807,9 @@
     "Daniel, liga pro Olavo… O Pr vai te receber…",
     "já conversaram com PR e ele gostou da conversa!",
     "não esquece do Olavo. Ele vai te passar informações.",
-    "Estamos já há mais de 12 meses tentando uma boleta (…)",
     "Falhou de novo o negócio?",
     "Estamos já há mais de 12 meses tentando uma boleta (investimento). Não dá pra mobilizar a equipe…",
-    "Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho.",
     "Concordo!",
-    "Sexta que vem — não entrando — vida que segue.",
     "Cara, essa é a última chance. Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho…",
     "Sexta que vem — não entrando — vida que segue. Lá na frente bolamos outra coisa juntos",
     "Tenho uma estruturação para comprar suas 'LFs' (…) Consigo capitalizar através de fundos que tenho aqui",
@@ -773,7 +817,7 @@
     "Evoluiu. Mandando e-mail também. Do BB essa semana resolve. Semana que vem reunião lá.",
     "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!!",
     "Primeira reunião de Vorcaro com o ministro Alexandre Padilha no Planalto, com Olavo Noleto e Júlio Cezar, segundo a Veja; Padilha teria dito que tratar com Olavo era como tratar com ele (alegação negada pela defesa).",
-    "O Master entra na 'lista exaustiva' de instituições autorizadas a receber recursos de fundos de pensão e, no mesmo dia, Vorcaro paga R$ 500 mil de adiantamento a Júlio Cezar, segundo a reportagem.",
+    "O Master passa a constar da 'lista exaustiva' de instituições autorizadas a receber recursos de fundos de pensão e, no mesmo dia, Vorcaro paga R$ 500 mil de adiantamento a Júlio Cezar, segundo a reportagem. Ressalva: a página oficial da lista foi atualizada em 02/05/2024 e não comprova isoladamente a data individual de inclusão do Master — o registro se apoia na reportagem e na mensagem de 29/04/2024 ('Entramos na lista exaustiva. Resolvido', conversa Augusto Lima).",
     "A PF contabilizou mais de 450 mensagens e 180 telefonemas entre os dois, segundo a Veja; a meta relatada era captar R$ 10 bilhões em fundos de pensão de estatais, com 10% de propina. Acusados negam.",
     "Notas à reportagem: Lula afirma que 'jamais solicitou ou recebeu qualquer vantagem financeira nem autorizou terceiros a receber recursos de Vorcaro em seu nome'; Padilha nega relação com Vorcaro; Olavo Noleto nega qualquer relação com Vorcaro ou recebimento de recursos; a PGR registra que as tratativas de colaboração foram mediadas por advogados de Vorcaro, 'sem juízo nem recusas prévias'."
    ]
@@ -817,6 +861,13 @@
     "A SL Consulting, de Leonardo Serrano, cuidava da logística internacional: encomendava as garotas a promoters de cada cidade, reservava voos e hotéis e liberava dinheiro. As faturas (21 localizadas pelo UOL, de abril/2024 a março/2025, somando cerca de US$ 70 milhões) eram emitidas para a Moriah Asset, gestora de Belo Horizonte, como 'orçamento antecipado' para 'eventos, hospitalidade, hospedagem e fretamentos', e Vorcaro as repassava ao financeiro do Master. Despesas da 'turma do Diogo': faturas de R$ 350 mil (setembro/2024) e R$ 260 mil (outubro/2024) autorizadas por Leo.",
     "Em junho/2024, Leo propôs liberar 3 mil euros para compras a cada uma das oito mulheres de uma festa na França; Vorcaro autorizou 4 mil. Em fevereiro/2025, para o Carnaval, Diogo pediu 'umas 15 florzinhas de fora' para as festas no Rio. Em outra passagem, Leo disse que o promoter de Londres também trabalhava para festas de Leonardo DiCaprio.",
     "Leonardo Serrano é um dos principais investigados pela PF no inquérito; não respondeu aos contatos do UOL."
+   ]
+  },
+  {
+   "id": "leonardo-valverde-daniel-vorcaro",
+   "messages": [
+    "Segue as empresas!",
+    "Segundo o UOL (21/10/2026), Leonardo Valverde, ex-presidente do BRB, enviou a Vorcaro em outubro de 2024 propostas de várias empresas para o Master, no contexto da articulação da operação BRB-Master que a reportagem atribui a Ibaneis Rocha; a defesa de Ibaneis nega irregularidades e classifica a operação como ato regular de governo. A reportagem não registra resposta de Vorcaro às propostas nem localiza as empresas em contratos; alegações de proposta de colaboração premiada de Vorcaro citadas na matéria não são tratadas como fatos comprovados. Não há conversa individual de Ibaneis Rocha com Vorcaro registrada: a única menção direta publicada é um agradecimento por “excelente almoço” (19/09/2024) em fala indireta, insuficiente para registro literal."
    ]
   },
   {
@@ -1008,6 +1059,16 @@
    ]
   },
   {
+   "id": "netinho-lins-daniel-vorcaro",
+   "messages": [
+    "Obrigado, chefe. Estamos nos finalmentes para o nosso festival",
+    "Prepara o coração que o festival vai ser gigante",
+    "Rapaiz... de novo?",
+    "chegou",
+    "No dia 10/10/2024, R$ 2 milhões saíram da conta Master Distributed Orc Cloud, do Master, conforme apuração da PF reportada pelo UOL, um dia após o Festival das Esmeraldas ser noticiado e horas depois das mensagens de Netinho Lins a Vorcaro; a reportagem não estabelece vínculo direto entre o repasse e o festival nem identifica o conteúdo de entregas associadas. O patrocínio de R$ 1 milhão ao festival foi tratado com Fabiano Zettel em setembro de 2025 (ver conversa própria)."
+   ]
+  },
+  {
    "id": "nikolas-ferreira-daniel-vorcaro",
    "messages": [
     "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo que o senhor, assim, pode o ajudar a resolver o problema do ativo dele, né? O que ele tá tentando resolver com a Justiça, com o TSE… Porque assim, ele já ganhou um processo na eleição, na Justiça Eleitoral, e aí assim, esse ativo ficou retido, né, e tá travado. Ele tem um processo no Tribunal Superior Eleitoral e, se for possível o senhor interceder por ele, dar um apoio, ajudar a resolver, ele vai ficar muito grato. Não é nem uma coisa assim, vamos dizer, ilegal, se for pra fazer algo que não é correto, eu não estaria te pedindo, lógico. Então, o que ele precisa é de um apoio, alguém que conhece as pessoas lá, que possa acelerar, que possa, de fato, dar uma luz nesse processo pra ele, né? E é isso, se for possível o senhor ajudar, ele vai ficar eternamente grato, vai ficar grato comigo também porque eu tô intermediando aqui.",
@@ -1064,6 +1125,20 @@
     "Nada. Isso não é trabalho. Eu sou resolvedor de problemas rsrs",
     "Estou tratando de carteira de outro lado",
     "Estou com você. Continuo no deal mode. Estou virando noite e tentando resolver",
+    "Estou já estafado com essa turma terceira que vendeu as carteiras. Acabei de xingar o cara de todos os nomes",
+    "Estamos com risco de pôr tudo a perder porque não cumprem as coisas",
+    "Situação tá bem crítica",
+    "Precisei me comprometer que não faríamos mais operações sem isso",
+    "Garanti que consigo fazer R$ 750 mm na segunda, se recebermos os lastros. Falei com o Paulo e o Ailton",
+    "Daniel, esses contratos existem?",
+    "Sim, tava faltando cláusula mandato",
+    "Preciso de sua garantia que amanhã tenhamos tudo na B3",
+    "Vc tem minha palavra",
+    "Confio em você",
+    "Essa de hoje você salvou a vida literalmente",
+    "Muitos dos pontos que combinamos não foram cumpridos",
+    "O macro do negócio pra mim sempre foi alugar carteira, segurar recurso em conta e depois zerar na data aprovação",
+    "Nada disso será problema para o BRB",
     "Paulo Henrique comunica a Vorcaro que o NPL fora fechado naquele dia (fl. 7).",
     "Paulo Henrique encaminha e-mail institucional e modelo de ofício de compromisso de investimento em ações do BRB, após a apresentação inicial de Vorcaro (fl. 5, fig. 2).",
     "Vorcaro encaminha o contato de Alberto Felix para tratar aquisição de carteira e consignado no banco — ver conversa com Alberto Felix neste arquivo (fl. 7, fig. 4).",
@@ -1071,7 +1146,8 @@
     "3º diálogo da sequência: após decepção de Paulo Henrique por não visitar o apartamento, Vorcaro escreve à corretora (nome preservado pela reportagem e por este site): 'Preciso dele feliz [nome preservado]. Reverte isso aí'.",
     "No 2º diálogo, após a pergunta sobre o empreendimento, Vorcaro menciona 'um gargalo de 300mm na quarta' e o desejo de 'bolar contigo' o que poderiam fazer, segundo a reportagem.",
     "No 7º diálogo, Vorcaro pergunta sobre o 'interesse no deal', fala em 'um negócio de continuidade' e em 'centenas de ajustes ao longo da trajetória', segundo a reportagem.",
-    "As mensagens foram reproduzidas pela coluna como citadas na decisão do ministro André Mendonça (STF) que autorizou a prisão de Paulo Henrique, ex-presidente do BRB, na 4ª fase da Operação Compliance Zero (16/04/2026). Teses da investigação ali descritas — a serem comprovadas: seis imóveis avaliados em R$ 146,5 milhões teriam sido ofertados a Paulo Henrique como contrapartiga por atuar como 'mandatário' de Vorcaro no BRB, que comprava carteiras de crédito do Master estimadas em R$ 12,2 bilhões; o pagamento não teria sido concluído porque Vorcaro, ciente da investigação, ordenou ao advogado Daniel Monteiro não registrar as escrituras. A coluna não reproduz manifestação de defesa de Vorcaro, Paulo Henrique ou Monteiro."
+    "As mensagens foram reproduzidas pela coluna como citadas na decisão do ministro André Mendonça (STF) que autorizou a prisão de Paulo Henrique, ex-presidente do BRB, na 4ª fase da Operação Compliance Zero (16/04/2026). Teses da investigação ali descritas — a serem comprovadas: seis imóveis avaliados em R$ 146,5 milhões teriam sido ofertados a Paulo Henrique como contrapartiga por atuar como 'mandatário' de Vorcaro no BRB, que comprava carteiras de crédito do Master estimadas em R$ 12,2 bilhões; o pagamento não teria sido concluído porque Vorcaro, ciente da investigação, ordenou ao advogado Daniel Monteiro não registrar as escrituras. A coluna não reproduz manifestação de defesa de Vorcaro, Paulo Henrique ou Monteiro.",
+    "Compra de carteiras de crédito da Tirreno pelo BRB em 05/05/2025 por R$ 750 milhões (preço fechado em R$ 749.987.014,10). Após o BC exigir documentação, a PF aponta como tese que um contrato de cessão datado de dezembro de 2024 teria sido produzido em maio de 2025 com data retroativa — “contrato orcestrado [sic] pela própria empresa do Grupo Master para aparentar lastro”, segundo o inquérito reportado pelo UOL. A defesa de Vorcaro afirma à Justiça que o BRB sabia desde abril de 2025 da origem das carteiras, que as operações com o Master representavam fração da carteira do banco e que não houve prejuízo — versão contestada pela PF. Trata-se de alegações de partes em investigação em curso, sem decisão judicial de mérito reportada."
    ]
   },
   {
@@ -1250,12 +1326,30 @@
     "Nao marca mais a reuniao pq agora mudei o roteiro",
     "Tá travado em vc. Eu fiz e vcs não passaram quem vai no contrato",
     "Lippi acaba de dizer que ele quem está travando",
+    "Estive longamente com o presidente Lula ontem. Você vai gostar… Muito importante para você. Muito",
+    "Você falou de mim?",
+    "Só Deus. Claro",
+    "Tudo acertado aqui. Preciso das informações. Urgente. Quando você pode encontrar o presidente?",
+    "Tudo ajustado",
+    "Tua reunião será na quarta, às 11h, mas deixa o Guido te contar.",
+    "preciso alinhar com você tua fala",
+    "Dica: abra o coração. Fale, ainda que elegantemente, mal do cara que quer te comprar.",
+    "O presidente está um pouco impaciente hoje.",
+    "Sei que começou agora. Boa sorte",
+    "Parabéns. Soube que foi muito bom. Me dizem que vocês são muito extravagantes",
+    "Isso que ele não sabe das quengas",
+    "Kkk… Falou de festa na Grécia. Nem dei ainda, po",
+    "Ele quer participar…. Sem a Janja",
+    "Ele agradeceu mais uma vez o whisky e mandou um abraço",
+    "Outros detalhes eu conto pessoalmente",
+    "❤️",
     "Guido Mantega, contratado por Vorcaro por R$ 14 milhões como consultor para temas do governo federal, media o encontro entre Vorcaro e o presidente Lula em dezembro de 2024; o Planalto afirma que esse foi o único encontro entre os dois, segundo a reportagem.",
     "Mensagens de Warde em março de 2025 citam possível audiência de Vorcaro com Lula com presença do senador Jaques Wagner (PT-BA), investigado na Operação Compliance Zero sob suspeita de receber benefícios para favorecer o Master no Congresso; o Planalto nega encontros além do de dezembro de 2024.",
     "No dia da prisão de Vorcaro, Warde acompanha a protocolização da petição e o encaminhamento das reportagens, segundo o relatório (fls. 112-119).",
     "Roberta Rangel, então mulher de Toffoli, defendia empresa que cobrava dívida milionária da família Vorcaro; havia sido sócia de Warde até 2022 e, segundo Vorcaro na conversa, seguia remunerada pelo Master. Os dois se separaram em 2025.",
     "Início de 2024: Toffoli manifesta interesse em recomprar o fundo Arleen e retomar participação no resort Tayayá — vendida por R$ 20 milhões a fundo ligado a Vorcaro e Zettel —, condicionada a aporte de R$ 15 milhões. A negociação ganhou urgência quando Vorcaro soube de risco de mudança de posição de Toffoli em processo do Master no STF. Toffoli indicou Alberto Leite como comprador; o patrimônio do fundo foi transferido para empresa nas Ilhas Virgens Britânicas. Em nota, o gabinete de Toffoli afirma que as operações foram declaradas e por valores de mercado; o escritório de Warde diz que saiu da negociação antes da conclusão.",
-    "No fim de 2025, Vorcaro pergunta a Warde se o ministro Alexandre de Moraes teria contido atos que travavam a compra do Master pelo BRB (58% do capital) e oferece alterar viagem internacional para se encontrar com o ministro; pedia ainda que a PF fosse orientada a evitar que servidores de escalão inferior prejudicassem o banco, segundo a reportagem. O BC rejeitou a venda ao BRB em setembro de 2025 e o Master foi liquidado em novembro de 2025, um dia após a primeira prisão de Vorcaro."
+    "No fim de 2025, Vorcaro pergunta a Warde se o ministro Alexandre de Moraes teria contido atos que travavam a compra do Master pelo BRB (58% do capital) e oferece alterar viagem internacional para se encontrar com o ministro; pedia ainda que a PF fosse orientada a evitar que servidores de escalão inferior prejudicassem o banco, segundo a reportagem. O BC rejeitou a venda ao BRB em setembro de 2025 e o Master foi liquidado em novembro de 2025, um dia após a primeira prisão de Vorcaro.",
+    "Vorcaro pede a um funcionário não identificado nas reportagens que localize em Londres uma garrafa de Macallan 1945 para dar de presente ao presidente Lula (29/10/2024); a cotação divulgada superava € 80 mil e Vorcaro a aprovou (“Tá ótimo”). O UOL informa que a garrafa chegaria ao Brasil em 31/10/2024. Não há evidência publicada da entrega ou do recebimento: Lula declarou não se lembrar de ter recebido a bebida (“Se ele me deu uísque, já bebi”). As mensagens com o funcionário não são registradas individualmente por falta de identificação documental do interlocutor; detalhes logísticos privados (endereço e deslocamento) não são reproduzidos."
    ]
   },
   {

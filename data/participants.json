@@ -865,5 +865,65 @@
   "role": "Consultor; então assessor de Vorcaro",
   "aliases": [],
   "summary": "Consultor de Vorcaro em 2024; apresentou o banqueiro a Lilian Tahan e sugeriu o contato com Luiz Estevão, conforme mensagem publicada pelo UOL (15/10/2026). Perfil resumido exclusivamente a partir das reportagens linkadas; não constitui acusação nem conclusão sobre responsabilidade individual."
+ },
+ {
+  "id": "gusttavo-lima",
+  "name": "Gusttavo Lima",
+  "role": "Cantor",
+  "aliases": [
+   "Gusttavo"
+  ],
+  "summary": "Cantor. Em mensagens de 2024–2025 divulgadas pela Agência Pública, trata com Vorcaro proposta de fornecimento de maquininhas de cartão à rede Super BH, com projeção — não confirmada — de movimentar R$ 23 bilhões em um ano; a defesa de Vorcaro não comentou e o cantor não se manifestou até a publicação. Não há registro de contrato executado. Perfil resumido exclusivamente a partir das fontes linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "Agência Pública — reportagem de 21/10/2026",
+    "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+   }
+  ]
+ },
+ {
+  "id": "elmar-nascimento",
+  "name": "Elmar Nascimento",
+  "role": "Deputado federal (União-BA) à época dos diálogos",
+  "aliases": [
+   "Elmar"
+  ],
+  "summary": "Deputado federal (União-BA). Em outubro de 2024, um motorista de Vorcaro entregou um volume, a pessoa indicada pelo deputado, às 23h27 de 24/10/2024, segundo reportagem do UOL; o conteúdo do volume não foi identificado. No dia seguinte, Elmar agradeceu: “Filho, ontem o senhor salvou a pátria!!”. A reportagem não estabelece o conteúdo da entrega. Perfil resumido exclusivamente a partir das fontes linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "UOL — coluna Natália Portinari, 22/10/2026",
+    "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+   }
+  ]
+ },
+ {
+  "id": "netinho-lins",
+  "name": "Netinho Lins",
+  "role": "Apresentador e empresário de eventos",
+  "aliases": [
+   "Netinho"
+  ],
+  "summary": "Apresentador e empresário de eventos. Organizava, com José Maria Meira (Zé Maria), o Festival das Esmeraldas, em Angatuba (SP), patrocinado por R$ 1 milhão via Zettel em setembro de 2025, segundo o UOL. Em outubro de 2024, agradeceu a Vorcaro apoios ao festival; R$ 2 milhões saíram de conta do Master no dia 10/10/2024 conforme apuração da PF reportada, sem vínculo direto estabelecido pela reportagem. Perfil resumido exclusivamente a partir das fontes linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "UOL — coluna Natália Portinari, 22/10/2026",
+    "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+   }
+  ]
+ },
+ {
+  "id": "leonardo-valverde",
+  "name": "Leonardo Valverde",
+  "role": "Ex-presidente do BRB (Banco de Brasília)",
+  "aliases": [
+   "Valverde"
+  ],
+  "summary": "Ex-presidente do BRB (Banco de Brasília). Em outubro de 2024, após deixar a presidência do banco, enviou a Vorcaro propostas de empresas para o Master (“Segue as empresas!”), conforme reportagem do UOL; a reportagem não registra resposta de Vorcaro na conversa divulgada. Perfil resumido exclusivamente a partir das fontes linkadas; não constitui acusação nem conclusão sobre responsabilidade individual.",
+  "profile_sources": [
+   {
+    "label": "UOL — coluna Natália Portinari, 21/10/2026",
+    "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/21/ibaneis-pilotou-operacao-brb-master-e-vorcaro-fala-em-propina-de-r-80-mi.htm"
+   }
+  ]
  }
 ]

@@ -789,6 +789,40 @@
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00023",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse Nikolas eu banquei todos os voos dele",
+   "editorial_note": "Reclamação sobre os posts de Nikolas Ferreira em troca com Carneiro noticiada pela Folha (21/10/2026), em reportagem que retoma divulgação anterior da coluna ICL; a reportagem não informa a data da mensagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [
@@ -798,9 +832,9 @@
    "content": "A Foone, empresa de Carneiro, é sócia do PlatôBR e teve 49,86% da BJ Conteúdo (Brazil Journal), criada em 2023; Carneiro também era investidor das publicações IstoÉ e IstoÉ Dinheiro, controladas por Antônio Carlos Freixo Júnior, o 'Mineiro', apontado pela reportagem como operador financeiro de Vorcaro.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -808,8 +842,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-16"
    },
    "sources": {
     "primary": null,
@@ -822,7 +855,8 @@
     ]
    },
    "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": "[Proveniência revisada 2026-10-23: evento de origem jornalística com fonte primária não localizada — nível secondary_source.]"
   },
   {
    "id": "e-00002",
@@ -830,9 +864,9 @@
    "content": "Sobre a compra da Allure, a solução sugerida para incluir o 'Mineiro' foi 'fazer uma Foone 2 e pôr só o BJ lá', segundo a reportagem. Em abril/2025, quando o PlatôBR publicou notas negativas sobre o banco, Carneiro disse que pediria para tirar as reportagens do ar.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -840,8 +874,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-16"
    },
    "sources": {
     "primary": null,
@@ -854,7 +887,8 @@
     ]
    },
    "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": "[Proveniência revisada 2026-10-23: evento de origem jornalística com fonte primária não localizada — nível secondary_source.]"
   },
   {
    "id": "e-00003",
@@ -862,9 +896,9 @@
    "content": "Segundo o UOL (15/10/2026, matéria sobre a demissão de Kachar), Vorcaro manifestou interesse em comprar espaço publicitário no Estadão e na Folha, mas comprou publicidade nos dois jornais através da Foone. Procurado sobre as mensagens e sua relação com PlatôBR e IstoÉ, Carneiro não se posicionou até a publicação.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -872,8 +906,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-16"
    },
    "sources": {
     "primary": null,
@@ -886,7 +919,45 @@
     ]
    },
    "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
+   "added_in": "ingest-press4-20261016",
+   "editorial_note": "[Proveniência revisada 2026-10-23: evento de origem jornalística com fonte primária não localizada — nível secondary_source.]"
+  },
+  {
+   "id": "e-00004",
+   "date": "2026-10-22",
+   "timestamp_precision": "date",
+   "content": "Em comunicado editorial publicado em 22/10/2026 (“Um dia triste”), o Brazil Journal anuncia que Flávio Carneiro “decidiu se afastar da sociedade e de suas funções executivas na empresa” após a divulgação dos diálogos com Vorcaro, e afirma que “o nome do Brazil Journal foi usado indevidamente e de forma que coloca em risco a credibilidade do veículo”. Manifestação empresarial primária — não é documento oficial da PF nem conclusão judicial sobre responsabilidade individual.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Brazil Journal — editorial “Um dia triste”",
+      "date": "2026-10-22",
+      "url": "https://braziljournal.com/editorial-um-dia-triste"
+     },
+     {
+      "publication": "Folha — C-Level",
+      "date": "2026-10-23",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/brazil-journal-anuncia-afastamento-do-socio-flavio-carneiro-apos-revelacao-de-dialogos-com-vorcaro.shtml"
+     }
+    ]
+   },
+   "source_ref": "Comunicado do Brazil Journal (2026-10-22); Folha — C-Level (2026-10-23)",
+   "added_in": "ingest-press8-20261023"
   }
  ]
 }

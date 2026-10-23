@@ -549,6 +549,288 @@
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "audit-fix2-20261016"
+  },
+  {
+   "id": "m-00014",
+   "date": "2024-04",
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu me dou muito bem com ele [Nikolas]. Ele não citaria",
+   "literal_brackets": true,
+   "editorial_note": "Final de abril de 2024: Ana Matos alertou Vorcaro de que Nikolas Ferreira compartilhara reportagem do O Globo sobre o Master; Vorcaro pergunta se a publicação “cita o banco” e, informado de que não, avalia que Nikolas não o citaria. Colchetes conforme a reportagem. Nikolas e Marçal não responderam à Folha.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00015",
+   "date": "2024-09-09",
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Está alinhado com vc consultoria estratégica Felipe Nunes, empresa Quaest, 150 mil mês? 12 meses",
+   "editorial_note": "Sobre contratação de consultoria estratégica associada a Felipe Nunes, então CEO da Quaest, no âmbito do Master (ver evento de setembro de 2024); a reportagem não informa quantas parcelas foram efetivamente pagas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-21",
+      "url": "https://www.metropoles.com/brasil/quaest-consultoria-master"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00016",
+   "date": "2024-09-09",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que Augusto que fechou […] Alinha c ele",
+   "literal_brackets": true,
+   "editorial_note": "Minutos depois da mensagem anterior, segundo a reportagem; “Augusto” refere-se a Augusto Lima. Corte da reportagem indicado por […].",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-21",
+      "url": "https://www.metropoles.com/brasil/quaest-consultoria-master"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00017",
+   "date": "2024-09-09",
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim, foi ele. Como ele está alinhado. Vou seguir então",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-21",
+      "url": "https://www.metropoles.com/brasil/quaest-consultoria-master"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00018",
+   "date": "2025-04-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acabei de ver que Pablo Marçal postou coisa do banco. Vou precisar que você entre no circuito pra mim delicadamente",
+   "editorial_note": "Sobre posts de Pablo Marçal; “entrar no circuito” refere-se a abordagem ao influenciador, segundo a reportagem. Não há evidência de que Marçal participou de conversa com Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-04-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tenta fazer ele falar de concentração bancária e não especificamente do banco",
+   "editorial_note": "Cerca de uma hora depois, na sequência do mesmo dia, após mensagem apagada e áudio ouvido por Vorcaro; a reportagem ressalva não ser possível afirmar que este recado se dirige a Marçal.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00020",
+   "date": "2025-09",
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fala com ele pra mim",
+   "editorial_note": "Setembro de 2025, sobre novo post de Pablo Marçal, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00021",
+   "date": "2025-09",
+   "timestamp_precision": "month",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deus amado. Eu ligo pra ele",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [
@@ -579,6 +861,38 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00002",
+   "date": "2024-09",
+   "timestamp_precision": "month",
+   "content": "A reportagem do Metrópoles (21/10/2026) descreve consultoria estratégica de R$ 150 mil mensais (R$ 1,8 milhão em 12 meses) associada a Felipe Nunes, então CEO da Quaest, contratada no âmbito do Master; não foi divulgado quantas parcelas foram quitadas. Felipe Nunes nega relação com Vorcaro e afirma que o trabalho foi “estritamente técnico”, dentre os prestados a 53 instituições em 2024, iniciado antes de questionamentos públicos ao banco e não renovado antes da liquidação.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles",
+      "date": "2026-10-21",
+      "url": "https://www.metropoles.com/brasil/quaest-consultoria-master"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
   }
  ]
 }

@@ -126,8 +126,8 @@
    "timestamp_precision": "month",
    "sender_id": "acm-neto",
    "content_kind": "verbatim_excerpt",
-   "content": "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois a bolsa de minha esposa rompeu e meu filho que iria nascer na sexta acabou nascendo nessa madrugada.",
-   "editorial_note": "Acrescentou, em fala indireta, que não poderia viajar a São Paulo e que um interlocutor cuidaria de remarcar ou realizar a reunião sem ele, segundo a reportagem.",
+   "content": "Caro amigo, qd puder, pfv, me ligue. Tentei falar contigo, pois [trecho suprimido — informações familiares]",
+   "editorial_note": "[Privacidade 2026-10-23: suprimidos detalhes de saúde da esposa e do nascimento do filho, sem interesse público para o contexto documental; constam da reportagem fonte.] Acrescentou, em fala indireta, que não poderia viajar a São Paulo e que um interlocutor cuidaria de remarcar ou realizar a reunião sem ele, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -153,7 +153,8 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Revista Oeste (2026-10-02)",
-   "added_in": "ingest-press3-20261016"
+   "added_in": "ingest-press3-20261016",
+   "literal_brackets": true
   },
   {
    "id": "m-00005",
@@ -552,12 +553,12 @@
    "date": "2024-10-31",
    "time": null,
    "timestamp_precision": "date",
-   "content": "Dia do 2º turno das eleições municipais: nas mensagens, ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem.",
+   "content": "Quatro dias após o 2º turno das eleições municipais (votado em 27/10/2024): nas mensagens, ACM Neto celebra o resultado político e combina para a terça seguinte encontro em Brasília com Rueda, com Vorcaro presente, segundo a reportagem.",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -565,8 +566,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-23"
    },
    "sources": {
     "primary": null,
@@ -579,7 +579,8 @@
     ]
    },
    "source_ref": "Relato de Revista Oeste (2026-10-02)",
-   "added_in": "ingest-press3-20261016"
+   "added_in": "ingest-press3-20261016",
+   "editorial_note": "[Corrigido 2026-10-23: a versão anterior chamava 31/10/2024 de dia do 2º turno — a votação ocorreu em 27/10/2024; mantida a data original do evento, referente às mensagens. Proveniência revisada: evento de origem jornalística com fonte primária não localizada — nível secondary_source.]"
   },
   {
    "id": "e-00004",

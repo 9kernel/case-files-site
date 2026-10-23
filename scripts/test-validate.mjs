@@ -246,6 +246,22 @@ ok = runCase('evento com id fora do padrão', (t) => { t.timeline_events[0].id =
 ok = runCase('evento com event_kind inválido', (t) => { t.timeline_events[0].event_kind = 'palpite'; }, ['E_BAD_EVENT_KIND']) && ok;
 ok = runCase('evento com content vazio', (t) => { t.timeline_events[0].content = '  '; }, ['E_BAD_CONTENT']) && ok;
 
+/* regressão ingest-press8-20261023: eventos editoriais seguem E_INV_BASIS —
+   evento de contexto com origem apenas jornalística deve ser secondary_source,
+   nunca public_investigation sem procedimento público identificável */
+ok = runCase('evento editorial public_investigation sem procedimento', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal' };
+}, ['E_INV_BASIS']) && ok;
+ok = runCase('evento editorial public_investigation com proceeding declarado passa', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal', proceeding: 'Operação Compliance Zero — PF/STF' };
+}, []) && ok;
+ok = runCase('evento editorial public_investigation com referência documental passa', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal', case: 'INQ 5026' };
+}, []) && ok;
+ok = runCase('evento editorial secondary_source sem source_ref', (t) => {
+  delete t.timeline_events[0].source_ref;
+}, ['E_MISSING_SOURCE_REF']) && ok;
+
 /* mídia: cadeia de proveniência (§35) */
 const media = (over = {}) => ({ status: 'media_reference_only', ...over });
 ok = runCase('official_media sem fonte oficial', (t) => {

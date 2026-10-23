@@ -1673,6 +1673,492 @@
    },
    "source_ref": "Mensagem divulgada por Metrópoles — coluna Grande Angular (2026-04-16)",
    "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "m-00046",
+   "date": "2025-04-30",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estou já estafado com essa turma terceira que vendeu as carteiras. Acabei de xingar o cara de todos os nomes",
+   "editorial_note": "Sobre fornecedores das carteiras de crédito adquiridas pelo BRB, segundo a reportagem. Citação literal conforme transcrita.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00047",
+   "date": "2025-04-30",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos com risco de pôr tudo a perder porque não cumprem as coisas",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00048",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Situação tá bem crítica",
+   "editorial_note": "Na sexta-feira anterior à compra de 05/05/2025, durante o fim de semana de negociação; data exata não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00049",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Precisei me comprometer que não faríamos mais operações sem isso",
+   "editorial_note": "Sobre a exigência de documentação dos créditos feita a Vorcaro antes da compra de 05/05/2025, segundo a reportagem; data exata não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00050",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Garanti que consigo fazer R$ 750 mm na segunda, se recebermos os lastros. Falei com o Paulo e o Ailton",
+   "editorial_note": "Na sexta-feira à noite, na negociação da compra de 05/05/2025; data exata não divulgada. Referências a Paulo Sérgio Neves de Souza (então diretor de Supervisão do Banco Central) e Ailton de Aquino (diretor de Fiscalização), conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00051",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Daniel, esses contratos existem?",
+   "editorial_note": "Na manhã da compra das carteiras da Tirreno (R$ 750 milhões; preço fechado em R$ 749.987.014,10), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00052",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim, tava faltando cláusula mandato",
+   "editorial_note": "Resposta na mesma manhã, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00053",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Preciso de sua garantia que amanhã tenhamos tudo na B3",
+   "editorial_note": "No fim da tarde, após o pagamento, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00054",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vc tem minha palavra",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00055",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Confio em você",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00056",
+   "date": "2025-05-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Essa de hoje você salvou a vida literalmente",
+   "editorial_note": "Após a conclusão do pagamento, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00057",
+   "date": null,
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muitos dos pontos que combinamos não foram cumpridos",
+   "editorial_note": "Cerca de uma semana após a compra de 05/05/2025, em lista de pendências enviada a Vorcaro; data exata não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00058",
+   "date": "2025-05-22",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O macro do negócio pra mim sempre foi alugar carteira, segurar recurso em conta e depois zerar na data aprovação",
+   "editorial_note": "Em 22/05/2025, sobre a estrutura das carteiras; segundo a reportagem, a defesa de Vorcaro alega que ele tentou “ser claro desde o começo” sobre carteiras “de certa forma alugadas”. Palavra do original mantida (“aprovação” sem acento e sem preposição, conforme publicado).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00059",
+   "date": "2025-05-22",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nada disso será problema para o BRB",
+   "editorial_note": "Em resposta a Costa, que apontou risco desconhecido das carteiras e prêmio não retido como liquidez; segundo a reportagem, Costa disse que o problema não era “o aluguel em si da carteira”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [
@@ -1915,6 +2401,38 @@
    },
    "source_ref": "Relato de Metrópoles — coluna Grande Angular (2026-04-16)",
    "added_in": "audit-fix-20261016"
+  },
+  {
+   "id": "e-00009",
+   "date": "2025-05",
+   "timestamp_precision": "month",
+   "content": "Compra de carteiras de crédito da Tirreno pelo BRB em 05/05/2025 por R$ 750 milhões (preço fechado em R$ 749.987.014,10). Após o BC exigir documentação, a PF aponta como tese que um contrato de cessão datado de dezembro de 2024 teria sido produzido em maio de 2025 com data retroativa — “contrato orcestrado [sic] pela própria empresa do Grupo Master para aparentar lastro”, segundo o inquérito reportado pelo UOL. A defesa de Vorcaro afirma à Justiça que o BRB sabia desde abril de 2025 da origem das carteiras, que as operações com o Master representavam fração da carteira do banco e que não houve prejuízo — versão contestada pela PF. Trata-se de alegações de partes em investigação em curso, sem decisão judicial de mérito reportada.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/vorcaro-diz-a-justica-que-brb-sabia-da-tirreno-e-seguiu-comprando-carteiras.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
   }
  ]
 }
