@@ -278,12 +278,13 @@
   overflow-x: hidden;
   padding: 14px 0 20px;
   background-color: var(--wa-chat-bg);
-  /* papel de parede de "doodles" (public/media/backgroud/bg.jpg), como no WhatsApp;
-     tile reduzido à metade da largura nativa (736px -> 368px) para compor em
-     colunas lado a lado e linhas, formando padrão mais denso */
-  background-image: url("../public/media/backgroud/bg.jpg");
+  /* papel de parede de "doodles" como no WhatsApp: overlays WebP com
+     transparência (traços sem fundo) repetidos sobre a cor sólida do chat.
+     bg2 = traços beges (tema claro, padrão); bg = traços claros (tema escuro);
+     bg1 = traços escuros (variante neutra) — ver @media abaixo */
+  background-image: url("../public/media/backgroud/bg2.webp");
   background-repeat: repeat;
-  background-size: 368px auto;
+  background-size: 270px auto;
   scrollbar-width: thin;
   scrollbar-color: rgba(11, 20, 26, 0.22) transparent;
 }
@@ -294,6 +295,17 @@
   border-radius: 3px;
 }
 .chat-scroll::-webkit-scrollbar-track { background: transparent; }
+
+/* Tema escuro do papel de parede (mesma técnica do WhatsApp): a cor sólida
+   do chat escurece e o overlay troca para os doodles de traços claros
+   (bg.webp). Só a área do chat acompanha o sistema; o resto da interface
+   segue clara. bg1.webp (traços escuros) é a variante neutra do acervo. */
+@media (prefers-color-scheme: dark) {
+  .chat-scroll {
+    background-color: #0b141a;
+    background-image: url("../public/media/backgroud/bg.webp");
+  }
+}
 
 .sentinel {
   height: 1px;
