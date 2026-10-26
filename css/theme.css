@@ -9,6 +9,13 @@
      NÃO usar em texto: #00A884 reprova contraste AA sobre branco */
   --wa-green: #00A884;
   --wa-chat-bg: #EFE1D8;
+  /* Papel de parede de doodles (técnica WhatsApp): UM overlay WebP com
+     transparência sob um véu que fixa a intensidade dos traços no tom do
+     tema claro. Usado pelo chat (.chat-scroll) e pela home vazia
+     (.home-empty); URL relativa a este stylesheet. */
+  --wa-wallpaper:
+    linear-gradient(rgba(239, 225, 216, 0.7), rgba(239, 225, 216, 0.7)),
+    url("../public/media/backgroud/bg2.webp");
   --wa-bubble-out: #D9FDD3;
   --wa-bubble-in: #FFFFFF;
 

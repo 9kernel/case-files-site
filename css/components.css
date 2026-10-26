@@ -280,12 +280,10 @@
   background-color: var(--wa-chat-bg);
   /* papel de parede de "doodles" como no WhatsApp: UM overlay WebP com
      transparência (bg2.webp, traços beges) repetido sobre a cor sólida —
-     overlays nunca são empilhados. O véu semitransparente da primeira camada
-     reduz a intensidade dos traços para o tom autêntico do WhatsApp claro
-     (referência medida: base #EFE1D8, traços ~#D9C8BE, sem véu ~#AB8367). */
-  background-image:
-    linear-gradient(rgba(239, 225, 216, 0.7), rgba(239, 225, 216, 0.7)),
-    url("../public/media/backgroud/bg2.webp");
+     overlays nunca são empilhados. A pilha completa (véu + overlay) mora
+     em --wa-wallpaper (theme.css), calibrada para o tom autêntico do
+     WhatsApp claro (base #EFE1D8, traços ~#D9C8BE). */
+  background-image: var(--wa-wallpaper);
   background-repeat: repeat;
   background-size: 270px auto;
   scrollbar-width: thin;
@@ -1604,6 +1602,25 @@ a.doc-card:hover { background: #fff; }
   text-align: center;
   color: var(--ink-3, #8696A0);
   border-left: 1px solid var(--line, #E4E9EC);
+  /* mesmo papel de parede do chat (pilha em --wa-wallpaper, theme.css) */
+  background-color: var(--wa-chat-bg);
+  background-image: var(--wa-wallpaper);
+  background-repeat: repeat;
+  background-size: 270px auto;
+}
+
+/* cartão da apresentação: os elementos não flutuam sobre o padrão —
+   mesmo tratamento dos balões (painel claro + sombra suave) */
+.home-empty-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  padding: 26px 30px;
+  max-width: 380px;
+  background: var(--panel, #FFFFFF);
+  border-radius: var(--radius, 8px);
+  box-shadow: var(--shadow-bubble);
 }
 
 .home-empty svg { color: #C9D4DA; }
