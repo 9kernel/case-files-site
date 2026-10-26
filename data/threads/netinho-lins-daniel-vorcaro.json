@@ -13,12 +13,10 @@
  "messages": [
   {
    "id": "m-00001",
-   "date": "2024-10-10",
-   "timestamp_precision": "date",
-   "sender_id": "netinho-lins",
+   "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Obrigado, chefe. Estamos nos finalmentes para o nosso festival",
-   "editorial_note": "Sobre o Festival das Esmeraldas, que ocorreria em Angatuba (SP), organizado por Netinho com Zé Maria, segundo a reportagem.",
+   "content": "Festa lá do Elmar. Falou pra ajudar. Como faço",
+   "editorial_note": "Em 16/08/2024, no dia seguinte ao pedido de Elmar Nascimento, Vorcaro procurou o empresário, salvo no celular como “Nettinho Bet”, conforme a reportagem; Netinho é investigado na Operação Overclean, da PF.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -30,7 +28,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -44,16 +42,16 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-16",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00002",
-   "date": "2024-10-10",
-   "timestamp_precision": "date",
-   "sender_id": "netinho-lins",
+   "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Prepara o coração que o festival vai ser gigante",
-   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "content": "1k então",
+   "editorial_note": "Horas depois, após Netinho responder com o convite e Vorcaro pedir a maior cota de patrocínio disponível — a “Ouro”, de R$ 1 milhão; “1k” conforme a transcrição publicada.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -65,7 +63,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -79,16 +77,16 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-16",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00003",
-   "date": "2024-10-12",
-   "timestamp_precision": "date",
    "sender_id": "netinho-lins",
    "content_kind": "verbatim_excerpt",
-   "content": "Rapaiz... de novo?",
-   "editorial_note": "Dois dias depois, conforme a reportagem; objeto da mensagem não detalhado na transcrição.",
+   "content": "Festa do Elmar",
+   "editorial_note": "Dias depois, na legenda do envio dos dados da sua empresa, a DuBem Business Marketing (dados não reproduzidos), segundo a reportagem; data não divulgada.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -100,7 +98,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -114,16 +112,14 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press9-20261026"
   },
   {
    "id": "m-00004",
-   "date": "2024-10-12",
-   "timestamp_precision": "date",
    "sender_id": "netinho-lins",
    "content_kind": "verbatim_excerpt",
-   "content": "chegou",
-   "editorial_note": "Na mesma sequência, segundo a reportagem; não detalha a que se refere.",
+   "content": "1k. Foi o q vc acertou comigo.",
+   "editorial_note": "Corrigindo Vorcaro, que perguntara se o valor seria “1,5” (pergunta citada em fala indireta pela reportagem). No mesmo minuto, Vorcaro encaminhou os dados a Fabiano Zettel com a instrução “1mm” (ver conversa própria).",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -135,7 +131,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-23",
+    "verified_at": "2026-10-26",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -149,15 +145,13 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press9-20261026"
   }
  ],
  "timeline_events": [
   {
    "id": "e-00001",
-   "date": "2024-10",
-   "timestamp_precision": "month",
-   "content": "No dia 10/10/2024, R$ 2 milhões saíram da conta Master Distributed Orc Cloud, do Master, conforme apuração da PF reportada pelo UOL, um dia após o Festival das Esmeraldas ser noticiado e horas depois das mensagens de Netinho Lins a Vorcaro; a reportagem não estabelece vínculo direto entre o repasse e o festival nem identifica o conteúdo de entregas associadas. O patrocínio de R$ 1 milhão ao festival foi tratado com Fabiano Zettel em setembro de 2025 (ver conversa própria).",
+   "content": "3º Festival das Esmeraldas, realizado de 5 a 7/09/2024 em Campo Formoso (BA), terra de Elmar Nascimento, cujo irmão Elmo Nascimento (União) era o prefeito; coordenação de Netinho Lins, empresário investigado na Operação Overclean. Em 16/08/2024, um mês antes da eleição municipal, Vorcaro fechou com Netinho a cota “Ouro” de R$ 1 milhão; dias depois, no mesmo minuto em que Netinho corrigiu o valor combinado (“1k”), Vorcaro encaminhou à Zettel a instrução de pagamento, e, no dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem Business Marketing, conforme comprovante empresarial enviado por Zettel à reportagem — comprovante apresentado à imprensa não equivale a documento oficial público individualmente localizado.",
    "event_kind": "editorial_context",
    "verification": {
     "level": "secondary_source",
@@ -170,7 +164,8 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-23"
+    "verified_at": "2026-10-26",
+    "proceeding": null
    },
    "sources": {
     "primary": null,
@@ -183,7 +178,8 @@
     ]
    },
    "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
+   "added_in": "ingest-press9-20261026",
+   "editorial_note": "[Corrigido 2026-10-26: a versão anterior registrava quatro mensagens de outubro/2024 e saída de R$ 2 milhões de conta “Master Distributed Orc Cloud” em 10/10/2024 — registros não localizados na fonte citada (UOL, 22/10/2026) nem em outra fonte cadastrada, removidos; o festival constava como Angatuba (SP) e setembro/2025, em desacordo com a fonte.]"
   }
  ]
 }

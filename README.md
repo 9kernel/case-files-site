@@ -93,9 +93,9 @@ conhecimento absoluto sobre a origem última dessas reportagens.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (23/10/2026)*: **64 conversas · 861 mensagens · 208
-  eventos** — 1069 registros públicos auditados (588 investigação pública com
-  procedimento declarado, 275 documento oficial, 206 fonte jornalística),
+- *Números correntes (26/10/2026)*: **65 conversas · 959 mensagens · 221
+  eventos** — 1180 registros públicos auditados (667 investigação pública com
+  procedimento declarado, 275 documento oficial, 238 fonte jornalística),
   zero problemas de proveniência. Os totais mudam a cada rodada de inclusão:
   o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.

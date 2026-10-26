@@ -556,9 +556,8 @@
    "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Eu me dou muito bem com ele [Nikolas]. Ele não citaria",
-   "literal_brackets": true,
-   "editorial_note": "Final de abril de 2024: Ana Matos alertou Vorcaro de que Nikolas Ferreira compartilhara reportagem do O Globo sobre o Master; Vorcaro pergunta se a publicação “cita o banco” e, informado de que não, avalia que Nikolas não o citaria. Colchetes conforme a reportagem. Nikolas e Marçal não responderam à Folha.",
+   "content": "Eu me dou muito bem com ele. Ele não citaria",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado com “[Nikolas]” como esclarecimento do veículo (o ICL transcreve “ele (Nikolas)”); o esclarecimento não constava do original e foi movido para esta nota. Final de abril de 2024: Ana Matos alertou Vorcaro de que Nikolas Ferreira compartilhara reportagem do O Globo sobre o Master; Vorcaro respondia que se dava bem com ele.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -585,6 +584,181 @@
    },
    "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
    "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00022",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eles me mandaram 4mm de patrocínio. Com a mensagem: Ana, consegue chegar em 4K? Achei muito. Ele me disse que tem o canal CNN Money vindo. Esse valor já não poderia estar dentro desse fee de patrocínio, que será $$$?",
+   "editorial_note": "Em 19/08/2024, sobre pedido de patrocínio da CNN Brasil ao Master; a mensagem citada (“Ana, consegue chegar em 4K?”) é transcrita dentro da própria mensagem, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-19",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Que isso",
+   "editorial_note": "Resposta na mesma sequência de 19/08/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-19",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00024",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muita grana",
+   "editorial_note": "Na mesma sequência de 19/08/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-19",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Negocia aí",
+   "editorial_note": "Na mesma sequência de 19/08/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-19",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00026",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Oi. Fechei 1mm com a CNN. Não sei se eles vão ligar pra vc, mas tá fechado com o VP do João. Foi tudo bem",
+   "editorial_note": "Conclusão do patrocínio de R$ 1 milhão, horas depois, na mesma data, conforme a reportagem; “VP do João” refere-se ao então vice-presidente comercial João Camargo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-19",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00015",
@@ -693,6 +867,850 @@
    "added_in": "ingest-press8-20261023"
   },
   {
+   "id": "m-00027",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ana, na verdade guarda isso com voce mas to entrando na cnn com o rubens menin.",
+   "editorial_note": "Em 18/09/2024, sobre plano de Vorcaro de entrar na CNN com o economista Paulo Gala; “rubens menin” conforme a transcrição publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-18",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00028",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mas cnn precisa aprovar. E eu entrar no conselho",
+   "editorial_note": "Na mesma sequência de 18/09/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-18",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00029",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pq esse canal sera conteudo escolhido por nos. Vc participando do editorial. Do conselho editorial de tudo.",
+   "editorial_note": "Na mesma sequência de 18/09/2024; pretensão declarada na conversa — a CNN nega sociedade de Vorcaro e interferência editorial (ver evento de contexto).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-18",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00030",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Para isso eles pedem 12mm por 12 meses",
+   "editorial_note": "Em 26/09/2024, sobre a cota de patrocínio da futura CNN Money, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-26",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00031",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nós já temos 10mm com eles/ano em CNN News. Eu renovo com eles esse valor pra CNN Money. Faria essa cota fundador Money exclusiva banco master.",
+   "editorial_note": "Proposta de renovar o patrocínio anual de R$ 10 milhões como cota fundadora exclusiva da CNN Money, na mesma data, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-26",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00032",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Faria uma black list de quem não pode patrocinar. Colocaria alguém – pode ser eu – para entender conteúdo editorial do canal pra ver nossos interesses.",
+   "editorial_note": "Na mesma sequência de 26/09/2024; intenção declarada na conversa, não interferência comprovada — ver evento de contexto com o posicionamento da CNN.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-26",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00033",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Concordo com tudo",
+   "editorial_note": "Resposta na mesma sequência de 26/09/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-26",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00034",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "me parece outro saco sem fundo de querer grana. Kk",
+   "editorial_note": "Em 29/09/2024, sobre a CNN, conforme a reportagem; grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-29",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00035",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Oi. Eu vou estar num eve to agora q estará Joao e Cris Moreira do comercial CNN. Eles falaram sabre mais grana com vc esses dias? Porque eu disse que nao haveria dinheiro novo como patrocinadores. Que eu redirecionaria o valor que já temos mês com eles",
+   "editorial_note": "Em 01/10/2024; grafia conforme publicada (inclusive “sabre”).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-10-01",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00036",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não to sabendo",
+   "editorial_note": "Resposta em 01/10/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-10-01",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00037",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tabom. Só pra estarmos alinhados porque eu não disse que nosso investimento permaneceria o que já temos. 10mm ano. Ao invés de CNN News vou direcionar pra Money",
+   "editorial_note": "Fechamento do alinhamento em 01/10/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-10-01",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00038",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Levantei todos os pontos positivos do balanço para o João Camargo, para veicular amanhã na CNN money",
+   "editorial_note": "Em 31/03/2025, sobre pauta da CNN Money, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-03-31",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00039",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ana, falei c joao, acho que tenho que ir cnn falar do balanco e operacao",
+   "editorial_note": "Às 07h26 de 03/04/2025, sobre eventual ida de Vorcaro à CNN; grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "time": "07:26",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00040",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O que acha",
+   "editorial_note": "Na mesma sequência de 03/04/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00041",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu respondi que ele tem que combinar com a gente antes as perguntas do Naka. Todas. Antes",
+   "editorial_note": "Exigência de combinar previamente as perguntas da entrevista (“Naka”, apresentador da CNN), conforme a reportagem; a CNN nega interferência editorial — ver evento de contexto.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00042",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "A gente dizer o que queremos falar. Tudo combinado. 100%. Eu vou com vc.",
+   "editorial_note": "Na mesma sequência de 03/04/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00043",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ainda assim temos que pensar que o João eh amigo de todo mundo. Sempre tem 2 agendas.",
+   "editorial_note": "Na mesma sequência de 03/04/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00044",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "O paulo falaria sobre balanço? Gala. Treinamos ele",
+   "editorial_note": "Na mesma sequência de 03/04/2025; Ana Matos disse ter feito um vídeo de treino com Paulo Gala (relato em fala indireta na reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00045",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou deixar o paulo entrar. Mesmo. Ta muita batida em mim. Vamos deixar poeira abaixar na semana que vem eu entro",
+   "editorial_note": "Às 11h55 de 03/04/2025, desistindo de ir à entrevista, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "time": "11:55",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00046",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Paulo Gala hoje cnn",
+   "editorial_note": "Às 13h04 de 03/04/2025, confirmando a participação do economista na CNN Money, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-03",
+   "time": "13:04",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00048",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Além disso, por três meses (renováveis ou não) teremos cerca de 15 influenciadores com alto engajamento",
+   "editorial_note": "Às 15h03 de 05/04/2025, sobre estratégia de comunicação com influenciadores, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "time": "15:03",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00049",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Os conteúdos desses influenciadores seguirão o formato 'Marcal', como o que compartilhei ontem no grupo",
+   "editorial_note": "Em sequência imediata na mesma data; aspas em “Marcal” conforme a publicação.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00050",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu fico pasmo como o PT quer politizar tudo. Um banco privado fecha um acordo com outro banco (público), dentro da lei, e já vem esquerda correndo pro Judiciário. É por isso que o país não anda.",
+   "editorial_note": "Roteiro de exemplo enviado na mesma mensagem, separado por público-alvo (“direita”); a reportagem transcreve também roteiros para públicos “de esquerda” e “de mercado”, não reproduzidos integralmente aqui.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00051",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tira PT. Pessoas querem politizar.",
+   "editorial_note": "Aprovação da linha com ajuste, na mesma data, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00018",
    "date": "2025-04-05",
    "timestamp_precision": "date",
@@ -728,6 +1746,42 @@
    "added_in": "ingest-press8-20261023"
   },
   {
+   "id": "m-00052",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falou com Pablo? Soltou mais um",
+   "editorial_note": "Às 20h49 de 05/04/2025, sobre novas postagens de Pablo Marçal, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "time": "20:49",
+   "timestamp_precision": "minute"
+  },
+  {
    "id": "m-00019",
    "date": "2025-04-05",
    "timestamp_precision": "date",
@@ -761,6 +1815,76 @@
    },
    "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
    "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00053",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim",
+   "editorial_note": "Resposta de Ana Matos na madrugada de 05/04/2025, após o pedido para que Marçal falasse de concentração bancária (m-00019), conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-05",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00047",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu pedi essa entrada hoje na pauta. Paulo seguiu meu briefing. Defendeu CDB via segurança do FGC, e abordou concentração que eh nossa pauta contínua",
+   "editorial_note": "Em 14/04/2025, sobre a participação de Paulo Gala na CNN Money, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-14",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00020",
@@ -893,6 +2017,66 @@
    },
    "source_ref": "Relato de Metrópoles (2026-10-21)",
    "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "e-00003",
+   "content": "Contexto CNN (ICL, 19/10/2026): o Master era anunciante da CNN Brasil; em 19/08/2024, Ana Matos relatou pedido de patrocínio e fechou R$ 1 milhão; em setembro/outubro de 2024, discutiu-se renovar os R$ 10 milhões anuais como cota fundadora da futura CNN Money (pedido da emissora: “12mm por 12 meses”), com pretensões registradas na conversa de Vorcaro entrar no “conselho editorial” e de Ana Matos montar “black list” de patrocinadores e acompanhar o conteúdo editorial. Em abril de 2025, exigiu-se combinar previamente as perguntas de entrevista; Vorcaro desistiu de participar e indiciu Paulo Gala, que entrevistou em 03/04 e voltou ao tema em 14/04 seguindo briefing de Ana. Em nota, a CNN negou ter tido “qualquer sociedade” com Vorcaro e qualquer interferência editorial na cobertura, confirmando o Master como anunciante; João Camargo (vice-presidente comercial) e Paulo Gala deixaram a emissora, e Gala negou permitir que o conteúdo editorial fosse orientado por anunciantes. As mensagens registram intenção e pressão comercial; interferência editorial efetivamente ocorrida não está demonstrada nos registros deste arquivo.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Relato de ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00004",
+   "content": "Contexto influenciadores (ICL, 20/10/2026): em 05/04/2025, Ana Matos propôs contratar cerca de 15 influenciadores por três meses com roteiros separados por público (“formato Marcal”), aprovados por Vorcaro com o ajuste “Tira PT”; no mesmo dia, após post de Pablo Marçal sobre o banco, Vorcaro acionou Ana Matos para abordá-lo “delicadamente” (m-00018/m-00019) e repassou o contato de Marçal (número não reproduzido). Segundo a reportagem, em setembro de 2025 Marçal publicou defesa do Master após troca de mensagens com Vorcaro (reportagem original de O Globo, não transcrita integralmente pelo ICL) e viajou em jato cujo voo (R$ 1,17 milhão) foi pago pela Prime2, empresa de estrutura do Master ligada ao coach K. Vilanova; O Globo e o Poder360 não localizaram doações de Vorcaro à campanha de Marçal nas prestações de contas. Em 22/10/2026, Marçal negou ligação com Vorcaro e classificou a reportagem como “fake news”. Planejamento de conteúdo não comprova publicação efetiva nem pagamento individual verificado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-20",
+      "url": "https://iclnoticias.com.br/coach-de-flavio-marcal-defendeu-master-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Relato de ICL Notícias (2026-10-20)",
+   "added_in": "ingest-press9-20261026"
   }
  ]
 }

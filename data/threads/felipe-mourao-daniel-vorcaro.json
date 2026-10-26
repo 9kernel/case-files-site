@@ -184,6 +184,308 @@
    "added_in": "ingest-pf-20261007"
   },
   {
+   "id": "m-00088",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esses são os links positivos que ficaram,pede para dar uma olhada e se tiver algum que vc queira que retire ou que modifique algum me avise",
+   "editorial_note": "Legenda no envio do documento “720 Postagens”, em 12/12/2023, conforme a BBC; o documento não é reproduzido. Grafia conforme publicada. A BBC relata, em fala indireta, ligações entre esse material e a empresa Saftec e o site TechBusca (bloqueado pela Justiça em 2022), sem transcrever essas mensagens.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2023-12-12",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00089",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Meu socio tava querendo que derrubasse",
+   "editorial_note": "Janeiro de 2024 (dia não divulgado), sobre vídeo de drone da Ilha do Topete (BA) publicado no canal My Phantom Toy, cujo sócio reclamou da exposição, conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00090",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pq ta expondo ilha dele",
+   "editorial_note": "Na mesma sequência, conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00091",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Derrubar so esse link ne",
+   "editorial_note": "Respondendo a Mourão, que perguntara (em fala indireta na reportagem) se deveria “derrubar total”, conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00092",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Banido mestre",
+   "editorial_note": "Cinco dias depois, anunciando a remoção, com o vídeo encaminhado (não reproduzido), conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00093",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Derruba esse site",
+   "editorial_note": "Em 31/01/2024, no encaminhamento de nota sobre um bilionário na temporada de esqui na Suíça publicada pelo blog Nem Amigo Nem Inimigo, conforme a BBC; mais de uma hora depois, Mourão informou, em fala indireta, que o link estava fora do ar.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01-31",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00094",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Urgente",
+   "editorial_note": "Na mesma sequência de 31/01/2024, conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-01-31",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00095",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mas deixa sempre no gatilho",
+   "editorial_note": "Recusando proposta posterior de Mourão de “tomar” o site e o domínio do blog (proposta descrita em fala indireta pela BBC); data não divulgada.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00096",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos dominando o site, vamos ficar monitorando, qualquer coisa que sair derrubamos tudo e se precisar, derrubamos o site.",
+   "editorial_note": "Na mesma tarde, conforme a BBC; a reportagem registra ainda, sem transcrevê-la, mensagem segundo a qual dados de login do blog estariam em nome de parente do jornalista responsável — detalhe de vigilância sobre terceiros não reproduzido neste arquivo.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
    "id": "m-00005",
    "date": "2024-03-23",
    "timestamp_precision": "date",
@@ -829,6 +1131,108 @@
    "added_in": "ingest-pf-20261007"
   },
   {
+   "id": "m-00097",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "pode mandar derrubar esses dois links?",
+   "editorial_note": "Em 02/09/2024, no envio do link da reportagem da Folha sobre Vorcaro com a reprodução do trecho (link público da Folha; não reproduzido integralmente aqui), conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00098",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao sei como vai derrubar folha",
+   "editorial_note": "Resposta na mesma sequência de 02/09/2024.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00099",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já pedi os meninos,pode deixar",
+   "editorial_note": "Na mesma sequência; “meninos” é o termo usado por Mourão, segundo a BBC, para as pessoas que supostamente trabalhavam para derrubar sites e levantar dados de alvos. Grafia conforme publicada.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00020",
    "date": "2024-09-03",
    "timestamp_precision": "date",
@@ -870,6 +1274,74 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 79 · fig. 94",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00100",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sobre o link da folha está em processo para ser removido, enquanto isso estamos em cima",
+   "editorial_note": "Oito dias depois de 02/09/2024 (data derivada de forma determinística), conforme a BBC.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-10",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00101",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos trabalhando para entrar na database do site da Folha de São Paulo para remover do backup. Assim faremos com os outros links também.",
+   "editorial_note": "Em 25/09/2024, proposta de acesso ao sistema da Folha para apagar também o backup, conforme a BBC. Dois dias depois, segundo a reportagem, Vorcaro mandou deixar o assunto de lado (em fala indireta, sem transcrição literal). A Folha afirma não ter registro de ataques; nenhum acesso está tecnicamente demonstrado na reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-25",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00021",
@@ -1373,6 +1845,40 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 36 · fig. 42",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00102",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Os meninos invaderam a revista piauí… Manda deletar os links e todas as matérias?",
+   "editorial_note": "Em 23/10/2025, conforme a BBC; Mourão disse em seguida que aguardava aprovação — não há resposta de Vorcaro autorizando a ação nem demonstração técnica do acesso. A piauí afirmou (29/09/2026) não ter identificado problema no site naquele dia.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-10-23",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00033",
@@ -3852,6 +4358,36 @@
    },
    "source_ref": "Relato de UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "e-00007",
+   "content": "Contexto BBC News Brasil (23/10/2026): levantamento da BBC identificou ao menos 189 pedidos de Vorcaro a Felipe Mourão para remover conteúdos entre 2023 e 2025, incluindo relatos de que ao menos 17 perfis e publicações do Instagram teriam sido derrubados — alegações de Mourão, sem demonstração técnica de como ocorreram. A série inclui: pedido de derrubada do blog Nem Amigo Nem Inimigo (31/01/2024) e recusa de proposta de “tomar” o site; pedido de derrubada de links da Folha (02/09/2024) e proposta de acessar o sistema do jornal para apagar o backup (25/09/2024), depois abandonada a mando de Vorcaro; alegação de invasão ao site da revista piauí (23/10/2025) sem resposta autorizando. A Folha negou ter registro dos ataques; a piauí não identificou problema no episódio; a BBC não demonstrou tecnicamente nenhum acesso realizado. A BBC relata ainda buscas de dados sobre autores de publicações e terceiros (TechBusca, site de busca de dados bloqueado pela Justiça em 2022, e Saftec) — mensagens com dados pessoais de terceiros monitorados não são reproduzidas neste arquivo. Caso anterior da jornalista que monitorava o jatinho de Vorcaro (já reportado pela BBC) não é duplicado aqui.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil",
+      "date": "2026-10-23",
+      "url": "https://www.bbc.com/portuguese/articles/cjy56grn51zzo"
+     }
+    ]
+   },
+   "source_ref": "Relato de BBC News Brasil (2026-10-23)",
+   "added_in": "ingest-press9-20261026"
   }
  ]
 }

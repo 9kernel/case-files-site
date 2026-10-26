@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-23",
+ "generated_at": "2026-10-26",
  "current_batches": [
-  "ingest-press8-20261023"
+  "ingest-press9-20261026"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
@@ -23,7 +23,11 @@
    "ingest-press4-20261016": 3,
    "ingest-ipja-20261006": 10,
    "audit-fix2-20261016": 1,
-   "ingest-press8-20261023": 9
+   "ingest-press8-20261023": 9,
+   "ingest-press9-20261026": 34
+  },
+  "andre-valadao-daniel-vorcaro": {
+   "ingest-press9-20261026": 32
   },
   "angelo-silva-daniel-vorcaro": {
    "ingest-ipja-20261006": 4,
@@ -57,7 +61,8 @@
    "ingest-press4-20261016": 8
   },
   "elmar-nascimento-daniel-vorcaro": {
-   "ingest-press8-20261023": 2
+   "ingest-press9-20261026": 9,
+   "ingest-press8-20261023": 1
   },
   "elsinho-mouco-daniel-vorcaro": {
    "ingest-press4-20261016": 7
@@ -66,7 +71,7 @@
    "ingest-press2-20261016": 5,
    "ingest-pf-20261007": 8,
    "ingest-press7-20261016": 24,
-   "ingest-press8-20261023": 3
+   "ingest-press9-20261026": 3
   },
   "fabio-faria-daniel-vorcaro": {
    "ingest-ipja-20261006": 28,
@@ -75,6 +80,7 @@
   },
   "felipe-mourao-daniel-vorcaro": {
    "ingest-pf-20261007": 88,
+   "ingest-press9-20261026": 16,
    "ingest-press4-20261016": 4,
    "privacy-20261007": 1
   },
@@ -87,6 +93,7 @@
   },
   "flavio-carneiro-daniel-vorcaro": {
    "ingest-press4-20261016": 14,
+   "ingest-press9-20261026": 4,
    "ingest-bm-piaui-20261006": 11,
    "ingest-press8-20261023": 2
   },
@@ -156,6 +163,7 @@
   },
   "luiz-renno-daniel-vorcaro": {
    "ingest-ipja-20261006": 1,
+   "ingest-press9-20261026": 12,
    "ingest-press2-20261016": 8,
    "ingest-press6-20261016": 3,
    "ingest-press3-20261016": 2
@@ -184,7 +192,7 @@
    "ingest-press4-20261016": 6
   },
   "netinho-lins-daniel-vorcaro": {
-   "ingest-press8-20261023": 5
+   "ingest-press9-20261026": 5
   },
   "nikolas-ferreira-daniel-vorcaro": {
    "ingest-imprensa-20261011": 4
@@ -195,6 +203,7 @@
    "ingest-press8-20261023": 15
   },
   "paulo-sergio-daniel-vorcaro": {
+   "ingest-press9-20261026": 5,
    "ingest-ipja-20261006": 1
   },
   "roberto-campos-neto-daniel-vorcaro": {

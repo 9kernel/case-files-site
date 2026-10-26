@@ -120,6 +120,111 @@
    "added_in": "ingest-press4-20261016"
   },
   {
+   "id": "m-00024",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ontem Gustavo Lima chamou o Léo na casa dele depois da festa e apresentou o Marçal e pediu pra ele apoiar a campanha do cara. Alguma objeção nossa?",
+   "editorial_note": "Em 02/09/2024, Carneiro repassa a Vorcaro relato sobre episódio na casa de Gustavo Lima, no contexto do pedido de apoio à campanha de Pablo Marçal à Prefeitura de São Paulo. A reportagem não identifica quem é “Léo”; nenhuma associação a Leonardo Valverde ou a outra pessoa é feita ou inferida.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao podemos fazer isso pro marcal pelo pedido do gustavo ne",
+   "editorial_note": "Resposta na mesma sequência de 02/09/2024; grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00026",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "A turma do leo tem que jogar pra mim",
+   "editorial_note": "Sequência de 02/09/2024; “leo” sem identificação na reportagem (grafia minúscula conforme publicada).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-02",
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00004",
    "date": "2024-12-08",
    "time": null,
@@ -958,6 +1063,36 @@
    },
    "source_ref": "Comunicado do Brazil Journal (2026-10-22); Folha — C-Level (2026-10-23)",
    "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "e-00005",
+   "content": "Contexto Marçal (ICL, 24/10/2026): em 02/09/2024, Carneiro relatou a Vorcaro que, na casa de Gustavo Lima, um “Léo” foi apresentado a Pablo Marçal com pedido de apoio à campanha municipal de São Paulo de 2024; Vorcaro respondeu que não poderiam fazer isso “pro marcal” a pedido de Gusttavo Lima. O relato é de Carneiro sobre terceiros: não há mensagens de Marçal ou de Gusttavo Lima nesta conversa, e a reportagem não dá indícios de quem seja “Léo” — qualquer identificação seria inferência.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Relato de ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
   }
  ]
 }

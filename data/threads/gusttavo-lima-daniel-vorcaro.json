@@ -18,7 +18,7 @@
    "sender_id": "gusttavo-lima",
    "content_kind": "verbatim_excerpt",
    "content": "mano, tá ae ?!",
-   "editorial_note": "Um dia após reportagem do Fantástico sobre Vorcaro, segundo a reportagem.",
+   "editorial_note": "[Corrigido 2026-10-26: a versão anterior afirmava que a reportagem do Fantástico tratava de Vorcaro.] No dia anterior (09/09/2024), o Fantástico (TV Globo) mostrou que a Justiça determinou bloqueio de R$ 20 milhões e sequestro de imóveis e embarcações da empresa Balada Eventos, de Gusttavo Lima, investigada pela Polícia Civil de Pernambuco por suspeita de lavagem de dinheiro proveniente de jogos de azar; no dia seguinte, Lima buscou contato com Vorcaro, segundo a reportagem.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -157,9 +157,8 @@
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Saudades de ti. Vamos [nos] encontrar para avançar nos temas",
-   "literal_brackets": true,
-   "editorial_note": "Colchetes conforme a reportagem (inserção do veículo).",
+   "content": "Saudades de ti. Vamos encontrar para avançar nos temas",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “Vamos [nos] encontrar para avançar nos temas”; o “[nos]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -193,8 +192,8 @@
    "timestamp_precision": "date",
    "sender_id": "gusttavo-lima",
    "content_kind": "verbatim_excerpt",
-   "content": "Uai, urgente, bebê. Cheguei, tô no Brasil, cheguei hoje. Saudades, cara.",
-   "editorial_note": "Trecho de áudio transcrito pela reportagem, em resposta à mensagem anterior.",
+   "content": "Uai, urgente, bebê. Cheguei, tô no Brasil, cheguei hoje. Saudades, cara. Tá doido?! Vai me matar de saudade",
+   "editorial_note": "[Corrigido 2026-10-26: transcrição completada com o restante do trecho publicado.] Trecho integral do áudio de 9 segundos transcrito pela reportagem, em resposta à mensagem anterior de 28/10/2024; nada além do trecho publicado foi reconstruído.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -537,9 +536,8 @@
    "date": null,
    "sender_id": "gusttavo-lima",
    "content_kind": "verbatim_excerpt",
-   "content": "meio [de] pagamento. Bora explodir ele. Super BH",
-   "literal_brackets": true,
-   "editorial_note": "No dia seguinte ao áudio das taxas, segundo a reportagem; colchetes conforme o veículo. Data não divulgada.",
+   "content": "meio pagamento. Bora explodir ele. Super BH",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “meio [de] pagamento. Bora explodir ele. Super BH”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal. No dia seguinte ao áudio das taxas, segundo a reportagem; data não divulgada.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",

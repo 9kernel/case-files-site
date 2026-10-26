@@ -12,6 +12,142 @@
  },
  "messages": [
   {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já estava assinado, aprovado em comitê",
+   "editorial_note": "Sobre a operação da Caixa com o Master, na conversa de 12/07/2024, pouco antes de Vorcaro pedir a Souza ajuda do Banco Central, conforme a reportagem. Ressalva de identificação: a Folha identifica o interlocutor como Paulo Sérgio Neves de Souza, ex-diretor do BC; o contato “Paulo Sergio” do IPJ-A é identificado como “Diretor do Banco Central” — a correspondência entre ambos não é individualmente demonstrada nos documentos públicos disponíveis.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha C-Level",
+      "date": "2026-10-22",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha C-Level (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-12",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eles devem fazer um comunicado dizendo que fizeram queixa-crime de vazamento do relatório e que o relatório não representa a opinião da Caixa",
+   "editorial_note": "Em 12/07/2024, após a publicação da primeira reportagem sobre o caso, Vorcaro pergunta se o Bacen não poderia pedir à Caixa para se posicionar (pergunta citada em fala indireta, não transcrita integralmente) e sugere o comunicado, conforme a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha C-Level",
+      "date": "2026-10-22",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha C-Level (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-12",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "paulo-sergio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nós já interpelamos a Caixa para incluir na apuração",
+   "editorial_note": "[Corrigido no registro: publicado como “Nós já interpelamos a Caixa para incluir na apuração [o vazamento de informações internas]”; o colchete é inserção do veículo e foi movido para esta nota.] Resposta um minuto depois, conforme a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha C-Level",
+      "date": "2026-10-22",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha C-Level (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-12",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estrago será imenso",
+   "editorial_note": "Sobre o impacto dos vazamentos e o cancelamento de operações (uma em vigor e outra em vias de aprovação), na mesma conversa, conforme a reportagem.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha C-Level",
+      "date": "2026-10-22",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha C-Level (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-12",
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00001",
    "date": "2025-03-19",
    "time": "20:23",
@@ -54,6 +190,38 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 177 · fig. 180",
    "added_in": "ingest-ipja-20261006"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "content": "Contexto Caixa Asset (Folha C-Level, 22/10/2026): segundo a reportagem, em 10/07/2024 Souza perguntou a Vorcaro se algo tinha saído sobre descumprimento do compulsório no caso Master; em 11/07, Vorcaro disse ter sido questionado sobre “a parceria com a Caixa, que está para sair”; em 12/07, após a primeira reportagem, Vorcaro pediu ao ex-diretor do BC que pressionasse a Caixa a se posicionar publicamente (mensagens registradas acima). Em 16/07, Vorcaro afirmou que as duas operações estavam suspensas. Discutia-se possível aplicação de R$ 500 milhões da Caixa Asset no Master — a Caixa informou que a aplicação não ocorreu. Em nota, Souza disse que jamais protegeu interesses de Vorcaro; o BC e a defesa do ex-banqueiro não comentaram. As mensagens de julho de 2024 provêm de reportagem (não de peça oficial individualmente localizada) e não reutilizam a página documental da mensagem de março de 2025; ver ressalva de identificação no perfil do participante.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha C-Level",
+      "date": "2026-10-22",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+     }
+    ]
+   },
+   "source_ref": "Relato de Folha C-Level (2026-10-22)",
+   "added_in": "ingest-press9-20261026"
   }
  ]
 }
