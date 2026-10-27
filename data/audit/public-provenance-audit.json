@@ -1,15 +1,15 @@
 {
- "generated_at": "2026-10-20",
+ "generated_at": "2026-10-27",
  "scope": "todas as threads públicas de data/threads/",
  "summary": {
-  "threads": 62,
-  "records": 1129,
-  "ok": 1129,
+  "threads": 67,
+  "records": 1308,
+  "ok": 1308,
   "problems": 0,
   "by_category": {
-   "OK_PUBLIC_INVESTIGATION": 665,
-   "OK_OFFICIAL": 275,
-   "OK_SECONDARY": 189
+   "OK_PUBLIC_INVESTIGATION": 786,
+   "OK_SECONDARY": 247,
+   "OK_OFFICIAL": 275
   }
  },
  "documents": [
@@ -380,6 +380,24 @@
   {
    "kind": "event",
    "thread": "acm-neto-daniel-vorcaro",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "acm-neto-daniel-vorcaro",
    "message_id": "e-00002",
    "sender_id": null,
    "content_kind": "editorial_context",
@@ -401,7 +419,7 @@
    "message_id": "e-00003",
    "sender_id": null,
    "content_kind": "editorial_context",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -410,31 +428,13 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "event",
    "thread": "acm-neto-daniel-vorcaro",
    "message_id": "e-00004",
-   "sender_id": null,
-   "content_kind": "editorial_context",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "event",
-   "thread": "acm-neto-daniel-vorcaro",
-   "message_id": "e-00005",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -1138,7 +1138,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00014",
+   "message_id": "m-00054",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1159,7 +1159,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00015",
+   "message_id": "m-00055",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1180,7 +1180,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00016",
+   "message_id": "m-00056",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1202,7 +1202,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00017",
+   "message_id": "m-00057",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1222,7 +1222,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00018",
+   "message_id": "m-00058",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1242,7 +1242,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00019",
+   "message_id": "m-00059",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1262,7 +1262,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00020",
+   "message_id": "m-00060",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1283,7 +1283,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00021",
+   "message_id": "m-00061",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1304,7 +1304,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00022",
+   "message_id": "m-00062",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1368,7 +1368,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00023",
+   "message_id": "m-00063",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1388,7 +1388,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00024",
+   "message_id": "m-00064",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1408,7 +1408,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00025",
+   "message_id": "m-00065",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -1428,7 +1428,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00026",
+   "message_id": "m-00066",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1449,7 +1449,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00027",
+   "message_id": "m-00067",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1624,7 +1624,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00028",
+   "message_id": "m-00013",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1636,8 +1636,227 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "Estadão (reproduzido pelo Terra)",
-    "Times Brasil/CNBC"
+    "UOL (Renata Agostini e Tiago Dantas)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00022",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00024",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00026",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Metrópoles"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00028",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
@@ -1657,6 +1876,546 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00030",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00031",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00032",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00035",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00036",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00037",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00038",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00039",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00040",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00041",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00042",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00043",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00044",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00045",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00046",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00048",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00049",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00050",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00051",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00018",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00052",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00053",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00047",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00068",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
     "Estadão (reproduzido pelo Terra)",
     "Times Brasil/CNBC"
    ],
@@ -1666,7 +2425,28 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00030",
+   "message_id": "m-00069",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão (reproduzido pelo Terra)",
+    "Times Brasil/CNBC"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00070",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1687,7 +2467,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00031",
+   "message_id": "m-00071",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1708,7 +2488,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00032",
+   "message_id": "m-00072",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1729,7 +2509,47 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00033",
+   "message_id": "m-00020",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00021",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "m-00073",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1749,7 +2569,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00034",
+   "message_id": "m-00074",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1769,7 +2589,7 @@
   {
    "kind": "message",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00035",
+   "message_id": "m-00075",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -1782,26 +2602,6 @@
    "primary_source": null,
    "secondary_sources": [
     "Diário do Centro do Mundo"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "m-00013",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "UOL (Renata Agostini e Tiago Dantas)"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
@@ -1848,6 +2648,60 @@
    "message_id": "e-00003",
    "sender_id": null,
    "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00004",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "ana-matos-daniel-vorcaro",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
    "verification_level": "public_investigation",
    "document_id": null,
    "document_exists": null,
@@ -1863,7 +2717,7 @@
   {
    "kind": "event",
    "thread": "ana-matos-daniel-vorcaro",
-   "message_id": "e-00004",
+   "message_id": "e-00007",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "secondary_source",
@@ -2023,6 +2877,638 @@
    "kind": "event",
    "thread": "andre-kruschewsky-daniel-vorcaro",
    "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00010",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00013",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00018",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00020",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00021",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00022",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00024",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00026",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00028",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "e-00003",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "e-00004",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "secondary_source",
@@ -2660,7 +4146,7 @@
   {
    "kind": "message",
    "thread": "augusto-lima-daniel-vorcaro",
-   "message_id": "m-00007",
+   "message_id": "m-00010",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -2757,6 +4243,66 @@
    ],
    "category": "OK_SECONDARY",
    "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "augusto-lima-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "augusto-lima-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "augusto-lima-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
    "kind": "event",
@@ -4578,6 +6124,202 @@
   },
   {
    "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "elmar-nascimento",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "elmar-nascimento",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "elmar-nascimento",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "elmar-nascimento",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "elmar-nascimento",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "elmar-nascimento-daniel-vorcaro",
+   "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
    "thread": "elsinho-mouco-daniel-vorcaro",
    "message_id": "m-00001",
    "sender_id": "elsinho-mouco",
@@ -4863,7 +6605,7 @@
   {
    "kind": "message",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "m-00033",
+   "message_id": "m-00037",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -4883,7 +6625,7 @@
   {
    "kind": "message",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "m-00034",
+   "message_id": "m-00038",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -4903,7 +6645,7 @@
   {
    "kind": "message",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "m-00035",
+   "message_id": "m-00039",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -4923,7 +6665,7 @@
   {
    "kind": "message",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "m-00036",
+   "message_id": "m-00040",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -5449,9 +7191,49 @@
    "reason": null
   },
   {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
    "kind": "event",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "e-00006",
+   "message_id": "e-00008",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -5559,7 +7341,25 @@
   {
    "kind": "event",
    "thread": "fabiano-zettel-daniel-vorcaro",
-   "message_id": "e-00007",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "fabiano-zettel-daniel-vorcaro",
+   "message_id": "e-00009",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "secondary_source",
@@ -6802,6 +8602,186 @@
    "kind": "message",
    "thread": "felipe-mourao-daniel-vorcaro",
    "message_id": "m-00088",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00089",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00090",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00091",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00092",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00093",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00094",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00095",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00096",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00103",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -6821,7 +8801,7 @@
   {
    "kind": "message",
    "thread": "felipe-mourao-daniel-vorcaro",
-   "message_id": "m-00089",
+   "message_id": "m-00104",
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -6841,7 +8821,7 @@
   {
    "kind": "message",
    "thread": "felipe-mourao-daniel-vorcaro",
-   "message_id": "m-00090",
+   "message_id": "m-00105",
    "sender_id": "felipe-mourao",
    "content_kind": "forwarded_message",
    "verification_level": "public_investigation",
@@ -7191,6 +9171,66 @@
   {
    "kind": "message",
    "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00097",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00098",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00099",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
    "message_id": "m-00020",
    "sender_id": "felipe-mourao",
    "content_kind": "verbatim_excerpt",
@@ -7208,6 +9248,46 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00100",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00101",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -7468,6 +9548,26 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "m-00102",
+   "sender_id": "felipe-mourao",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "BBC News Brasil"
+   ],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -8789,6 +10889,24 @@
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
+   "kind": "event",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "message_id": "e-00007",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
    "kind": "message",
    "thread": "fernando-mascarenhas-daniel-vorcaro",
    "message_id": "m-00005",
@@ -9727,6 +11845,66 @@
   {
    "kind": "message",
    "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "m-00024",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "m-00026",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "flavio-carneiro-daniel-vorcaro",
    "message_id": "m-00004",
    "sender_id": "flavio-carneiro",
    "content_kind": "verbatim",
@@ -10105,11 +12283,11 @@
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
-   "kind": "event",
+   "kind": "message",
    "thread": "flavio-carneiro-daniel-vorcaro",
-   "message_id": "e-00001",
-   "sender_id": null,
-   "content_kind": "editorial_context",
+   "message_id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
    "document_id": null,
    "document_exists": null,
@@ -10118,9 +12296,29 @@
    "figure": null,
    "case": null,
    "primary_source": null,
-   "secondary_sources": [],
+   "secondary_sources": [
+    "Folha"
+   ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "event",
@@ -10128,7 +12326,7 @@
    "message_id": "e-00002",
    "sender_id": null,
    "content_kind": "editorial_context",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -10137,8 +12335,8 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "event",
@@ -10146,7 +12344,7 @@
    "message_id": "e-00003",
    "sender_id": null,
    "content_kind": "editorial_context",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -10155,8 +12353,44 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "e-00004",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "message",
@@ -11898,6 +14132,364 @@
    "kind": "event",
    "thread": "guilherme-sodre-daniel-vorcaro",
    "message_id": "e-00002",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00006",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00007",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00008",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00009",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00010",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00011",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00013",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "gusttavo-lima-daniel-vorcaro",
+   "message_id": "e-00001",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "secondary_source",
@@ -14045,6 +16637,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
+    "Veja",
     "Veja"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
@@ -14053,7 +16646,7 @@
   {
    "kind": "message",
    "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00033",
+   "message_id": "m-00035",
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -14073,7 +16666,7 @@
   {
    "kind": "message",
    "thread": "julio-cezar-daniel-vorcaro",
-   "message_id": "m-00034",
+   "message_id": "m-00036",
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -14125,6 +16718,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
+    "Veja",
     "Veja"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
@@ -14145,6 +16739,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
+    "Veja",
     "Veja"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
@@ -14254,7 +16849,7 @@
    "message_id": "e-00002",
    "sender_id": null,
    "content_kind": "editorial_context",
-   "verification_level": "public_investigation",
+   "verification_level": "secondary_source",
    "document_id": null,
    "document_exists": null,
    "public_access_verified": null,
@@ -14263,8 +16858,8 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "event",
@@ -14975,6 +17570,44 @@
    "secondary_sources": [],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "leonardo-valverde-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "leonardo-valverde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "leonardo-valverde-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "message",
@@ -15917,7 +18550,7 @@
    "case": null,
    "primary_source": null,
    "secondary_sources": [
-    "Estadão"
+    "ICL Notícias"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
@@ -15926,6 +18559,126 @@
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
    "message_id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00013",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00014",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00015",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00016",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00025",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Estadão"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00026",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -15946,7 +18699,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00013",
+   "message_id": "m-00027",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -15967,7 +18720,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00014",
+   "message_id": "m-00028",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -15987,7 +18740,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00015",
+   "message_id": "m-00029",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16048,7 +18801,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00016",
+   "message_id": "m-00030",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16069,7 +18822,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00017",
+   "message_id": "m-00031",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16090,7 +18843,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00018",
+   "message_id": "m-00032",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16110,7 +18863,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00019",
+   "message_id": "m-00033",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -16131,7 +18884,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00020",
+   "message_id": "m-00034",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16152,7 +18905,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00021",
+   "message_id": "m-00035",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "verification_level": "public_investigation",
@@ -16173,7 +18926,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00022",
+   "message_id": "m-00036",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16247,6 +19000,86 @@
    "primary_source": null,
    "secondary_sources": [
     "UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari)"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00017",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00018",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00019",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "m-00020",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "ICL Notícias"
    ],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
@@ -16338,7 +19171,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00023",
+   "message_id": "m-00037",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16358,7 +19191,7 @@
   {
    "kind": "message",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "m-00024",
+   "message_id": "m-00038",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -16378,7 +19211,7 @@
   {
    "kind": "event",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "e-00006",
+   "message_id": "e-00007",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -16396,7 +19229,7 @@
   {
    "kind": "event",
    "thread": "luiz-renno-daniel-vorcaro",
-   "message_id": "e-00005",
+   "message_id": "e-00008",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -16482,6 +19315,42 @@
    "secondary_sources": [],
    "category": "OK_PUBLIC_INVESTIGATION",
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "e-00005",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "luiz-renno-daniel-vorcaro",
+   "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
   },
   {
    "kind": "message",
@@ -18071,6 +20940,104 @@
   },
   {
    "kind": "message",
+   "thread": "netinho-lins-daniel-vorcaro",
+   "message_id": "m-00001",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "netinho-lins-daniel-vorcaro",
+   "message_id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "netinho-lins-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "netinho-lins-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "netinho-lins-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
    "thread": "nikolas-ferreira-daniel-vorcaro",
    "message_id": "m-00001",
    "sender_id": "nikolas-ferreira",
@@ -18403,7 +21370,7 @@
   {
    "kind": "message",
    "thread": "paulo-henrique-daniel-vorcaro",
-   "message_id": "m-00046",
+   "message_id": "m-00060",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -19097,6 +22064,286 @@
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00046",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00047",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00048",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00049",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00050",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00051",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00052",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00053",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00054",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00055",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00056",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00057",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00058",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "m-00059",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL — coluna Natália Portinari"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
    "kind": "event",
    "thread": "paulo-henrique-daniel-vorcaro",
    "message_id": "e-00001",
@@ -19241,9 +22488,107 @@
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
+   "kind": "event",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "message_id": "e-00009",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
    "kind": "message",
    "thread": "paulo-sergio-daniel-vorcaro",
    "message_id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha C-Level"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00003",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha C-Level"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00004",
+   "sender_id": "paulo-sergio",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha C-Level"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Folha C-Level"
+   ],
+   "category": "OK_SECONDARY",
+   "reason": null
+  },
+  {
+   "kind": "message",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "m-00006",
    "sender_id": "paulo-sergio",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -19263,7 +22608,7 @@
   {
    "kind": "message",
    "thread": "paulo-sergio-daniel-vorcaro",
-   "message_id": "m-00003",
+   "message_id": "m-00007",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -19283,7 +22628,7 @@
   {
    "kind": "message",
    "thread": "paulo-sergio-daniel-vorcaro",
-   "message_id": "m-00004",
+   "message_id": "m-00008",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -19320,6 +22665,24 @@
    },
    "secondary_sources": [],
    "category": "OK_OFFICIAL",
+   "reason": null
+  },
+  {
+   "kind": "event",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "message_id": "e-00001",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "secondary_source",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_SECONDARY",
    "reason": null
   },
   {
@@ -21337,7 +24700,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00027",
+   "message_id": "m-00048",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21358,7 +24721,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00028",
+   "message_id": "m-00049",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21379,7 +24742,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00029",
+   "message_id": "m-00050",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21480,7 +24843,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00030",
+   "message_id": "m-00051",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21500,49 +24863,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00031",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja",
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00032",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja",
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00033",
+   "message_id": "m-00052",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21562,147 +24883,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00034",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00035",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00036",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00037",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00038",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00039",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00040",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Veja"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00041",
+   "message_id": "m-00053",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21723,7 +24904,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00042",
+   "message_id": "m-00054",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21743,7 +24924,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00043",
+   "message_id": "m-00055",
    "sender_id": "walfrido-warde",
    "content_kind": "forwarded_message",
    "verification_level": "public_investigation",
@@ -21764,7 +24945,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00044",
+   "message_id": "m-00056",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21784,7 +24965,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00045",
+   "message_id": "m-00057",
    "sender_id": "walfrido-warde",
    "content_kind": "audio_transcript",
    "verification_level": "public_investigation",
@@ -21885,7 +25066,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00046",
+   "message_id": "m-00058",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -21905,7 +25086,7 @@
   {
    "kind": "message",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "m-00047",
+   "message_id": "m-00059",
    "sender_id": "walfrido-warde",
    "content_kind": "verbatim_excerpt",
    "verification_level": "public_investigation",
@@ -22316,6 +25497,358 @@
    "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
   },
   {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00028",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00029",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00030",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00031",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00032",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00034",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00035",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00036",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00037",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00038",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00039",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00040",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00041",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Veja",
+    "UOL"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00042",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "m-00043",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "UOL"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
    "kind": "event",
    "thread": "walfrido-warde-daniel-vorcaro",
    "message_id": "e-00001",
@@ -22354,7 +25887,7 @@
   {
    "kind": "event",
    "thread": "walfrido-warde-daniel-vorcaro",
-   "message_id": "e-00007",
+   "message_id": "e-00008",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",
@@ -22427,6 +25960,24 @@
    "kind": "event",
    "thread": "walfrido-warde-daniel-vorcaro",
    "message_id": "e-00006",
+   "sender_id": null,
+   "content_kind": "editorial_context",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "event",
+   "thread": "walfrido-warde-daniel-vorcaro",
+   "message_id": "e-00007",
    "sender_id": null,
    "content_kind": "editorial_context",
    "verification_level": "public_investigation",

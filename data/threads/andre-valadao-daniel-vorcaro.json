@@ -1,0 +1,1087 @@
+{
+ "id": "andre-valadao-daniel-vorcaro",
+ "title": "André Valadão",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "andre-valadao"
+ ],
+ "source": {
+  "document": "Agência Pública (24/10/2026) — Amanda Audi, Jéssica Ribeiro e Ed Wanderley: “Vorcaro orquestrou venda de bens da Igreja Lagoinha e prometeu expansão de R$ 100 milhões”",
+  "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/",
+  "pages": "Mensagens do celular de Vorcaro interceptadas pela PF (Operação Compliance Zero) conforme transcrição da reportagem (áudios transcritos em trechos); datas e horários apenas os divulgados; nada além do publicado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ô, Daniel, que o senhor te dê sabedoria, te cubra, te guarde, que ele nos guie e guie você nesse momento a voz de Deus, sempre",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem; a reportagem situa o áudio como resposta a uma felicitação de aniversário, sem divulgar a data.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "É no mundo todo, Dani. É no mundo todo que tá acontecendo, é muito forte, irmão",
+   "editorial_note": "Continuação do mesmo áudio transcrito pela reportagem, conforme a sequência publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ano que vem eu quero lançar um banco interno também da Lagoinha, principalmente para os pastores e para a igreja, não pro público diretamente primeiro",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem. Segundo a reportagem, é a primeira menção, na conversa com Vorcaro, do que viria a ser o Clava Forte Bank, no contexto de convite para patrocinar show da virada do ano na Lagoinha de Orlando.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2023-12-09",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deus me incomodou para uma ação junto contigo. Vou colocar 100mm de reais de doação para abrir novas igrejas",
+   "editorial_note": "Proposta de doação de R$ 100 milhões para abertura de novas igrejas; a reportagem não registra transferência efetivada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-04-16",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00005",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Queria que pensasse e orasse e depois me passasse um plano pra implementarmos",
+   "editorial_note": "Na mesma sequência de 16/04/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-04-16",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00006",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ano que vem vamos dobrar, se Deus quiser",
+   "editorial_note": "Sobre as possibilidades financeiras do ecossistema da igreja, em diálogo situado pela reportagem a partir de abril de 2024; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00007",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Até 2030 fato só brasil vms passar de 1B ano. em ano de jesus.",
+   "editorial_note": "Na mesma sequência do diálogo anterior, segundo a reportagem; grafia conforme publicada, inclusive “vms”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00008",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Uma das coisas que eu estou pensando é de internacionalizar os bens da Lagoinha toda, sabe? Porque o dinheiro nos EUA, o crédito é muito fácil, né, muito menos juros, né. O juros tá alto hoje, mas ainda assim é baixo. Então seria um ministério sem fins lucrativos, non for profit americano, que detém bens no mundo todo, Europa, África, Brasil, Estados Unidos também, Canadá. Tô fazendo essa mudança, sabe",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem, sobre internacionalização patrimonial da igreja; plano discutido, não operação comprovada. Data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00009",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho excelente ideia",
+   "editorial_note": "Resposta ao áudio anterior, segundo a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00010",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como você me aconselhou, eu coloquei vários bens nossos à venda",
+   "editorial_note": "Sobre venda de imóveis da igreja seguindo orientação de Vorcaro, conforme a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00011",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem um pessoal que me procurou também pra gente, tipo, criar um fundo com a quantidade de bens que a gente tem da Lagoinha, sabe? Mas eu acho que, como a maioria deles a gente nem paga imposto, acho que fazer um fundo, coisa assim, podia acabar sendo pior, né? Não sei o que você me aconselha a respeito",
+   "editorial_note": "Dúvida sobre possível fundo imobiliário com os bens da igreja; a reportagem não registra fundo constituído. Data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fundo não é vantagem pra você. Legal é fazer base USA e virar global mesmo",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00013",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que deve ser um valor relevante e certo todo mês, às vezes dá pra acessar possibilidade de compra de imóveis e as igrejas pagarem direto, mas em compra do imóvel semelhante ao invés de aluguel",
+   "editorial_note": "Sobre alternativa aos aluguéis pagos pelas igrejas, conforme a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00014",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "O valor que pagamos talvez conseguiríamos de alguma formar um fundo para até construir prédio próprio e alugar para as igrejas. Ou comprar algo semelhante… ?",
+   "editorial_note": "Na mesma sequência; grafia conforme publicada, inclusive “formar”. A reportagem registra apenas que Vorcaro rebateu que no Brasil não haveria fundo “com apetite pra isso” — fragmento de fala não publicado integralmente e por isso não registrado como mensagem. Data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00015",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dede, vamos pra cima.",
+   "editorial_note": "Sequência de 14/07/2024 sobre terreno à venda em Orlando (anúncio com oferta de US$ 10,8 milhões encaminhado por Valadão, conforme a reportagem; anúncio não reproduzido). Segundo a reportagem, “Dede” é como Vorcaro chamava Valadão.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00016",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Aquele valor que te falei tá comprometido",
+   "editorial_note": "Em 14/07/2024, respondendo à disposição de Valadão de vender um terreno em Belo Horizonte para comprarem o terreno de Orlando em conjunto; segundo a reportagem, refere-se aos R$ 100 milhões prometidos em doação.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00017",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você tem que ver como melhor usar. São 20mm usd",
+   "editorial_note": "Publicado como “São 20mm usd [US$ 20 milhões]”; o colchete com a conversão é inserção do veículo e foi aqui movido para esta nota. Esclarecimento dos cálculos na sequência de 14/07/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00018",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Faria a sede aqui com esses 20 com certeza. A compra e a construção",
+   "editorial_note": "Resposta de Valadão na sequência de 14/07/2024, projetando sede no terreno de Orlando com os US$ 20 milhões; proposta, não aquisição comprovada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00019",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Então vamos fazer",
+   "editorial_note": "Retomada de Vorcaro na sequência de 14/07/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00020",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Se for isso que Deus colocar no seu coração, pra gente montar proposta aqui, você me fala que proposta que eu faço. Dani, você não tá entendendo",
+   "editorial_note": "Na sequência de 14/07/2024, após reação com emojis “aos prantos” (não reproduzidos) e antes do encaminhamento de mensagens do corretor e de imagens geradas por IA (não reproduzidas), conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-14",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00021",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pode seguir com a aquisição. Eu tô já movimentando. Pra te mandar o recurso",
+   "editorial_note": "Data derivada de forma determinística: “dois dias depois” de 14/07/2024, conforme a reportagem. Segundo a reportagem, Valadão respondeu com mensagem de gratidão (transcrição não publicada integralmente). Promessa de envio de recurso não equivale a transferência comprovada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-16",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00022",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "só no ecossistema da Lagoinha hoje tem : igrejas, pastores, funcionários, livrarias, seminário (só hoje, 12 mil alunos ativos), fundação oasis filantrópica que recebe recursos federais… tipo tudo que envolve o mundo da Lagoinha pra dentro do CLAVA.",
+   "editorial_note": "Dias antes da inauguração do Clava Forte (31/07/2024), Valadão anunciara em 23/07/2024 ao amigo um “sistema pay próprio Lagoinha Global” junto à empresa de pagamentos Dock; a mensagem acima segue esse anúncio, conforme a reportagem. Grafia e espaçamento conforme publicados.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-07-23",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00023",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Depois me explica o que precisa",
+   "editorial_note": "Resposta a pedido de ajuda de Valadão sobre pacotes de serviços para o sistema da igreja e FIDC, meses após julho de 2024, conforme a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00024",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tô sempre à disposição com telefone na mão.",
+   "editorial_note": "Na sequência iniciada em 31/07/2024, quando Valadão relatou prazo de depósito de US$ 200 mil em cinco dias caso assinasse o contrato (relato em fala indireta na reportagem, sem transcrição literal publicada); data exata não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00025",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Que showwwwwww. Parabéns!!!",
+   "editorial_note": "Única resposta de Vorcaro no período, segundo a reportagem, dada quando Valadão anunciou o arquivamento de um processo em que respondia por homofobia; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00026",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dani sobre o terreno estamos finalizando e precisamos de 200k de dólares pra amarrar a proposta … e prosseguir com due diligence de até 80 dias para ter toda liberação da prefeitura para o projeto ou não",
+   "editorial_note": "Cobrança de resposta sobre o terreno em 15/08/2024, conforme a reportagem; as reticências constam do texto publicado. A reportagem não confirma a conclusão da aquisição.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-15",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00027",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "a fintech, que por sinal tá indo super bem e sem dúvida é algo que pode ficar grande demais",
+   "editorial_note": "Trecho transcrito dentro do pedido de conversa situado pela reportagem em 17 de setembro (meses após julho de 2024, na seção sobre o Clava Forte Bank), seguido de duas ligações de cerca de 15 minutos, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-09-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00028",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Segunda feira vou em BH com Zettel ver o imóvel da Jorlan, em frente o BH shopping para ser a igreja dele. Será lindo. 4 mil lugares",
+   "editorial_note": "Sobre visita ao imóvel da Jorlan, em frente ao BH Shopping, para uma igreja a ser liderada por Fabiano Zettel, conforme a reportagem; ver conversa própria de Zettel e evento de contexto. Data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — Operação Compliance Zero; conversas interceptadas obtidas pela Agência Pública (24/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "content": "A Agência Pública (24/10/2026) descreve décadas de amizade entre André Valadão e Daniel Vorcaro registradas em conversas interceptadas pela PF na Operação Compliance Zero: trocas afetuosas (a reportagem conta ao menos 44 “eu te amo”), orientações financeiras e patrimoniais sobre bens da Igreja Batista da Lagoinha e a proposta de doação de R$ 100 milhões de 16/04/2024. Nos eventos de virada de ano da Lagoinha, o patrocínio solicitado de Vorcaro foi de US$ 350 mil (2023) e US$ 450 mil (2024), condicionados, segundo a reportagem, a “se Deus tocasse no coração”; a reportagem não registra se os depósitos ocorreram. Procurado, Valadão reconheceu a amizade de décadas, mas frisou que o relacionamento se restringia à igreja e não envolvia negócios; a defesa de Vorcaro disse que não iria comentar o assunto. Propostas e planos registrados na conversa não comprovam, por si, transferências ou operações realizadas.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00002",
+   "content": "O Clava Forte Bank, primeira fintech de uma igreja evangélica no Brasil, foi mencionado na conversa em 09/12/2023 e inaugurado em 31/07/2024, com a empresa de pagamentos Dock, definido por Valadão como “um banco para impulsionar os projetos do Reino de Deus”; Valadão investiu no projeto, segundo a reportagem, contrariando recomendação de Vorcaro. Em abril de 2024, Valadão pediu orientação jurídica sobre unificar o sistema financeiro das igrejas do grupo, que estimava movimentar internamente R$ 300 a 350 milhões. Em setembro de 2025, Valadão chamou a fintech de “melhor banco digital do Brasil”. Após a primeira prisão de Vorcaro (18/11/2025, em Guarulhos, rumo a Dubai), o aplicativo saiu do ar em 21/11/2025; Valadão atribuiu a saída a manutenção temporária contra ataques de hackers. Em vídeo de 14/09/2026, o deputado Rogério Correia (PT-MG) afirmou na CPMI do INSS que o ecossistema de Valadão recebeu recursos de aposentados, pedindo apuração (“Nós precisamos investigar isso”) — alegação parlamentar em investigação, não conclusão; o Congresso aponta proximidade entre Valadão e Felipe Machado Gomes, presidente de associação investigada no esquema do INSS e patrono do réveillon da Lagoinha de 2024. A Folha de S.Paulo relatou que Vorcaro patrocinou a festa de 2023 e foi à de 2024, quando a operação BRB-Master já era alvo de inquérito.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00003",
+   "content": "Negociação do terreno em Orlando (2024): a partir de 14/07/2024, Valadão encaminhou anúncio com oferta de US$ 10,8 milhões e imagens geradas por IA (não reproduzidas); em 31/07 relatou prazo de depósito de US$ 200 mil em cinco dias caso assinasse contrato (fala indireta na reportagem) e em 15/08 escreveu precisar de “200k de dólares pra amarrar a proposta”, com due diligence de até 80 dias. Segundo a reportagem, os dois trocaram dados de contas e instruções, como um modelo de “proof of funds” que Vorcaro se comprometeu a preencher com dados de suas empresas — dado bancário e comprovantes não reproduzidos. Quase um ano depois, o anúncio do terreno seguia no ar “sem dono”, e a reportagem não confirma a conclusão da aquisição; os valores indicados somavam cerca de US$ 12 milhões. Nenhuma aquisição comprovada consta do registro.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00004",
+   "content": "Contexto do imóvel da Jorlan (em frente ao BH Shopping, Belo Horizonte): Valadão anunciou na conversa uma visita com Fabiano Zettel para avaliar o imóvel como igreja de 4 mil lugares liderada por Zettel. Segundo a reportagem, a unidade tornou-se a Lagoinha Belvedere, e relatório do Coaf (RIF 140.515, obtido pela Agência Pública) apontou movimentações atípicas — receita presumida de cerca de R$ 950 mil/ano contra R$ 57,1 milhões recebidos entre dezembro de 2024 e dezembro de 2025 —, período em que Zettel é apontado pela PF como operador de caixa de Vorcaro (Operação Compliance Zero); a unidade foi fechada após a prisão de Zettel, em março de 2026. A reportagem registra que as mensagens analisadas não mostram Vorcaro pedindo a Zettel repasses específicos a Valadão. Detalhamento individualizado de origens dos recursos, envolvendo pessoas físicas, não é reproduzido neste arquivo por não haver necessidade documental demonstrada.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-24",
+      "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  }
+ ]
+}

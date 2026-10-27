@@ -52,9 +52,12 @@ export function classify(level, source, sources, docExists, doc, isEvent = false
     if (primary && primary.document_id != null) {
       return { category: 'SOURCE_CONFLICT', reason: 'public_investigation não deve ter sources.primary.document_id (nível inferior a official_document)' };
     }
-    // Base individual exigida por registro (espelha E_INV_BASIS do validate.mjs):
-    // procedimento público declarado OU referência documental identificável.
-    // Sem isso a aprovação era automática e não comprovava nada por registro.
+    // Base individual exigida por registro (espelha E_INV_BASIS do validate.mjs
+    // e a semântica documentada no README §2): procedimento público declarado
+    // OU referência documental identificável. O nível NÃO afirma acesso ao
+    // documento primário — a fonte publicada apenas amarra o material ao
+    // procedimento. Sem isso a aprovação era automática e não comprovava nada
+    // por registro.
     const hasDocRef = Boolean(did || verification?.case || verification?.document || verification?.official_url);
     const hasProceeding = typeof verification?.proceeding === 'string' && verification.proceeding.trim() !== '';
     if (!hasDocRef && !hasProceeding) {

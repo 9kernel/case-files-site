@@ -1,0 +1,185 @@
+{
+ "id": "netinho-lins-daniel-vorcaro",
+ "title": "Netinho Lins",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "netinho-lins"
+ ],
+ "source": {
+  "document": "UOL — coluna Natália Portinari (22/10/2026): “Deputado agradece Vorcaro após receber pacote na eleição: ‘Salvou a pátria’”",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm",
+  "pages": "Mensagens do celular de Vorcaro conforme transcrição da reportagem; nada além do divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Festa lá do Elmar. Falou pra ajudar. Como faço",
+   "editorial_note": "Em 16/08/2024, no dia seguinte ao pedido de Elmar Nascimento, Vorcaro procurou o empresário, salvo no celular como “Nettinho Bet”, conforme a reportagem; Netinho é investigado na Operação Overclean, da PF.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-16",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "1k então",
+   "editorial_note": "Horas depois, após Netinho responder com o convite e Vorcaro pedir a maior cota de patrocínio disponível — a “Ouro”, de R$ 1 milhão; “1k” conforme a transcrição publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-16",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00003",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "Festa do Elmar",
+   "editorial_note": "Dias depois, na legenda do envio dos dados da sua empresa, a DuBem Business Marketing (dados não reproduzidos), segundo a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00004",
+   "sender_id": "netinho-lins",
+   "content_kind": "verbatim_excerpt",
+   "content": "1k. Foi o q vc acertou comigo.",
+   "editorial_note": "Corrigindo Vorcaro, que perguntara se o valor seria “1,5” (pergunta citada em fala indireta pela reportagem). No mesmo minuto, Vorcaro encaminhou os dados a Fabiano Zettel com a instrução “1mm” (ver conversa própria).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "content": "3º Festival das Esmeraldas, realizado de 5 a 7/09/2024 em Campo Formoso (BA), terra de Elmar Nascimento, cujo irmão Elmo Nascimento (União) era o prefeito; coordenação de Netinho Lins, empresário investigado na Operação Overclean. Em 16/08/2024, um mês antes da eleição municipal, Vorcaro fechou com Netinho a cota “Ouro” de R$ 1 milhão; dias depois, no mesmo minuto em que Netinho corrigiu o valor combinado (“1k”), Vorcaro encaminhou à Zettel a instrução de pagamento, e, no dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem Business Marketing, conforme comprovante empresarial enviado por Zettel à reportagem — comprovante apresentado à imprensa não equivale a documento oficial público individualmente localizado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": null
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "editorial_note": "[Corrigido 2026-10-26: a versão anterior registrava quatro mensagens de outubro/2024 e saída de R$ 2 milhões de conta “Master Distributed Orc Cloud” em 10/10/2024 — registros não localizados na fonte citada (UOL, 22/10/2026) nem em outra fonte cadastrada, removidos; o festival constava como Angatuba (SP) e setembro/2025, em desacordo com a fonte.]"
+  }
+ ]
+}

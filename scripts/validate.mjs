@@ -753,8 +753,18 @@ function checkVerification(m, where, err, { isMessage }) {
     // explícita do procedimento (verification.proceeding). Material cuja única
     // base é reportagem sem procedimento conhecido deve ser secondary_source.
     // proceeding vazio/blank NÃO é base.
+    //
+    // SEMÂNTICA DOCUMENTADA (README §2; auditor espelha esta regra): fonte
+    // exclusivamente jornalística é legítima neste nível SOMENTE quando a
+    // fonte publicada amarra o material a procedimento público identificável
+    // (ex.: mensagens extraídas pela PF do celular apreendido, declarada pela
+    // reportagem e registrada em verification.proceeding). O nível NÃO afirma
+    // acesso ao documento primário — primary_document_located=false — e a
+    // simples menção a uma operação, sem cadeia de origem declarada (ex.:
+    // mensagens anexadas pela defesa a ação judicial), não sustenta
+    // public_investigation: use secondary_source nesses casos.
     const hasDocRef = v.case || v.document || v.official_url || m.source?.document_id;
-    if (!hasDocRef && (typeof v.proceeding !== 'string' || v.proceeding.trim() === '')) {
+    if (!hasDocRef && (typeof v.proceeding !== 'string' || !v.proceeding.trim())) {
       err('E_INV_BASIS', where,
         'public_investigation exige procedimento público identificável (verification.proceeding) ou referência documental (case/document/official_url/página) — caso contrário, use secondary_source.');
     }

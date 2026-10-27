@@ -46,8 +46,16 @@ Braziliense/O Globo, R7/Rádio Guaíba e The Intercept.
 
 **Regra inegociável**: nenhuma mensagem é publicada como “documento oficial”
 apontando para peça sem `public_access_verified: true` — o CI do repositório
-**rejeita o build** se isso acontecer. Nada provém de material sigiloso ou de
-vazamento não oficial.
+**rejeita o build** se isso acontecer. O projeto só trabalha com: (i) peças
+públicas oficiais; (ii) transcrições literais publicadas por veículos
+jornalísticos — sempre citadas registro a registro —; e (iii) manifestações
+públicas das próprias partes (como comunicados institucionais). O projeto não
+obtém nem publica material sigiloso e nenhuma inclusão depende de fonte não
+pública; a origem remota primária do material que a imprensa reporta, porém,
+não é individualmente verificável pelo projeto — por isso cada registro de
+origem jornalística carrega nível de evidência próprio (fonte jornalística ou
+investigação pública com procedimento declarado), sem afirmação de
+conhecimento absoluto sobre a origem última dessas reportagens.
 
 ## 2. O que está no site é exatamente o que está nos autos e nas publicações
 
@@ -64,11 +72,17 @@ vazamento não oficial.
 - **Níveis de verificação por registro**: ✓ documento oficial (localizado na
   peça pública, com página) · ◉ investigação pública (procedimento público
   identificável — peça específica ainda não localizada; o campo
-  `verification.proceeding` declara qual procedimento, e o validador o exige
-  na ausência de referência documental) · ○ fonte jornalística (reportagem
-  citada; usada sempre que o material publicado não amarra a mensagem a um
-  procedimento público). Promoções de nível exigem evidência documental —
-  nunca automáticas.
+  `verification.proceeding` declara qual procedimento, e o validador e o
+  auditor o exigem na ausência de referência documental) · ○ fonte jornalística
+  (reportagem citada; usada sempre que o material publicado não amarra a
+  mensagem a um procedimento público). **Definição explícita de ◉**: fonte
+  exclusivamente jornalística é legítima neste nível somente quando a
+  reportagem declara a cadeia investigativa do material (ex.: mensagens
+  extraídas pela PF do celular apreendido); o nível **não** afirma acesso ao
+  documento primário (`primary_document_located: false`) — a simples menção a
+  uma operação, ou material anexado por partes a ações judiciais sem
+  procedimento público identificável, permanece em ○. Promoções de nível
+  exigem evidência documental — nunca automáticas.
 
 **Auditorias — histórico e números correntes:**
 
@@ -79,10 +93,11 @@ vazamento não oficial.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (19/10/2026)*: **62 conversas · 907 mensagens · 222
-  eventos** — 1129 registros públicos auditados (665 investigação pública com
+- *Números correntes (26/10/2026, pós-merge das rodadas de auditoria 17-19/10 e
+  imprensa 22-26/10)*: **67 conversas · 1065 mensagens · 243
+  eventos** — 1308 registros públicos auditados (786 investigação pública com
   procedimento declarado e fonte jornalística registrada — verificação por
-  registro, não aprovação automática; 275 documento oficial, 189 fonte
+  registro, não aprovação automática; 275 documento oficial, 247 fonte
   jornalística), zero problemas de proveniência. Os totais mudam a cada rodada
   de inclusão: o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.

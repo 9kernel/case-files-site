@@ -1,0 +1,83 @@
+{
+ "id": "leonardo-valverde-daniel-vorcaro",
+ "title": "Leonardo Valverde",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "leonardo-valverde"
+ ],
+ "source": {
+  "document": "UOL — coluna Natália Portinari (21/10/2026): “Ibaneis pilotou operação BRB-Master, e Vorcaro fala em propina de R$ 80 mi”",
+  "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/21/ibaneis-pilotou-operacao-brb-master-e-vorcaro-fala-em-propina-de-r-80-mi.htm",
+  "pages": "Mensagens do celular de Vorcaro conforme transcrição da reportagem; nada além do divulgado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-10",
+   "timestamp_precision": "month",
+   "sender_id": "leonardo-valverde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Segue as empresas!",
+   "editorial_note": "Acompanhava proposta em PDF com CNPJs e dados bancários de empresas (não reproduzidos), enviada após Valverde deixar a presidência do BRB, segundo a reportagem; o dia do mês não foi divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-21",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/21/ibaneis-pilotou-operacao-brb-master-e-vorcaro-fala-em-propina-de-r-80-mi.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "Segundo o UOL (21/10/2026), Leonardo Valverde, ex-presidente do BRB, enviou a Vorcaro em outubro de 2024 propostas de várias empresas para o Master, no contexto da articulação da operação BRB-Master que a reportagem atribui a Ibaneis Rocha; a defesa de Ibaneis nega irregularidades e classifica a operação como ato regular de governo. A reportagem não registra resposta de Vorcaro às propostas nem localiza as empresas em contratos; alegações de proposta de colaboração premiada de Vorcaro citadas na matéria não são tratadas como fatos comprovados. Não há conversa individual de Ibaneis Rocha com Vorcaro registrada: a única menção direta publicada é um agradecimento por “excelente almoço” (19/09/2024) em fala indireta, insuficiente para registro literal.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-21",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/21/ibaneis-pilotou-operacao-brb-master-e-vorcaro-fala-em-propina-de-r-80-mi.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ]
+}

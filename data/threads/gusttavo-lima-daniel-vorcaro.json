@@ -1,0 +1,637 @@
+{
+ "id": "gusttavo-lima-daniel-vorcaro",
+ "title": "Gusttavo Lima",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "gusttavo-lima"
+ ],
+ "source": {
+  "document": "Agência Pública (21/10/2026) — Dyepeson Martins e Ed Wanderley: “Bolsonarista, Gusttavo Lima pressionou Vorcaro por acordo para movimentar R$ 23 bilhões”",
+  "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/",
+  "pages": "Mensagens do celular de Vorcaro conforme transcrição da reportagem (áudios transcritos em trecho); datas e horários apenas os divulgados; nada além do publicado é inferido."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2024-09-10",
+   "timestamp_precision": "date",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "mano, tá ae ?!",
+   "editorial_note": "[Corrigido 2026-10-26: a versão anterior afirmava que a reportagem do Fantástico tratava de Vorcaro.] No dia anterior (09/09/2024), o Fantástico (TV Globo) mostrou que a Justiça determinou bloqueio de R$ 20 milhões e sequestro de imóveis e embarcações da empresa Balada Eventos, de Gusttavo Lima, investigada pela Polícia Civil de Pernambuco por suspeita de lavagem de dinheiro proveniente de jogos de azar; no dia seguinte, Lima buscou contato com Vorcaro, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-09-10",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "fala, irmão",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-09-10",
+   "timestamp_precision": "date",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "obrigado pelo apoio",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00004",
+   "date": "2024-09-10",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "estamos juntos sempre! Bora pra guerra",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00005",
+   "date": "2024-10-28",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Saudades de ti. Vamos encontrar para avançar nos temas",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “Vamos [nos] encontrar para avançar nos temas”; o “[nos]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00006",
+   "date": "2024-10-28",
+   "timestamp_precision": "date",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Uai, urgente, bebê. Cheguei, tô no Brasil, cheguei hoje. Saudades, cara. Tá doido?! Vai me matar de saudade",
+   "editorial_note": "[Corrigido 2026-10-26: transcrição completada com o restante do trecho publicado.] Trecho integral do áudio de 9 segundos transcrito pela reportagem, em resposta à mensagem anterior de 28/10/2024; nada além do trecho publicado foi reconstruído.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00007",
+   "date": "2024-11-06",
+   "time": "09:49",
+   "timestamp_precision": "minute",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "vamos falar sobre o meio de pagamento? Operação Super BH",
+   "editorial_note": "Sobre fornecimento de maquininhas de cartão à rede Super BH, de Pedro Lourenço, conforme a reportagem; ver evento de contexto.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00008",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "temos que andar rápido ou perdemos",
+   "editorial_note": "Na mesma época, segundo a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00009",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "vamos",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00010",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos distribuir as maquininhas em cada loja física. 23 bi ano que vem é o movimento",
+   "editorial_note": "Após chamada de voz, acompanhando arquivo “Pedro – taxas atualizadas”. Os R$ 23 bilhões são projeção de volume de transações da rede, não remuneração de pessoa nem movimentação comprovada, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00011",
+   "date": "2024-11-18",
+   "timestamp_precision": "date",
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos trabalhar, bb. Pelo amor de Deus. Focar",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00012",
+   "date": "2024-11-18",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Bora. Amanhã alinhamos",
+   "editorial_note": "Resposta na mesma sequência de 18/11/2024, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00013",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Irmão, essas são as taxas do Super BH.",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem, pressionando por fechamento; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00014",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "se conseguir cobrir o que for, seja 1%, tá fechado com a gente",
+   "editorial_note": "Do mesmo áudio da mensagem anterior, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00015",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deve passar uns 20 bi no próximo ano",
+   "editorial_note": "Do mesmo áudio, sobre projeção de transações da rede; não é movimentação comprovada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00016",
+   "date": null,
+   "sender_id": "gusttavo-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "meio pagamento. Bora explodir ele. Super BH",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “meio [de] pagamento. Bora explodir ele. Super BH”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal. No dia seguinte ao áudio das taxas, segundo a reportagem; data não divulgada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00017",
+   "date": "2025-01-04",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você é foda. Que loucura. Vou ser seu ministro da Fazenda rsrs",
+   "editorial_note": "Em resposta a print de enquete enviado por Lima, conforme a reportagem; o print não é reproduzido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "PF — mensagens interceptadas e obtidas pela Agência Pública (2026-10-21); a reportagem não vincula explicitamente a interceptação a procedimento nomeado"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "date": null,
+   "content": "A Agência Pública (21/10/2026) descreve proposta comercial para fornecimento de maquininhas de cartão à rede Super BH (mais de 300 lojas em MG e ES, do empresário Pedro Lourenço, amigo e padrinho de casamento do cantor), com projeção — não confirmada — de R$ 23 bilhões em transações por ano, valor coerente com o faturamento real da rede. Segundo a reportagem, inquéritos da PF e do BC suspeitam que Vorcaro usaria marcas do Grupo Entre (Entrepay, Acqio, Octa) para movimentar e lavar dinheiro; a matéria não confirma que o acordo saiu do papel, e as trocas seguiram até cerca de uma semana antes da primeira prisão de Vorcaro (novembro de 2025). Gusttavo Lima, a rede Super BH e a defesa de Vorcaro não comentaram até a publicação. Não confundir a projeção de transações com remuneração pessoal ou contrato executado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-21",
+      "url": "https://apublica.org/2026/10/bolsonarista-gusttavo-lima-pressionou-vorcaro-por-acordo-para-movimentar-r-23-bilhoes/"
+     }
+    ]
+   },
+   "source_ref": "Relato de Agência Pública (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  }
+ ]
+}

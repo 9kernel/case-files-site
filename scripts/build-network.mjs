@@ -61,6 +61,19 @@ const PEOPLE_PATTERNS = {
   // 'marcus-vinicius' NÃO entra na detecção de menções: as fontes não provam
   // que o contato do chat é o mesmo "Marcus Vinicius da Mata" (Prime Aviation)
   // citado em relatório da PF na conversa do Felipe Mourão.
+  // ingest-imprensa-20261014 — “ciro” isolado NÃO detecta Ciro Nogueira
+  // (homônimo parcial com Ciro Soares, já mapeado): apenas nome completo.
+  'julio-cezar': [/julio cezar/, [/\bjulio\b/, /julio cezar/]],
+  'hamilton-buzelin': [/hamilton buzelin/, [/\bbuzelin\b/]],
+  'martha-graeff': [/martha graeff/, [/\bmartha\b/, /martha graeff/]],
+  'fernando-mascarenhas': [/fernando mascarenhas/, [/\bmascarenhas\b/, /fernando mascarenhas/]],
+  'acm-neto': [/acm neto/, /\bacm\b/],
+  'isadora-alencar': [/isadora alencar/, [/\bisadora\b/, /isadora alencar/]],
+  'guilherme-sodre': [/guilherme sodre/, /\bguiga\b/],
+  'augusto-lima': [/augusto lima/, [/\baugusto\b/, /augusto lima/]],
+  'diogo-batista': [/diogo batista/, [/\bdiogo\b/, /diogo batista/]],
+  'leonardo-serrano': [/leonardo serrano/, [/\bserrano\b/, /leonardo serrano/], /\bgiunchetti\b/],
+  'ciro-nogueira': [/ciro nogueira/],
 };
 
 /* Partidos como entidades — filiação é atributo público do político
@@ -71,6 +84,7 @@ const PARTIES = {
   'uniao-brasil': { label: 'União Brasil', sigla: 'UNIÃO' },
   'republicanos': { label: 'Republicanos', sigla: 'REP' },
   'psdb':         { label: 'PSDB', sigla: 'PSDB' },
+  'pp':           { label: 'Progressistas', sigla: 'PP' },
 };
 const PARTY_AFFILIATIONS = {
   'flavio-bolsonaro': 'pl',
@@ -83,6 +97,8 @@ const PARTY_AFFILIATIONS = {
   'antonio-rueda': 'uniao-brasil',
   'hugo-motta': 'republicanos',
   'joao-doria': 'psdb',
+  'acm-neto': 'uniao-brasil',
+  'ciro-nogueira': 'pp',
 };
 const partySource = (personId) => ({
   label: 'Registro público — verbete da pessoa (Wikipédia)',
@@ -91,7 +107,8 @@ const partySource = (personId) => ({
       'nikolas-ferreira': 'Nikolas_Ferreira', 'cezinha-de-madureira': 'Cezinha_de_Madureira',
       'iraja': 'Irajá_Abreu', 'fabio-faria': 'Fábio_Faria_(político)',
       'davi-alcolumbre': 'Davi_Alcolumbre', 'antonio-rueda': 'Antonio_Rueda',
-      'hugo-motta': 'Hugo_Motta', 'joao-doria': 'João_Doria' }[personId] || personId)}`,
+      'hugo-motta': 'Hugo_Motta', 'joao-doria': 'João_Doria',
+      'acm-neto': 'ACM_Neto', 'ciro-nogueira': 'Ciro_Nogueira' }[personId] || personId)}`,
 });
 
 const INSTITUTIONS = {

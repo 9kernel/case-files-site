@@ -205,7 +205,14 @@ ok = runCase('public_investigation sem procedimento identificável', (t) => {
 ok = runCase('public_investigation com proceeding declarado passa', (t) => {
   t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: 'Operação Compliance Zero — PF/STF' };
 }, []) && ok;
-ok = runCase('public_investigation com proceeding vazio/blank é rejeitado', (t) => {
+/* regressão 2026-10-23 (correção de proveniência): semântica documentada de
+   public_investigation — fonte exclusivamente jornalística é legítima apenas
+   com amarra declarada a procedimento público (README §2); string vazia não
+   é amarra */
+ok = runCase('public_investigation com origin press report e proceeding declarado é legítimo (semântica documentada)', (t) => {
+  t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', origin: 'press report', authority: 'Polícia Federal', proceeding: 'PF — mensagens extraídas do celular de Vorcaro, declarada pela reportagem' };
+}, []) && ok;
+ok = runCase('public_investigation com proceeding em branco é rejeitado', (t) => {
   t.messages[0].verification = { ...t.messages[0].verification, level: 'public_investigation', proceeding: '   ' };
 }, ['E_INV_BASIS']) && ok;
 ok = runCase('public_investigation com official_url como base documental passa', (t) => {
@@ -252,6 +259,22 @@ ok = runCase('campo legado type', (t) => { t.messages[0].type = 'text'; }, ['E_L
 ok = runCase('evento com id fora do padrão', (t) => { t.timeline_events[0].id = 'evento-1'; }, ['E_BAD_EVENT_ID']) && ok;
 ok = runCase('evento com event_kind inválido', (t) => { t.timeline_events[0].event_kind = 'palpite'; }, ['E_BAD_EVENT_KIND']) && ok;
 ok = runCase('evento com content vazio', (t) => { t.timeline_events[0].content = '  '; }, ['E_BAD_CONTENT']) && ok;
+
+/* regressão ingest-press8-20261023: eventos editoriais seguem E_INV_BASIS —
+   evento de contexto com origem apenas jornalística deve ser secondary_source,
+   nunca public_investigation sem procedimento público identificável */
+ok = runCase('evento editorial public_investigation sem procedimento', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal' };
+}, ['E_INV_BASIS']) && ok;
+ok = runCase('evento editorial public_investigation com proceeding declarado passa', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal', proceeding: 'Operação Compliance Zero — PF/STF' };
+}, []) && ok;
+ok = runCase('evento editorial public_investigation com referência documental passa', (t) => {
+  t.timeline_events[0].verification = { ...t.timeline_events[0].verification, level: 'public_investigation', authority: 'Polícia Federal', case: 'INQ 5026' };
+}, []) && ok;
+ok = runCase('evento editorial secondary_source sem source_ref', (t) => {
+  delete t.timeline_events[0].source_ref;
+}, ['E_MISSING_SOURCE_REF']) && ok;
 
 /* mídia: cadeia de proveniência (§35) */
 const media = (over = {}) => ({ status: 'media_reference_only', ...over });

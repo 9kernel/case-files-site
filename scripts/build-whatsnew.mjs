@@ -17,7 +17,7 @@ const threadsDir = path.join(rootDir, 'data', 'threads');
 const outFile = path.join(rootDir, 'data', 'whatsnew.json');
 
 // lotes correntes (rótulos added_in da ÚLTIMA rodada de inclusão)
-const CURRENT_BATCHES = ['audit-20261019'];
+const CURRENT_BATCHES = ['ingest-press9-20261026'];
 
 const isPublic = (r) => r?.verification?.level !== 'pending_review';
 const batchLabel = (r) => (/\d{8}$/.test(String(r?.added_in || '')) ? r.added_in : null);

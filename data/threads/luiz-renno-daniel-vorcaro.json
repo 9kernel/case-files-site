@@ -57,6 +57,216 @@
   },
   {
    "id": "m-00011",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pablo marcal quer marcar um jantar com vc",
+   "editorial_note": "Em 17/08/2024, Rennó informa a Vorcaro o interesse de Pablo Marçal, então candidato à Prefeitura de São Paulo, em marcar um jantar, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Outro?",
+   "editorial_note": "Resposta na mesma sequência de 17/08/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00013",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falando c ele todo dia",
+   "editorial_note": "Na mesma sequência de 17/08/2024.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00014",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que ele vai dar trabalho ainda na política e tera projecao no futuro",
+   "editorial_note": "Sobre Marçal, na mesma conversa de 17/08/2024; grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00015",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fiz uma parceria boa",
+   "editorial_note": "Sobre Marçal, na mesma conversa de 17/08/2024; a reportagem não detalha a parceria nem comprova contrato, pagamento ou doação — ver evento de contexto.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00016",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Com ele e partido",
+   "editorial_note": "Sequência imediata da mensagem anterior, esclarecendo que a parceria seria com Marçal e com o partido (PRTB), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (24/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-08-17",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00025",
    "date": "2024-09-11",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -92,7 +302,7 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "m-00012",
+   "id": "m-00026",
    "date": "2024-09-11",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -133,7 +343,7 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "m-00013",
+   "id": "m-00027",
    "date": "2024-09-11",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -174,7 +384,7 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "m-00014",
+   "id": "m-00028",
    "date": "2024-09-11",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -210,7 +420,7 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "m-00015",
+   "id": "m-00029",
    "date": "2024-09-11",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -323,7 +533,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00016",
+   "id": "m-00030",
    "date": "2024-10",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -364,7 +574,7 @@
    "time": null
   },
   {
-   "id": "m-00017",
+   "id": "m-00031",
    "date": "2024-10",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -405,7 +615,7 @@
    "time": null
   },
   {
-   "id": "m-00018",
+   "id": "m-00032",
    "date": "2024-10",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -441,7 +651,7 @@
    "time": null
   },
   {
-   "id": "m-00019",
+   "id": "m-00033",
    "date": "2024-10",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
@@ -482,7 +692,7 @@
    "time": null
   },
   {
-   "id": "m-00020",
+   "id": "m-00034",
    "date": "2024-10",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -523,7 +733,7 @@
    "time": null
   },
   {
-   "id": "m-00021",
+   "id": "m-00035",
    "date": "2024-10",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
@@ -564,7 +774,7 @@
    "time": null
   },
   {
-   "id": "m-00022",
+   "id": "m-00036",
    "date": "2024-10",
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -711,6 +921,147 @@
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Fabio Serapião (com Cézar Feitoza e Natália Portinari) (2026-10-02)",
    "added_in": "ingest-press6-20261016"
+  },
+  {
+   "id": "m-00017",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "confirma uma informação, Nicolas deputado, Thiago adv e mineração Capão!",
+   "editorial_note": "Às 14h02 de 02/04/2025, Rennó pede confirmação sobre Nikolas Ferreira, o advogado dele (Thiago) e a mineradora Capão, no contexto de proposta envolvendo ativo minerário apresentada por Nikolas e seu advogado, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (23/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-23",
+      "url": "https://iclnoticias.com.br/nikolas-vorcar-ativo-minerario-conversa-pressao/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-02",
+   "time": "14:02",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00018",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nikolas me pediu atendi 10 min aqui",
+   "editorial_note": "Resposta na mesma sequência de 02/04/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (23/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-23",
+      "url": "https://iclnoticias.com.br/nikolas-vorcar-ativo-minerario-conversa-pressao/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00019",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao vale a pena ok!",
+   "editorial_note": "À noite de 02/04/2025, após expor avaliação comercial desfavorável que já tinha da área (a reportagem cita apenas o fragmento “análise dessa área”, não transcrito integralmente), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (23/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-23",
+      "url": "https://iclnoticias.com.br/nikolas-vorcar-ativo-minerario-conversa-pressao/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-02",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00020",
+   "sender_id": "luiz-renno",
+   "content_kind": "verbatim_excerpt",
+   "content": "Turma desse lado me cobrando! Falei que não tive tempo de olhar com vc! Negócio é ruim e entendo que não é o momento! Se pensar diferente me avise",
+   "editorial_note": "Em 08/04/2025; Vorcaro não respondeu, segundo a reportagem. A reportagem não esclarece integralmente o pedido, e nada indica que o negócio foi concluído.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "PF — mensagens do celular de Vorcaro apreendidas pela Polícia Federal e obtidas pelo Núcleo Investigativo do ICL Notícias (23/10/2026); a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-23",
+      "url": "https://iclnoticias.com.br/nikolas-vorcar-ativo-minerario-conversa-pressao/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-23)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2025-04-08",
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00007",
@@ -877,7 +1228,7 @@
    "added_in": "ingest-press2-20261016"
   },
   {
-   "id": "m-00023",
+   "id": "m-00037",
    "date": null,
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -911,7 +1262,7 @@
    "added_in": "audit-20261017"
   },
   {
-   "id": "m-00024",
+   "id": "m-00038",
    "date": null,
    "sender_id": "luiz-renno",
    "content_kind": "verbatim_excerpt",
@@ -947,7 +1298,7 @@
  ],
  "timeline_events": [
   {
-   "id": "e-00006",
+   "id": "e-00007",
    "date": "2024-09-05",
    "content": "Contexto da tratativa: o memorando de entendimentos da bet.bet foi assinado por intermédio de André Kruschewsky (ver thread dele); as mensagens registram negociação e questionamentos de Vorcaro — participação nas tratativas não comprova investimento financeiro nem participação societária formal de Rennó ou Rueda.",
    "event_kind": "editorial_context",
@@ -981,7 +1332,7 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "e-00005",
+   "id": "e-00008",
    "date": "2024-09-27",
    "content": "O Ministério da Fazenda exige a identificação do beneficiário final do fundo Oracle, ligado à bet.bet, segundo o Estadão; nos documentos formais, o cotista registrado era Adriano Garzon, despachante mineiro.",
    "event_kind": "editorial_context",
@@ -1148,6 +1499,66 @@
    },
    "source_ref": "Relato de Folha de S.Paulo (coluna Mônica Bergamo) (2026-09-15)",
    "added_in": "ingest-press3-20261016"
+  },
+  {
+   "id": "e-00005",
+   "content": "Contexto Marçal (ICL, 24/10/2026): em 17/08/2024, Rennó transmitiu a Vorcaro o interesse de Pablo Marçal em um jantar; Vorcaro disse falar “todo dia” com ele e que fizera “uma parceria boa” “com ele e partido” (PRTB), na disputa da Prefeitura de São Paulo de 2024. A declaração de parceria não comprova contrato, pagamento ou doação eleitoral; o ICL informa ter checado as prestações de contas de Marçal, do PRTB e do Master sem localizar doações. Não há conversa direta entre Vorcaro e Marçal registrada neste arquivo.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-24",
+      "url": "https://iclnoticias.com.br/vorcaro-diz-que-fez-parceria-boa-com-marcal-enquanto-ele-disputava-a-prefeitura-de-sp/"
+     }
+    ]
+   },
+   "source_ref": "Relato de ICL Notícias (2026-10-24)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00006",
+   "content": "Contexto ativo minerário (ICL, 23/10/2026): em abril de 2025, Rennó e Vorcaro trataram de proposta envolvendo ativo minerário apresentada pelo deputado Nikolas Ferreira e por seu advogado; Rennó expôs avaliação comercial desfavorável (“Nao vale a pena ok!”) e, em 08/04/2025, relatou cobrança da outra parte. Vorcaro não respondeu. O áudio de Nikolas a Vorcaro de 30/03/2025 citado pela reportagem já está registrado na conversa própria de Nikolas (não duplicado). A reportagem não esclarece integralmente o pedido nem comprova conclusão do negócio.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-23",
+      "url": "https://iclnoticias.com.br/nikolas-vorcar-ativo-minerario-conversa-pressao/"
+     }
+    ]
+   },
+   "source_ref": "Relato de ICL Notícias (2026-10-23)",
+   "added_in": "ingest-press9-20261026"
   }
  ]
 }

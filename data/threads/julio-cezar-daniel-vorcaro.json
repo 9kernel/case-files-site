@@ -775,7 +775,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Estamos já há mais de 12 meses tentando uma boleta (investimento). Não dá pra mobilizar a equipe…",
-   "editorial_note": "Parêntese de explicação consta da reportagem. [Consolidação 17/10/2026: a transcrição parcial antes registrada como m-00021 (Veja, 10/10/2026 — “Estamos já há mais de 12 meses tentando uma boleta (…)”) corresponde à mesma mensagem, transcrita de forma mais completa pela Veja (09/10/2026); o registro parcial foi removido.]",
+   "editorial_note": "Parêntese de explicação consta da reportagem. [Deduplicado 2026-10-23: a matéria de 10/10 publicou transcrição parcial desta mesma mensagem (ex-m-00021); fontes unificadas.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -787,7 +787,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-16",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -797,14 +797,19 @@
       "publication": "Veja",
       "date": "2026-10-09",
       "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09; transcrição parcial da mesma mensagem em 2026-10-10)",
    "added_in": "ingest-press5-20261016"
   },
   {
-   "id": "m-00033",
+   "id": "m-00035",
    "date": "2025-07",
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
@@ -840,7 +845,7 @@
    "time": null
   },
   {
-   "id": "m-00034",
+   "id": "m-00036",
    "date": "2025-07",
    "sender_id": "julio-cezar",
    "content_kind": "verbatim_excerpt",
@@ -919,7 +924,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Cara, essa é a última chance. Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho…",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Consolidação 17/10/2026: a transcrição parcial antes registrada como m-00024 (Veja, 10/10/2026 — “Se não entrar nada até final da semana que vem, eu gostaria que você encerrasse o trabalho.”) corresponde à mesma mensagem, transcrita de forma mais completa pela Veja (09/10/2026); o registro parcial foi removido.]",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Deduplicado 2026-10-23: a matéria de 10/10 publicou transcrição parcial desta mesma mensagem (ex-m-00024); fontes unificadas.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -931,7 +936,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-16",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -941,10 +946,15 @@
       "publication": "Veja",
       "date": "2026-10-09",
       "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09; transcrição parcial da mesma mensagem em 2026-10-10)",
    "added_in": "ingest-press5-20261016"
   },
   {
@@ -955,7 +965,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Sexta que vem — não entrando — vida que segue. Lá na frente bolamos outra coisa juntos",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Consolidação 17/10/2026: a transcrição parcial antes registrada como m-00026 (Veja, 10/10/2026 — “Sexta que vem — não entrando — vida que segue.”) corresponde à mesma mensagem, transcrita de forma mais completa pela Veja (09/10/2026); o registro parcial foi removido.]",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Deduplicado 2026-10-23: a matéria de 10/10 publicou transcrição parcial desta mesma mensagem (ex-m-00026); fontes unificadas.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -967,7 +977,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-17",
+    "verified_at": "2026-10-16",
     "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
    },
    "sources": {
@@ -977,10 +987,15 @@
       "publication": "Veja",
       "date": "2026-10-09",
       "url": "https://veja.abril.com.br/politica/vorcaro-conta-que-liberou-dinheiro-para-filme-sobre-lula-por-negocios-no-governo"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-10",
+      "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
      }
     ]
    },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-09)",
+   "source_ref": "Mensagem divulgada por Veja (2026-10-09; transcrição parcial da mesma mensagem em 2026-10-10)",
    "added_in": "ingest-press5-20261016"
   },
   {
@@ -1164,12 +1179,12 @@
    "date": "2024-04-29",
    "time": null,
    "timestamp_precision": "date",
-   "content": "29/04/2024: Augusto Lima comunica a Vorcaro “Entramos na lista exaustiva” — declaração atribuída ao remetente naquele dia; a atualização pública da lista de instituições autorizadas a receber recursos de fundos de pensão foi publicada em 02/05/2024, conforme o UOL. No mesmo 29/04, segundo a reportagem, Vorcaro pagou R$ 500 mil de adiantamento a Júlio Cezar. [Correção 17/10/2026: a versão anterior associava o dia 29/04 à entrada oficial do Master na lista — a data de publicação da atualização é 02/05/2024, e a mensagem de Augusto Lima permanece como declaração atribuída ao remetente. Complemento 19/10/2026: a página oficial do Ministério da Previdência foi publicada em 23/04/2024 (10h43) e atualizada em 02/05/2024 (14h58); o PDF da lista nela vinculado tem a data 29/04/2024 no próprio nome do arquivo — a data de atualização da página, isoladamente, não comprova a data de inclusão de cada instituição.]",
+   "content": "O Master passa a constar da 'lista exaustiva' de instituições autorizadas a receber recursos de fundos de pensão e, no mesmo dia, Vorcaro paga R$ 500 mil de adiantamento a Júlio Cezar, segundo a reportagem. Ressalva: a página oficial da lista foi atualizada em 02/05/2024 e não comprova isoladamente a data individual de inclusão do Master — o registro se apoia na reportagem e na mensagem de 29/04/2024 ('Entramos na lista exaustiva. Resolvido', conversa Augusto Lima).",
    "event_kind": "editorial_context",
    "verification": {
-    "level": "public_investigation",
+    "level": "secondary_source",
     "origin": "press report",
-    "authority": "Polícia Federal",
+    "authority": null,
     "court": null,
     "case": null,
     "document": null,
@@ -1177,8 +1192,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-19",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-23"
    },
    "sources": {
     "primary": null,
@@ -1187,21 +1201,12 @@
       "publication": "Veja",
       "date": "2026-10-10",
       "url": "https://veja.abril.com.br/brasil/em-audio-operador-de-propinas-do-planalto-diz-que-iria-colocar-vorcaro-na-boca-do-gol-no-bb"
-     },
-     {
-      "publication": "UOL — coluna Cezar Feitoza",
-      "date": "2026-10-12",
-      "url": "https://noticias.uol.com.br/colunas/cezar-feitoza/2026/10/12/master-entrou-em-lista-para-captar-fundos-publicos-apos-acao-de-acm-e-lupi.ghtm"
-     },
-     {
-      "publication": "Ministério da Previdência (gov.br) — página oficial da Lista Exaustiva",
-      "date": "2024-05-02",
-      "url": "https://www.gov.br/previdencia/pt-br/assuntos/rpps/destaques/atualizacao-da-lista-exaustiva-2013-inciso-i-do-ss2o-e-ss8o-do-art-21-da-resolucao-cmn-no-4-963-2021"
      }
     ]
    },
    "source_ref": "Relato de Veja (2026-10-10)",
-   "added_in": "ingest-press-20261015"
+   "added_in": "ingest-press-20261015",
+   "editorial_note": "[Proveniência revisada 2026-10-23: evento de origem jornalística com fonte primária não localizada — nível secondary_source.]"
   },
   {
    "id": "e-00003",

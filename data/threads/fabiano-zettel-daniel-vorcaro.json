@@ -285,7 +285,7 @@
    "added_in": "ingest-pf-20261007"
   },
   {
-   "id": "m-00033",
+   "id": "m-00037",
    "date": "2024-10",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -321,7 +321,7 @@
    "time": null
   },
   {
-   "id": "m-00034",
+   "id": "m-00038",
    "date": "2024-10",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -357,7 +357,7 @@
    "time": null
   },
   {
-   "id": "m-00035",
+   "id": "m-00039",
    "date": "2024-10",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -393,7 +393,7 @@
    "time": null
   },
   {
-   "id": "m-00036",
+   "id": "m-00040",
    "date": "2024-10",
    "sender_id": "fabiano-zettel",
    "content_kind": "verbatim_excerpt",
@@ -1330,11 +1330,80 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 50 · fig. 58",
    "added_in": "ingest-pf-20261007"
+  },
+  {
+   "id": "m-00033",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Assim que mineiro liberar me avise. Pra programarmos",
+   "editorial_note": "Às 12h58 de 02/10/2024, no contexto da entrega de um volume pelo motorista de Vorcaro a pessoa indicada por Elmar Nascimento (ver conversa própria); “Mineiro” é Antônio Carlos Freixo Júnior, apontado pela investigação como gerador de dinheiro vivo para Vorcaro, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-10-02",
+   "time": "12:58",
+   "timestamp_precision": "minute"
+  },
+  {
+   "id": "m-00034",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "1mm",
+   "editorial_note": "Instrução enviada a Zettel no encaminhamento dos dados da DuBem Business Marketing, de Netinho Lins (dados bancários não reproduzidos), dias depois de 16/08/2024, segundo a reportagem; data não divulgada. Antes, Vorcaro perguntara a Netinho se o valor seria “1,5” (ver conversa própria). No dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026"
   }
  ],
  "timeline_events": [
   {
-   "id": "e-00006",
+   "id": "e-00008",
    "date": "2024-10",
    "content": "ACM Neto pede a Vorcaro uma conversa “eu, você e Rueda” e o encontro na charutaria ocorre em outubro/2024; nove dias depois, ACM escreve que “saiu tudo como desejávamos na política” (ver thread de ACM Neto), segundo o UOL.",
    "event_kind": "editorial_context",
@@ -1522,7 +1591,39 @@
    "added_in": "ingest-press7-20261016"
   },
   {
-   "id": "e-00007",
+   "id": "e-00006",
+   "content": "Patrocínio de R$ 1 milhão ao 3º Festival das Esmeraldas (Campo Formoso/BA, 5–7/09/2024): em agosto de 2024, Vorcaro encaminhou a Zettel os dados da DuBem Business Marketing com a instrução “1mm”; no dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem, conforme comprovante enviado por Zettel à reportagem do UOL. O comprovante empresarial apresentado a um jornalista não é tratado como documento oficial público individualmente localizado.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": null
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "editorial_note": "[Corrigido 2026-10-26: as mensagens m-00033–m-00035 anteriores, datadas de 24–25/09/2025 com transcrições não localizáveis na fonte citada, foram removidas; a negociação do patrocínio situa-se em agosto de 2024, conforme o UOL.]"
+  },
+  {
+   "id": "e-00009",
    "date": "2026-10-16",
    "content": "Dark Horse — resposta do liquidante à Câmara: em resposta a pedido de informação do deputado Lindbergh Farias (PT-RJ), o liquidante da massa do Master, Eduardo Bianchini, informou que “não foram encontrados documentos, registros contábeis ou contratuais” que evidenciem operações de “financiamento, patrocínio ou aporte de recursos” ao filme — diretos ou via terceiros —, “nos limites das informações examinadas”; tampouco registros de operações das instituídas com o fundo Havengate Development Fund LP ligadas ao filme. A reportagem relata que a PF rastreou repasses de R$ 62 milhões ao filme via Entre Investimentos e que, segundo a coluna, em declaração à PF o delator conhecido como Mineiro relatou que o pedido de remessa partiu de Zettel, apresentado como subscrição em fundo de private equity imobiliário nos EUA — versão em que Mineiro diz não ter sido informado do destino ao filme. A origem final dos recursos permanece sem explicação; o ofício do liquidante não foi localizado na forma original (número e data não divulgados), por isso o registro é secondary_source.",
    "event_kind": "editorial_context",

@@ -73,9 +73,9 @@
    "daniel-vorcaro",
    "ana-matos"
   ],
-  "message_count": 35,
+  "message_count": 75,
   "last_message_date": "2025-09-01",
-  "last_message_preview": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo n",
+  "last_message_preview": "Vamos com o Ferri mesmo, Daniel. Já pesquisei a Monica, não",
   "featured": false,
   "note": "Fóruns de Londres; produção de conteúdo com influenciadores (incl. Gabriela Prioli, que nega contrato, contato e pagamento — ver evento de 16/10/2026) e recepção de Eduardo Oinegue em 01/09/2025.",
   "source": {
@@ -93,7 +93,7 @@
   ],
   "message_count": 6,
   "last_message_date": "2024-09-05",
-  "last_message_preview": "Porra eu tinha mandado esperar. Todo mundo presonontem. Esse",
+  "last_message_preview": "Porra eu tinha mandado esperar. Todo mundo presonontem. Esse negocio tem q segur",
   "featured": false,
   "note": "Ex-diretor jurídico do Master (segundo o Brasil 247). Assinatura do MOU da bet.bet e do fundo Oracle (05/09/2024), com reação contrariada de Vorcaro. Memorando não comprova investimento nem sociedade formal.",
   "source": {
@@ -103,6 +103,18 @@
   }
  },
  {
+  "id": "andre-valadao-daniel-vorcaro",
+  "title": "André Valadão",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "andre-valadao"
+  ],
+  "message_count": 28,
+  "last_message_preview": "a fintech, que por sinal tá indo super bem e sem dúvida é algo que pode ficar grande demais",
+  "featured": false,
+  "note": "Agência Pública (24/10/2026) — Amanda Audi, Jéssica Ribeiro e Ed Wanderley: “Vorcaro orquestrou venda de bens da Igreja Lagoinha e prometeu expansão de R$ 100 milhões”"
+ },
+ {
   "id": "angelo-silva-daniel-vorcaro",
   "title": "Angelo Silva",
   "participants_ids": [
@@ -110,8 +122,8 @@
    "angelo-silva"
   ],
   "message_count": 7,
-  "last_message_date": "2025-02-28",
-  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq",
+  "last_message_date": "2024-03-15",
+  "last_message_preview": "No contrato foi tirado a referência do MOU com o Pereto e qq outra vinculação.",
   "featured": false,
   "note": "Comprovantes e execução dos pagamentos ao Escritório Barci de Moraes.",
   "source": {
@@ -136,7 +148,7 @@
    "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/01/mensagens-vorcaro-antonio-rueda.ghtm",
    "pages": "Reportagem do UOL com base no jornal O Globo (01/10/2026). Erros de digitação mantidos conforme divulgados. A menção de Vorcaro e Ana Matos a Rueda em evento de Londres (18/07/2025) está documentada no IPJ-A nº 3298613/2026 (peça pública) e aparece na thread de Ana Matos. Horários não divulgados."
   },
-  "last_message_date": "2024-07-12"
+  "last_message_date": "2024-07"
  },
  {
   "id": "augusto-lima-daniel-vorcaro",
@@ -145,10 +157,11 @@
    "daniel-vorcaro",
    "augusto-lima"
   ],
-  "message_count": 7,
-  "last_message_preview": "Vamos vencer",
+  "message_count": 10,
+  "last_message_preview": "É descer muito de Vini Jr par a Neymar.",
   "featured": false,
-  "note": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria repor"
+  "note": "Jovem Pan (coluna Bruno Pinheiro), 25/09/2026: mensagens de 29/1/2025 com o ex-sócio e ex-diretor do Master (que comandava a originação de consignado e depois presidiu o Voiter/Pleno). A própria repor",
+  "last_message_date": "2025-02"
  },
  {
   "id": "cezinha-de-madureira-daniel-vorcaro",
@@ -241,6 +254,18 @@
   "note": "UOL — coluna Natália Portinari, 15/10/2026: conversas entre Vorcaro e o vendedor do duplex da Vila Olímpia alugado e depois vendido ao presidente da Febraban Isaac Sidney — com R$ 1,2 milhão pagos por"
  },
  {
+  "id": "elmar-nascimento-daniel-vorcaro",
+  "title": "Elmar Nascimento",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "elmar-nascimento"
+  ],
+  "message_count": 8,
+  "last_message_preview": "Obrigado amigo. Ganhei tudo aqui. 35 prefeitos",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari (22/10/2026): “Deputado agradece Vorcaro após receber pacote na eleição: ‘Salvou a pátria’”"
+ },
+ {
   "id": "elsinho-mouco-daniel-vorcaro",
   "title": "Elsinho Mouco",
   "participants_ids": [
@@ -259,11 +284,10 @@
    "daniel-vorcaro",
    "fabiano-zettel"
   ],
-  "message_count": 36,
-  "last_message_preview": "acho que tem que ser os dois",
+  "message_count": 38,
+  "last_message_preview": "1mm",
   "featured": false,
-  "note": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53).",
-  "last_message_date": "2025-03-12"
+  "note": "Cunhado de Vorcaro, segundo o relatório. A PF descreve combinações de 'pressão' sobre o ex-chefe de cozinha e o ex-capitão do barco de Vorcaro (fls. 48-53)."
  },
  {
   "id": "fabio-faria-daniel-vorcaro",
@@ -292,7 +316,7 @@
   ],
   "message_count": 8,
   "last_message_date": "2024-02-15",
-  "last_message_preview": "Vamos cuidar disso. O procurador sabe a quantidade de amigos",
+  "last_message_preview": "Vamos cuidar disso. O procurador sabe a quantidade de amigos que tenho no MPF",
   "featured": false,
   "note": "Advogado. Mensagens de 15/02/2024 sobre inquérito sigiloso envolvendo Nelson Tanure: propostas de cooperação com o MPF “em roupagem de compliance”. Sua manifestação (recebeu o material de um jornalista e sugeriu cooperação) registrada em evento.",
   "source": {
@@ -308,11 +332,10 @@
    "daniel-vorcaro",
    "felipe-mourao"
   ],
-  "message_count": 90,
+  "message_count": 105,
   "last_message_preview": "Maurício Correlatos.pdf",
   "featured": false,
-  "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos.",
-  "last_message_date": "2025-07-28"
+  "note": "O relatório da PF documenta conversa direta prolongada entre Vorcaro e Felipe Mourão, identificado no próprio documento como agente cooptador (tese da PF). Terceiros citados na narrativa como alvos de apuração ou 'pressão' aparecem apenas por iniciais e não são investigados nos autos."
  },
  {
   "id": "fernando-mascarenhas-daniel-vorcaro",
@@ -324,8 +347,7 @@
   "message_count": 12,
   "last_message_preview": "Show",
   "featured": false,
-  "note": "Então diretor comercial do Master: captações de previdências estaduais (nov/2023–jul/2024), viagens articuladas com Rueda e a inclusão do Master na lista de RPPS (abr–mai/2024).",
-  "last_message_date": "2024-07-12"
+  "note": "Então diretor comercial do Master: captações de previdências estaduais (nov/2023–jul/2024), viagens articuladas com Rueda e a inclusão do Master na lista de RPPS (abr–mai/2024)."
  },
  {
   "id": "flavio-bolsonaro-daniel-vorcaro",
@@ -352,8 +374,8 @@
    "daniel-vorcaro",
    "flavio-carneiro"
   ],
-  "message_count": 22,
-  "last_message_preview": "Na IstoÉ é que controlamos mais",
+  "message_count": 26,
+  "last_message_preview": "Esse Nikolas eu banquei todos os voos dele",
   "featured": false,
   "note": "O amigo e conselheiro do banqueiro avaliando o encontro com o senador: “Acho uma roubada danada”.",
   "source": {
@@ -412,7 +434,6 @@
   "last_message_preview": "amigo, vc merece muito, vamos ajustar",
   "featured": false,
   "note": "Então assessor de Vorcaro. Sequência de agosto/2024 sobre reportagem da Folha: Metrópoles afirma pagamento de R$ 1 milhão para adiar/amenizar; a Folha nega e Barros defende seu trabalho — versões contraditórias registradas em eventos.",
-  "last_message_date": "2024-08-09",
   "source": {
    "document": "Metrópoles (16/10/2026) e UOL (15/10/2026)",
    "url": "https://www.metropoles.com/brasil/daniel-vorcaro-pagou-r-1-milhao-para-adiar-e-amenizar-materia-na-folha-de-s-paulo",
@@ -430,6 +451,18 @@
   "last_message_preview": "Ao vivo são ainda mais lindas",
   "featured": false,
   "note": "Folha de S.Paulo, 09/10/2026: mensagens sobre negociação de obras de arte e encaminhamento do contato do senador Jaques Wagner (PT-BA), de quem Guiga é aliado (pai de Eduardo Sodré, secretário de Meio"
+ },
+ {
+  "id": "gusttavo-lima-daniel-vorcaro",
+  "title": "Gusttavo Lima",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "gusttavo-lima"
+  ],
+  "message_count": 17,
+  "last_message_preview": "Você é foda. Que loucura. Vou ser seu ministro da Fazenda rsrs",
+  "featured": false,
+  "note": "Agência Pública (21/10/2026) — Dyepeson Martins e Ed Wanderley: “Bolsonarista, Gusttavo Lima pressionou Vorcaro por acordo para movimentar R$ 23 bilhões”"
  },
  {
   "id": "hamilton-buzelin-daniel-vorcaro",
@@ -469,7 +502,7 @@
    "iraja"
   ],
   "message_count": 15,
-  "last_message_preview": "Vem terça ou quarta!? Preciso muito da sua orientação naq…",
+  "last_message_preview": "Vem terça ou quarta!? Preciso muito da sua orientação naquela agenda, até hoje n",
   "featured": false,
   "note": null,
   "source": {
@@ -511,7 +544,7 @@
    "joao-doria"
   ],
   "message_count": 6,
-  "last_message_preview": "",
+  "last_message_preview": "Chamada de voz",
   "featured": false,
   "note": null,
   "source": {
@@ -541,10 +574,9 @@
    "julio-cezar"
   ],
   "message_count": 31,
-  "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da",
+  "last_message_preview": "Amanhã ele vai travar a agenda do dia 2 de abril na parte da tarde só pra você!!",
   "featured": false,
-  "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo",
-  "last_message_date": "2025-11"
+  "note": "Veja (coluna Radar), 10/10/2026 — Robson Bonin e Hugo Marques: mais de 450 mensagens e 180 telefonemas entre Vorcaro e Júlio Cezar, consultor de Goiânia apontado pela reportagem como operador do grupo"
  },
  {
   "id": "leonardo-palhares-daniel-vorcaro",
@@ -555,7 +587,7 @@
   ],
   "message_count": 15,
   "last_message_date": "2025-07-24",
-  "last_message_preview": "O Guilherme está conferindo com a chefe dele se vão adotar uma estrutura diferente para a ",
+  "last_message_preview": "O Guilherme está conferindo com a chefe dele se vão adotar uma estrutura diferen",
   "featured": false,
   "note": "Advogado de Vorcaro no segundo contrato do escritório (Vikings / dação em pagamento de aeronaves).",
   "source": {
@@ -577,6 +609,18 @@
   "note": "UOL — coluna Natália Portinari, 13/10/2026: 'Leo' Serrano, dono da SL Consulting (sede na Flórida), cuidava da logística internacional — voos, hotéis, 'flores' (como chamava as garotas) e faturas: 21 "
  },
  {
+  "id": "leonardo-valverde-daniel-vorcaro",
+  "title": "Leonardo Valverde",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "leonardo-valverde"
+  ],
+  "message_count": 1,
+  "last_message_preview": "Segue as empresas!",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari (21/10/2026): “Ibaneis pilotou operação BRB-Master, e Vorcaro fala em propina de R$ 80 mi”"
+ },
+ {
   "id": "lilian-tahan-daniel-vorcaro",
   "title": "Lilian Tahan",
   "participants_ids": [
@@ -596,7 +640,7 @@
    "luciano-huck"
   ],
   "message_count": 4,
-  "last_message_preview": "começando um capítulo relevante na construção de uma marc…",
+  "last_message_preview": "começando um capítulo relevante na construção de uma marca que os brasileiros vã",
   "featured": false,
   "note": null,
   "source": {
@@ -613,9 +657,9 @@
    "daniel-vorcaro",
    "luiz-renno"
   ],
-  "message_count": 24,
-  "last_message_date": "2025-08-08",
-  "last_message_preview": "Rueda seria nosso cara! Precisaria ter entrado no banco mais",
+  "message_count": 34,
+  "last_message_date": "2024-04-19",
+  "last_message_preview": "Rueda seria nosso cara! Precisaria ter entrado no banco mais cedo! Ele tem algun",
   "featured": false,
   "note": "Tratativas da bet.bet e do fundo Oracle (set–out/2024): aportes, beneficiário final e pleito de diretorias; precatórios e previdências. Participação nas tratativas não comprova sociedade formal.",
   "source": {
@@ -680,7 +724,7 @@
    "marcus-vinicius"
   ],
   "message_count": 1,
-  "last_message_preview": "O André Mendonça me convidou pra ir pra casa dele na terç…",
+  "last_message_preview": "O André Mendonça me convidou pra ir pra casa dele na terça de noite...",
   "featured": false,
   "note": null,
   "source": {
@@ -733,6 +777,18 @@
   "note": "UOL (apuração de O Globo), 14/10/2026: contatos diretos entre o ex-presidente Michel Temer (MDB) e Vorcaro nos dias seguintes ao contrato de até R$ 30 milhões entre o Master e o escritório de Temer (0"
  },
  {
+  "id": "netinho-lins-daniel-vorcaro",
+  "title": "Netinho Lins",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "netinho-lins"
+  ],
+  "message_count": 4,
+  "last_message_preview": "1k. Foi o q vc acertou comigo.",
+  "featured": false,
+  "note": "UOL — coluna Natália Portinari (22/10/2026): “Deputado agradece Vorcaro após receber pacote na eleição: ‘Salvou a pátria’”"
+ },
+ {
   "id": "nikolas-ferreira-daniel-vorcaro",
   "title": "Nikolas Ferreira",
   "participants_ids": [
@@ -740,7 +796,7 @@
    "nikolas-ferreira"
   ],
   "message_count": 2,
-  "last_message_preview": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu a…",
+  "last_message_preview": "Amém, irmão. Estamos na guerra juntos",
   "featured": false,
   "note": null,
   "source": {
@@ -757,10 +813,11 @@
    "daniel-vorcaro",
    "paulo-henrique"
   ],
-  "message_count": 46,
-  "last_message_preview": "Estou com você. Continuo no deal mode. Estou virando noite e tentando resolver",
+  "message_count": 60,
+  "last_message_preview": "Nada disso será problema para o BRB",
   "featured": false,
-  "note": "Então presidente do BRB segundo o IPJ-A 1252786/2026. Tratativas de operações entre BRB e Banco Master: cessão de carteiras, FIP, XP. Citações literais com página/figura."
+  "note": "Então presidente do BRB segundo o IPJ-A 1252786/2026. Tratativas de operações entre BRB e Banco Master: cessão de carteiras, FIP, XP. Citações literais com página/figura.",
+  "last_message_date": "2025-05-22"
  },
  {
   "id": "paulo-sergio-daniel-vorcaro",
@@ -769,7 +826,7 @@
    "daniel-vorcaro",
    "paulo-sergio"
   ],
-  "message_count": 4,
+  "message_count": 8,
   "last_message_date": "2025-03-19",
   "last_message_preview": "com Moraes aqui",
   "featured": false,
@@ -824,7 +881,7 @@
    "rodrigo-fux"
   ],
   "message_count": 5,
-  "last_message_preview": "Quero te chamar para me ajudar num caso",
+  "last_message_preview": "Bom dia. 10:30hs tô aí",
   "featured": false,
   "note": null,
   "source": {
@@ -843,7 +900,7 @@
   ],
   "message_count": 5,
   "last_message_date": "2024-03-15",
-  "last_message_preview": "Mídia registrada no documento",
+  "last_message_preview": "",
   "featured": false,
   "note": "Orientações de Vorcaro para o pagamento “sempre, sem nota” ao escritório.",
   "source": {
@@ -909,7 +966,7 @@
   ],
   "message_count": 3,
   "last_message_date": "2024-01-17",
-  "last_message_preview": "Mídia registrada no documento",
+  "last_message_preview": "",
   "featured": false,
   "note": "Minuta e versão final do primeiro contrato do Escritório Barci de Moraes com o Banco Master (R$ 3 milhões mensais, conforme o relatório).",
   "source": {
@@ -937,10 +994,11 @@
    "daniel-vorcaro",
    "walfrido-warde"
   ],
-  "message_count": 47,
-  "last_message_preview": "Lippi acaba de dizer que ele quem está travando",
+  "message_count": 55,
+  "last_message_preview": "❤️",
   "featured": false,
-  "note": "Advogado de Vorcaro, segundo o relatório. A conversa retomada no dia 17/11/2025 — data da prisão — acompanha a protocolização da petição e o encaminhamento de reportagens, conforme a análise da PF."
+  "note": "Advogado de Vorcaro, segundo o relatório. A conversa retomada no dia 17/11/2025 — data da prisão — acompanha a protocolização da petição e o encaminhamento de reportagens, conforme a análise da PF.",
+  "last_message_date": "2025-01-22"
  },
  {
   "id": "yasmin-brunet-daniel-vorcaro",
@@ -950,7 +1008,7 @@
    "yasmin-brunet"
   ],
   "message_count": 16,
-  "last_message_preview": "Desculpa não ter falado do BBB, mas não podia falar pra n…",
+  "last_message_preview": "O máximo possível que você puder. Continuar morando aqui não tem como?",
   "featured": false,
   "note": null,
   "source": {

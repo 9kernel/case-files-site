@@ -94,7 +94,7 @@
    "added_in": "ingest-press5-20261016"
   },
   {
-   "id": "m-00007",
+   "id": "m-00010",
    "date": "2024-12-11",
    "time": null,
    "timestamp_precision": "date",
@@ -273,6 +273,111 @@
    },
    "source_ref": "Mensagem divulgada por Jovem Pan — coluna Bruno Pinheiro (2026-09-25)",
    "added_in": "ingest-press-20261015"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-02",
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você acha legal fazermos um negócio com Neymar no Will?",
+   "editorial_note": "Sobre possível contratação de Neymar como garoto-propaganda do Will Bank; a reportagem não informa o dia do mês. Tratativa comercial não concluída: não há registro de proposta formal, contratação ou pagamento ao atleta, que não participou do diálogo.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-23",
+      "url": "https://veja.abril.com.br/brasil/daniel-vorcaro-cogitou-ter-neymar-como-garoto-propaganda-mas-socio-foi-contra/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-23)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-02",
+   "timestamp_precision": "month",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "Está queimado com uma série de assuntos pessoais e profissionais. Não passa credibilidade.",
+   "editorial_note": "Resposta de Augusto Lima vetando a ideia, conforme a reportagem; dia do mês não divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-23",
+      "url": "https://veja.abril.com.br/brasil/daniel-vorcaro-cogitou-ter-neymar-como-garoto-propaganda-mas-socio-foi-contra/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-23)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-02",
+   "timestamp_precision": "month",
+   "sender_id": "augusto-lima",
+   "content_kind": "verbatim_excerpt",
+   "content": "É descer muito de Vini Jr par a Neymar.",
+   "editorial_note": "Trecho complementar da resposta publicado em sequência pela reportagem; não é possível afirmar se constava da mesma mensagem. “par” conforme o original.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-23",
+      "url": "https://veja.abril.com.br/brasil/daniel-vorcaro-cogitou-ter-neymar-como-garoto-propaganda-mas-socio-foi-contra/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-23)",
+   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [
