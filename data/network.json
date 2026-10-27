@@ -66,18 +66,18 @@
    "msg_count": 34
   },
   {
+   "id": "andre-valadao",
+   "name": "André Valadão",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "title": "André Valadão",
+   "msg_count": 33
+  },
+  {
    "id": "julio-cezar",
    "name": "Júlio Cezar",
    "thread": "julio-cezar-daniel-vorcaro",
    "title": "Júlio Cezar",
    "msg_count": 31
-  },
-  {
-   "id": "andre-valadao",
-   "name": "André Valadão",
-   "thread": "andre-valadao-daniel-vorcaro",
-   "title": "André Valadão",
-   "msg_count": 28
   },
   {
    "id": "flavio-bolsonaro",
@@ -773,6 +773,30 @@
   },
   {
    "type": "mention",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "from": "andre-valadao",
+   "to": "nikolas-ferreira",
+   "count": 7,
+   "evidence": [
+    {
+     "id": "m-00029",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04"
+    },
+    {
+     "id": "m-00032",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04"
+    },
+    {
+     "id": "m-00033",
+     "sender": "andre-valadao",
+     "date": "2024-04"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "alexandre-moraes-daniel-vorcaro",
    "from": "alexandre-moraes",
    "to": "pf",
@@ -1188,6 +1212,44 @@
   },
   {
    "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "hugo-motta",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00014",
+     "sender": "daniel-vorcaro",
+     "date": "2025-02"
+    },
+    {
+     "id": "m-00016",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "alexandre-moraes",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00017",
+     "sender": "daniel-vorcaro",
+     "date": "2025-04-19"
+    },
+    {
+     "id": "m-00021",
+     "sender": "daniel-vorcaro",
+     "date": "2025-04-29"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "paulo-sergio-daniel-vorcaro",
    "from": "paulo-sergio",
    "to": "bc",
@@ -1334,25 +1396,6 @@
      "id": "m-00018",
      "sender": "daniel-vorcaro",
      "date": "2025-04-02"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "martha-graeff-daniel-vorcaro",
-   "from": "martha-graeff",
-   "to": "hugo-motta",
-   "count": 3,
-   "evidence": [
-    {
-     "id": "m-00014",
-     "sender": "daniel-vorcaro",
-     "date": "2025-02"
-    },
-    {
-     "id": "m-00016",
-     "sender": "daniel-vorcaro",
-     "date": "2025-03"
     }
    ]
   },
@@ -1779,18 +1822,13 @@
    "type": "mention",
    "thread": "martha-graeff-daniel-vorcaro",
    "from": "martha-graeff",
-   "to": "alexandre-moraes",
+   "to": "camara",
    "count": 2,
    "evidence": [
     {
-     "id": "m-00017",
+     "id": "m-00014",
      "sender": "daniel-vorcaro",
-     "date": "2025-04-19"
-    },
-    {
-     "id": "m-00021",
-     "sender": "daniel-vorcaro",
-     "date": "2025-04-29"
+     "date": "2025-02"
     }
    ]
   },
@@ -1852,6 +1890,20 @@
      "id": "m-00004",
      "sender": "thiago-miranda",
      "date": "2024-12-08"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "tiago-polo-daniel-vorcaro",
+   "from": "tiago-polo",
+   "to": "diogo-batista",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00001",
+     "sender": "tiago-polo",
+     "date": "2023-10"
     }
    ]
   },
@@ -2044,6 +2096,20 @@
      "id": "m-00004",
      "sender": "andre-kruschewsky",
      "date": "2024-09-05"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "from": "andre-valadao",
+   "to": "banco-master",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00032",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04"
     }
    ]
   },
@@ -2667,20 +2733,6 @@
    "type": "mention",
    "thread": "martha-graeff-daniel-vorcaro",
    "from": "martha-graeff",
-   "to": "camara",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00014",
-     "sender": "daniel-vorcaro",
-     "date": "2025-02"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "martha-graeff-daniel-vorcaro",
-   "from": "martha-graeff",
    "to": "senado",
    "count": 1,
    "evidence": [
@@ -2884,20 +2936,6 @@
      "id": "m-00011",
      "sender": "thiago-miranda",
      "date": "2025-02-06"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "tiago-polo-daniel-vorcaro",
-   "from": "tiago-polo",
-   "to": "diogo-batista",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00001",
-     "sender": "tiago-polo",
-     "date": "2023-10"
     }
    ]
   },

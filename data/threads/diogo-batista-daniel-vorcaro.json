@@ -630,8 +630,8 @@
    "timestamp_precision": "month",
    "sender_id": "diogo-batista",
    "content_kind": "verbatim_excerpt",
-   "content": "Mando [as duas]? Nossas refugiadas?",
-   "editorial_note": "Sobre as 'figurantes' mandadas para um jantar de Vorcaro com convidados no Pappa Bar, nos Jardins; colchete consta da reportagem.",
+   "content": "Mando? Nossas refugiadas?",
+   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pelo UOL como “Mando [as duas]? Nossas refugiadas?”; o “[as duas]” é inserção esclarecedora do veículo, não constando do original, e foi removido do campo literal. Sobre as 'figurantes' mandadas para um jantar de Vorcaro com convidados no Pappa Bar, nos Jardins.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -657,8 +657,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
-   "added_in": "ingest-press4-20261016",
-   "literal_brackets": true
+   "added_in": "ingest-press4-20261016"
   },
   {
    "id": "m-00019",

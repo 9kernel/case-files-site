@@ -1,7 +1,8 @@
 {
  "generated_at": "2026-10-27",
  "current_batches": [
-  "ingest-press9-20261026"
+  "ingest-press9-20261026",
+  "ingest-publica-20261026"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
@@ -34,7 +35,8 @@
    "audit-20261017": 8
   },
   "andre-valadao-daniel-vorcaro": {
-   "ingest-press9-20261026": 32
+   "ingest-press9-20261026": 32,
+   "ingest-publica-20261026": 5
   },
   "angelo-silva-daniel-vorcaro": {
    "ingest-ipja-20261006": 4,

@@ -94,10 +94,10 @@ conhecimento absoluto sobre a origem última dessas reportagens.
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
 - *Números correntes (26/10/2026, pós-merge das rodadas de auditoria 17-19/10 e
-  imprensa 22-26/10)*: **67 conversas · 1065 mensagens · 243
-  eventos** — 1308 registros públicos auditados (786 investigação pública com
-  procedimento declarado e fonte jornalística registrada — verificação por
-  registro, não aprovação automática; 275 documento oficial, 247 fonte
+  imprensa 22-26/10 + rodada Agência Pública 18/10)*: **67 conversas · 1070
+  mensagens · 243 eventos** — 1313 registros públicos auditados (791 investigação
+  pública com procedimento declarado e fonte jornalística registrada — verificação
+  por registro, não aprovação automática; 275 documento oficial, 247 fonte
   jornalística), zero problemas de proveniência. Os totais mudam a cada rodada
   de inclusão: o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.

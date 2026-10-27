@@ -54,8 +54,8 @@
    "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Coisa mais importante [da] nossa vida é esse Metrópoles",
-   "editorial_note": "Resposta na mesma sequência; colchete consta da transcrição da reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "content": "Coisa mais importante nossa vida é esse Metrópoles",
+   "editorial_note": "Resposta na mesma sequência. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian'). [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pelo UOL como “Coisa mais importante [da] nossa vida é esse Metrópoles”; o “[da]” é ajuste editorial do veículo, não constando do original, e foi removido do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -81,8 +81,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016",
-   "literal_brackets": true
+   "added_in": "ingest-press4-20261016"
   },
   {
    "id": "m-00003",

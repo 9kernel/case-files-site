@@ -3,11 +3,11 @@
  "scope": "todas as threads públicas de data/threads/",
  "summary": {
   "threads": 67,
-  "records": 1308,
-  "ok": 1308,
+  "records": 1313,
+  "ok": 1313,
   "problems": 0,
   "by_category": {
-   "OK_PUBLIC_INVESTIGATION": 786,
+   "OK_PUBLIC_INVESTIGATION": 791,
    "OK_SECONDARY": 247,
    "OK_OFFICIAL": 275
   }
@@ -3174,6 +3174,106 @@
   {
    "kind": "message",
    "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00029",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00030",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00031",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00032",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00033",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
    "message_id": "m-00015",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -3334,26 +3434,6 @@
   {
    "kind": "message",
    "thread": "andre-valadao-daniel-vorcaro",
-   "message_id": "m-00023",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "verification_level": "public_investigation",
-   "document_id": null,
-   "document_exists": null,
-   "public_access_verified": null,
-   "page": null,
-   "figure": null,
-   "case": null,
-   "primary_source": null,
-   "secondary_sources": [
-    "Agência Pública"
-   ],
-   "category": "OK_PUBLIC_INVESTIGATION",
-   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
-  },
-  {
-   "kind": "message",
-   "thread": "andre-valadao-daniel-vorcaro",
    "message_id": "m-00024",
    "sender_id": "andre-valadao",
    "content_kind": "verbatim_excerpt",
@@ -3414,9 +3494,29 @@
   {
    "kind": "message",
    "thread": "andre-valadao-daniel-vorcaro",
-   "message_id": "m-00027",
-   "sender_id": "andre-valadao",
+   "message_id": "m-00023",
+   "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
+   "verification_level": "public_investigation",
+   "document_id": null,
+   "document_exists": null,
+   "public_access_verified": null,
+   "page": null,
+   "figure": null,
+   "case": null,
+   "primary_source": null,
+   "secondary_sources": [
+    "Agência Pública"
+   ],
+   "category": "OK_PUBLIC_INVESTIGATION",
+   "reason": "procedimento declarado e fonte jornalística registrada; peça primária individual não localizada — OK de estrutura não equivale a autenticação individual"
+  },
+  {
+   "kind": "message",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "message_id": "m-00027",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
    "verification_level": "public_investigation",
    "document_id": null,
    "document_exists": null,

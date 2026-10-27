@@ -7,6 +7,15 @@
 **Backup pré-alteração:** `.backups/data-b860897-20261026-115949.zip` (71 arquivos, via `scripts/backup_local.py`)
 **Scripts desta rodada (reprodutíveis):** `scripts/import_pipeline/ingest_press9_valadao.py`, `fix_press8_gusttavo.py`, `fix_press8_elmar_netinho_zettel.py`, `fix_participants_20261026.py`, `ingest_press9_missing.py` · lote de inserção: `ingest-press9-20261026`
 
+> **Nota de identificação (acrescentada após a incorporação, 26/10/2026):** este
+> relatório documenta uma execução local concluída quando o HEAD do repositório era
+> `b860897` — SHA da **árvore originalmente auditada**, não o estado corrente da
+> branch. A rodada aqui descrita foi incorporada ao histórico pelo commit
+> `3aef62e` ("imprensa: rodada 24-26/10"); o HEAD remoto seguiu avançando depois
+> dele. Os SHAs, totais e estados de arquivo deste documento são **históricos** e
+> não descrevem o repositório atual — os números correntes estão em
+> `PUBLIC-PROVENANCE-AUDIT.md` e `README.md`.
+
 ---
 
 ## 1. HEAD e integridade

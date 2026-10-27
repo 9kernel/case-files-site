@@ -536,8 +536,8 @@
    "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Tô num jantar na residência oficial com Hugo [Motta…] e seis empresários",
-   "editorial_note": "Jantar na residência oficial da Câmara, com o então presidente Hugo Motta.",
+   "content": "Tô num jantar na residência oficial com Hugo e seis empresários",
+   "editorial_note": "Jantar na residência oficial da Câmara, com o então presidente Hugo Motta. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “com Hugo [Motta, eleito presidente da Câmara no início daquele mês] e seis empresários”; o colchete é inserção explicativa do veículo e foi removido do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -563,8 +563,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015",
-   "literal_brackets": true
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00015",
@@ -645,8 +644,8 @@
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Indo encontrar Alexandre [de] Moraes aqui perto de casa",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "content": "Indo encontrar Alexandre Moraes aqui perto de casa",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “Alexandre [de] Moraes”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -672,8 +671,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015",
-   "literal_brackets": true
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00018",
@@ -754,8 +752,8 @@
    "timestamp_precision": "date",
    "sender_id": "martha-graeff",
    "content_kind": "verbatim_excerpt",
-   "content": "quem era o primeiro cara [?]",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "content": "quem era o primeiro cara",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: marcação editorial “[?]” do veículo (indício de dúvida de transcrição) separada do conteúdo literal e removida do campo literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -781,8 +779,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015",
-   "literal_brackets": true
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00021",
@@ -791,8 +788,8 @@
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Alexandre [de] Moraes",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "content": "Alexandre Moraes",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “Alexandre [de] Moraes”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -818,8 +815,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015",
-   "literal_brackets": true
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00022",
@@ -864,8 +860,8 @@
    "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Sin [sic]. Falou que é [sic] bem melhor. E ele adorava apto [apartamento]",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes.",
+   "content": "Sin. Falou que é bem melhor. E ele adorava apto",
+   "editorial_note": "[Corrigido 2026-10-26: marcações editoriais separadas do conteúdo literal.] Publicado pela Folha como “Sin [sic]. Falou que é [sic] bem melhor. E ele adorava apto [apartamento]”; os “[sic]” são marcações do veículo e o “[apartamento]” é expansão editorial do veículo para “apto” — nenhum deles consta do original; todos removidos do campo literal.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -891,8 +887,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-03-05)",
-   "added_in": "ingest-press-20261015",
-   "literal_brackets": true
+   "added_in": "ingest-press-20261015"
   },
   {
    "id": "m-00024",
