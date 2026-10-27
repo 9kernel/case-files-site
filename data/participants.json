@@ -380,7 +380,7 @@
   "photo": null,
   "role": "Diretor do Banco Central (segundo o IPJ-A)",
   "aliases": [],
-  "summary": "Identificado no IPJ-A nº 3298613/2026 (PET 16662/STF) como “Diretor do Banco Central” — contato de Vorcaro a quem escreveu, em 19/03/2025, que estava “com Moraes aqui”. A Folha (22/10/2026) publica diálogos de julho de 2024 entre Vorcaro e Paulo Sérgio Neves de Souza, ex-diretor do BC, sobre posicionamento público da Caixa no caso Master; a correspondência entre o contato do IPJ-A e o ex-dirigente citado pela Folha é plausível, mas não individualmente demonstrada nos documentos públicos disponíveis — os registros de julho de 2024 desta conversa trazem essa ressalva. Souza disse à Folha que jamais protegeu interesses de Vorcaro; o BC e a defesa não comentaram; a Caixa informou que a aplicação de R$ 500 milhões da Caixa Asset no Master não ocorreu. Não confundir com o “Paulo” das notas de Vorcaro, associado pelo relatório a Paulo Gonet (PGR).",
+  "summary": "Identificado no IPJ-A nº 3298613/2026 (PET 16662/STF) como “Diretor do Banco Central” — contato de Vorcaro a quem escreveu, em 19/03/2025, que estava “com Moraes aqui”. A Folha (22/10/2026) publica diálogos de julho de 2024 entre Vorcaro e Paulo Sérgio Neves de Souza, ex-diretor do BC, sobre posicionamento público da Caixa no caso Master; a correspondência entre o contato do IPJ-A e o ex-dirigente citado pela Folha é plausível, mas não individualmente demonstrada nos documentos públicos disponíveis — os registros de julho de 2024 desta conversa trazem essa ressalva. Souza disse à Folha que jamais protegeu interesses de Vorcaro; o BC e a defesa não comentaram; a Caixa informou que a aplicação de R$ 500 milhões da Caixa Asset no Master não ocorreu. Não confundir com o “Paulo” das notas de Vorcaro, associado pelo relatório a Paulo Gonet (PGR). A BBC News Brasil (11/09/2026) o identifica como chefe-adjunto do Desup e participante, com Belline Santana e Vorcaro, do grupo de WhatsApp “Master” criado em 02/10/2025 (ver conversa própria); em 25/04/2025, em mensagens individuais, revisou a pedido de Vorcaro minuta de resposta a termo de comparecimento. A PF sustenta que recebeu vantagens de Vorcaro (imóvel rural de R$ 4,8 milhões, viagem a Disney) — alegação investigativa; sua defesa (08/2026) afirma que ele atuou na identificação das irregularidades do caso.",
   "profile_sources": [
    {
     "label": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF) — cópia pública conferida",
@@ -389,6 +389,10 @@
    {
     "label": "Folha C-Level — 22/10/2026",
     "url": "https://c-level.folha.uol.com.br/financas/2026/10/vorcaro-pediu-a-ex-diretor-do-bc-que-pressionasse-caixa-em-caso-de-aporte-barrado-no-master.shtml"
+   },
+   {
+    "label": "BBC News Brasil (republicada pelo Estado de Minas) — 11/09/2026",
+    "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
    }
   ]
  },
@@ -980,6 +984,24 @@
    {
     "label": "UOL — coluna Natália Portinari, 21/10/2026",
     "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/21/ibaneis-pilotou-operacao-brb-master-e-vorcaro-fala-em-propina-de-r-80-mi.htm"
+   }
+  ]
+ },
+ {
+  "id": "belline-santana",
+  "name": "Belline Santana",
+  "photo": null,
+  "role": "Então chefe do Departamento de Supervisão (Desup) do Banco Central",
+  "aliases": [],
+  "summary": "Identificado pela BBC News Brasil e pela CNN Brasil (11/09/2026) como então chefe do Desup (supervisão bancária) do Banco Central e criador, em 02/10/2025, do grupo de WhatsApp “Master” com Daniel Vorcaro e Paulo Sérgio Neves de Souza. A PF sustenta, em representação ao STF, que atuava em favor de Vorcaro em troca de vantagens (contrato de consultoria de R$ 500 mil por semestre e despesas em Paris) — alegação investigativa; sua defesa nega “desvio de finalidade ou obtenção de vantagem indevida” (nota de 04/2026) e afirma não saber que os pagamentos vinham do Master.",
+  "profile_sources": [
+   {
+    "label": "BBC News Brasil (republicada pelo Estado de Minas) — 11/09/2026",
+    "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+   },
+   {
+    "label": "CNN Brasil — 11/09/2026",
+    "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
    }
   ]
  }

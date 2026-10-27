@@ -298,6 +298,88 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 177 · fig. 180",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-04-25",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-sergio",
+   "content_kind": "verbatim_excerpt",
+   "content": "Importante protocolar rapidamente",
+   "editorial_note": "Fechamento da revisão da minuta de resposta a termo de comparecimento, na troca individual de 25/04/2025 (ver evento e-00002); troca individual — anterior à criação do grupo “Master” (02/10/2025), ao qual não pertence. Ressalva de identidade do participante aplicável (ver perfil).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     },
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-04-25",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-sergio",
+   "content_kind": "verbatim_excerpt",
+   "content": "entendo imprudente citar problema no canal BRB",
+   "editorial_note": "Recomendação sobre a menção ao BRB na mesma troca de 25/04/2025, conforme a BBC News Brasil; recomendação não implica que o Banco Master a tenha adotado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     },
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027"
   }
  ],
  "timeline_events": [
@@ -330,6 +412,40 @@
    },
    "source_ref": "Relato de Folha C-Level (2026-10-22)",
    "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00002",
+   "date": "2025-04-25",
+   "timestamp_precision": "date",
+   "event_kind": "editorial_context",
+   "content": "Vorcaro pediu a Paulo Sérgio, em mensagens individuais, a revisão de minuta de resposta a termo de comparecimento; Paulo Sérgio propôs alterações (trocar “captação de receitas” por “captação de recursos”, referências ao controle/gestão do BRB e correção de data) — pedido e sugestões narrados pela BBC News Brasil, sem transcrição literal publicada; não é possível afirmar que foram adotadas.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "source_ref": "BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027",
+   "editorial_note": "Anterior à criação do grupo “Master” (02/10/2025); troca individual.",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     }
+    ]
+   }
   }
  ]
 }

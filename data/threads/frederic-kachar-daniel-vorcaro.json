@@ -844,8 +844,8 @@
    "date": "2025-02",
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
-   "content": "Para não te deixar na mão, te bonifico um branded content [...] da marca na Glamour e na Vogue [Brasil]",
-   "editorial_note": "Colchetes e reticências constam da transcrição da reportagem.",
+   "content": "Para não te deixar na mão, te bonifico um branded content […] da marca na Glamour e na Vogue",
+   "editorial_note": "Colchetes e reticências constam da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — a fonte publica “branded content [conteúdo patrocinado…] da marca na Glamour e na Vogue [Brasil], mas desatrelados do Baile [da Vogue]” — os colchetes são inserções editoriais do veículo (glosa e identificações), removidas do literal; o […] marca corte do projeto no ponto da glosa; a frase publicada prossegue além do trecho registrado.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -917,8 +917,8 @@
    "date": "2025-02-25",
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
-   "content": "Estou no voo com Lauro [Jardim], que vai conhecer sua sede nova antes de mim.",
-   "editorial_note": "Colchete consta da transcrição da reportagem.",
+   "content": "Estou no voo com Lauro, que vai conhecer sua sede nova antes de mim.",
+   "editorial_note": "Colchete consta da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Jardim]” é identificação de sobrenome (Lauro Jardim) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -946,8 +946,7 @@
    "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
    "added_in": "ingest-press7-20261016",
    "time": null,
-   "timestamp_precision": "date",
-   "literal_brackets": true
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00027",
@@ -1098,8 +1097,8 @@
    "date": "2025-03-29",
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
-   "content": "O Álvaro [Campos] incluiu aspas suas nessa análise. Vamos falar amanhã?",
-   "editorial_note": "Duas horas depois; colchete consta da transcrição da reportagem.",
+   "content": "O Álvaro incluiu aspas suas nessa análise. Vamos falar amanhã?",
+   "editorial_note": "Duas horas depois; colchete consta da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Campos]” é identificação de sobrenome (Álvaro Campos) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1127,16 +1126,15 @@
    "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
    "added_in": "ingest-press7-20261016",
    "time": null,
-   "timestamp_precision": "date",
-   "literal_brackets": true
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00032",
    "date": "2025-03-29",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Não vale a pena pra mim falar. Vira (sic) o caso Malu [Gaspar]. Tudo que eu falo usam contra mim.",
-   "editorial_note": "'(sic)' e colchete constam da transcrição; referência ao episódio registrado em evento na conversa com Thiago Miranda.",
+   "content": "Não vale a pena pra mim falar. Vira (sic) o caso Malu. Tudo que eu falo usam contra mim.",
+   "editorial_note": "'(sic)' e colchete constam da transcrição; referência ao episódio registrado em evento na conversa com Thiago Miranda. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Gaspar]” é identificação de sobrenome (Malu Gaspar) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal; o “(sic)” consta da publicação e foi preservado.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1164,8 +1162,7 @@
    "source_ref": "Mensagem divulgada por Agência Pública (Ed Wanderley e Thiago Domenici) (2026-10-15)",
    "added_in": "ingest-press7-20261016",
    "time": null,
-   "timestamp_precision": "date",
-   "literal_brackets": true
+   "timestamp_precision": "date"
   },
   {
    "id": "m-00033",

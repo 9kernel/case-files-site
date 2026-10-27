@@ -18,8 +18,8 @@
    "timestamp_precision": "month",
    "sender_id": "tiago-polo",
    "content_kind": "verbatim_excerpt",
-   "content": "O Diogo disse [que] a ideia da agência seria uma forma de ajustar as meninas indiretamente",
-   "editorial_note": "Explicando a Vorcaro para que serviria a agência; colchete consta da transcrição da reportagem.",
+   "content": "O Diogo disse a ideia da agência seria uma forma de ajustar as meninas indiretamente",
+   "editorial_note": "Explicando a Vorcaro para que serviria a agência; colchete consta da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[que]” é complementação gramatical inserida pelo veículo na transcrição publicada (UOL — coluna Natália Portinari, 13/10/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -45,8 +45,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-13)",
-   "added_in": "ingest-press4-20261016",
-   "literal_brackets": true
+   "added_in": "ingest-press4-20261016"
   }
  ],
  "timeline_events": [

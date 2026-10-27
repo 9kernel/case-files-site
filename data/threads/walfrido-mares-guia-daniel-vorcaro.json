@@ -306,8 +306,8 @@
    "timestamp_precision": "month",
    "sender_id": "walfrido-mares-guia",
    "content_kind": "verbatim_excerpt",
-   "content": "O indicado para presidir a [Anvisa] é nosso aliado no Min da Saude.Conhece tudo sobre a Biomm",
-   "editorial_note": "Colchetes constam da transcrição da Folha; as indicações para a agência foram anunciadas em agosto/2025 (evento abaixo).",
+   "content": "O indicado para presidir a é nosso aliado no Min da Saude.Conhece tudo sobre a Biomm",
+   "editorial_note": "Colchetes constam da transcrição da Folha; as indicações para a agência foram anunciadas em agosto/2025 (evento abaixo). [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — a fonte publica “presidir a [Anvisa]” — inserção editorial do veículo (Folha, 30/09/2026); removida do literal; o “a” pendente foi preservado como no texto divulgado.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -333,8 +333,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Folha de S.Paulo (2026-09-30)",
-   "added_in": "ingest-press5-20261016",
-   "literal_brackets": true
+   "added_in": "ingest-press5-20261016"
   },
   {
    "id": "m-00010",

@@ -109,8 +109,8 @@
    "daniel-vorcaro",
    "andre-valadao"
   ],
-  "message_count": 28,
-  "last_message_preview": "a fintech, que por sinal tá indo super bem e sem dúvida é algo que pode ficar grande demais",
+  "message_count": 32,
+  "last_message_preview": "Segunda feira vou em BH com Zettel ver o imóvel da Jorlan, em frente o BH shopping para ser a igreja dele. Será lindo. 4 mil lugares",
   "featured": false,
   "note": "Agência Pública (24/10/2026) — Amanda Audi, Jéssica Ribeiro e Ed Wanderley: “Vorcaro orquestrou venda de bens da Igreja Lagoinha e prometeu expansão de R$ 100 milhões”"
  },
@@ -422,6 +422,20 @@
   "last_message_preview": "Verdade. Tinha esquecido",
   "featured": false,
   "note": "Grupo de WhatsApp criado por Ciro Nogueira em abril/2024 com Vorcaro, Hugo Motta e Fábio Faria para organizar encontros, deslocamentos e compartilhar notícias (UOL, 30/09/2026)."
+ },
+ {
+  "id": "grupo-master-belline-paulo-sergio",
+  "title": "Grupo “Master” — Vorcaro, Belline e Paulo Sérgio",
+  "participants_ids": [
+   "daniel-vorcaro",
+   "belline-santana",
+   "paulo-sergio"
+  ],
+  "message_count": 3,
+  "last_message_preview": "Por favor, vejam se atende",
+  "last_message_date": "2025-10-27",
+  "featured": false,
+  "note": "Grupo de WhatsApp criado em 02/10/2025 por Belline Santana (então chefe do Desup/BC) com Vorcaro e Paulo Sérgio Neves de Souza para interlocução sobre assuntos do Banco Master (BBC News Brasil e CNN Brasil, 11/09/2026)."
  },
  {
   "id": "guilherme-barros-daniel-vorcaro",
@@ -795,7 +809,7 @@
    "daniel-vorcaro",
    "nikolas-ferreira"
   ],
-  "message_count": 2,
+  "message_count": 3,
   "last_message_preview": "Amém, irmão. Estamos na guerra juntos",
   "featured": false,
   "note": null,
@@ -826,11 +840,11 @@
    "daniel-vorcaro",
    "paulo-sergio"
   ],
-  "message_count": 8,
-  "last_message_date": "2025-03-19",
-  "last_message_preview": "com Moraes aqui",
+  "message_count": 10,
+  "last_message_date": "2025-04-25",
+  "last_message_preview": "entendo imprudente citar problema no canal BRB",
   "featured": false,
-  "note": "Diretor do Banco Central (segundo o IPJ-A). Em 28/02/2025, questiona uso de R$ 800 milhões do compulsório; em 19/03/2025, Vorcaro escreve que está “com Moraes aqui”.",
+  "note": "Diretor do Banco Central (segundo o IPJ-A). Em 28/02/2025, questiona uso de R$ 800 milhões do compulsório; em 19/03/2025, Vorcaro escreve que está “com Moraes aqui”. Em 25/04/2025, revisa a pedido de Vorcaro minuta de resposta a termo de comparecimento (BBC, 11/09/2026); participa do grupo “Master” (02/10/2025).",
   "source": {
    "document": "PF · IPJ-A nº 3298613/2026 (PET 16662/STF)",
    "url": "https://static.poder360.com.br/uploads/2026/09/pet16662_relatorio_pf_celular_vorcaro_moraes_gonet_andrei_barci.pdf",

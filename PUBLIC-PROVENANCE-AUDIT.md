@@ -15,14 +15,14 @@ individualmente cada mensagem. Registros sem base ou sem fonte viram
 
 ## Resultado
 
-- 67 threads · 1308 registros (1065 mensagens + 243 eventos)
-- **1308 OK** · **0 com problema**
+- 68 threads · 1322 registros (1075 mensagens + 247 eventos)
+- **1322 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 786 |
-| OK_SECONDARY | 247 |
+| OK_PUBLIC_INVESTIGATION | 799 |
+| OK_SECONDARY | 248 |
 | INV_NO_BASIS | 0 |
 | INV_NO_PRESS_SOURCE | 0 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |

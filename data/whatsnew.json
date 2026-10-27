@@ -1,7 +1,7 @@
 {
  "generated_at": "2026-10-27",
  "current_batches": [
-  "ingest-press9-20261026"
+  "ingest-press10-20261027"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
@@ -34,7 +34,8 @@
    "audit-20261017": 8
   },
   "andre-valadao-daniel-vorcaro": {
-   "ingest-press9-20261026": 32
+   "ingest-press9-20261026": 32,
+   "ingest-press10-20261027": 4
   },
   "angelo-silva-daniel-vorcaro": {
    "ingest-ipja-20261006": 4,
@@ -124,6 +125,9 @@
   },
   "grupo-ciro-daniel-fabio-hugo": {
    "ingest-press-grupo-20261015": 9
+  },
+  "grupo-master-belline-paulo-sergio": {
+   "ingest-press10-20261027": 6
   },
   "guilherme-barros-daniel-vorcaro": {
    "audit-fix2-20261016": 1,
@@ -215,7 +219,8 @@
    "ingest-press9-20261026": 5
   },
   "nikolas-ferreira-daniel-vorcaro": {
-   "ingest-imprensa-20261011": 4
+   "ingest-imprensa-20261011": 4,
+   "ingest-press10-20261027": 1
   },
   "paulo-henrique-daniel-vorcaro": {
    "ingest-pf2-20261007": 18,
@@ -226,7 +231,8 @@
   "paulo-sergio-daniel-vorcaro": {
    "ingest-press9-20261026": 5,
    "audit-20261017": 3,
-   "ingest-ipja-20261006": 1
+   "ingest-ipja-20261006": 1,
+   "ingest-press10-20261027": 3
   },
   "roberto-campos-neto-daniel-vorcaro": {
    "ingest-imprensa-20261011": 6

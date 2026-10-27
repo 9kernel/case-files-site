@@ -66,18 +66,18 @@
    "msg_count": 34
   },
   {
+   "id": "andre-valadao",
+   "name": "André Valadão",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "title": "André Valadão",
+   "msg_count": 32
+  },
+  {
    "id": "julio-cezar",
    "name": "Júlio Cezar",
    "thread": "julio-cezar-daniel-vorcaro",
    "title": "Júlio Cezar",
    "msg_count": 31
-  },
-  {
-   "id": "andre-valadao",
-   "name": "André Valadão",
-   "thread": "andre-valadao-daniel-vorcaro",
-   "title": "André Valadão",
-   "msg_count": 28
   },
   {
    "id": "flavio-bolsonaro",
@@ -213,6 +213,13 @@
    "msg_count": 10
   },
   {
+   "id": "paulo-sergio",
+   "name": "Paulo Sergio",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "title": "Paulo Sergio",
+   "msg_count": 10
+  },
+  {
    "id": "roberto-justus",
    "name": "Roberto Justus",
    "thread": "roberto-justus-daniel-vorcaro",
@@ -266,13 +273,6 @@
    "name": "Marcos da Mata",
    "thread": "marcos-da-mata-daniel-vorcaro",
    "title": "Marcos da Mata",
-   "msg_count": 8
-  },
-  {
-   "id": "paulo-sergio",
-   "name": "Paulo Sergio",
-   "thread": "paulo-sergio-daniel-vorcaro",
-   "title": "Paulo Sergio",
    "msg_count": 8
   },
   {
@@ -402,6 +402,20 @@
    "msg_count": 4
   },
   {
+   "id": "belline-santana",
+   "name": "Belline Santana",
+   "thread": "grupo-master-belline-paulo-sergio",
+   "title": "Grupo “Master” — Vorcaro, Belline e Paulo Sérgio",
+   "msg_count": 3
+  },
+  {
+   "id": "nikolas-ferreira",
+   "name": "Nikolas Ferreira",
+   "thread": "nikolas-ferreira-daniel-vorcaro",
+   "title": "Nikolas Ferreira",
+   "msg_count": 3
+  },
+  {
    "id": "roberto-campos-neto",
    "name": "Roberto Campos Neto",
    "thread": "roberto-campos-neto-daniel-vorcaro",
@@ -434,13 +448,6 @@
    "name": "Hamilton Buzelin",
    "thread": "hamilton-buzelin-daniel-vorcaro",
    "title": "Hamilton Buzelin",
-   "msg_count": 2
-  },
-  {
-   "id": "nikolas-ferreira",
-   "name": "Nikolas Ferreira",
-   "thread": "nikolas-ferreira-daniel-vorcaro",
-   "title": "Nikolas Ferreira",
    "msg_count": 2
   },
   {
@@ -734,6 +741,30 @@
      "id": "m-00031",
      "sender": "ana-matos",
      "date": "2024-09-26"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "from": "andre-valadao",
+   "to": "nikolas-ferreira",
+   "count": 8,
+   "evidence": [
+    {
+     "id": "m-00029",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04-27"
+    },
+    {
+     "id": "m-00031",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04-27"
+    },
+    {
+     "id": "m-00032",
+     "sender": "andre-valadao",
+     "date": "2024-04-27"
     }
    ]
   },
@@ -1188,6 +1219,25 @@
   },
   {
    "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "hugo-motta",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00014",
+     "sender": "daniel-vorcaro",
+     "date": "2025-02"
+    },
+    {
+     "id": "m-00016",
+     "sender": "daniel-vorcaro",
+     "date": "2025-03"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "paulo-sergio-daniel-vorcaro",
    "from": "paulo-sergio",
    "to": "bc",
@@ -1202,6 +1252,30 @@
      "id": "m-00001",
      "sender": "daniel-vorcaro",
      "date": "2025-03-19"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "from": "paulo-sergio",
+   "to": "banco-master",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00002",
+     "sender": "daniel-vorcaro",
+     "date": "2024-07-12"
+    },
+    {
+     "id": "m-00009",
+     "sender": "paulo-sergio",
+     "date": "2025-04-25"
+    },
+    {
+     "id": "m-00010",
+     "sender": "paulo-sergio",
+     "date": "2025-04-25"
     }
    ]
   },
@@ -1301,6 +1375,25 @@
   },
   {
    "type": "mention",
+   "thread": "grupo-master-belline-paulo-sergio",
+   "from": "belline-santana",
+   "to": "banco-master",
+   "count": 3,
+   "evidence": [
+    {
+     "id": "m-00001",
+     "sender": "belline-santana",
+     "date": "2025-10-02"
+    },
+    {
+     "id": "m-00002",
+     "sender": "daniel-vorcaro",
+     "date": "2025-10-27"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "hugo-motta-daniel-vorcaro",
    "from": "hugo-motta",
    "to": "bc",
@@ -1339,20 +1432,20 @@
   },
   {
    "type": "mention",
-   "thread": "martha-graeff-daniel-vorcaro",
-   "from": "martha-graeff",
-   "to": "hugo-motta",
+   "thread": "paulo-sergio-daniel-vorcaro",
+   "from": "paulo-sergio",
+   "to": "brb",
    "count": 3,
    "evidence": [
     {
-     "id": "m-00014",
+     "id": "m-00008",
      "sender": "daniel-vorcaro",
-     "date": "2025-02"
+     "date": "2025-02-28"
     },
     {
-     "id": "m-00016",
-     "sender": "daniel-vorcaro",
-     "date": "2025-03"
+     "id": "m-00010",
+     "sender": "paulo-sergio",
+     "date": "2025-04-25"
     }
    ]
   },
@@ -1424,6 +1517,20 @@
      "id": "m-00004",
      "sender": "andre-kruschewsky",
      "date": "2024-09-05"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "andre-valadao-daniel-vorcaro",
+   "from": "andre-valadao",
+   "to": "banco-master",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00029",
+     "sender": "daniel-vorcaro",
+     "date": "2024-04-27"
     }
    ]
   },
@@ -1772,6 +1879,20 @@
      "id": "m-00012",
      "sender": "daniel-vorcaro",
      "date": "2024-12-04"
+    }
+   ]
+  },
+  {
+   "type": "mention",
+   "thread": "martha-graeff-daniel-vorcaro",
+   "from": "martha-graeff",
+   "to": "camara",
+   "count": 2,
+   "evidence": [
+    {
+     "id": "m-00014",
+     "sender": "daniel-vorcaro",
+     "date": "2025-02"
     }
    ]
   },
@@ -2413,6 +2534,20 @@
   },
   {
    "type": "mention",
+   "thread": "grupo-master-belline-paulo-sergio",
+   "from": "belline-santana",
+   "to": "paulo-sergio",
+   "count": 1,
+   "evidence": [
+    {
+     "id": "m-00001",
+     "sender": "belline-santana",
+     "date": "2025-10-02"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "guilherme-barros-daniel-vorcaro",
    "from": "guilherme-barros",
    "to": "bc",
@@ -2667,20 +2802,6 @@
    "type": "mention",
    "thread": "martha-graeff-daniel-vorcaro",
    "from": "martha-graeff",
-   "to": "camara",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00014",
-     "sender": "daniel-vorcaro",
-     "date": "2025-02"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "martha-graeff-daniel-vorcaro",
-   "from": "martha-graeff",
    "to": "senado",
    "count": 1,
    "evidence": [
@@ -2735,20 +2856,6 @@
   },
   {
    "type": "mention",
-   "thread": "nikolas-ferreira-daniel-vorcaro",
-   "from": "nikolas-ferreira",
-   "to": "tse",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00001",
-     "sender": "nikolas-ferreira",
-     "date": "2025-03-30"
-    }
-   ]
-  },
-  {
-   "type": "mention",
    "thread": "paulo-henrique-daniel-vorcaro",
    "from": "paulo-henrique",
    "to": "pf",
@@ -2786,34 +2893,6 @@
      "id": "m-00050",
      "sender": "paulo-henrique",
      "date": null
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "paulo-sergio-daniel-vorcaro",
-   "from": "paulo-sergio",
-   "to": "banco-master",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00002",
-     "sender": "daniel-vorcaro",
-     "date": "2024-07-12"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "paulo-sergio-daniel-vorcaro",
-   "from": "paulo-sergio",
-   "to": "brb",
-   "count": 1,
-   "evidence": [
-    {
-     "id": "m-00008",
-     "sender": "daniel-vorcaro",
-     "date": "2025-02-28"
     }
    ]
   },
