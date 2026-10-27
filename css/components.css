@@ -721,11 +721,11 @@ a.doc-card:hover { background: #fff; }
   margin: 0 0 0 4px;
 }
 
-/* bolhas do dono (fundo teal): selo claro translúcido */
+/* bolhas do dono (fundo verde-claro #D9FDD3): selo teal sobre branco translúcido */
 .msg-row.out .bubble-meta .new-flag {
-  color: #E7FFF8;
-  background: rgba(255, 255, 255, 0.16);
-  border-color: rgba(255, 255, 255, 0.42);
+  color: #0E7A6C;
+  background: rgba(255, 255, 255, 0.6);
+  border-color: rgba(18, 140, 126, 0.4);
 }
 
 /* meta do evento editorial */
