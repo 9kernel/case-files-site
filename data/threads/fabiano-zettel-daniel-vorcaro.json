@@ -285,6 +285,75 @@
    "added_in": "ingest-pf-20261007"
   },
   {
+   "id": "m-00034",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "1mm",
+   "editorial_note": "Instrução enviada a Zettel no encaminhamento dos dados da DuBem Business Marketing, de Netinho Lins (dados bancários não reproduzidos), dias depois de 16/08/2024, segundo a reportagem; data não divulgada. Antes, Vorcaro perguntara a Netinho se o valor seria “1,5” (ver conversa própria). No dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "m-00033",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Assim que mineiro liberar me avise. Pra programarmos",
+   "editorial_note": "Às 12h58 de 02/10/2024, no contexto da entrega de um volume pelo motorista de Vorcaro a pessoa indicada por Elmar Nascimento (ver conversa própria); “Mineiro” é Antônio Carlos Freixo Júnior, apontado pela investigação como gerador de dinheiro vivo para Vorcaro, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-26",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL — coluna Natália Portinari",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
+   "added_in": "ingest-press9-20261026",
+   "date": "2024-10-02",
+   "time": "12:58",
+   "timestamp_precision": "minute"
+  },
+  {
    "id": "m-00037",
    "date": "2024-10",
    "sender_id": "fabiano-zettel",
@@ -1330,75 +1399,6 @@
    },
    "source_ref": "PF · IPJ-A nº 1020625/2026 · fl. 50 · fig. 58",
    "added_in": "ingest-pf-20261007"
-  },
-  {
-   "id": "m-00033",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Assim que mineiro liberar me avise. Pra programarmos",
-   "editorial_note": "Às 12h58 de 02/10/2024, no contexto da entrega de um volume pelo motorista de Vorcaro a pessoa indicada por Elmar Nascimento (ver conversa própria); “Mineiro” é Antônio Carlos Freixo Júnior, apontado pela investigação como gerador de dinheiro vivo para Vorcaro, conforme a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL — coluna Natália Portinari",
-      "date": "2026-10-22",
-      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press9-20261026",
-   "date": "2024-10-02",
-   "time": "12:58",
-   "timestamp_precision": "minute"
-  },
-  {
-   "id": "m-00034",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "1mm",
-   "editorial_note": "Instrução enviada a Zettel no encaminhamento dos dados da DuBem Business Marketing, de Netinho Lins (dados bancários não reproduzidos), dias depois de 16/08/2024, segundo a reportagem; data não divulgada. Antes, Vorcaro perguntara a Netinho se o valor seria “1,5” (ver conversa própria). No dia seguinte, a Super Empreendimentos e Participações efetuou Pix de R$ 1 milhão à DuBem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL — coluna Natália Portinari",
-      "date": "2026-10-22",
-      "url": "https://noticias.uol.com.br/colunas/natalia-portinari/2026/10/22/deputado-agradece-vorcaro-por-salvar-a-patria-apos-entrega-na-eleicao.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
-   "added_in": "ingest-press9-20261026"
   }
  ],
  "timeline_events": [

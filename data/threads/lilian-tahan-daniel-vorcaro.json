@@ -84,6 +84,78 @@
    "added_in": "ingest-press4-20261016"
   },
   {
+   "id": "m-00026",
+   "date": "2025-04-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Mas tem que ser um jeito que nao pareça que nao tem interesse. So desmentir quem falou que tinha proposta de 1 real",
+   "editorial_note": "Orientação sobre a apresentação do desmentido da suposta proposta de R$ 1, na sequência de m-00001/m-00002.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00027",
+   "date": "2025-04-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "lilian-tahan",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deixa comigo",
+   "editorial_note": "Resposta na mesma sequência de 02/04/2025 — registro distinto de m-00016 (agosto/2025, contexto Cappelli). O Estadão cita ainda resposta mais completa de Tahan (“Se tiver alguma incorreção, me avise!! Não tem pressa. No seu tempo. Não publicarei sem nos falarmos”); a correspondência dessa transcrição com m-00025 (situada pelo UOL em outro contexto) não é determinável — mantidas sem unificação.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00003",
    "date": "2025-04-09",
    "time": null,

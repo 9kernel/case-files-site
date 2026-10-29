@@ -279,6 +279,657 @@
    "added_in": "ingest-press2-20261016"
   },
   {
+   "id": "m-00027",
+   "date": "2024-09",
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estive longamente com o presidente Lula ontem. Você vai gostar… Muito importante para você. Muito",
+   "editorial_note": "Relato de Warde sobre encontro dele com o presidente Lula; a conversa do encontro de dezembro de 2024 entre Lula e Vorcaro é registrada em evento próprio. Citação literal conforme a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00030, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00028",
+   "date": "2024-09",
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você falou de mim?",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00031, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00029",
+   "date": "2024-09",
+   "timestamp_precision": "month",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Só Deus. Claro",
+   "editorial_note": "Resposta na mesma sequência, segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00032, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00030",
+   "date": "2024-11-21",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tudo acertado aqui. Preciso das informações. Urgente. Quando você pode encontrar o presidente?",
+   "editorial_note": "Sobre o encontro de Vorcaro com o presidente Lula mediado por Guido Mantega (evento de dezembro de 2024). Citação literal conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00031",
+   "date": "2024-11-21",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tudo ajustado",
+   "editorial_note": "Na mesma sequência, segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00034, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00032",
+   "date": "2024-11-29",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tua reunião será na quarta, às 11h, mas deixa o Guido te contar.",
+   "editorial_note": "A reunião com o presidente Lula ocorreu em 04/12/2024, segundo a reportagem; Guido Mantega foi contratado por Vorcaro como consultor (ver evento de dezembro de 2024). [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00035, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00033",
+   "date": "2024-11-29",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "preciso alinhar com você tua fala",
+   "editorial_note": "Na mesma sequência, segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-12-04",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dica: abra o coração. Fale, ainda que elegantemente, mal do cara que quer te comprar.",
+   "editorial_note": "No dia do encontro de Vorcaro com o presidente Lula (04/12/2024), segundo a reportagem; o destino da fala não é identificado na transcrição. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00036, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-12-04",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "O presidente está um pouco impaciente hoje.",
+   "editorial_note": "No dia do encontro (04/12/2024), segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00038, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-12-04",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sei que começou agora. Boa sorte",
+   "editorial_note": "No dia do encontro (04/12/2024), segundo a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00037",
+   "date": null,
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Parabéns. Soube que foi muito bom. Me dizem que vocês são muito extravagantes",
+   "editorial_note": "Após o encontro de 04/12/2024; data não divulgada pela reportagem. Relato de Warde sobre o resultado do encontro. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00039, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00038",
+   "date": null,
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Isso que ele não sabe das quengas",
+   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada. Observação de Warde; teor atribuído a Warde, não verificado. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00040, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-09",
+      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00039",
+   "date": null,
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Kkk… Falou de festa na Grécia. Nem dei ainda, po",
+   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00040",
+   "date": null,
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele quer participar…. Sem a Janja",
+   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada. Relato de Warde sobre o presidente Lula; a reportagem não registra confirmação ou manifestação do Planalto sobre esta fala.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00041",
+   "date": "2025-01-22",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ele agradeceu mais uma vez o whisky e mandou um abraço",
+   "editorial_note": "Sobre o uísque Macallan 1945 (ver evento de outubro de 2024 nesta conversa). Ano não impresso na transcrição: o UOL situa a mensagem em 22 de janeiro, na sequência das trocas de outubro-dezembro de 2024. Relato de Warde: o agradecimento atribuído ao presidente Lula não é manifestação direta dele; Lula declarou não se lembrar de ter recebido a bebida (“Se ele me deu uísque, já bebi”, TV Bandeirantes).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-22",
+      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
+     },
+     {
+      "publication": "UOL",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-22); Veja (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00042",
+   "date": "2025-01-22",
+   "timestamp_precision": "date",
+   "sender_id": "walfrido-warde",
+   "content_kind": "verbatim_excerpt",
+   "content": "Outros detalhes eu conto pessoalmente",
+   "editorial_note": "Na mesma sequência de 22 de janeiro, segundo o UOL; ano conforme o contexto da sequência (ver mensagem anterior).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00043",
+   "date": "2025-01-22",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "❤️",
+   "editorial_note": "Emoji de coração vermelho, conforme descrito pela reportagem do UOL; resposta de Vorcaro à mensagem anterior.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-10-22",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (2026-10-22)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
    "id": "m-00051",
    "date": "2024-11",
    "time": null,
@@ -1544,657 +2195,6 @@
    },
    "source_ref": "Mensagem divulgada por UOL (apuração espelhada pelo Metro1) (2026-10-01)",
    "added_in": "ingest-press2-20261016"
-  },
-  {
-   "id": "m-00027",
-   "date": "2024-09",
-   "timestamp_precision": "month",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Estive longamente com o presidente Lula ontem. Você vai gostar… Muito importante para você. Muito",
-   "editorial_note": "Relato de Warde sobre encontro dele com o presidente Lula; a conversa do encontro de dezembro de 2024 entre Lula e Vorcaro é registrada em evento próprio. Citação literal conforme a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00030, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00028",
-   "date": "2024-09",
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Você falou de mim?",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00031, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-09",
-      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00029",
-   "date": "2024-09",
-   "timestamp_precision": "month",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Só Deus. Claro",
-   "editorial_note": "Resposta na mesma sequência, segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00032, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-09",
-      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00030",
-   "date": "2024-11-21",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tudo acertado aqui. Preciso das informações. Urgente. Quando você pode encontrar o presidente?",
-   "editorial_note": "Sobre o encontro de Vorcaro com o presidente Lula mediado por Guido Mantega (evento de dezembro de 2024). Citação literal conforme a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00031",
-   "date": "2024-11-21",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tudo ajustado",
-   "editorial_note": "Na mesma sequência, segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00034, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00032",
-   "date": "2024-11-29",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tua reunião será na quarta, às 11h, mas deixa o Guido te contar.",
-   "editorial_note": "A reunião com o presidente Lula ocorreu em 04/12/2024, segundo a reportagem; Guido Mantega foi contratado por Vorcaro como consultor (ver evento de dezembro de 2024). [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00035, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00033",
-   "date": "2024-11-29",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "preciso alinhar com você tua fala",
-   "editorial_note": "Na mesma sequência, segundo a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00034",
-   "date": "2024-12-04",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Dica: abra o coração. Fale, ainda que elegantemente, mal do cara que quer te comprar.",
-   "editorial_note": "No dia do encontro de Vorcaro com o presidente Lula (04/12/2024), segundo a reportagem; o destino da fala não é identificado na transcrição. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00036, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-09",
-      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00035",
-   "date": "2024-12-04",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "O presidente está um pouco impaciente hoje.",
-   "editorial_note": "No dia do encontro (04/12/2024), segundo a reportagem. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00038, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00036",
-   "date": "2024-12-04",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Sei que começou agora. Boa sorte",
-   "editorial_note": "No dia do encontro (04/12/2024), segundo a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00037",
-   "date": null,
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Parabéns. Soube que foi muito bom. Me dizem que vocês são muito extravagantes",
-   "editorial_note": "Após o encontro de 04/12/2024; data não divulgada pela reportagem. Relato de Warde sobre o resultado do encontro. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00039, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-09",
-      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00038",
-   "date": null,
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Isso que ele não sabe das quengas",
-   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada. Observação de Warde; teor atribuído a Warde, não verificado. [Deduplicado 2026-10-26 (merge): a auditoria de 19/10 registrara esta mesma mensagem em transcrição parcial (ex-m-00040, lote audit-20261019); consolidada nesta transcrição; fontes unificadas.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-09",
-      "url": "https://veja.abril.com.br/politica/mensagens-mostram-atuacao-de-advogado-junto-ao-governo-lula-para-tentar-salvar-banco-de-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00039",
-   "date": null,
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Kkk… Falou de festa na Grécia. Nem dei ainda, po",
-   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada pela reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00040",
-   "date": null,
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Ele quer participar…. Sem a Janja",
-   "editorial_note": "Na mesma sequência pós-encontro; data não divulgada. Relato de Warde sobre o presidente Lula; a reportagem não registra confirmação ou manifestação do Planalto sobre esta fala.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00041",
-   "date": "2025-01-22",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Ele agradeceu mais uma vez o whisky e mandou um abraço",
-   "editorial_note": "Sobre o uísque Macallan 1945 (ver evento de outubro de 2024 nesta conversa). Ano não impresso na transcrição: o UOL situa a mensagem em 22 de janeiro, na sequência das trocas de outubro-dezembro de 2024. Relato de Warde: o agradecimento atribuído ao presidente Lula não é manifestação direta dele; Lula declarou não se lembrar de ter recebido a bebida (“Se ele me deu uísque, já bebi”, TV Bandeirantes).",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-22",
-      "url": "https://veja.abril.com.br/politica/mensagens-revelam-presente-de-r-500-mil-de-daniel-vorcaro-para-lula/"
-     },
-     {
-      "publication": "UOL",
-      "date": "2026-10-22",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (2026-10-22); Veja (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00042",
-   "date": "2025-01-22",
-   "timestamp_precision": "date",
-   "sender_id": "walfrido-warde",
-   "content_kind": "verbatim_excerpt",
-   "content": "Outros detalhes eu conto pessoalmente",
-   "editorial_note": "Na mesma sequência de 22 de janeiro, segundo o UOL; ano conforme o contexto da sequência (ver mensagem anterior).",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL",
-      "date": "2026-10-22",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
-   "id": "m-00043",
-   "date": "2025-01-22",
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "❤️",
-   "editorial_note": "Emoji de coração vermelho, conforme descrito pela reportagem do UOL; resposta de Vorcaro à mensagem anterior.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL",
-      "date": "2026-10-22",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/22/uisque-que-vorcaro-teria-dado-a-lula-custou-r-500-mil-apontam-mensagens.ghtm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (2026-10-22)",
-   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [

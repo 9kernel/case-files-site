@@ -224,6 +224,136 @@ ok = runCase('horas fora de ordem no mesmo dia', (t) => { t.messages[1].time = '
 ok = runCase('mesmo dia com hora ausente NÃO compara ordem', (t) => {
   t.messages[1].date = '2024-03-11'; t.messages[1].time = null; t.messages[1].timestamp_precision = 'date';
 }, []) && ok;
+
+/* ---------- regressão 29/10/2026: E_TIMESTAMP_ORDER além de registros sem data ----------
+   O checkOrder antigo comparava apenas vizinhos; um registro sem data (ou com
+   precisão month/approximate) INTERROMPIA a cadeia e escondia inversões entre
+   registros datados. Os quatro primeiros casos reproduzem as inversões reais
+   corrigidas nesta rodada (ana-matos, fabiano-zettel, paulo-henrique, walfrido-warde). */
+function undatedMsg(over = {}) {
+  const m = { ...msg(), ...over };
+  delete m.date; delete m.time; delete m.timestamp_precision;
+  return m;
+}
+ok = runCase('regressão ana-matos: bloco 2024 após mensagens de 2025, com registro sem data entre eles', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2025-07-22', time: null, timestamp_precision: 'date' },
+    undatedMsg({ id: 'm-00002' }),
+    { ...msg(), id: 'm-00003', date: '2024-04', time: null, timestamp_precision: 'month' },
+    { ...msg(), id: 'm-00004', date: '2024-08-19', time: null, timestamp_precision: 'date' },
+  ];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('regressão fabiano-zettel: 02/10/2024 após registros de 12/03/2025', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2025-03-12', time: null, timestamp_precision: 'date' },
+    undatedMsg({ id: 'm-00002' }),
+    { ...msg(), id: 'm-00003', date: '2024-10-02', time: '12:58', timestamp_precision: 'minute' },
+  ];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('regressão paulo-henrique: 30/04/2025 após registro de 12/11/2025', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2025-11-12', time: null, timestamp_precision: 'date' },
+    undatedMsg({ id: 'm-00002' }),
+    undatedMsg({ id: 'm-00003' }),
+    { ...msg(), id: 'm-00004', date: '2025-04-30', time: null, timestamp_precision: 'date' },
+  ];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('regressão walfrido-warde: 21/11/2024 após mensagens de 17/11/2025', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2025-11-17', time: null, timestamp_precision: 'date' },
+    undatedMsg({ id: 'm-00002' }),
+    { ...msg(), id: 'm-00003', date: '2024-09', time: null, timestamp_precision: 'month' },
+    { ...msg(), id: 'm-00004', date: '2024-11-21', time: null, timestamp_precision: 'date' },
+  ];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('inversão de HORA além de registro sem data no mesmo dia', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2024-03-11', time: '08:00', timestamp_precision: 'minute' },
+    undatedMsg({ id: 'm-00002' }),
+    { ...msg(), id: 'm-00003', date: '2024-03-11', time: '07:00', timestamp_precision: 'minute' },
+  ];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+ok = runCase('inversão também em EVENTOS além de evento sem data', (t) => {
+  const ev = (id, date) => ({ ...t.timeline_events[0], id, date, time: null, timestamp_precision: 'date' });
+  const noDate = { ...t.timeline_events[0], id: 'e-00002' };
+  delete noDate.date; delete noDate.time; delete noDate.timestamp_precision;
+  t.timeline_events = [ev('e-00001', '2025-01-10'), noDate, ev('e-00003', '2024-12-01')];
+}, ['E_TIMESTAMP_ORDER']) && ok;
+/* casos legítimos que NÃO podem gerar erro */
+ok = runCase('sem data entre datadas em ordem crescente NÃO gera erro', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2024-03-11', time: null, timestamp_precision: 'date' },
+    undatedMsg({ id: 'm-00002' }),
+    { ...msg(), id: 'm-00003', date: '2024-03-12', time: null, timestamp_precision: 'date' },
+  ];
+}, []) && ok;
+ok = runCase('precisão month entre datadas em ordem crescente NÃO gera erro', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2024-03-11', time: null, timestamp_precision: 'date' },
+    { ...msg(), id: 'm-00002', date: '2024-03', time: null, timestamp_precision: 'month' },
+    { ...msg(), id: 'm-00003', date: '2024-04-01', time: null, timestamp_precision: 'date' },
+  ];
+}, []) && ok;
+ok = runCase('precisão approximate não compara nem interrompe a cadeia', (t) => {
+  t.messages = [
+    { ...msg(), id: 'm-00001', date: '2024-03-11', time: null, timestamp_precision: 'date' },
+    { ...msg(), id: 'm-00002', date: '2024-03-10', time: null, timestamp_precision: 'approximate' },
+    { ...msg(), id: 'm-00003', date: '2024-03-12', time: null, timestamp_precision: 'date' },
+  ];
+}, []) && ok;
+
+/* ---------- regressão 29/10/2026: last_message_date do índice ----------
+   A data do índice é a ÚLTIMA DATA CONHECIDA da conversa; anterior a ela é
+   contradição mecânica com os dados do arquivo (E_INDEX_DATE_STALE). Mesmo
+   mês com âncora de mês nunca é comprovável (dia desconhecido). */
+function runIndexCase(name, threadMutate, indexEntry, expectedCodes) {
+  const thread = baseThread();
+  threadMutate(thread);
+  writeData(thread);
+  const indexFile = path.join(dataDir, 'threads.json');
+  fs.writeFileSync(indexFile, JSON.stringify([indexEntry]));
+  const { errors } = validateData(dataDir, tmpRoot);
+  fs.rmSync(indexFile, { force: true });
+  const codes = new Set(errors.map((e) => e.code));
+  const missing = expectedCodes.filter((c) => !codes.has(c));
+  if (missing.length) {
+    console.error(`✗ ${name}: esperava ${expectedCodes.join(', ')}, obtive ${[...codes].join(', ') || '(nenhum erro)'}`);
+    for (const e of errors) console.error(`    ${e.code}: ${e.message}`);
+    return false;
+  }
+  console.log(`✓ ${name} → ${expectedCodes.join(', ') || '(sem erro)'}`);
+  return true;
+}
+const idxEntry = (over = {}) => ({
+  id: 'thread-teste',
+  title: 'Thread de teste',
+  participants_ids: ['p-ana', 'p-bruno'],
+  message_count: 2,
+  last_message_preview: 'segunda mensagem',
+  featured: false,
+  note: null,
+  ...over,
+});
+ok = runIndexCase('índice: data anterior à última data conhecida da conversa',
+  (t) => { t.messages[1] = { ...msg(), id: 'm-00002', date: '2025-02-28', time: null, timestamp_precision: 'date' }; },
+  idxEntry({ last_message_date: '2024-03-15' }),
+  ['E_INDEX_DATE_STALE']) && ok;
+ok = runIndexCase('índice: âncora de mês posterior à data do índice',
+  (t) => { t.messages[1] = { ...msg(), id: 'm-00002', date: '2025-08', time: null, timestamp_precision: 'month' }; },
+  idxEntry({ last_message_date: '2025-02-27' }),
+  ['E_INDEX_DATE_STALE']) && ok;
+ok = runIndexCase('índice: mês no índice com data plena no mesmo mês NÃO é comprovável',
+  (t) => { t.messages[1] = { ...msg(), id: 'm-00002', date: '2025-02-27', time: null, timestamp_precision: 'date' }; },
+  idxEntry({ last_message_date: '2025-02' }),
+  []) && ok;
+ok = runIndexCase('índice: formato de data inválido',
+  (t) => {},
+  idxEntry({ last_message_date: '2024-3-15' }),
+  ['E_INDEX_DATE_BAD']) && ok;
+ok = runIndexCase('índice: data igual à última data conhecida passa',
+  (t) => { t.messages[1] = { ...msg(), id: 'm-00002', date: '2025-02-28', time: null, timestamp_precision: 'date' }; },
+  idxEntry({ last_message_date: '2025-02-28' }),
+  []) && ok;
 ok = runCase('date inválida', (t) => { t.messages[0].date = '11/03/2024'; }, ['E_BAD_DATE']) && ok;
 ok = runCase('date inexistente (31/02)', (t) => { t.messages[0].date = '2024-02-31'; }, ['E_BAD_DATE']) && ok;
 ok = runCase('time fora de HH:MM', (t) => { t.messages[0].time = '8h00'; }, ['E_BAD_TIME']) && ok;

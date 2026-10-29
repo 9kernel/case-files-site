@@ -1,6 +1,6 @@
 # PUBLIC-PROVENANCE-AUDIT — Auditoria de publicidade e proveniência por mensagem
 
-Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-27**.
+Gerado por `scripts/audit-public-provenance.mjs` em **2026-10-29**.
 Versão legível por máquina: [`data/audit/public-provenance-audit.json`](data/audit/public-provenance-audit.json).
 
 Regra máxima: a força da afirmação do site nunca pode ser maior que a força da
@@ -15,14 +15,14 @@ individualmente cada mensagem. Registros sem base ou sem fonte viram
 
 ## Resultado
 
-- 68 threads · 1322 registros (1075 mensagens + 247 eventos)
-- **1322 OK** · **0 com problema**
+- 68 threads · 1355 registros (1106 mensagens + 249 eventos)
+- **1355 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 799 |
-| OK_SECONDARY | 248 |
+| OK_PUBLIC_INVESTIGATION | 829 |
+| OK_SECONDARY | 251 |
 | INV_NO_BASIS | 0 |
 | INV_NO_PRESS_SOURCE | 0 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |

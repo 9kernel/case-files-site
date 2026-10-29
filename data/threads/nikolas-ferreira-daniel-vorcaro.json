@@ -19,7 +19,7 @@
    "sender_id": "nikolas-ferreira",
    "content_kind": "audio_transcript",
    "content": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou daqui do seu nome. Eu falei: 'não conheço o Dani, enfim, não tenho a proximidade assim, até mesmo a que eu queria ter, enfim, de conversar e trocar ideia, mas eu o conheço'. Ele falou: 'cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá, tem algumas pessoas que sabem disso lá na empresa'. E eu falei: 'não, ué, eu posso dar um toque nele'. Então assim, não sei nem do que se trata, mas enfim, como é uma pessoa, enfim, que eu confio totalmente, tô passando aí pra você, pra se for do teu interesse, passar o contato dele aqui pra vocês tocarem isso, beleza? No mais, qualquer coisa tô aqui à disposição. Troquei ideia lá com o Pastor Valadão naquela época, lá naquela postagem, eu falei: 'Pastor, eu não fazia ideia que era este o Banco do Dani etc. e tudo, se não, obviamente, eu não teria postado, já teria conversado anteriormente', mas enfim, acabou que a palavra dita não tem como voltar, né? Mas espero que tenha sido esclarecido, enfim, depois vamos marcar da gente se encontrar também, tá bem? […]",
-   "editorial_note": "Áudio de 30/03/2025 (domingo): pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria e retomada do episódio de Londres/abril de 2024 (intermediação do pastor André Valadão). Transcrição publicada pelo g1/GloboNews (04/09/2026); trecho inicial do pedido idêntico ao publicado pelo UOL (03/09/2026) na parte sobreposta. [Corrigido 2026-10-27: o conteúdo anterior registrava apenas trecho inicial em transcrição divergente da publicada pelo g1 e sem o trecho final; substituído pela transcrição do g1 com a despedida suprimida.] O UOL publica abertura adicional anterior ao trecho (“Ei Dani, tudo bom? Como você está? … Desculpa te incomodar num domingo aí, é jogo rápido, também não quero tomar muito seu tempo”), não reproduzida aqui para não costurar transcrições de veículos distintos — daí a marcação de transcrição parcial. Despedida suprimida por divergência documentada: o g1 transcreve “Um abração aí, Dani”; o UOL registrou em nota que não fica claro no áudio se foi “abraço aí, Dani” ou “um abraço, lindão” (primeira versão), e, segundo a Folha (03/09/2026), a transcrição oficial dos autos registra “lindão” — palavra negada publicamente por Nikolas; nenhuma variante é verificável nesta base. Divergência menor entre veículos: “se não” (g1/Folha) vs. “senão” (Agência Pública, 18/10/2026). [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "editorial_note": "Áudio de 30/03/2025 (domingo): pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria e retomada do episódio de Londres/abril de 2024 (intermediação do pastor André Valadão). Transcrição publicada pelo g1/GloboNews (04/09/2026); trecho inicial do pedido idêntico ao publicado pelo UOL (03/09/2026) na parte sobreposta. [Corrigido 2026-10-27: o conteúdo anterior registrava apenas trecho inicial em transcrição divergente da publicada pelo g1 e sem o trecho final; substituído pela transcrição do g1 com a despedida suprimida.] O UOL publica abertura adicional anterior ao trecho (“Ei Dani, tudo bom? Como você está? … Desculpa te incomodar num domingo aí, é jogo rápido, também não quero tomar muito seu tempo”), não reproduzida aqui para não costurar transcrições de veículos distintos — daí a marcação de transcrição parcial. Despedida suprimida por divergência documentada: o g1 transcreve “Um abração aí, Dani”; o UOL registrou em nota que não fica claro no áudio se foi “abraço aí, Dani” ou “um abraço, lindão” (primeira versão), e, segundo a Folha (03/09/2026), a transcrição oficial dos autos registra “lindão” (também transcrita pelo ICL Notícias, 03/09/2026: “Um abraço, lindão.”) — palavra negada publicamente por Nikolas; nenhuma variante é verificável nesta base. Divergência menor entre veículos: “se não” (g1/Folha) vs. “senão” (Agência Pública, 18/10/2026). [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
     "level": "secondary_source",
     "origin": "PF extraction",
@@ -55,6 +55,11 @@
       "publication": "Agência Pública",
       "date": "2026-10-18",
       "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     },
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
      }
     ]
    },
@@ -174,7 +179,7 @@
    "date": "2024-04",
    "timestamp_precision": "month",
    "event_kind": "editorial_context",
-   "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022.",
+   "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022. [Ampliado 2026-10-29 (ICL, 03/09): o uso da aeronave em 2022 teria ocorrido por cerca de dez dias do 2º turno, em nove estados e o DF, com o pastor Guilherme Batista.]",
    "verification": {
     "level": "secondary_source",
     "origin": "PF extraction",

@@ -8,7 +8,7 @@
  "source": {
   "document": "Agência Pública (24/10/2026) — Amanda Audi, Jéssica Ribeiro e Ed Wanderley: “Vorcaro orquestrou venda de bens da Igreja Lagoinha e prometeu expansão de R$ 100 milhões”",
   "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/",
-  "pages": "Mensagens do celular de Vorcaro interceptadas pela PF (Operação Compliance Zero) conforme transcrição da reportagem (áudios transcritos em trechos); datas e horários apenas os divulgados; nada além do publicado é inferido. Mensagens de 27/04/2024 (episódio Nikolas Ferreira/Londres) publicadas pela Agência Pública em 18/10/2026 (“apoiamos a direita”) — ver fonte individual de cada registro."
+  "pages": "Mensagens do celular de Vorcaro interceptadas pela PF (Operação Compliance Zero) conforme transcrição da reportagem (áudios transcritos em trechos); datas e horários apenas os divulgados; nada além do publicado é inferido. Mensagens de 27/04/2024 (episódio Nikolas Ferreira/Londres) publicadas pela Agência Pública em 18/10/2026 (“apoiamos a direita”) — ver fonte individual de cada registro. Mensagens de abril/2024 do episódio Nikolas/Londres também publicadas pelo ICL Notícias (03/09/2026)."
  },
  "messages": [
   {
@@ -262,7 +262,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Eu apoio diversos eventos e debates, e nesse caso o apoio foi com a palestra do Tony Blair com quem tive um debate de altíssimo nível. No evento, várias pessoas de direita, apoiadores do evento inclusive vários que apoiaram ele, como nós. Acaba ficando ruim ele incentivar e propagar um ataque a mim, como fez agora. Só preciso saber se estamos do mesmo lado ou agora estamos um contra o outro",
-   "editorial_note": "Explicação do patrocínio do evento de Londres e questionamento da posição do deputado; “[Nikolas]” (identificação do veículo) removido do literal. O UOL (03/09/2026) publica trecho da mesma mensagem com divergência de transcrição (“Discurso acaba ficando ruim, ele incentivou e propagar [sic] um ataque a mim”) — mantida a transcrição da fonte citada.",
+   "editorial_note": "Explicação do patrocínio do evento de Londres e questionamento da posição do deputado; “[Nikolas]” (identificação do veículo) removido do literal. O UOL (03/09/2026) publica trecho da mesma mensagem com divergência de transcrição (“Discurso acaba ficando ruim, ele incentivou e propagar [sic] um ataque a mim”) — mantida a transcrição da fonte citada. [Nota 2026-10-29: o ICL Notícias (03/09/2026) apresenta a frase final (“Só preciso saber se estamos do mesmo lado ou agora estamos um contra o outro”) como mensagem posterior a 29/04/2024, quando Nikolas repercutiu nova publicação; a Agência Pública (18/10/2026) a transcreve como fecho desta mensagem de 27/04 — divergência entre fontes registrada, sem alteração de data.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -291,6 +291,111 @@
    "added_in": "ingest-press10-20261027"
   },
   {
+   "id": "m-00033",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "De novo pedir sua ajuda com Nikolas. Estão usando a fala dele pra me atacar, por conta de patrocínio num evento em Londres. Acontece, que talvez ele não saiba, participaram vários membros da direita, como Ciro Nogueira, um dos líderes oposição",
+   "editorial_note": "Pedido de ajuda ao pastor na sequência do episódio de Londres (ICL Notícias, 03/09/2026, situa em 27/04/2024); grafia original preservada. [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Oi Dani. Claro amanhã falo com ele",
+   "editorial_note": "Resposta prometendo falar com Nikolas no dia seguinte (ICL Notícias, 03/09/2026). [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu falei com ele né, de todo apreço, de todo apoio que a gente tem e tudo, e que as coisas às vezes chegam pra ele de um jeito que não é a verdade. Ele vai me chamar aqui",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem (ICL, 03/09/2026; também publicado pelo UOL, 03/09/2026), na sequência de abril de 2024 — relato do pastor sobre a conversa com Nikolas Ferreira; precisão de mês, dia não divulgado individualmente. [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00032",
    "date": "2024-04-27",
    "time": null,
@@ -298,7 +403,7 @@
    "sender_id": "andre-valadao",
    "content_kind": "verbatim_excerpt",
    "content": "Resumindo, ele nem sabia sobre o banco e você, “palavras dele né”, e daí pediu perdão demais e vai contornar tudo. Deve te chamar também, ele me disse. Disse da gratidão com você e por aí vai.",
-   "editorial_note": "Resposta horas depois, relatando conversa com Nikolas Ferreira e o pedido de desculpas deste — relato de Valadão, não mensagem direta de Nikolas; “[Nikolas]” (identificação do veículo) removido do literal. Áudio posterior de Nikolas a Vorcaro (30/03/2025) retoma o episódio — ver thread de Nikolas Ferreira.",
+   "editorial_note": "Resposta horas depois, relatando conversa com Nikolas Ferreira e o pedido de desculpas deste — relato de Valadão, não mensagem direta de Nikolas; “[Nikolas]” (identificação do veículo) removido do literal. Áudio posterior de Nikolas a Vorcaro (30/03/2025) retoma o episódio — ver thread de Nikolas Ferreira. [Nota 2026-10-29: o ICL Notícias (03/09/2026) publica a mesma mensagem em transcrição própria (“Resumindo. Ele nem sabia sobre o banco e vc ‘palavras dele né’ e daí pediu perdão demais e vai contornar tudo”), situando-a após áudio do pastor e sem data individual — mantida a transcrição e a data da fonte citada (Agência Pública).]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -320,6 +425,11 @@
       "publication": "Agência Pública",
       "date": "2026-10-18",
       "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     },
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
      }
     ]
    },
@@ -1007,7 +1117,7 @@
    "sender_id": "andre-valadao",
    "content_kind": "verbatim_excerpt",
    "content": "Dani sobre o terreno estamos finalizando e precisamos de 200k de dólares pra amarrar a proposta … e prosseguir com due diligence de até 80 dias para ter toda liberação da prefeitura para o projeto ou não",
-   "editorial_note": "Cobrança de resposta sobre o terreno em 15/08/2024, conforme a reportagem; as reticências constam do texto publicado. A reportagem não confirma a conclusão da aquisição.",
+   "editorial_note": "Cobrança de resposta sobre o terreno em Orlando situada pela reportagem em 15 de agosto, sem ano explícito na passagem correspondente; as reticências constam do texto publicado. A reportagem não confirma a conclusão da aquisição. [Corrigido 2026-10-29: a data completa anterior (2024-08-15) era derivação da sequência narrativa — a própria reportagem situa as últimas discussões do terreno “dois meses” antes da prisão de novembro/2025, incompatível com agosto/2024 para aquele bloco; ano permanece indeterminado (2024 ou 2025), data completa removida. A correção de m-00027 (2026-10-27) segue mantida.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1033,9 +1143,7 @@
     ]
    },
    "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
-   "added_in": "ingest-press9-20261026",
-   "date": "2024-08-15",
-   "timestamp_precision": "date"
+   "added_in": "ingest-press9-20261026"
   },
   {
    "id": "m-00027",

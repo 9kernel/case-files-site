@@ -304,6 +304,582 @@
    "added_in": "ingest-ipja-20261006"
   },
   {
+   "id": "m-00025",
+   "date": "2025-02-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Opa",
+   "editorial_note": "Após tentativas repetidas de ligação de Ciro a Vorcaro naquele dia, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00026",
+   "date": "2025-02-07",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "me liga",
+   "editorial_note": "Na mesma sequência de 07/02/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00027",
+   "date": "2025-02-07",
+   "time": "14:03",
+   "timestamp_precision": "minute",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tô André M.",
+   "editorial_note": "Publicado como “Tô [com] André M.” — “(com)” é complementação inserida pelo veículo e foi removida do literal; “André M.” é André Mendonça conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00028",
+   "date": "2025-02-08",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Fala, Vorcarinho, trabalhando por você! Levei o André lá no Vasco agora, pra fazer um terno.",
+   "editorial_note": "Trecho de áudio de 6 segundos transcrito pela reportagem; acompanhava foto ao lado de André Mendonça em alfaiataria (imagem não reproduzida).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00029",
+   "date": "2025-02-16",
+   "time": "17:47",
+   "timestamp_precision": "minute",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Opa, Dani!!! Preciso muito falar com você. O A.M. quer recebê-lo. E preciso agendar o quanto antes",
+   "editorial_note": "“A.M.” é André Mendonça conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00030",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Muito importante sua ida nele junto comigo",
+   "editorial_note": "Reforço na mesma sequência de 16/02/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00031",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "?",
+   "editorial_note": "Resposta na mesma sequência; horário não divulgado.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00032",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Marca quarta",
+   "editorial_note": "Resposta na mesma sequência; “quarta” = 19/02/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00033",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Você é meu irmão caçula, meu protegido",
+   "editorial_note": "Na troca de aniversário em que Vorcaro chamou Ciro de “irmão, anjo da guarda, parceiro, amigo de verdade” (fragmentos citados pela reportagem).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00034",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "O André Mendonça fez uma homenagem pra mim do caralho no aniversário",
+   "editorial_note": "Trecho de áudio de 1min39s transcrito pela reportagem; o aniversário contou, segundo o relato, com a presença de Kassio Nunes Marques e Paulo Gonet.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00035",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "O André quer te receber. Acho que eu dei uma balançada nele naquele assunto.",
+   "editorial_note": "Trecho do mesmo áudio de 16/02/2025 transcrito pela reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00036",
+   "date": "2025-02-16",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "O André Mendonça disse que quer te receber junto comigo, me pediu até pra levar o Otto. Ele sabe, soube da situação do Banco Central toda. Eu contei. Ele já sabia que o Cezinha, Cezinha já tinha falado com ele.",
+   "editorial_note": "Trecho do mesmo áudio; RELATO de Ciro — não comprova interferência de André Mendonça no Banco Central nem conhecimento dele sobre o caso; “Otto” citado sem identificação adicional. Manifestações do gabinete e de Ciro no evento de contexto.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00037",
+   "date": "2025-02-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dani, estou saindo de BSB agora. Estava numa reunião. Preciso falar com você hoje. Podemos marcar às 18h",
+   "editorial_note": "Sequência de 17/02/2025.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00038",
+   "date": "2025-02-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "subindo",
+   "editorial_note": "Após ligação de 18 segundos, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00039",
+   "date": "2025-02-17",
+   "time": "19:08",
+   "timestamp_precision": "minute",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cezinha confirmou às 16h de quarta",
+   "editorial_note": "“Quarta” = 19/02/2025; Cezinha de Madureira, ver conversa própria.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00040",
+   "date": "2025-02-19",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ciro-soares",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ô, Dani, deixa eu te falar aqui, pede ao Bruno Bianco chegar aqui quatro e meia, pode ser? Que aí a gente faz uma apresentação aqui. Ou quatro e vinte",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem; o material divulga o AGENDAMENTO, não a realização da reunião; Bruno Bianco citado sem identificação adicional.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00007",
    "date": "2025-03-15",
    "time": "14:13",
@@ -1153,6 +1729,37 @@
    },
    "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 205 · fig. 216",
    "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "e-00002",
+   "event_kind": "editorial_context",
+   "content": "Contraditório (ICL Notícias, 03/09/2026, atualizada em 28/10): o gabinete de André Mendonça confirmou ter recebido Vorcaro uma única vez (março/2025), por iniciativa do próprio empresário, para tratar da STP 976 (precatórios), então com pedido de vista, alegando decisão contrária à posição do banco. Ciro Rocha Soares, em nota, afirmou que marcar conversas com magistrados é prática natural da advocacia, que Vorcaro não era investigado à época e que Mendonça não era relator do caso Master; classificou a veiculação como quebra de sigilo da relação advogado-cliente. Os relatos de Ciro não comprovam interferência de Mendonça no Banco Central.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "source_ref": "ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   }
   }
  ]
 }

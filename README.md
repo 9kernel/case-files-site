@@ -93,12 +93,12 @@ conhecimento absoluto sobre a origem última dessas reportagens.
   figuras/imagem ou matéria que bloqueia robôs) mantêm corroboração indireta
   registrada e pendência de leitura visual. Naquela data: 384 registros
   auditados.
-- *Números correntes (27/10/2026, rodada press10 — Valadão 27/04/2024, áudio integral
-  de Nikolas, grupo “Master”/BC e revisão de colchetes editoriais)*: **68 conversas ·
-  1075 mensagens · 247 eventos** — 1322 registros públicos auditados (799 investigação
-  pública com procedimento declarado e fonte jornalística registrada — verificação por
-  registro, não aprovação automática; 275 documento oficial, 248 fonte jornalística),
-  zero problemas de proveniência. Os totais mudam a cada rodada
+- *Números correntes (29/10/2026, rodada press11 — correções cronológicas e de índice,
+  validador endurecido, fevereiro/2025 de Ciro Soares e complementos de imprensa)*:
+  **68 conversas · 1106 mensagens · 249 eventos** — 1355 registros públicos auditados
+  (829 investigação pública com procedimento declarado e fonte jornalística registrada —
+  verificação por registro, não aprovação automática; 275 documento oficial, 251 fonte
+  jornalística), zero problemas de proveniência. Os totais mudam a cada rodada
   de inclusão: o valor atualizado está sempre em `PUBLIC-PROVENANCE-AUDIT.md`
   (regenerado pelo CI a cada commit) e em `data/threads.json`.
 - *Proveniência (contínua)*: toda mensagem `official_document` aponta para

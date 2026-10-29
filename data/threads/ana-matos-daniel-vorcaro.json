@@ -12,1088 +12,6 @@
  },
  "messages": [
   {
-   "id": "m-00001",
-   "date": "2024-11",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tá caro esse Metrópoles",
-   "editorial_note": "Sobre a proposta do contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
-  },
-  {
-   "id": "m-00002",
-   "date": "2024-11",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Coisa mais importante nossa vida é esse Metrópoles",
-   "editorial_note": "Resposta na mesma sequência; colchete consta da transcrição da reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian'). [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[da]” é complementação gramatical inserida pelo veículo na transcrição publicada (UOL, 15/10/2026); removida do literal.]",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
-  },
-  {
-   "id": "m-00003",
-   "date": "2024-11",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Dei ok pra Lilian",
-   "editorial_note": "Dois dias depois, autorizando o contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
-  },
-  {
-   "id": "m-00054",
-   "date": "2025-04-04",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Prioli ótima tacada",
-   "editorial_note": "Primeira avaliação de Vorcaro sobre a contratação da influenciadora Gabriela Prioli, segundo as reportagens.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00055",
-   "date": "2025-04-05",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Isso aqui é muito bom. Acho que no texto ela tem que me citar e os ataques pra explicar as fake news",
-   "editorial_note": "Após compartilhar publicação de Prioli, sugerindo edições no roteiro, segundo as reportagens.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00056",
-   "date": "2025-04-05",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "A conversa com a Prioli foi excelente. Estamos finalizando o roteiro do post que irá ao ar —ela é firme, tem opiniões claras. Tbm sou. Foi uma reunião boa. De forma prática: o contrato está assinado por 12 meses",
-   "editorial_note": "Relato da reunião; a afirmação sobre contrato de 12 meses é atribuída à própria Ana Matos — a existência de contrato documental não foi comprovada e Gabriela Prioli nega publicamente tê-lo firmado (ver evento de 16/10/2026). O Poder360 publica a transcrição mais completa; Estadão/Terra e Times Brasil reproduzem trechos. Segundo as reportagens, Ana Matos informa ainda que cerca de 15 influenciadores de alto engajamento seriam usados por três meses, renováveis.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     },
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 e Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00057",
-   "date": "2025-04-05",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Ela vai ser bombardeada por gente do mercado, tem que cuidar de perto",
-   "editorial_note": null,
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00058",
-   "date": "2025-04-05",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Disse estar acostumada. O que ela não quer eh contato direto com o banco. Porque não fechamos publi. Eh uma opinião dela. Tanto que o contrato fechamos via uma agência pra não ter master",
-   "editorial_note": "Segundo a reportagem, descreve o arranjo como opinião espontânea com contrato via agência para não aparecer o Master — versão de Ana Matos; Prioli nega qualquer contratação ou orientação.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00059",
-   "date": "2025-04-05",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Grande estratégia. Essa pegou na veia. Nao vamos falar ninguém",
-   "editorial_note": null,
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00060",
-   "date": "2025-04-05",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Coloquei isso na Prioli. Pra dar esse gancho",
-   "editorial_note": "Sobre enquadrar Vorcaro como alvo de preconceito de banqueiros na narrativa, conforme as reportagens.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00061",
-   "date": "2025-04-06",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Prioli foi melhor estrategia de todas disparado",
-   "editorial_note": null,
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00062",
-   "date": "2025-04-07",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Thiago do Léo me perguntando sobre a Prioli. Não tô abrindo tá? Pra ngm.",
-   "editorial_note": "Sobre manter sigilo da operação; na sequência, segundo o Estadão/Terra, diz “fazer que não sabe” ao ser parabenizada e menciona que a própria influenciadora agiu igual — incluindo quando sondada pela FSB.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00004",
-   "date": "2025-04-11",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "estão aprovados por vc para irem pra Londres com despesas pagas por nós",
-   "editorial_note": "Questiona se os nomes de uma lista estão aprovados; Vorcaro não concorda com a lista, mas ressalva que “Pedro e ciro ok” teriam despesas pagas — em menção a Pedro Gonet e Ciro Soares, segundo o relatório.",
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 209,
-    "figure": 221
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 209,
-    "figure": 221,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 209,
-     "figure": 221,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00005",
-   "date": "2025-04-11",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Pedro e ciro ok",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 209,
-    "figure": 221
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 209,
-    "figure": 221,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 209,
-     "figure": 221,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00063",
-   "date": "2025-04-18",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Agora acho que podiamos ter um video da prioli falando da questao dos cdbs , que pessoal vendendo com desagio e perdendo dinheiro a toa. Que alem do banco estar bem, ainda que em caso de problema tudo continua garantido pelo fgc. Que boatos midias e informacoes nao precisas no final dondia fazem quem não tem conhecimento perder dinheiro e espertos do mercado comprando e se aproveitando pra ganhar dinheiro",
-   "editorial_note": "Pedido de vídeo sobre os CDBs do Master; erros de digitação (inclusive “dondia”) conforme o original transcrito pelo Poder360.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00064",
-   "date": "2025-04-18",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Falei com ela quarta. Conversamos, a princípio, sobre fazer o próximo de fake news e como isso eh devastador. “Olha o caso do Master, certeza de que alguns de vcs podem ter pensando em resgatar seu CDB etc. deixa eu explicar isso… e ai ela falaria sobre não tomar decisão baseada na mídia. Seria uma abordagem na linha que vc colocou acima, mas pelo gancho da desinformação. Funciona? O que vc acha?”",
-   "editorial_note": "Resposta com proposta de roteiro; a fala entre aspas é a minuta de fala da influenciadora citada na própria mensagem, conforme o Poder360.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00065",
-   "date": "2025-04-18",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Sim",
-   "editorial_note": "Resposta à proposta de roteiro; o Poder360 apresenta a sequência no dia 18/04/2025, sem horários individuais.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Poder360",
-      "date": "2026-10-17",
-      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00066",
-   "date": "2025-05-28",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tem que bater em jornalista não no BTG",
-   "editorial_note": "Resposta a consulta de Ana Matos sobre texto para a influenciadora, segundo as reportagens.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00067",
-   "date": "2025-05-29",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Não vi ainda. Sempre fico nervosa quando ela posta kkkkk. Mas ficou ótimo",
-   "editorial_note": "Sobre a publicação da influenciadora; o Times Brasil grafa “kkkk” (quatro letras) — mantida a grafia do Estadão (via Terra).",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-17",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Estadão (reproduzido pelo Terra)",
-      "date": "2026-10-16",
-      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
-     },
-     {
-      "publication": "Times Brasil/CNBC",
-      "date": "2026-10-16",
-      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
-   "added_in": "audit-20261017",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00006",
-   "date": "2025-07-10",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim",
-   "content": "O Andrei PF precisa de um Convite formal para aceitar Londres",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 216,
-    "figure": 228
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 216,
-    "figure": 228,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 216,
-     "figure": 228,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00007",
-   "date": "2025-07-10",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "Grupo Voto pode mandar dele e demais?",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 216,
-    "figure": 228
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 216,
-    "figure": 228,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 216,
-     "figure": 228,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00008",
-   "date": "2025-07-10",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Pode",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 216,
-    "figure": 228
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 216,
-    "figure": 228,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 216,
-     "figure": 228,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00009",
-   "date": "2025-07-18",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "De jeito nenhum",
-   "editorial_note": "Sobre colocar Antonio Rueda como moderador de painel; na sequência complementa a frase abaixo.",
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 193,
-    "figure": 202
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 193,
-    "figure": 202,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 193,
-     "figure": 202,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00010",
-   "date": "2025-07-18",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Alexandre morre se vc fizer isso",
-   "editorial_note": null,
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 193,
-    "figure": 202
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 193,
-    "figure": 202,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 193,
-     "figure": 202,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00011",
-   "date": "2025-07-21",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "reclamou MUITO do evento",
-   "editorial_note": "Diz que o ministro Alexandre de Moraes “reclamou MUITO do evento”.",
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 194,
-    "figure": 203
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 194,
-    "figure": 203,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 194,
-     "figure": 203,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 194 · fig. 203",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00012",
-   "date": "2025-07-22",
-   "time": null,
-   "timestamp_precision": "date",
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
-   "editorial_note": "Diz que passou o dia com “Vivi Moraes e o ministro” fechando o programa do evento.",
-   "source": {
-    "document_id": "pf-ipja-3298613-2026",
-    "page": 195,
-    "figure": 204
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "PET 16662",
-    "document": "IPJ-A nº 3298613/2026",
-    "page": 195,
-    "figure": 204,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
-    "primary_document_located": true,
-    "verified_at": "2026-10-06"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-3298613-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "PET 16662",
-     "document": "IPJ-A nº 3298613/2026",
-     "page": 195,
-     "figure": 204,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 195 · fig. 204",
-   "added_in": "ingest-ipja-20261006"
-  },
-  {
-   "id": "m-00013",
-   "date": null,
-   "sender_id": "ana-matos",
-   "content_kind": "verbatim_excerpt",
-   "content": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?",
-   "editorial_note": "Sobre o contrato de R$ 20 milhões; atribuição a Ana Matos conforme a tabela do editor (a reportagem a identifica como 'funcionária'/'diretora de marketing').",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "audit-fix2-20261016"
-  },
-  {
    "id": "m-00014",
    "date": "2024-04",
    "timestamp_precision": "month",
@@ -1795,6 +713,150 @@
    "timestamp_precision": "date"
   },
   {
+   "id": "m-00076",
+   "date": "2024-10-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Cnn deu um ruido grande. Nao gostei postura joao. Estou avaliando o que fazer.",
+   "editorial_note": "Insatisfação com a postura de João Camargo (então presidente executivo do Conselho da CNN Brasil, identificado pela reportagem); no dia seguinte, Ana Matos relatou que o vice-presidente comercial dizia que o banco já teria feito “um primeiro aporte como acionistas” — ver evento de contexto; negociação não comprova participação societária concretizada (a CNN nega).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — série do ICL Notícias (Núcleo Investigativo) sobre mensagens do celular de Vorcaro apreendidas pela PF; a reportagem não nomeia o procedimento individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-10-19",
+      "url": "https://iclnoticias.com.br/patrocinio-10-milhoes-vorcaro-cnn-entrevista/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-10-19)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00001",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tá caro esse Metrópoles",
+   "editorial_note": "Sobre a proposta do contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Coisa mais importante nossa vida é esse Metrópoles",
+   "editorial_note": "Resposta na mesma sequência; colchete consta da transcrição da reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian'). [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[da]” é complementação gramatical inserida pelo veículo na transcrição publicada (UOL, 15/10/2026); removida do literal.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-11",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Dei ok pra Lilian",
+   "editorial_note": "Dois dias depois, autorizando o contrato, segundo a reportagem. Atribuição conferida pelo editor nas capturas da reportagem: a troca é com a diretora de marketing Ana Matos (o texto corrido do UOL a chama apenas de 'a diretora'; é ela quem processa o pagamento — daí o 'tá caro' e o 'dei ok pra Lilian').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
    "id": "m-00038",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
@@ -2113,6 +1175,283 @@
    "timestamp_precision": "minute"
   },
   {
+   "id": "m-00054",
+   "date": "2025-04-04",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Prioli ótima tacada",
+   "editorial_note": "Primeira avaliação de Vorcaro sobre a contratação da influenciadora Gabriela Prioli, segundo as reportagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00055",
+   "date": "2025-04-05",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Isso aqui é muito bom. Acho que no texto ela tem que me citar e os ataques pra explicar as fake news",
+   "editorial_note": "Após compartilhar publicação de Prioli, sugerindo edições no roteiro, segundo as reportagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00056",
+   "date": "2025-04-05",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "A conversa com a Prioli foi excelente. Estamos finalizando o roteiro do post que irá ao ar —ela é firme, tem opiniões claras. Tbm sou. Foi uma reunião boa. De forma prática: o contrato está assinado por 12 meses",
+   "editorial_note": "Relato da reunião; a afirmação sobre contrato de 12 meses é atribuída à própria Ana Matos — a existência de contrato documental não foi comprovada e Gabriela Prioli nega publicamente tê-lo firmado (ver evento de 16/10/2026). O Poder360 publica a transcrição mais completa; Estadão/Terra e Times Brasil reproduzem trechos. Segundo as reportagens, Ana Matos informa ainda que cerca de 15 influenciadores de alto engajamento seriam usados por três meses, renováveis.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     },
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 e Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00057",
+   "date": "2025-04-05",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ela vai ser bombardeada por gente do mercado, tem que cuidar de perto",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00058",
+   "date": "2025-04-05",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Disse estar acostumada. O que ela não quer eh contato direto com o banco. Porque não fechamos publi. Eh uma opinião dela. Tanto que o contrato fechamos via uma agência pra não ter master",
+   "editorial_note": "Segundo a reportagem, descreve o arranjo como opinião espontânea com contrato via agência para não aparecer o Master — versão de Ana Matos; Prioli nega qualquer contratação ou orientação.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00059",
+   "date": "2025-04-05",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Grande estratégia. Essa pegou na veia. Nao vamos falar ninguém",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00060",
+   "date": "2025-04-05",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Coloquei isso na Prioli. Pra dar esse gancho",
+   "editorial_note": "Sobre enquadrar Vorcaro como alvo de preconceito de banqueiros na narrativa, conforme as reportagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
    "id": "m-00048",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
@@ -2254,41 +1593,6 @@
    "timestamp_precision": "date"
   },
   {
-   "id": "m-00018",
-   "date": "2025-04-05",
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Acabei de ver que Pablo Marçal postou coisa do banco. Vou precisar que você entre no circuito pra mim delicadamente",
-   "editorial_note": "Sobre posts de Pablo Marçal; “entrar no circuito” refere-se a abordagem ao influenciador, segundo a reportagem. Não há evidência de que Marçal participou de conversa com Vorcaro.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-21",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
-   "added_in": "ingest-press8-20261023"
-  },
-  {
    "id": "m-00052",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
@@ -2323,41 +1627,6 @@
    "date": "2025-04-05",
    "time": "20:49",
    "timestamp_precision": "minute"
-  },
-  {
-   "id": "m-00019",
-   "date": "2025-04-05",
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tenta fazer ele falar de concentração bancária e não especificamente do banco",
-   "editorial_note": "Cerca de uma hora depois, na sequência do mesmo dia, após mensagem apagada e áudio ouvido por Vorcaro; a reportagem ressalva não ser possível afirmar que este recado se dirige a Marçal.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-21",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
-   "added_in": "ingest-press8-20261023"
   },
   {
    "id": "m-00053",
@@ -2395,6 +1664,241 @@
    "timestamp_precision": "date"
   },
   {
+   "id": "m-00018",
+   "date": "2025-04-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acabei de ver que Pablo Marçal postou coisa do banco. Vou precisar que você entre no circuito pra mim delicadamente",
+   "editorial_note": "Sobre posts de Pablo Marçal; “entrar no circuito” refere-se a abordagem ao influenciador, segundo a reportagem. Não há evidência de que Marçal participou de conversa com Vorcaro.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00019",
+   "date": "2025-04-05",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tenta fazer ele falar de concentração bancária e não especificamente do banco",
+   "editorial_note": "Cerca de uma hora depois, na sequência do mesmo dia, após mensagem apagada e áudio ouvido por Vorcaro; a reportagem ressalva não ser possível afirmar que este recado se dirige a Marçal.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-23",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00061",
+   "date": "2025-04-06",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Prioli foi melhor estrategia de todas disparado",
+   "editorial_note": null,
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00062",
+   "date": "2025-04-07",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Thiago do Léo me perguntando sobre a Prioli. Não tô abrindo tá? Pra ngm.",
+   "editorial_note": "Sobre manter sigilo da operação; na sequência, segundo o Estadão/Terra, diz “fazer que não sabe” ao ser parabenizada e menciona que a própria influenciadora agiu igual — incluindo quando sondada pela FSB.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00004",
+   "date": "2025-04-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "estão aprovados por vc para irem pra Londres com despesas pagas por nós",
+   "editorial_note": "Questiona se os nomes de uma lista estão aprovados; Vorcaro não concorda com a lista, mas ressalva que “Pedro e ciro ok” teriam despesas pagas — em menção a Pedro Gonet e Ciro Soares, segundo o relatório.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 209,
+    "figure": 221
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 209,
+    "figure": 221,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 209,
+     "figure": 221,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00005",
+   "date": "2025-04-11",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Pedro e ciro ok",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 209,
+    "figure": 221
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 209,
+    "figure": 221,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 209,
+     "figure": 221,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 209 · fig. 221",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
    "id": "m-00047",
    "sender_id": "ana-matos",
    "content_kind": "verbatim_excerpt",
@@ -2428,6 +1932,538 @@
    "added_in": "ingest-press9-20261026",
    "date": "2025-04-14",
    "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00063",
+   "date": "2025-04-18",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Agora acho que podiamos ter um video da prioli falando da questao dos cdbs , que pessoal vendendo com desagio e perdendo dinheiro a toa. Que alem do banco estar bem, ainda que em caso de problema tudo continua garantido pelo fgc. Que boatos midias e informacoes nao precisas no final dondia fazem quem não tem conhecimento perder dinheiro e espertos do mercado comprando e se aproveitando pra ganhar dinheiro",
+   "editorial_note": "Pedido de vídeo sobre os CDBs do Master; erros de digitação (inclusive “dondia”) conforme o original transcrito pelo Poder360.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00064",
+   "date": "2025-04-18",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falei com ela quarta. Conversamos, a princípio, sobre fazer o próximo de fake news e como isso eh devastador. “Olha o caso do Master, certeza de que alguns de vcs podem ter pensando em resgatar seu CDB etc. deixa eu explicar isso… e ai ela falaria sobre não tomar decisão baseada na mídia. Seria uma abordagem na linha que vc colocou acima, mas pelo gancho da desinformação. Funciona? O que vc acha?”",
+   "editorial_note": "Resposta com proposta de roteiro; a fala entre aspas é a minuta de fala da influenciadora citada na própria mensagem, conforme o Poder360.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00065",
+   "date": "2025-04-18",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Sim",
+   "editorial_note": "Resposta à proposta de roteiro; o Poder360 apresenta a sequência no dia 18/04/2025, sem horários individuais.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Poder360",
+      "date": "2026-10-17",
+      "url": "https://www.poder360.com.br/poder-gente/gabriela-prioli-nega-contrato-com-master-e-comunicacao-com-vorcaro/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Poder360 (2026-10-17)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00066",
+   "date": "2025-05-28",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem que bater em jornalista não no BTG",
+   "editorial_note": "Resposta a consulta de Ana Matos sobre texto para a influenciadora, segundo as reportagens.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00067",
+   "date": "2025-05-29",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não vi ainda. Sempre fico nervosa quando ela posta kkkkk. Mas ficou ótimo",
+   "editorial_note": "Sobre a publicação da influenciadora; o Times Brasil grafa “kkkk” (quatro letras) — mantida a grafia do Estadão (via Terra).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-17",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Terra)",
+      "date": "2026-10-16",
+      "url": "https://www.terra.com.br/economia/dono-do-banco-master-editava-textos-de-videos-de-gabriela-prioli-vendidos-como-opiniao-espontanea,fba20eeb079388ab78a3b11086f4147ew6ssoplk.html"
+     },
+     {
+      "publication": "Times Brasil/CNBC",
+      "date": "2026-10-16",
+      "url": "https://timesbrasil.com.br/brasil/vorcaro-sugeria-pautas-e-editava-textos-de-videos-de-gabriela-prioli-veja-mensagens/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Estadão (reproduzido pelo Terra) e Times Brasil/CNBC (2026-10-16)",
+   "added_in": "audit-20261017",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00006",
+   "date": "2025-07-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim",
+   "content": "O Andrei PF precisa de um Convite formal para aceitar Londres",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 216,
+    "figure": 228
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 216,
+    "figure": 228,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 216,
+     "figure": 228,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00007",
+   "date": "2025-07-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "Grupo Voto pode mandar dele e demais?",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 216,
+    "figure": 228
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 216,
+    "figure": 228,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 216,
+     "figure": 228,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-07-10",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Pode",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 216,
+    "figure": 228
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 216,
+    "figure": 228,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 216,
+     "figure": 228,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 216 · fig. 228",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-07-18",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "De jeito nenhum",
+   "editorial_note": "Sobre colocar Antonio Rueda como moderador de painel; na sequência complementa a frase abaixo.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 193,
+    "figure": 202
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 193,
+    "figure": 202,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 193,
+     "figure": 202,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-07-18",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Alexandre morre se vc fizer isso",
+   "editorial_note": null,
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 193,
+    "figure": 202
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 193,
+    "figure": 202,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 193,
+     "figure": 202,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 193 · fig. 202",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-07-21",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "reclamou MUITO do evento",
+   "editorial_note": "Diz que o ministro Alexandre de Moraes “reclamou MUITO do evento”.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 194,
+    "figure": 203
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 194,
+    "figure": 203,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 194,
+     "figure": 203,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 194 · fig. 203",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-07-22",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "o dia aqui com Vivi Moraes e o ministro fechando o programa do evento",
+   "editorial_note": "Diz que passou o dia com “Vivi Moraes e o ministro” fechando o programa do evento.",
+   "source": {
+    "document_id": "pf-ipja-3298613-2026",
+    "page": 195,
+    "figure": 204
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "PET 16662",
+    "document": "IPJ-A nº 3298613/2026",
+    "page": 195,
+    "figure": 204,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133",
+    "primary_document_located": true,
+    "verified_at": "2026-10-06"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-3298613-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "PET 16662",
+     "document": "IPJ-A nº 3298613/2026",
+     "page": 195,
+     "figure": 204,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7681133"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 3298613/2026 · fl. 195 · fig. 204",
+   "added_in": "ingest-ipja-20261006"
+  },
+  {
+   "id": "m-00013",
+   "date": null,
+   "sender_id": "ana-matos",
+   "content_kind": "verbatim_excerpt",
+   "content": "O valor que fechamos com o Metrópoles (20 mi) eu faço todo no CNPJ banco ou divido com Kovr e Will?",
+   "editorial_note": "Sobre o contrato de R$ 20 milhões; atribuição a Ana Matos conforme a tabela do editor (a reportagem a identifica como 'funcionária'/'diretora de marketing').",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/vorcaro-editava-textos-do-site-metropoles-antes-de-irem-ao-ar.htm"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "audit-fix2-20261016"
   },
   {
    "id": "m-00068",
@@ -2876,7 +2912,7 @@
   },
   {
    "id": "e-00003",
-   "content": "Contexto CNN (ICL, 19/10/2026): o Master era anunciante da CNN Brasil; em 19/08/2024, Ana Matos relatou pedido de patrocínio e fechou R$ 1 milhão; em setembro/outubro de 2024, discutiu-se renovar os R$ 10 milhões anuais como cota fundadora da futura CNN Money (pedido da emissora: “12mm por 12 meses”), com pretensões registradas na conversa de Vorcaro entrar no “conselho editorial” e de Ana Matos montar “black list” de patrocinadores e acompanhar o conteúdo editorial. Em abril de 2025, exigiu-se combinar previamente as perguntas de entrevista; Vorcaro desistiu de participar e indiciu Paulo Gala, que entrevistou em 03/04 e voltou ao tema em 14/04 seguindo briefing de Ana. Em nota, a CNN negou ter tido “qualquer sociedade” com Vorcaro e qualquer interferência editorial na cobertura, confirmando o Master como anunciante; João Camargo (vice-presidente comercial) e Paulo Gala deixaram a emissora, e Gala negou permitir que o conteúdo editorial fosse orientado por anunciantes. As mensagens registram intenção e pressão comercial; interferência editorial efetivamente ocorrida não está demonstrada nos registros deste arquivo.",
+   "content": "Contexto CNN (ICL, 19/10/2026): o Master era anunciante da CNN Brasil; em 19/08/2024, Ana Matos relatou pedido de patrocínio e fechou R$ 1 milhão; em setembro/outubro de 2024, discutiu-se renovar os R$ 10 milhões anuais como cota fundadora da futura CNN Money (pedido da emissora: “12mm por 12 meses”), com pretensões registradas na conversa de Vorcaro entrar no “conselho editorial” e de Ana Matos montar “black list” de patrocinadores e acompanhar o conteúdo editorial. Em abril de 2025, exigiu-se combinar previamente as perguntas de entrevista; Vorcaro desistiu de participar e indiciu Paulo Gala, que entrevistou em 03/04 e voltou ao tema em 14/04 seguindo briefing de Ana. Em nota, a CNN negou ter tido “qualquer sociedade” com Vorcaro e qualquer interferência editorial na cobertura, confirmando o Master como anunciante; João Camargo (vice-presidente comercial) e Paulo Gala deixaram a emissora, e Gala negou permitir que o conteúdo editorial fosse orientado por anunciantes. As mensagens registram intenção e pressão comercial; interferência editorial efetivamente ocorrida não está demonstrada nos registros deste arquivo. [Ampliado 2026-10-29 (ICL, 19/10): em 15/10/2024 Vorcaro manifestou insatisfação com a postura de João Camargo; em 16/10/2024 Ana escreveu que a vice-presidência comercial dizia que o banco já tinha feito “um primeiro aporte como acionistas” — relato em fala indireta, sem transcrição integral publicada.]",
    "event_kind": "editorial_context",
    "verification": {
     "level": "secondary_source",
