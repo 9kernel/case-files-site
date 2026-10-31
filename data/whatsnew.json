@@ -1,7 +1,7 @@
 {
  "generated_at": "2026-10-31",
  "current_batches": [
-  "ingest-press11-20261029"
+  "ingest-press12-20261030"
  ],
  "note": "Inclusões por lote (added_in integral) por conversa; current_batches declara a última rodada de inclusão. O selo \"novo\" acende apenas nos registros desses lotes. pending_review excluído.",
  "threads": {
@@ -118,6 +118,7 @@
    "ingest-press4-20261016": 14,
    "ingest-press8-20261023": 2,
    "ingest-press11-20261029": 9,
+   "ingest-press12-20261030": 4,
    "ingest-press9-20261026": 4,
    "ingest-bm-piaui-20261006": 11
   },
@@ -232,6 +233,7 @@
   "paulo-henrique-daniel-vorcaro": {
    "ingest-pf2-20261007": 18,
    "audit-fix-20261016": 35,
+   "ingest-press12-20261030": 17,
    "ingest-press8-20261023": 15,
    "audit-20261019": 1
   },

@@ -44,9 +44,13 @@ sem evidência suficiente.*
   Inserção de palavra pelo veículo (`[nos]`, `[de]`, `[Nikolas]`) deve ser **removida do
   `content`** e movida para `editorial_note`. Marcador de corte (`[…]`) e supressões de
   privacidade do projeto permanecem visíveis entre colchetes, documentados em nota.
-- **Ordem cronológica** (`E_TIMESTAMP_ORDER`) é exigida entre mensagens consecutivas datadas;
-  registros sem data/precisão month/approximate não participam da comparação — útil para
-  inserir registros de data incerta entre blocos datados.
+- **Ordem cronológica** (`E_TIMESTAMP_ORDER`): cada registro comparável (precisão
+  `minute`/`date`) é confrontado com o **último registro comparável anterior** — mesmo que
+  haja registros intermediários sem data ou com precisão `month`/`approximate`, que não
+  participam da comparação mas **também não interrompem a cadeia** (uma inversão além deles
+  continua detectável; fix 29/10/2026). No mesmo dia, a hora só é comparada quando ambos os
+  registros a têm; horário jamais é estimado — datas parcialmente divulgadas entram com a
+  precisão comprovada (`month`) ou sem data (`null` honesto).
 - Escrita dos JSON: `indent=1`, UTF-8 sem escapes (`ensure_ascii=False`), LF, uma linha em
   branco no fim (replicar o formato existente para diffs limpos).
 
@@ -110,8 +114,9 @@ a conferência com a fonte é sempre manual.
   do build: `selo 'novo' em N registros` deve bater com a contagem de registros do lote corrente.
 - **Reordenar `participants.json` alfabeticamente** gera diff gigante e sem sentido — edite
   in-place respeitando a ordem histórica do arquivo.
-- **Inserir mensagem datada no meio do array** pode violar `E_TIMESTAMP_ORDER` — conferir os
-  vizinhos datados antes de escolher a posição.
+- **Inserir mensagem datada no meio do array** pode violar `E_TIMESTAMP_ORDER` — conferir o
+  **último registro comparável anterior** (precisão `minute`/`date`; não apenas o vizinho
+  imediato, pois registros sem data/mês não interrompem a cadeia) antes de escolher a posição.
 - **Confiança em transcrição anterior:** corrigir "só o ano" de uma mensagem errada não
   resolve se o texto também não bate com a fonte — confrontar texto, remetente, data e hora.
 - **Reutilizar página de documento oficial** para sustentar mensagens publicadas pela imprensa

@@ -1457,6 +1457,474 @@
    "added_in": "audit-fix-20261016"
   },
   {
+   "id": "m-00061",
+   "date": "2025-01-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amigo, quando vc vem a Zurique? O Governador pediu para marcarmos uma reunião",
+   "editorial_note": "Pedido de agendamento do encontro em Zurique; a reportagem não associa a solicitação a um ato comprovado do governador — é o relato de Paulo Henrique em mensagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00062",
+   "date": "2025-01-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Como está seu jantar na quinta?",
+   "editorial_note": "Na sequência do agendamento, conforme a reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00063",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Kronenhalle 20h30",
+   "editorial_note": "Indicação do restaurante e horário, com símbolo de confirmação descrito pela reportagem (o símbolo não é texto e não foi reproduzido); a reportagem relata ainda que Paulo Henrique informou que o jantar teria quatro participantes — fala indireta, sem transcrição.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00064",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Excelente! Marcado, meu amigo",
+   "editorial_note": "Confirmação do compromisso, em resposta à indicação de restaurante e horário.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00065",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou na frente com o Governador e o Léo para esse e te esperamos lá",
+   "editorial_note": "Enviada com link de restaurante encaminhado (não reproduzido). “Léo” permanece sem identificação nos registros — a reportagem não o identifica; a presença efetiva dos citados não é comprovada pela mensagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00066",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vamos no seu restaurante",
+   "editorial_note": "Na mesma sequência do jantar.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00067",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Estamos com mais demanda de captação do que lastro. Talvez tenhamos uma oportunidade de comprar de DII do Master. Pedi para procurarem seu tesoureiro",
+   "editorial_note": "Possibilidade de operação entre BRB e Master registrada como PROPOSTA (“talvez tenhamos uma oportunidade”) — não como aquisição ou operação concluída; a reportagem não explica o termo “DII” e atribui a tratativa a uma nova operação entre os bancos. Grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00068",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Já estou querendo dizer nosso tesoureiro",
+   "editorial_note": "Na mesma sequência da tratativa de captação; grafia conforme publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00069",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Espero que tenha gostado do jantar",
+   "editorial_note": "Comentário posterior ao jantar.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00070",
+   "date": "2025-01-23",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Gostei muito",
+   "editorial_note": "Resposta ao comentário sobre o jantar.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00071",
+   "date": "2025-01-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "De onde veio isso?",
+   "editorial_note": "Após Vorcaro encaminhar mensagem do jornalista Lauro Jardim (encaminhamento não reproduzido como mensagem própria — jornalista não é parte da conversa).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00072",
+   "date": "2025-01-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Não ampliamos em nada o escopo das pessoas envolvidas no deal",
+   "editorial_note": "Sobre o sigilo das tratativas, na troca motivada pela divulgação jornalística.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00073",
+   "date": "2025-01-26",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Voltei na sexta da Suíça e não sei se o Governador ou Léo estiveram com alguém",
+   "editorial_note": "Preocupação com a origem da informação divulgada; “Léo” sem identificação; o relato não comprova contato de quem quer que seja.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
    "id": "m-00046",
    "date": "2025-04-30",
    "timestamp_precision": "date",
@@ -2461,6 +2929,139 @@
    "source_ref": "Relato de UOL — coluna Natália Portinari (2026-10-22)",
    "added_in": "ingest-press8-20261023",
    "editorial_note": "[Cadeia documental: mensagens anexadas pela defesa de Vorcaro à ação cível sobre a compra das carteiras (11ª Vara Cível de Brasília/TJDF), conforme o UOL; peça pública não localizada pelo projeto.]"
+  },
+  {
+   "id": "e-00010",
+   "date": "2024-10",
+   "time": null,
+   "timestamp_precision": "month",
+   "content": "Contexto de outubro/2024 (Metrópoles, 09/10/2026, a partir de relatório da PF encaminhado ao STF em 28/09/2026): nas trocas próximas à autorização do aumento de capital do BRB (R$ 750 milhões, proporção 40/60), Paulo Henrique enfatiza a necessidade de “dar sinais ao mercado”; ao tratar com Vorcaro da reestruturação do Master e da entrada de novos sócios, apresenta o objetivo de preparar, em três meses, “a história toda que vamos contar” da consolidação e do novo banco, e relata: “ontem, na conversa com o governador, abordamos isso”, apresentando os novos sócios como algo que ajudaria ambos os bancos. Para a PF, isso evidenciaria ciência e validação política da estratégia antes dos atos formais — interpretação investigativa, não fato judicialmente comprovado. A matéria não publica mensagens literais completas desta seção (fragmentos em fala indireta). Contraditório: a defesa de Ibaneis Rocha (nota do advogado Antônio Carlos de Almeida Castro, Kakay) afirma que o então governador “não pressionou e tampouco teve qualquer ingerência nas operações realizadas pelo BRB”, que o contato “se deu em contexto natural, institucional e republicano” e que ele “não é interlocutor direto em nenhuma mensagem com Daniel Vorcaro” — por isso não há conversa própria de Ibaneis.",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — Operação Compliance Zero; relatório encaminhado ao STF em 28/09/2026 com sigilo derrubado em 09/10/2026, obtido pela coluna (Metrópoles, 09/10/2026); mensagens extraídas dos celulares apreendidos de Vorcaro e Paulo Henrique; a peça não é publicada integralmente e é DISTINTA do relatório parcial de 28/10/2026"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles — coluna Manoela Alcântara",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/colunas/manoela-alcantara/master-pf-aponta-interferencia-direta-de-ibaneis-na-conducao-do-brb"
+     }
+    ]
+   },
+   "source_ref": "Relato de Metrópoles — coluna Manoela Alcântara (2026-10-09)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "e-00011",
+   "date": "2026-10-15",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Depoimento de Daniel Vorcaro à Polícia Federal (15/10/2026), tornado público e encaminhado ao STF em 29/10: negou fraude nas operações com o BRB e pediu arquivamento do inquérito; sustentou que as operações questionadas foram desfeitas ou trocadas por outros ativos, sem prejuízo ao banco; classificou os apartamentos oferecidos a Paulo Henrique como moradia prevista para o executivo caso assumisse função de direção no grupo resultante da união das instituições — sem vantagem indevida e sem ocupação dos imóveis; negou ter dificultado fiscalização do Banco Central (centralizava comunicações para evitar erros, segundo ele) e questionou os valores de prejuízo apontados. A PF contestou: aponta negociação de carteiras avaliadas em R$ 12,2 bilhões sem comprovação de existência e sustenta que a substituição posterior de ativos não afasta a apuração. Trata-se de declaração do investigado em oitiva — não de mensagens de aplicativo; trechos de mensagens exibidos na oitiva (“acordos no fio do bigode”) aguardam transcrição documental acessível para eventual registro. Peça do depoimento não localizada individualmente; cobertura: Congresso em Foco (30/10/2026) e Estado do Pará Online (30/10/2026).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Congresso em Foco",
+      "date": "2026-10-30",
+      "url": "https://www.congressoemfoco.com.br/amp/noticia/129683/caso-master-brb-veja-a-integra-do-depoimento-de-daniel-vorcaro-a-pf"
+     }
+    ]
+   },
+   "source_ref": "Congresso em Foco (2026-10-30)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "e-00013",
+   "date": "2026-10-28",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Relatório Parcial de Investigação Criminal da PF no INQ 5026/STF (28/10/2026): 15 indiciados — entre eles Daniel Vorcaro e Paulo Henrique — por gestão fraudulenta de instituição financeira, organização criminosa e lavagem de dinheiro, com pedido de prorrogação do inquérito por 60 dias. Indiciamento é ato policial: não é denúncia nem condenação. Cópia pública da peça (Poder360, 703 páginas, SHA-256 conferido localmente nesta rodada) catalogada em data/documents.json; o relatório é parcial e registra divergência de valores entre laudos, sem individualização completa de condutas. Comunicado oficial: PF/gov.br (28/10/2026).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Polícia Federal (gov.br) — comunicado",
+      "date": "2026-10-28",
+      "url": "https://www.gov.br/pf/pt-br/assuntos/noticias/2026/10/pf-apresenta-primeiros-indiciamentos-da-operacao-compliance-zero-em-relatorio-parcial-ao-stf"
+     }
+    ]
+   },
+   "source_ref": "Comunicado da PF (2026-10-28)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "e-00012",
+   "date": "2026-10-29",
+   "time": null,
+   "timestamp_precision": "date",
+   "content": "Cadeia de custódia — controvérsia: a defesa de Vorcaro apresentou ao STF perícia particular alegando que 657 arquivos do celular apreendido (17/11/2025) foram modificados e 436 criados após a apreensão, pedindo acesso aos dados originais. O próprio pedido reconhece que registros de modificação, isoladamente, não demonstram intervenção humana — evidenciam apenas alteração de estado do arquivo sob custódia estatal — e a defesa admite não ser possível avaliar o alcance das alterações. Nenhuma adulteração de mensagens específicas do acervo foi demonstrada; sem resposta pública da PF ou decisão do STF localizadas até esta rodada. As proveniências registradas não são rebaixadas por esta controvérsia (Agência Brasil, 29/10/2026).",
+   "event_kind": "editorial_context",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Brasil",
+      "date": "2026-10-29",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2026-10/defesa-diz-que-arquivos-do-celular-de-vorcaro-foram-modificados"
+     }
+    ]
+   },
+   "source_ref": "Agência Brasil (2026-10-29)",
+   "added_in": "ingest-press12-20261030"
   }
  ]
 }

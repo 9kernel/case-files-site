@@ -15,14 +15,14 @@ individualmente cada mensagem. Registros sem base ou sem fonte viram
 
 ## Resultado
 
-- 68 threads · 1356 registros (1107 mensagens + 249 eventos)
-- **1356 OK** · **0 com problema**
+- 68 threads · 1377 registros (1124 mensagens + 253 eventos)
+- **1377 OK** · **0 com problema**
 
 | Categoria | Registros |
 |---|---|
 | OK_OFFICIAL | 275 |
-| OK_PUBLIC_INVESTIGATION | 830 |
-| OK_SECONDARY | 251 |
+| OK_PUBLIC_INVESTIGATION | 844 |
+| OK_SECONDARY | 258 |
 | INV_NO_BASIS | 0 |
 | INV_NO_PRESS_SOURCE | 0 |
 | INVALID_OFFICIAL_DOCUMENT | 0 |
@@ -43,6 +43,7 @@ individualmente cada mensagem. Registros sem base ou sem fonte viram
 | `pf-repr-pet15-499` | PET 15499 · INQ 5026 | — | **confirmada** (2026-09-15) | 10 | 0 |
 | `pf-ipja-1252786-2026` | INQ 5026 | 792 | **confirmada** (2026-09-15) | 18 | 3 |
 | `pf-nota-imprensa-20261009` | — | — | **confirmada** (2026-10-16) | 0 | 1 |
+| `pf-relatorio-parcial-inq5026-2026` | INQ 5026 | — | **confirmada** (2026-10-30) | 0 | 0 |
 
 ## Registros com problema
 

@@ -325,5 +325,30 @@
   "public_access_basis": "página oficial pública (gov.br/pf), acesso direto",
   "sha256": null,
   "bytes": null
+ },
+ {
+  "id": "pf-relatorio-parcial-inq5026-2026",
+  "title": "Relatório Parcial de Investigação Criminal — INQ 5026/STF (indiciamentos)",
+  "authority": "Polícia Federal",
+  "unit": "DELEINQUE/DRPJ/SR/PF/DF",
+  "date": "2026-10-28",
+  "court": "STF",
+  "case": "INQ 5026",
+  "reporting_judge": null,
+  "pages": 703,
+  "edoc": null,
+  "edoc_case": null,
+  "official_process_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
+  "public_copy_url": "https://static.poder360.com.br/uploads/2026/10/Inq-5026-do-Indiciamento-Daniel-Vorcaro-e-Paulo-Henrique-Costa-BRB-Master-28-out-2026.pdf",
+  "copy_kind": "public_reproduction",
+  "copy_note": "Cópia pública disponibilizada pelo Poder360 (veículo de imprensa). Ficha documental do Novelo Master (fausel.adv.br) descreve a reprodução com 703 páginas; nesta rodada (30/10/2026) o arquivo foi baixado e conferido localmente: SHA-256 idêntico ao informado pela ficha, 703 páginas confirmadas e primeira página identificando “RELATÓRIO PARCIAL DE INVESTIGAÇÃO CRIMINAL — INQ n. 5026/STF” (DELEINQUE/DRPJ/SR/PF/DF). NÃO é o arquivo original assinado do tribunal; o projeto não redistribui peças dos autos (decisão link-only, plano de risco §2.3). DISTINTO do relatório encaminhado ao STF em 28/09/2026 citado pelo Metrópoles (09/10) — não presumir sobreposição de conteúdo.",
+  "public_access_verified": true,
+  "public_access_date": "2026-10-30",
+  "public_access_basis": "Cópia pública da peça divulgada pelo Poder360 (28-29/10/2026): URL ativa, hash e número de páginas conferidos localmente em 30/10/2026; comunicado oficial da PF (gov.br, 28/10/2026) confirma a entrega do relatório parcial ao STF, os 15 indiciamentos e o pedido de prorrogação por 60 dias. Publicidade formal dos autos (decisão publicada de desembargo de sigilo) não localizada — a verificação vale para a reprodução jornalística, não para o byte-stream original do tribunal.",
+  "sha256": "4ce55e4037d0b4f61e886d767576640e63b2b91f8dcb80d361c4a20894f1ac9e",
+  "bytes": 10107175,
+  "local_copy": null,
+  "hosted_copy_url": null,
+  "hash_note": "SHA-256 da cópia pública externa (Poder360), calculado localmente em 30/10/2026; idêntico ao informado pela ficha do Novelo Master."
  }
 ]

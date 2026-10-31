@@ -124,6 +124,148 @@
    "added_in": "ingest-press11-20261029"
   },
   {
+   "id": "m-00035",
+   "date": "2024-04-27",
+   "time": "18:33",
+   "timestamp_precision": "minute",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Babaquice isso. Se não parar isso vai virar pauta de discussão no congresso mesmo. Eles estão usando isso para atacar os caras […]",
+   "editorial_note": "Reação às críticas ao evento jurídico de Londres, na sequência das postagens de Nikolas (abril/2024). Trecho conforme publicado pelo ICL (03/09/2026), com corte do próprio veículo (reticências), mantido como […]. A captura publicada exibe a mensagem sob o cabeçalho “27 de abril de 2024, 18h33” (data e hora acrescentadas a partir dela) e a continuação “sem medir as consequencias” — a divergência “das/as consequencias” registrada na auditoria de 29/10 fica resolvida pela captura (“as”, grafia do original); o miolo completo da mensagem não é reproduzido.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press12-20261030",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Acho que isso mata o tema do ponto de vista de transparência e de demanda. Além de todos veículos cobrirem os eventos dela […]",
+   "editorial_note": "Sobre a nota pública do Grupo Voto divulgada na sequência das críticas ao evento de Londres: o trecho citado pelo ICL (“Acho que isso mata o tema…”) e o contexto (cobertura dos eventos por outros veículos; “confraria”) conforme publicados, com corte do veículo mantido como […]. A captura publicada mostra mensagem associada iniciada por “Estamos voltando com tudo. O Voto divulgou nota oficial…”, não integralmente publicada no texto; data não divulgada individualmente — mês de abril/2024.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press12-20261030",
+   "literal_brackets": true
+  },
+  {
+   "id": "m-00037",
+   "date": "2024-05-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nikolas tirou aquele post. Ele realmente não tr (sic) conectou no tema e não é ele mesmo que posta nada",
+   "editorial_note": "Sobre a retirada da postagem de Nikolas; “(sic)” é marcação do veículo. O ICL situa a troca em 4 de maio de 2024; a retirada efetiva é relatada por Carneiro — declaração em mensagem, não verificação própria.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
+   "id": "m-00038",
+   "date": "2024-05-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Falei, tirou e ficou na categoria amigo",
+   "editorial_note": "Confirmando a conversa com o deputado sobre a retirada da postagem; “ficou na categoria amigo” é descrição de Carneiro, não verificação de relacionamento. Mesma troca situada em 4 de maio de 2024.",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press12-20261030"
+  },
+  {
    "id": "m-00024",
    "sender_id": "flavio-carneiro",
    "content_kind": "verbatim_excerpt",

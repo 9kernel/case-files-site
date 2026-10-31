@@ -21,7 +21,7 @@
    "name": "Paulo Henrique Costa",
    "thread": "paulo-henrique-daniel-vorcaro",
    "title": "Paulo Henrique (BRB)",
-   "msg_count": 60
+   "msg_count": 73
   },
   {
    "id": "walfrido-warde",
@@ -59,6 +59,13 @@
    "msg_count": 38
   },
   {
+   "id": "flavio-carneiro",
+   "name": "Flávio Carneiro",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "title": "Flávio Carneiro",
+   "msg_count": 38
+  },
+  {
    "id": "andre-valadao",
    "name": "André Valadão",
    "thread": "andre-valadao-daniel-vorcaro",
@@ -71,13 +78,6 @@
    "thread": "fabio-faria-daniel-vorcaro",
    "title": "Fábio Faria",
    "msg_count": 36
-  },
-  {
-   "id": "flavio-carneiro",
-   "name": "Flávio Carneiro",
-   "thread": "flavio-carneiro-daniel-vorcaro",
-   "title": "Flávio Carneiro",
-   "msg_count": 34
   },
   {
    "id": "luiz-renno",
@@ -560,6 +560,55 @@
  "edges": [
   {
    "type": "mention",
+   "thread": "felipe-mourao-daniel-vorcaro",
+   "from": "felipe-mourao",
+   "to": "pf",
+   "count": 20,
+   "evidence": [
+    {
+     "id": "m-00103",
+     "sender": "daniel-vorcaro",
+     "date": "2024-02-15"
+    },
+    {
+     "id": "m-00005",
+     "sender": "felipe-mourao",
+     "date": "2024-03-23"
+    },
+    {
+     "id": "m-00011",
+     "sender": "felipe-mourao",
+     "date": "2024-06-03"
+    },
+    {
+     "id": "m-00012",
+     "sender": "felipe-mourao",
+     "date": "2024-06-20"
+    },
+    {
+     "id": "m-00014",
+     "sender": "felipe-mourao",
+     "date": "2024-06-21"
+    },
+    {
+     "id": "m-00028",
+     "sender": "daniel-vorcaro",
+     "date": "2025-07-23"
+    },
+    {
+     "id": "m-00033",
+     "sender": "felipe-mourao",
+     "date": null
+    },
+    {
+     "id": "m-00034",
+     "sender": "felipe-mourao",
+     "date": null
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "thiago-miranda-daniel-vorcaro",
    "from": "thiago-miranda",
    "to": "flavio-bolsonaro",
@@ -604,55 +653,6 @@
      "id": "m-00019",
      "sender": "thiago-miranda",
      "date": "2025-04-05"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "felipe-mourao-daniel-vorcaro",
-   "from": "felipe-mourao",
-   "to": "pf",
-   "count": 19,
-   "evidence": [
-    {
-     "id": "m-00103",
-     "sender": "daniel-vorcaro",
-     "date": "2024-02-15"
-    },
-    {
-     "id": "m-00005",
-     "sender": "felipe-mourao",
-     "date": "2024-03-23"
-    },
-    {
-     "id": "m-00011",
-     "sender": "felipe-mourao",
-     "date": "2024-06-03"
-    },
-    {
-     "id": "m-00012",
-     "sender": "felipe-mourao",
-     "date": "2024-06-20"
-    },
-    {
-     "id": "m-00014",
-     "sender": "felipe-mourao",
-     "date": "2024-06-21"
-    },
-    {
-     "id": "m-00028",
-     "sender": "daniel-vorcaro",
-     "date": "2025-07-23"
-    },
-    {
-     "id": "m-00033",
-     "sender": "felipe-mourao",
-     "date": null
-    },
-    {
-     "id": "m-00034",
-     "sender": "felipe-mourao",
-     "date": null
     }
    ]
   },
@@ -853,6 +853,50 @@
   },
   {
    "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "brb",
+   "count": 7,
+   "evidence": [
+    {
+     "id": "m-00014",
+     "sender": "paulo-henrique",
+     "date": null
+    },
+    {
+     "id": "m-00067",
+     "sender": "paulo-henrique",
+     "date": "2025-01-23"
+    },
+    {
+     "id": "m-00046",
+     "sender": "daniel-vorcaro",
+     "date": "2025-04-30"
+    },
+    {
+     "id": "m-00059",
+     "sender": "daniel-vorcaro",
+     "date": "2025-05-22"
+    },
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00009",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00013",
+     "sender": "daniel-vorcaro",
+     "date": "2025-11-12"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "alexandre-moraes-daniel-vorcaro",
    "from": "alexandre-moraes",
    "to": "pf",
@@ -911,40 +955,30 @@
   },
   {
    "type": "mention",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "from": "paulo-henrique",
-   "to": "brb",
+   "thread": "flavio-carneiro-daniel-vorcaro",
+   "from": "flavio-carneiro",
+   "to": "nikolas-ferreira",
    "count": 6,
    "evidence": [
     {
-     "id": "m-00014",
-     "sender": "paulo-henrique",
-     "date": null
-    },
-    {
-     "id": "m-00046",
+     "id": "m-00023",
      "sender": "daniel-vorcaro",
-     "date": "2025-04-30"
+     "date": "2024-04"
     },
     {
-     "id": "m-00059",
+     "id": "m-00034",
      "sender": "daniel-vorcaro",
-     "date": "2025-05-22"
+     "date": "2024-04"
     },
     {
-     "id": "m-00008",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
+     "id": "m-00035",
+     "sender": "flavio-carneiro",
+     "date": "2024-04-27"
     },
     {
-     "id": "m-00009",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
-    },
-    {
-     "id": "m-00013",
-     "sender": "daniel-vorcaro",
-     "date": "2025-11-12"
+     "id": "m-00037",
+     "sender": "flavio-carneiro",
+     "date": "2024-05-04"
     }
    ]
   },
@@ -1335,6 +1369,30 @@
   },
   {
    "type": "mention",
+   "thread": "paulo-henrique-daniel-vorcaro",
+   "from": "paulo-henrique",
+   "to": "banco-master",
+   "count": 4,
+   "evidence": [
+    {
+     "id": "m-00067",
+     "sender": "paulo-henrique",
+     "date": "2025-01-23"
+    },
+    {
+     "id": "m-00008",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    },
+    {
+     "id": "m-00009",
+     "sender": "paulo-henrique",
+     "date": "2025-08-19"
+    }
+   ]
+  },
+  {
+   "type": "mention",
    "thread": "paulo-sergio-daniel-vorcaro",
    "from": "paulo-sergio",
    "to": "bc",
@@ -1453,25 +1511,6 @@
      "id": "m-00014",
      "sender": "daniel-vorcaro",
      "date": "2024-01-15"
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "flavio-carneiro-daniel-vorcaro",
-   "from": "flavio-carneiro",
-   "to": "nikolas-ferreira",
-   "count": 3,
-   "evidence": [
-    {
-     "id": "m-00023",
-     "sender": "daniel-vorcaro",
-     "date": "2024-04"
-    },
-    {
-     "id": "m-00034",
-     "sender": "daniel-vorcaro",
-     "date": "2024-04"
     }
    ]
   },
@@ -2009,25 +2048,6 @@
      "id": "m-00002",
      "sender": "daniel-vorcaro",
      "date": null
-    }
-   ]
-  },
-  {
-   "type": "mention",
-   "thread": "paulo-henrique-daniel-vorcaro",
-   "from": "paulo-henrique",
-   "to": "banco-master",
-   "count": 2,
-   "evidence": [
-    {
-     "id": "m-00008",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
-    },
-    {
-     "id": "m-00009",
-     "sender": "paulo-henrique",
-     "date": "2025-08-19"
     }
    ]
   },
