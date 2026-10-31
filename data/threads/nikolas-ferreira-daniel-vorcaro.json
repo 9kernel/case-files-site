@@ -18,8 +18,8 @@
    "timestamp_precision": "date",
    "sender_id": "nikolas-ferreira",
    "content_kind": "audio_transcript",
-   "content": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo que o senhor, assim, pode o ajudar a resolver o problema do ativo dele, né? O que ele tá tentando resolver com a Justiça, com o TSE… Porque assim, ele já ganhou um processo na eleição, na Justiça Eleitoral, e aí assim, esse ativo ficou retido, né, e tá travado. Ele tem um processo no Tribunal Superior Eleitoral e, se for possível o senhor interceder por ele, dar um apoio, ajudar a resolver, ele vai ficar muito grato. Não é nem uma coisa assim, vamos dizer, ilegal, se for pra fazer algo que não é correto, eu não estaria te pedindo, lógico. Então, o que ele precisa é de um apoio, alguém que conhece as pessoas lá, que possa acelerar, que possa, de fato, dar uma luz nesse processo pra ele, né? E é isso, se for possível o senhor ajudar, ele vai ficar eternamente grato, vai ficar grato comigo também porque eu tô intermediando aqui.",
-   "editorial_note": "Áudio de 30/03/2025; pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria. Transcrição integral publicada pela GloboNews/g1. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "content": "É o seguinte, meu amigo, meu advogado, enfim, irmão meu aqui, comentou comigo e falou daqui do seu nome. Eu falei: 'não conheço o Dani, enfim, não tenho a proximidade assim, até mesmo a que eu queria ter, enfim, de conversar e trocar ideia, mas eu o conheço'. Ele falou: 'cara, tô com um ativo minerário lá, inclusive já passou pela ficha técnica, o pessoal técnico dele, enfim, tá pendente lá, tem algumas pessoas que sabem disso lá na empresa'. E eu falei: 'não, ué, eu posso dar um toque nele'. Então assim, não sei nem do que se trata, mas enfim, como é uma pessoa, enfim, que eu confio totalmente, tô passando aí pra você, pra se for do teu interesse, passar o contato dele aqui pra vocês tocarem isso, beleza? No mais, qualquer coisa tô aqui à disposição. Troquei ideia lá com o Pastor Valadão naquela época, lá naquela postagem, eu falei: 'Pastor, eu não fazia ideia que era este o Banco do Dani etc. e tudo, se não, obviamente, eu não teria postado, já teria conversado anteriormente', mas enfim, acabou que a palavra dita não tem como voltar, né? Mas espero que tenha sido esclarecido, enfim, depois vamos marcar da gente se encontrar também, tá bem? […]",
+   "editorial_note": "Áudio de 30/03/2025 (domingo): pedido relativo ao ex-assessor/advogado Thiago Rodrigues de Faria e retomada do episódio de Londres/abril de 2024 (intermediação do pastor André Valadão). Transcrição publicada pelo g1/GloboNews (04/09/2026); trecho inicial do pedido idêntico ao publicado pelo UOL (03/09/2026) na parte sobreposta. [Corrigido 2026-10-27: o conteúdo anterior registrava apenas trecho inicial em transcrição divergente da publicada pelo g1 e sem o trecho final; substituído pela transcrição do g1 com a despedida suprimida.] O UOL publica abertura adicional anterior ao trecho (“Ei Dani, tudo bom? Como você está? … Desculpa te incomodar num domingo aí, é jogo rápido, também não quero tomar muito seu tempo”), não reproduzida aqui para não costurar transcrições de veículos distintos — daí a marcação de transcrição parcial. Despedida suprimida por divergência documentada: o g1 transcreve “Um abração aí, Dani”; o UOL registrou em nota que não fica claro no áudio se foi “abraço aí, Dani” ou “um abraço, lindão” (primeira versão), e, segundo a Folha (03/09/2026), a transcrição oficial dos autos registra “lindão” (também transcrita pelo ICL Notícias, 03/09/2026: “Um abraço, lindão.”) — palavra negada publicamente por Nikolas; nenhuma variante é verificável nesta base. Divergência menor entre veículos: “se não” (g1/Folha) vs. “senão” (Agência Pública, 18/10/2026). [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
    "verification": {
     "level": "secondary_source",
     "origin": "PF extraction",
@@ -31,7 +31,7 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-27"
    },
    "sources": {
     "primary": null,
@@ -40,6 +40,26 @@
       "publication": "g1/GloboNews",
       "date": "2026-09-04",
       "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml"
+     },
+     {
+      "publication": "UOL",
+      "date": "2026-09-03",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/nikolas-ferreira-audio-daniel-vorcaro.ghtm"
+     },
+     {
+      "publication": "Folha de S.Paulo",
+      "date": "2026-09-03",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/nikolas-pediu-ajuda-a-vorcaro-para-liberar-minerio-e-banqueiro-afirmou-bancar-voos-dele-diz-site.shtml"
+     },
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     },
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
      }
     ]
    },
@@ -47,21 +67,25 @@
    "added_in": "ingest-imprensa-20261011",
    "transcription": {
     "kind": "publisher_transcription",
-    "source": "GloboNews (via g1)",
-    "complete": true
+    "source": "g1/GloboNews",
+    "complete": false
    },
-   "transcription_complete": true,
+   "transcription_complete": false,
    "media": {
     "status": "transcript_only",
     "official_media_located": false
-   }
+   },
+   "literal_brackets": true
   },
   {
-   "id": "m-00002",
+   "id": "m-00003",
+   "date": "2025-03-30",
+   "time": null,
+   "timestamp_precision": "date",
    "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Amém, irmão. Estamos na guerra juntos",
-   "editorial_note": "Resposta ao áudio, em mensagem de visualização única; a data não foi divulgada pela reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "content_kind": "verbatim_excerpt",
+   "content": "Deixa comigo",
+   "editorial_note": "Resposta ao áudio de 30/03/2025, no mesmo dia, conforme mensagens obtidas pelo UOL; antecede o envio do contato de Thiago Rodrigues de Faria e a resposta “Amém, irmão. Estamos na guerra juntos” (m-00002).",
    "verification": {
     "level": "secondary_source",
     "origin": "PF extraction",
@@ -73,7 +97,39 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-11"
+    "verified_at": "2026-10-27"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL",
+      "date": "2026-09-03",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/nikolas-ferreira-audio-daniel-vorcaro.ghtm"
+     }
+    ]
+   },
+   "source_ref": "UOL, 03/09/2026",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00002",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim",
+   "content": "Amém, irmão. Estamos na guerra juntos",
+   "editorial_note": "Resposta escrita após Nikolas enviar o contato de Thiago Rodrigues de Faria, na sequência do áudio de 30/03/2025; Vorcaro ainda respondeu ao áudio com mensagem de voz de visualização única (sem transcrição publicada) e, no mesmo dia, com “Deixa comigo” (m-00003). A data não foi divulgada individualmente. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.] [Corrigido 2026-10-27: nota anterior a descrevia como resposta em mensagem de visualização única; a visualização única é resposta distinta, sem transcrição.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27"
    },
    "sources": {
     "primary": null,
@@ -82,6 +138,11 @@
       "publication": "g1/GloboNews",
       "date": "2026-09-04",
       "url": "https://g1.globo.com/politica/noticia/2026/09/04/nikolas-e-vorcaro-ouca-audio-leia-transcricao-e-veja-o-que-ex-deputado-falou-sobre-as-mensagens.ghtml"
+     },
+     {
+      "publication": "UOL",
+      "date": "2026-09-03",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/09/03/nikolas-ferreira-audio-daniel-vorcaro.ghtm"
      }
     ]
    },
@@ -118,7 +179,7 @@
    "date": "2024-04",
    "timestamp_precision": "month",
    "event_kind": "editorial_context",
-   "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022.",
+   "content": "Em conversa com Flávio Carneiro (abril/2024), Vorcaro afirma: “Esse nikolas eu banquei todos os voos dele” — ver thread de Flávio Carneiro; a representação de parlamentares também noticiou uso de aeronave ligada a Vorcaro em outubro/2022. [Ampliado 2026-10-29 (ICL, 03/09): o uso da aeronave em 2022 teria ocorrido por cerca de dez dias do 2º turno, em nove estados e o DF, com o pastor Guilherme Batista.]",
    "verification": {
     "level": "secondary_source",
     "origin": "PF extraction",

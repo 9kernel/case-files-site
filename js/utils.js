@@ -61,10 +61,13 @@ function localDayKey(date) {
   return `${date.getFullYear()}-${p(date.getMonth() + 1)}-${p(date.getDate())}`;
 }
 
-/** dd/mm/yyyy a partir do date do documento. */
+/** dd/mm/yyyy a partir do date do documento; âncora de mês (YYYY-MM) vira
+ *  mm/yyyy — precisão parcial, dia nunca inventado. */
 export function formatDateBR(date) {
   const s = String(date ?? '');
-  return /^\d{4}-\d{2}-\d{2}$/.test(s) ? `${s.slice(8, 10)}/${s.slice(5, 7)}/${s.slice(0, 4)}` : '';
+  if (/^\d{4}-\d{2}-\d{2}$/.test(s)) return `${s.slice(8, 10)}/${s.slice(5, 7)}/${s.slice(0, 4)}`;
+  if (/^\d{4}-\d{2}$/.test(s)) return `${s.slice(5, 7)}/${s.slice(0, 4)}`;
+  return '';
 }
 
 /** HH:MM do documento, ou rótulo de hora não divulgada. */

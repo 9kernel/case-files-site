@@ -8,7 +8,7 @@
  "source": {
   "document": "Agência Pública (24/10/2026) — Amanda Audi, Jéssica Ribeiro e Ed Wanderley: “Vorcaro orquestrou venda de bens da Igreja Lagoinha e prometeu expansão de R$ 100 milhões”",
   "url": "https://apublica.org/2026/10/daniel-vorcaro-e-os-lacos-com-andre-valadao-da-igreja-lagoinha/",
-  "pages": "Mensagens do celular de Vorcaro interceptadas pela PF (Operação Compliance Zero) conforme transcrição da reportagem (áudios transcritos em trechos); datas e horários apenas os divulgados; nada além do publicado é inferido."
+  "pages": "Mensagens do celular de Vorcaro interceptadas pela PF (Operação Compliance Zero) conforme transcrição da reportagem (áudios transcritos em trechos); datas e horários apenas os divulgados; nada além do publicado é inferido. Mensagens de 27/04/2024 (episódio Nikolas Ferreira/Londres) publicadas pela Agência Pública em 18/10/2026 (“apoiamos a direita”) — ver fonte individual de cada registro. Mensagens de abril/2024 do episódio Nikolas/Londres também publicadas pelo ICL Notícias (03/09/2026)."
  },
  "messages": [
   {
@@ -181,6 +181,296 @@
    "added_in": "ingest-press9-20261026",
    "date": "2024-04-16",
    "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00029",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nikolas repostou a Malu. Loucura isso. Aliás, narrativa ruim pra ele mesmo",
+   "editorial_note": "Reclamação da repostagem, por Nikolas Ferreira, de publicação da jornalista Malu Gaspar sobre o evento jurídico realizado em Londres com patrocínio do Banco Master (26/04/2024); “[Gaspar]” (identificação do veículo) removido do literal. Declaração de apoio político não comprova financiamento eleitoral ou favorecimento. Procurado, Vorcaro não havia se manifestado até a publicação (a assessoria anunciou nota para 19/10).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — conversas interceptadas às quais a Agência Pública teve acesso (18/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00033",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "De novo pedir sua ajuda com Nikolas. Estão usando a fala dele pra me atacar, por conta de patrocínio num evento em Londres. Acontece, que talvez ele não saiba, participaram vários membros da direita, como Ciro Nogueira, um dos líderes oposição",
+   "editorial_note": "Pedido de ajuda ao pastor na sequência do episódio de Londres (ICL Notícias, 03/09/2026, situa em 27/04/2024); grafia original preservada. [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-04-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Oi Dani. Claro amanhã falo com ele",
+   "editorial_note": "Resposta prometendo falar com Nikolas no dia seguinte (ICL Notícias, 03/09/2026). [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00030",
+   "date": "2024-04-29",
+   "time": "13:42",
+   "timestamp_precision": "minute",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Quem me mandou foi um blog de esquerda, que sabe que apoiamos a direita. Olha a bola de neve que pode virar",
+   "editorial_note": "Sequência do mesmo dia, conforme a reportagem; autodeclaração de apoio à direita. [Corrigido 2026-10-30 (merge): o carimbo visível na captura publicada pela reportagem registra 2024-04-29 13:42:17 -03:00 — a postagem de Nikolas é de 27/04/2024 e esta mensagem é de 29/04, não do dia 27.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — conversas interceptadas às quais a Agência Pública teve acesso (18/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00036",
+   "date": "2024-04-29",
+   "time": "13:42",
+   "timestamp_precision": "minute",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim",
+   "content": "Sim",
+   "editorial_note": "Mensagem não citada no texto corrido da reportagem; transcrita da captura publicada pela Agência Pública (carimbo 2024-04-29 13:42:59 -03:00), na sequência imediata da mensagem anterior. Incluída na resolução do merge de 30/10/2026.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-30",
+    "proceeding": "PF — conversas interceptadas às quais a Agência Pública teve acesso (18/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     }
+    ]
+   },
+   "source_ref": "Captura publicada por Agência Pública (2026-10-18)",
+   "added_in": "ingest-publica-20261026"
+  },
+  {
+   "id": "m-00031",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu apoio diversos eventos e debates, e nesse caso o apoio foi com a palestra do Tony Blair com quem tive um debate de altíssimo nível. No evento, várias pessoas de direita, apoiadores do evento inclusive vários que apoiaram ele, como nós. Acaba ficando ruim ele incentivar e propagar um ataque a mim, como fez agora. Só preciso saber se estamos do mesmo lado ou agora estamos um contra o outro",
+   "editorial_note": "Explicação do patrocínio do evento de Londres e questionamento da posição do deputado; “[Nikolas]” (identificação do veículo) removido do literal. O UOL (03/09/2026) publica trecho da mesma mensagem com divergência de transcrição (“Discurso acaba ficando ruim, ele incentivou e propagar [sic] um ataque a mim”) — mantida a transcrição da fonte citada. [Nota 2026-10-29: o ICL Notícias (03/09/2026) apresenta a frase final (“Só preciso saber se estamos do mesmo lado ou agora estamos um contra o outro”) como mensagem posterior a 29/04/2024, quando Nikolas repercutiu nova publicação; a Agência Pública (18/10/2026) a transcreve como fecho desta mensagem de 27/04 — divergência entre fontes registrada, sem alteração de data.] [Corrigido 2026-10-30 (merge): na ordem de citação da reportagem esta mensagem segue a mensagem carimbada em 29/04/2024 13:42 — a data de 27/04 é incompatível; o dia não é individualmente demonstrável, precisão reduzida a mês.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — conversas interceptadas às quais a Agência Pública teve acesso (18/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00035",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Eu falei com ele né, de todo apreço, de todo apoio que a gente tem e tudo, e que as coisas às vezes chegam pra ele de um jeito que não é a verdade. Ele vai me chamar aqui",
+   "editorial_note": "Trecho de áudio transcrito pela reportagem (ICL, 03/09/2026; também publicado pelo UOL, 03/09/2026), na sequência de abril de 2024 — relato do pastor sobre a conversa com Nikolas Ferreira; precisão de mês, dia não divulgado individualmente. [Proveniência revisada 2026-10-29: reportagem do ICL sem cadeia de origem declarada individualmente — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "PF extraction",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00032",
+   "date": "2024-04",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "andre-valadao",
+   "content_kind": "verbatim_excerpt",
+   "content": "Resumindo, ele nem sabia sobre o banco e você, “palavras dele né”, e daí pediu perdão demais e vai contornar tudo. Deve te chamar também, ele me disse. Disse da gratidão com você e por aí vai.",
+   "editorial_note": "Resposta horas depois, relatando conversa com Nikolas Ferreira e o pedido de desculpas deste — relato de Valadão, não mensagem direta de Nikolas; “[Nikolas]” (identificação do veículo) removido do literal. Áudio posterior de Nikolas a Vorcaro (30/03/2025) retoma o episódio — ver thread de Nikolas Ferreira. [Nota 2026-10-29: o ICL Notícias (03/09/2026) publica a mesma mensagem em transcrição própria (“Resumindo. Ele nem sabia sobre o banco e vc ‘palavras dele né’ e daí pediu perdão demais e vai contornar tudo”), situando-a após áudio do pastor e sem data individual — mantida a transcrição e a data da fonte citada (Agência Pública).] [Corrigido 2026-10-30 (merge): na ordem de citação da reportagem esta mensagem segue a mensagem carimbada em 29/04/2024 13:42 — a data de 27/04 é incompatível; o dia não é individualmente demonstrável, precisão reduzida a mês.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — conversas interceptadas às quais a Agência Pública teve acesso (18/10/2026); a reportagem não publica a peça individualmente"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Agência Pública",
+      "date": "2026-10-18",
+      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
+     },
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
+   "added_in": "ingest-press10-20261027"
   },
   {
    "id": "m-00006",
@@ -478,186 +768,6 @@
    },
    "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
    "added_in": "ingest-press9-20261026"
-  },
-  {
-   "id": "m-00029",
-   "date": "2024-04",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Nikolas repostou a Malu. Loucura isso. Aliás, narrativa ruim pra ele mesmo",
-   "editorial_note": "Reação de Vorcaro à postagem de Nikolas Ferreira de 27/04/2024 (repost de reportagem de Malu Gaspar sobre o evento jurídico em Londres); a reportagem não indica o dia desta mensagem — precisão de mês. Publicado com “[Gaspar]” como esclarecimento do veículo (sobrenome da jornalista), não constando do original e removido do campo literal. Procurado, Vorcaro não havia se manifestado até a publicação (a assessoria anunciou nota para 19/10).",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "PF — mensagens interceptadas pela Polícia Federal às quais a Agência Pública teve acesso (reportagem de 18/10/2026); a reportagem não nomeia a operação e não publica a peça individualmente"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Agência Pública",
-      "date": "2026-10-18",
-      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
-   "added_in": "ingest-publica-20261026"
-  },
-  {
-   "id": "m-00030",
-   "date": "2024-04-29",
-   "time": "13:42",
-   "timestamp_precision": "minute",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Quem me mandou foi um blog de esquerda, que sabe que apoiamos a direita. Olha a bola de neve que pode virar",
-   "editorial_note": "Na mesma sequência da postagem de 27/04/2024; data e hora conforme o carimbo visível na captura publicada pela reportagem (2024-04-29 13:42:17 -03:00).",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "PF — mensagens interceptadas pela Polícia Federal às quais a Agência Pública teve acesso (reportagem de 18/10/2026); a reportagem não nomeia a operação e não publica a peça individualmente"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Agência Pública",
-      "date": "2026-10-18",
-      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
-   "added_in": "ingest-publica-20261026"
-  },
-  {
-   "id": "m-00031",
-   "date": "2024-04-29",
-   "time": "13:42",
-   "timestamp_precision": "minute",
-   "sender_id": "andre-valadao",
-   "content_kind": "verbatim",
-   "content": "Sim",
-   "editorial_note": "Mensagem não citada no texto corrido da reportagem; transcrita da captura publicada (carimbo 2024-04-29 13:42:59 -03:00), na sequência imediata da mensagem anterior.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "PF — mensagens interceptadas pela Polícia Federal às quais a Agência Pública teve acesso (reportagem de 18/10/2026); a reportagem não nomeia a operação e não publica a peça individualmente"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Agência Pública",
-      "date": "2026-10-18",
-      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
-   "added_in": "ingest-publica-20261026"
-  },
-  {
-   "id": "m-00032",
-   "date": "2024-04",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim",
-   "content": "Eu apoio diversos eventos, e nesse caso o apoio foi com a palestra do Tony Blair com quem tive um debate de altíssimo nível. No evento, várias pessoas de direita, apoiadores do evento inclusive vários que apoiaram ele, como nós. Acaba ficando ruim ele incentivar e propagar um ataque a mim, como fez agora. Só preciso saber se estamos do mesmo lado ou agora estamos um contra o outro",
-   "editorial_note": "Contexto: apoio do Master à palestra de Tony Blair (evento jurídico em Londres citado na postagem de Nikolas). Publicado com “[Nikolas]” como esclarecimento do veículo, não constando do original e removido do campo literal. Declaração de apoio político é fala atribuída a Vorcaro — não comprova financiamento, contrato ou favorecimento.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "PF — mensagens interceptadas pela Polícia Federal às quais a Agência Pública teve acesso (reportagem de 18/10/2026); a reportagem não nomeia a operação e não publica a peça individualmente"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Agência Pública",
-      "date": "2026-10-18",
-      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
-   "added_in": "ingest-publica-20261026"
-  },
-  {
-   "id": "m-00033",
-   "date": "2024-04",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "andre-valadao",
-   "content_kind": "verbatim",
-   "content": "Resumindo, ele nem sabia sobre o banco e você, \"palavras dele né\", e daí pediu perdão demais e vai contornar tudo. Deve te chamar também, ele me disse. Disse da gratidão com você e por aí vai.",
-   "editorial_note": "Horas depois, conforme a reportagem; o dia não foi divulgado — precisão de mês. Publicado com “[Nikolas]” como esclarecimento do veículo, removido do campo literal. Relato de Valadão sobre a conversa dele com Nikolas: fala indireta de terceiro — não gera mensagem própria de Nikolas nem é atribuível a Vorcaro.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-26",
-    "proceeding": "PF — mensagens interceptadas pela Polícia Federal às quais a Agência Pública teve acesso (reportagem de 18/10/2026); a reportagem não nomeia a operação e não publica a peça individualmente"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Agência Pública",
-      "date": "2026-10-18",
-      "url": "https://apublica.org/2026/10/banco-master-a-amigo-vorcaro-se-disse-apoiador-da-direita/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Agência Pública (2026-10-18)",
-   "added_in": "ingest-publica-20261026"
   },
   {
    "id": "m-00015",
@@ -1010,7 +1120,7 @@
    "sender_id": "andre-valadao",
    "content_kind": "verbatim_excerpt",
    "content": "Dani sobre o terreno estamos finalizando e precisamos de 200k de dólares pra amarrar a proposta … e prosseguir com due diligence de até 80 dias para ter toda liberação da prefeitura para o projeto ou não",
-   "editorial_note": "Cobrança de resposta sobre o terreno em 15/08/2024, conforme a reportagem; as reticências constam do texto publicado. A reportagem não confirma a conclusão da aquisição. [Hora acrescentada 2026-10-26 a partir do carimbo da captura publicada (2024-08-15 12:36:36 -03:00).]",
+   "editorial_note": "Cobrança de resposta sobre o terreno em Orlando situada pela reportagem em 15 de agosto, sem ano explícito na passagem correspondente; as reticências constam do texto publicado. A reportagem não confirma a conclusão da aquisição. [Corrigido 2026-10-29: a data completa anterior (2024-08-15) era derivação da sequência narrativa — a própria reportagem situa as últimas discussões do terreno “dois meses” antes da prisão de novembro/2025, incompatível com agosto/2024 para aquele bloco; ano permanece indeterminado (2024 ou 2025), data completa removida. A correção de m-00027 (2026-10-27) segue mantida.] [Corrigido 2026-10-30 (merge): data e hora restauradas a partir do carimbo da captura publicada junto à passagem (2024-08-15 12:36:36 -03:00) — o ano 2024 consta do carimbo, resolvendo a indeterminação registrada em 2026-10-29.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1038,15 +1148,15 @@
    "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
    "added_in": "ingest-press9-20261026",
    "date": "2024-08-15",
-   "timestamp_precision": "minute",
-   "time": "12:36"
+   "time": "12:36",
+   "timestamp_precision": "minute"
   },
   {
    "id": "m-00023",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Depois me explica o que precisa",
-   "editorial_note": "Resposta a pedido de ajuda de Valadão sobre pacotes de serviços para o sistema da igreja e FIDC, meses após julho de 2024, conforme a reportagem; data não divulgada. [Data e hora acrescentadas 2026-10-26 a partir do carimbo da captura publicada (2024-09-17 09:12:33 -03:00), que mostra esta mensagem imediatamente antes do pedido de 09:13:16; posição ajustada conforme a captura. Autoria mantida conforme o texto da reportagem (“responde o ex-banqueiro”).]",
+   "editorial_note": "Resposta a pedido de ajuda de Valadão sobre pacotes de serviços para o sistema da igreja e FIDC, meses após julho de 2024, conforme a reportagem; data não divulgada. [Data e hora acrescentadas 2026-10-30 a partir do carimbo da captura publicada (2024-09-17 09:12:33 -03:00), imediatamente antes do pedido de 09:13:16; posição ajustada conforme a captura. Autoria conforme o texto da reportagem (“responde o ex-banqueiro”).]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1082,7 +1192,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim",
    "content": "Preciso falar contigo sobre alguns assuntos, inclusive aquele fundo que você mencionou e depois falamos sobre o sistema de pagamentos e que sobre a fintech, que por sinal tá indo super bem e sem dúvida é algo que pode ficar grande demais",
-   "editorial_note": "[Corrigido 2026-10-26: remetente reatribuído a Vorcaro e transcrição ampliada.] A reportagem situa o pedido como de Vorcaro (“ele pede para falar com o amigo”; o remetente menciona “aquele fundo que você mencionou”, pedido antes feito por Valadão) e a captura publicada mostra a mensagem como bolha enviada por DV com carimbo 2024-09-17 09:13:16 -03:00 — antes atribuída a Valadão e registrada apenas pelo fragmento citado no texto corrido. Ano 17/09/2024 confirmado pela captura (a passagem do texto não explicita o ano); hora acrescentada a partir do carimbo. Seguida de duas ligações de cerca de 15 minutos, conforme a reportagem.",
+   "editorial_note": "Trecho transcrito dentro do pedido de conversa situado pela reportagem em 17 de setembro, seguido de duas ligações de cerca de 15 minutos, conforme a reportagem. [Corrigido 2026-10-27: a fonte (Agência Pública, 24/10/2026) menciona “17 de setembro” sem explicitar o ano; a data completa anterior (2024-09-17) era derivação da sequência narrativa e não é sustentada individualmente — a própria reportagem situa as últimas discussões do terreno “dois meses” antes da prisão de novembro/2025, incompatível com setembro/2024 para aquele bloco; ano permanece indeterminado (2024 ou 2025), data completa removida.] [Corrigido 2026-10-30 (merge): ano, hora e remetente confirmados/corrigidos pela captura publicada junto à passagem — carimbo 2024-09-17 09:13:16 -03:00 em bolha enviada por DV; remetente reatribuído a Vorcaro (o texto completa “aquele fundo que você mencionou”, pedido antes feito por Valadão) e transcrição ampliada do fragmento citado no texto corrido ao conteúdo completo da captura. A indeterminação de ano registrada em 2026-10-27 fica resolvida pelo carimbo.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1110,8 +1220,8 @@
    "source_ref": "Mensagem divulgada por Agência Pública (2026-10-24)",
    "added_in": "ingest-press9-20261026",
    "date": "2024-09-17",
-   "timestamp_precision": "minute",
-   "time": "09:13"
+   "time": "09:13",
+   "timestamp_precision": "minute"
   },
   {
    "id": "m-00028",

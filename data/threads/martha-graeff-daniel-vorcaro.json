@@ -537,7 +537,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Tô num jantar na residência oficial com Hugo e seis empresários",
-   "editorial_note": "Jantar na residência oficial da Câmara, com o então presidente Hugo Motta. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “com Hugo [Motta, eleito presidente da Câmara no início daquele mês] e seis empresários”; o colchete é inserção explicativa do veículo e foi removido do campo literal.",
+   "editorial_note": "Jantar na residência oficial da Câmara, com o então presidente Hugo Motta. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — a fonte publica “Hugo [Motta, eleito presidente da Câmara no início daquele mês]” — inserção editorial identificadora (Folha, 05/03/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -645,7 +645,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Indo encontrar Alexandre Moraes aqui perto de casa",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “Alexandre [de] Moraes”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[de]” é complementação gramatical inserida pelo veículo na transcrição publicada (Folha, 05/03/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -753,7 +753,7 @@
    "sender_id": "martha-graeff",
    "content_kind": "verbatim_excerpt",
    "content": "quem era o primeiro cara",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: marcação editorial “[?]” do veículo (indício de dúvida de transcrição) separada do conteúdo literal e removida do campo literal.]",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[?]” é marcador de incerteza do veículo na transcrição publicada (Folha, 05/03/2026); removido do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -789,7 +789,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Alexandre Moraes",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Folha como “Alexandre [de] Moraes”; o “[de]” é inserção do veículo, não constando do original, e foi removido do campo literal.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[de]” é complementação gramatical inserida pelo veículo na transcrição publicada (Folha, 05/03/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -861,7 +861,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Sin. Falou que é bem melhor. E ele adorava apto",
-   "editorial_note": "[Corrigido 2026-10-26: marcações editoriais separadas do conteúdo literal.] Publicado pela Folha como “Sin [sic]. Falou que é [sic] bem melhor. E ele adorava apto [apartamento]”; os “[sic]” são marcações do veículo e o “[apartamento]” é expansão editorial do veículo para “apto” — nenhum deles consta do original; todos removidos do campo literal.",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — os marcadores “[sic]” e a glosa “[apartamento]” são inserções editoriais do veículo na transcrição publicada (Folha, 05/03/2026); removidos do literal — “Sin” e “apto” são a forma publicada da fala.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",

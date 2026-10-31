@@ -844,8 +844,8 @@
    "date": "2025-02",
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
-   "content": "Para não te deixar na mão, te bonifico um branded content [...] da marca na Glamour e na Vogue",
-   "editorial_note": "[Corrigido 2026-10-26: colchetes editoriais separados do conteúdo literal.] Publicado pela Agência Pública como “...te bonifico um branded content [conteúdo patrocinado, ou, em bom português, matéria paga] da marca na Glamour e na Vogue [Brasil], mas desatrelados do Baile [da Vogue]”; os colchetes são inserções do veículo: “[Brasil]” foi removido do campo literal e os demais esclarecimentos não são reproduzidos — o “[...]” marca o corte (o trecho final publicado permaneceu fora do registro).",
+   "content": "Para não te deixar na mão, te bonifico um branded content […] da marca na Glamour e na Vogue",
+   "editorial_note": "Colchetes e reticências constam da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — a fonte publica “branded content [conteúdo patrocinado…] da marca na Glamour e na Vogue [Brasil], mas desatrelados do Baile [da Vogue]” — os colchetes são inserções editoriais do veículo (glosa e identificações), removidas do literal; o […] marca corte do projeto no ponto da glosa; a frase publicada prossegue além do trecho registrado.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -918,7 +918,7 @@
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
    "content": "Estou no voo com Lauro, que vai conhecer sua sede nova antes de mim.",
-   "editorial_note": "[Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “Estou no voo com Lauro [Jardim], que vai conhecer sua sede nova antes de mim. Desnecessário dizer que estou com ciúmes.”; o “[Jardim]” é inserção do veículo (sobrenome), não constando do original, e foi removido do campo literal; a frase final publicada permaneceu fora do registro (trecho).",
+   "editorial_note": "Colchete consta da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Jardim]” é identificação de sobrenome (Lauro Jardim) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1098,7 +1098,7 @@
    "sender_id": "frederic-kachar",
    "content_kind": "verbatim_excerpt",
    "content": "O Álvaro incluiu aspas suas nessa análise. Vamos falar amanhã?",
-   "editorial_note": "Duas horas depois. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “O Álvaro [Campos] incluiu aspas suas nessa análise. Vamos falar amanhã?”; o “[Campos]” é inserção do veículo (sobrenome), não constando do original, e foi removido do campo literal.",
+   "editorial_note": "Duas horas depois; colchete consta da transcrição da reportagem. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Campos]” é identificação de sobrenome (Álvaro Campos) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -1134,7 +1134,7 @@
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
    "content": "Não vale a pena pra mim falar. Vira (sic) o caso Malu. Tudo que eu falo usam contra mim.",
-   "editorial_note": "'(sic)' consta da transcrição. [Corrigido 2026-10-26: colchete editorial separado do conteúdo literal.] Publicado pela Agência Pública como “Vira (sic) o caso Malu [Gaspar]”; o “[Gaspar]” é inserção do veículo (sobrenome), não constando do original, e foi removido do campo literal. Referência ao episódio registrado em evento na conversa com Thiago Miranda.",
+   "editorial_note": "'(sic)' e colchete constam da transcrição; referência ao episódio registrado em evento na conversa com Thiago Miranda. [Corrigido 2026-10-27: colchete editorial confirmado na fonte e separado do literal — “[Gaspar]” é identificação de sobrenome (Malu Gaspar) inserida pelo veículo na transcrição publicada (Agência Pública, 15/10/2026); removida do literal; o “(sic)” consta da publicação e foi preservado.]",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",

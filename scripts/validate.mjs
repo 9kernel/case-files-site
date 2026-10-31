@@ -22,6 +22,8 @@
 //   E_UNKNOWN_PARTICIPANT     participants_ids cita id fora de participants.json
 //   E_DUP_PARTICIPANT         participants.json com ids duplicados
 //   E_INDEX_MISMATCH          threads.json x threads/*.json fora de sincronia
+//   E_INDEX_DATE_BAD/STALE    last_message_date malformada ou anterior à
+//                             última data conhecida da conversa
 //   E_MISSING_ID / E_BAD_ID / E_DUPLICATE_ID   ids de mensagem ausentes/inválidos/repetidos
 //   E_MISSING_SENDER          mensagem (não-evento) sem sender_id
 //   E_EVENT_SENDER            evento editorial com sender_id (evento não tem autor)
@@ -32,7 +34,9 @@
 //   E_TIME_PRECISION_MISMATCH precisão x time inconsistentes (ex.: precision=date
 //                             com hora inventada; precision=minute sem hora)
 //   E_TIMESTAMP_ORDER         ordem cronológica violada QUANDO determinável
-//                             (mesmo dia com hora ausente em qualquer lado não compara)
+//                             (mesmo dia com hora ausente em qualquer lado não
+//                             compara; registros sem data/mês NÃO interrompem
+//                             a cadeia — compara além deles)
 //   E_MISSING_SOURCE_REF      mensagem/evento sem source_ref
 //   E_MISSING_ADDED_IN        registro sem added_in
 //   E_BAD_CONTENT             content não é string (mensagem) / vazio (evento)
@@ -352,7 +356,12 @@ export function validateData(dataDir, rootDir) {
       const tCheck = checkTemporal(m, where, err);
       if (tCheck) {
         checkOrder(prevMsg, m, where, err);
-        prevMsg = m;
+        // prevMsg guarda o ÚLTIMO REGISTRO COMPARÁVEL (date/minute): registros
+        // sem data ou com precisão month/approximate NÃO interrompem a cadeia —
+        // uma inversão além deles continua detectável (fix 29/10/2026).
+        if (m.timestamp_precision === 'minute' || m.timestamp_precision === 'date') {
+          prevMsg = m;
+        }
       }
 
       // transcription_complete obrigatório em transcrição de áudio
@@ -509,7 +518,10 @@ export function validateData(dataDir, rootDir) {
           const tCheck = checkTemporal(ev, where, err);
           if (tCheck) {
             checkOrder(prevEvt, ev, where, err);
-            prevEvt = ev;
+            // mesma semântica das mensagens: só registros comparáveis viram referência
+            if (ev.timestamp_precision === 'minute' || ev.timestamp_precision === 'date') {
+              prevEvt = ev;
+            }
           }
           checkVerification(ev, where, err, { isMessage: false });
         }
@@ -541,6 +553,21 @@ export function validateData(dataDir, rootDir) {
         if (typeof entry.message_count === 'number' && entry.message_count !== count) {
           warn('E_COUNT_MISMATCH', 'data/threads.json',
             `Thread "${entry.id}": message_count=${entry.message_count}, mensagens=${count}.`);
+        }
+        // data do índice (fix 29/10/2026): deve ser a ÚLTIMA DATA CONHECIDA da
+        // conversa — anterior a ela é contradição mecânica com os dados
+        if (entry.last_message_date != null) {
+          const d = String(entry.last_message_date);
+          if (!/^\d{4}-\d{2}(-\d{2})?$/.test(d)) {
+            err('E_INDEX_DATE_BAD', 'data/threads.json',
+              `Thread "${entry.id}": last_message_date "${entry.last_message_date}" fora do formato YYYY-MM-DD (ou YYYY-MM p/ âncora de mês).`);
+          } else {
+            const anchor = lastKnownAnchor(t);
+            if (anchor && anchorProvablyNewer(anchor, d)) {
+              err('E_INDEX_DATE_STALE', 'data/threads.json',
+                `Thread "${entry.id}": last_message_date ${d} anterior à última data conhecida da conversa (${anchor}) — Regenere o índice.`);
+            }
+          }
         }
       }
     } catch {
@@ -595,10 +622,40 @@ function checkTemporal(m, where, err) {
   return true;
 }
 
+/** Último âncora temporal conhecido da conversa: data plena (date/minute)
+ *  vence dentro do próprio mês; âncora de mês posterior a toda data plena
+ *  vence (mês é menos preciso, nunca inventa dia). */
+function lastKnownAnchor(t) {
+  let bestDate = null;
+  let bestMonth = null;
+  for (const m of (t.messages || [])) {
+    const p = m.timestamp_precision;
+    const d = m.date;
+    if (typeof d !== 'string') continue;
+    if ((p === 'date' || p === 'minute') && (!bestDate || d > bestDate)) bestDate = d;
+    else if ((p === 'month' || p === 'approximate') && (!bestMonth || d > bestMonth)) bestMonth = d;
+  }
+  if (bestMonth && (!bestDate || bestMonth > bestDate.slice(0, 7))) return bestMonth;
+  return bestDate;
+}
+
+/** Âncora é COMPROVADAMENTE posterior à data do índice? Mesmo mês nunca é
+ *  comprovável quando qualquer lado tem precisão de mês (dia desconhecido). */
+function anchorProvablyNewer(anchor, idxDate) {
+  const aM = anchor.slice(0, 7);
+  const iM = String(idxDate).slice(0, 7);
+  if (aM > iM) return true;
+  if (aM < iM) return false;
+  return anchor.length === 10 && String(idxDate).length === 10 && anchor > idxDate;
+}
+
 /**
  * Ordem cronológica só é exigida quando determinável:
  * datas diferentes bastam; mesmo dia só compara se AMBOS têm hora.
- * Precisões month/approximate não participam da comparação.
+ * Precisões month/approximate e registros sem data não participam da
+ * comparação — mas também NÃO interrompem a cadeia: `prev` é sempre o último
+ * registro comparável (fix 29/10/2026), então uma inversão entre registros
+ * datados continua detectável mesmo com mensagens sem data entre eles.
  */
 function checkOrder(prev, cur, where, err) {
   if (!prev) return;
@@ -606,12 +663,12 @@ function checkOrder(prev, cur, where, err) {
   if (!ordered(prev) || !ordered(cur)) return;
   if (prev.date !== cur.date) {
     if (cur.date < prev.date) {
-      err('E_TIMESTAMP_ORDER', where, `date ${cur.date} anterior à do registro anterior (${prev.date}).`);
+      err('E_TIMESTAMP_ORDER', where, `date ${cur.date} (${cur.id}) anterior à do último registro datado anterior ${prev.date} (${prev.id}) — inversão detectável mesmo com registros sem data entre eles.`);
     }
     return;
   }
   if (prev.time != null && cur.time != null && cur.time < prev.time) {
-    err('E_TIMESTAMP_ORDER', where, `time ${cur.time} anterior ao do registro anterior no mesmo dia (${prev.time}).`);
+    err('E_TIMESTAMP_ORDER', where, `time ${cur.time} (${cur.id}) anterior ao do último registro datado anterior no mesmo dia (${prev.time}, ${prev.id}).`);
   }
 }
 

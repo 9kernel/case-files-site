@@ -48,14 +48,54 @@
    "added_in": "ingest-press4-20261016"
   },
   {
-   "id": "m-00002",
-   "date": "2024-09",
+   "id": "m-00023",
+   "date": "2024-04",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Esse Nikolas eu banquei todos os voos dele",
+   "editorial_note": "Reclamação sobre os posts de Nikolas Ferreira, situada pelo ICL Notícias (03/09/2026) em abril de 2024; a Folha (21/10/2026) retomou a divulgação. A declaração de Vorcaro não especifica quantos voos nem qual período — não comprova pagamentos individualmente. [Corrigido 2026-10-29: acrescentados fonte ICL e abril/2024 com precisão de mês — dia não divulgado; antes sem data.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Folha",
+      "date": "2026-10-21",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
+     },
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/nikolas-voos-vorcaro-mensagens-master/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
+   "added_in": "ingest-press8-20261023",
+   "timestamp_precision": "month"
+  },
+  {
+   "id": "m-00034",
+   "date": "2024-04",
    "time": null,
    "timestamp_precision": "month",
    "sender_id": "daniel-vorcaro",
    "content_kind": "verbatim_excerpt",
-   "content": "Qualquer coisa de Ciro, Arthur, Hugo não pode sair nada sem me falar",
-   "editorial_note": "Em setembro/2024, sobre publicações envolvendo Ciro Nogueira, Arthur Lira e Hugo Motta, segundo a reportagem.",
+   "content": "Vouch (sic) mandar soltsr isso",
+   "editorial_note": "Mensagem seguinte a “Esse Nikolas eu banquei todos os voos dele” (m-00023), sobre divulgar a informação; “(sic)” é marcação do veículo para a grafia original, preservada. Áinda assim não comprova pagamentos individualmente.",
    "verification": {
     "level": "public_investigation",
     "origin": "press report",
@@ -67,57 +107,21 @@
     "figure": null,
     "official_url": null,
     "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
    },
    "sources": {
     "primary": null,
     "secondary": [
      {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
      }
     ]
    },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
-  },
-  {
-   "id": "m-00003",
-   "date": "2024-09",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "flavio-carneiro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Vou colocar o Lira nessa lista agora",
-   "editorial_note": "Resposta na mesma sequência, segundo a reportagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "UOL (Renata Agostini e Tiago Dantas)",
-      "date": "2026-10-15",
-      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
-   "added_in": "ingest-press4-20261016"
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
   },
   {
    "id": "m-00024",
@@ -223,6 +227,160 @@
    "added_in": "ingest-press9-20261026",
    "date": "2024-09-02",
    "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00028",
+   "date": "2024-09-04",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "So pra avisar. Nenhum de nossos veiculos pode falar NADA contra Hugo motta. Estao tentando plantar coisas contra. Segure isso",
+   "editorial_note": "A reportagem descreve sequência de quatro mensagens; a transcrição publicada é reproduzida como um bloco. Orientação editorial sobre cobertura — não comprova que Motta tenha solicitado proteção.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00027",
+   "date": "2024-09-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Porra cara. Tira isso do ar agora",
+   "editorial_note": "Sobre publicação envolvendo Arthur Lira, antes da orientação registrada em m-00002; pedido de retirada não comprova retirada efetivamente realizada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00002",
+   "date": "2024-09-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Qq coisa de ciro arthur hugo nao pode sair nada sem me flaar",
+   "editorial_note": "Sobre publicações envolvendo Ciro Nogueira, Arthur Lira e Hugo Motta, na sequência do pedido de retirada de publicação sobre Lira (m-00027). [Corrigido 2026-10-29: texto atualizado para a transcrição do Estadão (23/10), que preserva a grafia original (“Qq”, “flaar”) e a data individual 20/09/2024; a versão anterior registrava a transcrição normalizada do UOL (“Qualquer coisa de Ciro, Arthur, Hugo não pode sair nada sem me falar”) com precisão de mês — grafia original não é normalizável; fontes UOL e Estadão unificadas.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     },
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
+  },
+  {
+   "id": "m-00003",
+   "date": "2024-09-20",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ok. Vou colocar o Lira nessa lista agora. Realmente nao tava",
+   "editorial_note": "Resposta na mesma sequência de 20/09/2024. [Corrigido 2026-10-29: transcrição completada conforme o Estadão (23/10) — a versão anterior (UOL) omitia “Ok.” e “Realmente nao tava”; data individual 20/09/2024.]",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "UOL (Renata Agostini e Tiago Dantas)",
+      "date": "2026-10-15",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2026/10/15/brazil-journal-istoe-como-vorcaro-montou-rede-de-influencia-em-sites.htm"
+     },
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
+   "added_in": "ingest-press4-20261016"
   },
   {
    "id": "m-00004",
@@ -540,6 +698,42 @@
    "added_in": "ingest-bm-piaui-20261006"
   },
   {
+   "id": "m-00029",
+   "date": "2024-12",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Foda hein. Cara nem ta na operacao. Metropoles ta foda",
+   "editorial_note": "Dezembro/2024, após operação da PF, comentando matéria do Metrópoles sobre pessoa que não constava da operação (Hugo Motta, conforme o contexto da apuração).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00013",
    "date": "2025-02-27",
    "time": null,
@@ -754,6 +948,150 @@
    "added_in": "ingest-press4-20261016"
   },
   {
+   "id": "m-00030",
+   "date": "2025-05-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Ou resolce isso agora em todos. Ou ta cancelado todo projeto. Isso passou dos linutes",
+   "editorial_note": "Sobre vídeo envolvendo Ciro Nogueira; grafia original preservada (“resolce”, “linutes”).",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00031",
+   "date": "2025-05-14",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Nao da pra bancar agenda propria de caras contra o cara que é um irmao. Unica resistencia fiel que tenho",
+   "editorial_note": "Na mesma sequência sobre o vídeo envolvendo Ciro Nogueira; “o cara que é um irmao” refere-se a Ciro Nogueira conforme o contexto da reportagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00032",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Preciso que faca algumas materias falando bem do hugo. Cara ta apanhando demais e injustamente",
+   "editorial_note": "Pedido de cobertura favorável a Hugo Motta; pedidos não comprovam matérias efetivamente publicadas a pedido.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
+   "id": "m-00033",
+   "date": "2025-07-17",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "flavio-carneiro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou fazer uma agenda positiva ja !!!",
+   "editorial_note": "Resposta na mesma sequência; a reportagem cita também fala sobre ter “muita pauta boa pra fazer”.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada pelo Estadão (2026-10-23)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00019",
    "date": "2025-08",
    "time": null,
@@ -894,40 +1232,6 @@
    },
    "source_ref": "Mensagem divulgada por UOL (Renata Agostini e Tiago Dantas) (2026-10-15)",
    "added_in": "ingest-press4-20261016"
-  },
-  {
-   "id": "m-00023",
-   "date": null,
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Esse Nikolas eu banquei todos os voos dele",
-   "editorial_note": "Reclamação sobre os posts de Nikolas Ferreira em troca com Carneiro noticiada pela Folha (21/10/2026), em reportagem que retoma divulgação anterior da coluna ICL; a reportagem não informa a data da mensagem.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-23",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Folha",
-      "date": "2026-10-21",
-      "url": "https://www1.folha.uol.com.br/poder/2026/10/vorcaro-disse-a-assessora-que-se-dava-muito-bem-com-nikolas-e-pediu-que-ela-falasse-com-marcal-apos-post.shtml"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Folha (2026-10-21)",
-   "added_in": "ingest-press8-20261023"
   }
  ],
  "timeline_events": [
@@ -1093,6 +1397,37 @@
    },
    "source_ref": "Relato de ICL Notícias (2026-10-24)",
    "added_in": "ingest-press9-20261026"
+  },
+  {
+   "id": "e-00006",
+   "event_kind": "editorial_context",
+   "content": "Manifestações (Estadão, 23/10/2026): Arthur Lira, por assessoria, negou proximidade com Vorcaro, afirmou nunca ter trocado mensagens ou ligações com ele e nunca ter feito pedidos, e disse não poder responder por diálogos de terceiros; Hugo Motta e Ciro Nogueira, procurados, não se manifestaram. As mensagens trocadas entre Carneiro e Vorcaro não comprovam que os parlamentares tenham solicitado proteção editorial.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "PF — mensagens do celular de Vorcaro reportadas pela apuração do Estadão (23/10/2026, reproduzida pelo Infoverus) e pelo UOL (15/10/2026); procedimento individual não nomeado pelas reportagens"
+   },
+   "source_ref": "Estadão (reproduzido pelo Infoverus) (2026-10-23)",
+   "added_in": "ingest-press11-20261029",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Estadão (reproduzido pelo Infoverus)",
+      "date": "2026-10-23",
+      "url": "https://www.infoverus.com.br/politica/daniel-vorcaro-exigiu-que-sites-controlados-por-ele-poupassem-hugo-motta-lira-e-ciro-nogueira-sai-nada-sem-me-falar/37199"
+     }
+    ]
+   }
   }
  ]
 }

@@ -313,265 +313,6 @@
    "added_in": "ingest-pf2-20261007"
   },
   {
-   "id": "m-00008",
-   "date": "2025-08-19",
-   "sender_id": "paulo-henrique",
-   "content_kind": "verbatim_excerpt",
-   "content": "Tem uma orientação do PT Nacional de obstruir a votação",
-   "editorial_note": "Sobre a votação, na CLDF, do projeto relativo à compra do Master pelo BRB, no dia 19/08/2025, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "press report",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
-      "date": "2026-10-09",
-      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00009",
-   "date": "2025-08-19",
-   "sender_id": "paulo-henrique",
-   "content_kind": "verbatim_excerpt",
-   "content": "O presidente Lula apoia ou não a operação?",
-   "editorial_note": "Pergunta do então presidente do BRB sobre o apoio presidencial à compra do Master, na sequência sobre a votação na CLDF. [Correção 19/10/2026: a pergunta é atribuída a Paulo Henrique tanto pela Metrópoles (fonte original do registro) quanto pela Veja (18/10/2026) — a versão anterior deste registro a atribuía a Vorcaro.] [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "press report",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-19"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
-      "date": "2026-10-09",
-      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
-     },
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00010",
-   "date": "2025-08-19",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Vou acionar a turma",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "press report",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
-      "date": "2026-10-09",
-      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00011",
-   "date": "2025-08-19",
-   "sender_id": "paulo-henrique",
-   "content_kind": "verbatim_excerpt",
-   "content": "Essa é a maior disputa aqui",
-   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "press report",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
-      "date": "2026-10-09",
-      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00012",
-   "date": "2025-08-19",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Edinho avisado, disse que vai atuar",
-   "editorial_note": "Afirmação de Vorcaro a Paulo Henrique; a assessoria de Edinho Silva (presidente do PT) nega conhecimento do diálogo — ver evento. A existência de contato direto não está confirmada por outra fonte. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
-   "verification": {
-    "level": "secondary_source",
-    "origin": "press report",
-    "authority": null,
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-16"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
-      "date": "2026-10-09",
-      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
-   "added_in": "audit-fix-20261016",
-   "time": null,
-   "timestamp_precision": "date"
-  },
-  {
-   "id": "m-00060",
-   "date": "2025-08",
-   "time": null,
-   "timestamp_precision": "month",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Melhor via ele e não expor o presidente",
-   "editorial_note": "Resposta de Vorcaro na sequência da pergunta de Paulo Henrique sobre o apoio presidencial à operação, recomendando o encaminhamento por \"Edinho\"; a Veja sugere tratar-se \"provavelmente\" de Edinho Silva, presidente do PT — identificação não definitiva, e a assessoria de Edinho Silva nega conhecimento do diálogo (ver e-00004). A Veja grafava \"[Lula]\" entre colchetes como esclarecimento editorial, aqui removido do literal.",
-   "verification": {
-    "level": "public_investigation",
-    "origin": "press report",
-    "authority": "Polícia Federal",
-    "court": null,
-    "case": null,
-    "document": null,
-    "page": null,
-    "figure": null,
-    "official_url": null,
-    "primary_document_located": false,
-    "verified_at": "2026-10-19",
-    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
-   },
-   "sources": {
-    "primary": null,
-    "secondary": [
-     {
-      "publication": "Veja",
-      "date": "2026-10-18",
-      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
-     }
-    ]
-   },
-   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
-   "added_in": "audit-20261019"
-  },
-  {
-   "id": "m-00013",
-   "date": "2025-11-12",
-   "timestamp_precision": "date",
-   "sender_id": "daniel-vorcaro",
-   "content_kind": "verbatim_excerpt",
-   "content": "Sim",
-   "editorial_note": "Resposta de Vorcaro após o envio de reportagem sobre devolução de carteiras de crédito consignado pelo BRB e imagem de visualização única (fl. 77).",
-   "source": {
-    "document_id": "pf-ipja-1252786-2026",
-    "page": 77,
-    "figure": 78
-   },
-   "verification": {
-    "level": "official_document",
-    "origin": "PF extraction",
-    "authority": "Polícia Federal",
-    "court": "STF",
-    "case": "INQ 5026",
-    "document": "IPJ-A nº 1252786/2026",
-    "page": 77,
-    "figure": 78,
-    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
-    "primary_document_located": true,
-    "verified_at": "2026-10-07"
-   },
-   "sources": {
-    "primary": {
-     "type": "official_document",
-     "document_id": "pf-ipja-1252786-2026",
-     "authority": "Polícia Federal",
-     "court": "STF",
-     "case": "INQ 5026",
-     "document": "IPJ-A nº 1252786/2026",
-     "page": 77,
-     "figure": 78,
-     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
-    },
-    "secondary": []
-   },
-   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 77 · fig. 78",
-   "added_in": "ingest-pf2-20261007"
-  },
-  {
    "id": "m-00014",
    "date": null,
    "sender_id": "paulo-henrique",
@@ -2186,6 +1927,265 @@
    },
    "source_ref": "Mensagem divulgada por UOL — coluna Natália Portinari (2026-10-22)",
    "added_in": "ingest-press8-20261023"
+  },
+  {
+   "id": "m-00008",
+   "date": "2025-08-19",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Tem uma orientação do PT Nacional de obstruir a votação",
+   "editorial_note": "Sobre a votação, na CLDF, do projeto relativo à compra do Master pelo BRB, no dia 19/08/2025, segundo a reportagem. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00009",
+   "date": "2025-08-19",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "O presidente Lula apoia ou não a operação?",
+   "editorial_note": "Pergunta do então presidente do BRB sobre o apoio presidencial à compra do Master, na sequência sobre a votação na CLDF. [Correção 19/10/2026: a pergunta é atribuída a Paulo Henrique tanto pela Metrópoles (fonte original do registro) quanto pela Veja (18/10/2026) — a versão anterior deste registro a atribuía a Vorcaro.] [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     },
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00010",
+   "date": "2025-08-19",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Vou acionar a turma",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00011",
+   "date": "2025-08-19",
+   "sender_id": "paulo-henrique",
+   "content_kind": "verbatim_excerpt",
+   "content": "Essa é a maior disputa aqui",
+   "editorial_note": "Citação literal conforme transcrita pela reportagem indicada nas fontes. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00012",
+   "date": "2025-08-19",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Edinho avisado, disse que vai atuar",
+   "editorial_note": "Afirmação de Vorcaro a Paulo Henrique; a assessoria de Edinho Silva (presidente do PT) nega conhecimento do diálogo — ver evento. A existência de contato direto não está confirmada por outra fonte. [Proveniência revisada 2026-10: reportagem sem procedimento público identificável — nível secondary_source.]",
+   "verification": {
+    "level": "secondary_source",
+    "origin": "press report",
+    "authority": null,
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-16"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Metrópoles (Gabriella Furquim; apuração do Fatos On-line)",
+      "date": "2026-10-09",
+      "url": "https://www.metropoles.com/brasil/vorcaro-disse-ter-acionado-presidente-do-pt-para-viabilizar-compra-do-master-diz-site"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Metrópoles (Gabriella Furquim; apuração do Fatos On-line) (2026-10-09)",
+   "added_in": "audit-fix-20261016",
+   "time": null,
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "m-00060",
+   "date": "2025-08",
+   "time": null,
+   "timestamp_precision": "month",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Melhor via ele e não expor o presidente",
+   "editorial_note": "Resposta de Vorcaro na sequência da pergunta de Paulo Henrique sobre o apoio presidencial à operação, recomendando o encaminhamento por \"Edinho\"; a Veja sugere tratar-se \"provavelmente\" de Edinho Silva, presidente do PT — identificação não definitiva, e a assessoria de Edinho Silva nega conhecimento do diálogo (ver e-00004). A Veja grafava \"[Lula]\" entre colchetes como esclarecimento editorial, aqui removido do literal.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-19",
+    "proceeding": "Operação Compliance Zero — PF/STF (material do celular de Vorcaro, reportado pela imprensa)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "Veja",
+      "date": "2026-10-18",
+      "url": "https://veja.abril.com.br/brasil/em-audio-apos-venda-do-master-advogado-diz-que-vorcaro-tinha-apoio-do-presidente-e-do-pt/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por Veja (2026-10-18)",
+   "added_in": "audit-20261019"
+  },
+  {
+   "id": "m-00013",
+   "date": "2025-11-12",
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Sim",
+   "editorial_note": "Resposta de Vorcaro após o envio de reportagem sobre devolução de carteiras de crédito consignado pelo BRB e imagem de visualização única (fl. 77).",
+   "source": {
+    "document_id": "pf-ipja-1252786-2026",
+    "page": 77,
+    "figure": 78
+   },
+   "verification": {
+    "level": "official_document",
+    "origin": "PF extraction",
+    "authority": "Polícia Federal",
+    "court": "STF",
+    "case": "INQ 5026",
+    "document": "IPJ-A nº 1252786/2026",
+    "page": 77,
+    "figure": 78,
+    "official_url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347",
+    "primary_document_located": true,
+    "verified_at": "2026-10-07"
+   },
+   "sources": {
+    "primary": {
+     "type": "official_document",
+     "document_id": "pf-ipja-1252786-2026",
+     "authority": "Polícia Federal",
+     "court": "STF",
+     "case": "INQ 5026",
+     "document": "IPJ-A nº 1252786/2026",
+     "page": 77,
+     "figure": 78,
+     "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=7473347"
+    },
+    "secondary": []
+   },
+   "source_ref": "PF · IPJ-A nº 1252786/2026 · fl. 77 · fig. 78",
+   "added_in": "ingest-pf2-20261007"
   }
  ],
  "timeline_events": [

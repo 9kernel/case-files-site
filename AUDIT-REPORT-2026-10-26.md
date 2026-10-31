@@ -125,3 +125,23 @@ Não publicados: contatos do motorista; dados bancários/CNPJ/contas (DuBem, pro
 ---
 
 **PRINCÍPIO CENTRAL OBSERVADO:** nenhuma mensagem foi apresentada como literal sem correspondência verificável com a fonte publicada; nenhuma alegação foi apresentada como fato comprovado sem evidência suficiente. Nenhuma alteração no remoto; commit/push pendentes de autorização expressa.
+
+---
+
+## Nota histórica (acrescentada em 27/10/2026 — sem reescrever resultados)
+
+Este relatório descreve **exclusivamente a execução local de 26/10/2026**, cujo HEAD auditado e
+final foi `b860897596dafad139366f4a12d4a00ce474c989` — este **não é mais o HEAD remoto atual**.
+Linhagem posterior, verificada em 27/10/2026:
+
+- `b860897` — HEAD auditado nesta execução (auditoria local 17–19/10 + correções do lote press8);
+- `3aef62e` — commit de **incorporação** da rodada de imprensa 24–26/10 (Pública, UOL, ICL, Folha,
+  BBC) e das correções críticas, que também tornou este relatório público no `origin/main`;
+- `e6546a9` — **merge posterior** que integrou a auditoria local 17–19/10 (`8957b45`) com as
+  rodadas de imprensa 22–26/10 (`4265d3c`), resolvendo colisões de IDs e consolidando nove
+  duplicações no thread de Walfrido Warde.
+
+Os totais declarados acima (65 conversas · 959 mensagens · 221 eventos · 1.180 registros)
+correspondem ao estado de `b860897` naquele momento e foram superados pelas rodadas seguintes —
+os valores correntes estão em `README.md` e em `PUBLIC-PROVENANCE-AUDIT.md`. Nenhum resultado de
+teste desta execução foi alterado por esta nota.

@@ -192,6 +192,42 @@
    "added_in": "ingest-imprensa-20261011"
   },
   {
+   "id": "m-00009",
+   "date": "2025-03-13",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "cezinha-de-madureira",
+   "content_kind": "verbatim_excerpt",
+   "content": "Amanhã sexta-feira 14 às 17:00",
+   "editorial_note": "Confirmação adicional do dia e do horário do encontro de 14/03/2025 com o ministro André Mendonça; grafia original preservada (“14” = 14/03). O ICL situa-a em sequência diversa da transcrita pelo CartaCapital (que registra “Estarei lá para te receber” ao final) — mesma data, ordenação entre veículos não determinável. Endereço já registrado em m-00002; dados de localização não republicados.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-29",
+    "proceeding": "Material do celular de Vorcaro veiculado pela newsletter Noites Húngaras (Paulo Motoryn) e reproduzido pelo ICL Notícias (03/09/2026, atualizada em 28/10/2026); origem da extração não especificada na reportagem"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "ICL Notícias",
+      "date": "2026-09-03",
+      "url": "https://iclnoticias.com.br/vaza-mendonca-mensagens-e-audios-ineditos/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por ICL Notícias (2026-09-03)",
+   "added_in": "ingest-press11-20261029"
+  },
+  {
    "id": "m-00006",
    "date": "2025-03-14",
    "time": "16:37",

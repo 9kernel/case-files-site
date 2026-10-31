@@ -82,7 +82,13 @@ function recentCount(threadId) {
 
 function itemHtml(entry, pmap, activeId, searchCtx) {
   const count = entry.message_count ?? 0;
+  // data exibida = ÚLTIMA DATA CONHECIDA da conversa (pode ser âncora de mês,
+  // mm/yyyy) — não necessariamente a data da mensagem do preview, que pode
+  // não ter data divulgada
   const date = formatDateBR(entry.last_message_date);
+  const dateHtml = date
+    ? `<span class="chat-item-date" title="Última data conhecida da conversa${/^[01]\d\/\d{4}$/.test(date) ? ' (precisão de mês)' : ''}">${date}</span>`
+    : '';
   const preview = entry.last_message_preview || `${count} mensagem${count === 1 ? '' : 's'}`;
   // contato = primeiro participante que não é o dono da conversa (participants_ids[0])
   const pids = entry.participants_ids || [];
@@ -109,7 +115,7 @@ function itemHtml(entry, pmap, activeId, searchCtx) {
         </span>
         <span class="chat-item-bottom">
           <span class="chat-item-preview">${previewHtml}</span>
-          <span class="chat-item-date">${date}</span>${badge}
+          ${dateHtml}${badge}
         </span>
       </span>
     </a>

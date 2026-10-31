@@ -1,0 +1,239 @@
+{
+ "id": "grupo-master-belline-paulo-sergio",
+ "title": "Grupo “Master” — Vorcaro, Belline e Paulo Sérgio",
+ "participants_ids": [
+  "daniel-vorcaro",
+  "belline-santana",
+  "paulo-sergio"
+ ],
+ "source": {
+  "document": "BBC News Brasil (Luiz Fernando Toledo), 11/09/2026 (republicada pelo Estado de Minas) e CNN Brasil, 11/09/2026 — grupo de WhatsApp “Master” criado em 02/10/2025 por Belline Santana (então chefe do Desup/BC) com Daniel Vorcaro e Paulo Sérgio Neves de Souza (chefe-adjunto), conforme representação da PF ao STF (27/02/2026) tornada pública em setembro/2026.",
+  "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html",
+  "pages": "Mensagens conforme transcrições publicadas; a chamada de voz de 27/10/2025 e as conversas de 13/10/2025 não têm transcrição literal publicada e figuram como eventos editoriais. Horários não divulgados. As conclusões da PF sobre favorecimento e pagamentos permanecem como alegações investigativas, com as manifestações das defesas registradas em evento de contexto."
+ },
+ "messages": [
+  {
+   "id": "m-00001",
+   "date": "2025-10-02",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "belline-santana",
+   "content_kind": "verbatim_excerpt",
+   "content": "Boa tarde. Criei esse grupo, no intuito de facilitar nossa interlocução",
+   "editorial_note": "Mensagem de criação do grupo “Master” em 02/10/2025, atribuída pela BBC News Brasil a Belline Santana; participação de Vorcaro e Paulo Sérgio Neves de Souza confirmada pela BBC e pela CNN.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     },
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00002",
+   "date": "2025-10-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Segue minuta para avaliação",
+   "editorial_note": "Acompanhou o compartilhamento do arquivo “Ofício Banco Master ao Desup — atualização das ações”, conforme a BBC News Brasil.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     },
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027"
+  },
+  {
+   "id": "m-00003",
+   "date": "2025-10-27",
+   "time": null,
+   "timestamp_precision": "date",
+   "sender_id": "daniel-vorcaro",
+   "content_kind": "verbatim_excerpt",
+   "content": "Por favor, vejam se atende",
+   "editorial_note": "Pedido posterior no mesmo dia, após chamada de voz de Belline (sem transcrição publicada — ver evento) e o envio de nova versão da minuta, conforme a BBC News Brasil.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     },
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "source_ref": "Mensagem divulgada por BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027"
+  }
+ ],
+ "timeline_events": [
+  {
+   "id": "e-00001",
+   "event_kind": "editorial_context",
+   "content": "A PF descreve o grupo como canal de Vorcaro para pedir orientação a chefes da supervisão bancária e sustenta que Belline e Paulo Sérgio atuavam como “empregados” do banqueiro em troca de vantagens (contrato de consultoria, viagens, imóvel rural) — alegações investigativas, não fatos comprovados. Defesa de Belline nega “desvio de finalidade ou obtenção de vantagem indevida”; defesa de Paulo Sérgio afirma que ele atuou na identificação das irregularidades apuradas; BC, BRB e Reag não se manifestaram.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "source_ref": "BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     }
+    ]
+   },
+   "editorial_note": "Manifestações das defesas conforme a reportagem da BBC News Brasil."
+  },
+  {
+   "id": "e-00002",
+   "event_kind": "editorial_context",
+   "content": "Em conversas de 13/10/2025 no grupo, Vorcaro cogitou que a Desup retirasse restrições do BRB à compra de carteiras de consignado; Paulo Sérgio avaliou como decisão difícil (competência da Procuradoria-Geral do BC) e sugeriu a elaboração de ofício alegando que o recebimento das carteiras estaria em poder do BRB — relato da CNN Brasil sem transcrição literal publicada.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "source_ref": "CNN Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "CNN Brasil",
+      "date": "2026-09-11",
+      "url": "https://www.cnnbrasil.com.br/politica/pf-vorcaro-participava-de-grupo-no-whatsapp-com-servidores-do-bc/"
+     }
+    ]
+   },
+   "date": "2025-10-13",
+   "timestamp_precision": "date"
+  },
+  {
+   "id": "e-00003",
+   "event_kind": "editorial_context",
+   "content": "Entre o envio da minuta e a versão atualizada, Belline fez uma chamada de voz no grupo; a BBC News Brasil publica a imagem do registro da chamada, sem transcrição — chamada sem transcrição não é registrada como mensagem.",
+   "verification": {
+    "level": "public_investigation",
+    "origin": "press report",
+    "authority": "Polícia Federal",
+    "court": null,
+    "case": null,
+    "document": null,
+    "page": null,
+    "figure": null,
+    "official_url": null,
+    "primary_document_located": false,
+    "verified_at": "2026-10-27",
+    "proceeding": "PF — representação ao STF assinada em 27/02/2026, tornado pública em setembro/2026 após levantamento de sigilo (decisão do Min. André Mendonça a pedido do presidente da corte, Min. Edson Fachin, conforme CNN Brasil); reportagens BBC News Brasil (Luiz Fernando Toledo, 11/09/2026) e CNN Brasil (11/09/2026); peça individual não localizada nesta rodada (pacote público «Arquivos Pet 16704» do STF inacessível a partir do ambiente de verificação de 27/10/2026)"
+   },
+   "source_ref": "BBC News Brasil (2026-09-11)",
+   "added_in": "ingest-press10-20261027",
+   "sources": {
+    "primary": null,
+    "secondary": [
+     {
+      "publication": "BBC News Brasil (republicada pelo Estado de Minas)",
+      "date": "2026-09-11",
+      "url": "https://www.em.com.br/politica/2026/09/amp/7498392-vorcaro-tinha-grupo-de-whatsapp-para-pedir-orientacao-a-chefes-de-supervisao-do-banco-central-diz-pf.html"
+     }
+    ]
+   },
+   "date": "2025-10-27",
+   "timestamp_precision": "date"
+  }
+ ]
+}
